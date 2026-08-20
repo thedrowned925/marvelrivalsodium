@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals comic runtime v6.7 — Pages loader */
+/* ODIUM Marvel Rivals comic runtime v6.7.2 — Pages loader */
 (async()=>{
   document.body.classList.add('rivals-theme');
   const style=document.createElement('style');
@@ -11,7 +11,7 @@
     .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
   `;
   document.head.appendChild(style);
-  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2']){
+  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1']){
     const css=document.createElement('link');css.rel='stylesheet';css.href=href;document.head.appendChild(css);
   }
   try{
@@ -20,5 +20,5 @@
     if(!response.ok) throw new Error('Runtime fetch failed: '+response.status);
     (0,eval)(await response.text());
   }catch(error){console.error('[ODIUM] Marvel Rivals runtime could not load',error);}
-  const art=document.createElement('script');art.src='./art-v6.js?v=6.7.1';art.defer=true;document.head.appendChild(art);
+  const art=document.createElement('script');art.src='./art-v6.js?v=6.7.2';art.defer=true;document.head.appendChild(art);
 })();
