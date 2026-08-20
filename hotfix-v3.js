@@ -1,78 +1,16 @@
-/* ODIUM Tracker V3 runtime hotfix */
-(() => {
-  const RAW_MAIN = 'https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/';
-  const q = s => document.querySelector(s);
-  const fmt = new Intl.NumberFormat('tr-TR');
-
-  function installV3UI(){
-    if(!document.querySelector('link[data-odium-ui-v3]')){
-      const link=document.createElement('link');link.rel='stylesheet';link.href='ui-v3.css?v=3.3';link.dataset.odiumUiV3='1';document.head.appendChild(link);
-    }
-    if(!q('.ui-v3-badge')) document.body.insertAdjacentHTML('beforeend','<div class="ui-v3-badge">ODIUM TRACKER · UI V3.3</div>');
-
-    const existingDigest=q('.hero-digest');
-    if(existingDigest) existingDigest.classList.add('hero-digest-v3');
-
-    const update=q('.update-line');
-    if(update && !q('.hero-digest-v3')){
-      update.insertAdjacentHTML('afterend',`<div class="hero-digest-v3"><article><small>VERİ REVİZYONU</small><strong id="v3Revision" class="cyan">—</strong><span>Canlı dataset kimliği</span></article><article><small>AKTİF KARAKTER</small><strong id="v3Active">—</strong><span>İlerlemesi başlayan karakter</span></article><article><small>KALİTE HAVUZU</small><strong id="v3Quality">—</strong><span>Kontrol + oyuna eklenen</span></article></div>`);
-    }
-    refreshDigest();
-  }
-
-  function setText(selector,value){const el=q(selector);if(el)el.textContent=value}
-  function refreshDigest(){
-    if(typeof state==='undefined' || !state?.data) return;
-    const d=state.data,s=d.stats||{};
-    const active=(d.characters||[]).filter(c=>Number(c.progress||0)>0).length;
-    const revision=String(d.dataRevision||'—').slice(0,8).toUpperCase();
-    const quality=fmt.format(Number(s.checked||0)+Number(s.added||0));
-    setText('#v3Revision',revision);setText('#digestRevision',revision);
-    setText('#v3Active',fmt.format(active));setText('#digestActiveChars',fmt.format(active));
-    setText('#v3Quality',quality);setText('#digestQuality',quality);
-  }
-
-  async function fetchJSONNoCache(url){
-    const res=await fetch(`${url}${url.includes('?')?'&':'?'}v=${Date.now()}`,{cache:'no-store'});
-    if(!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
-    return res.json();
-  }
-
-  detailData = async function(c){
-    if(state.cache?.has(c.name)) return state.cache.get(c.name);
-    const path=c.detailPath || `data/characters/${slug(c.name)}.json`;
-    const candidates=[`${RAW_MAIN}${path}`,`./${path}`];
-    let lastError;
-    for(let round=0;round<3;round++){
-      for(const url of candidates){
-        try{
-          const data=await fetchJSONNoCache(url);
-          if(!data || !Array.isArray(data.rows)) throw new Error('Invalid detail payload');
-          state.cache?.set(c.name,data);
-          return data;
-        }catch(err){lastError=err}
-      }
-      if(round<2) await new Promise(r=>setTimeout(r,700*(round+1)));
-    }
-    throw lastError || new Error('Character detail unavailable');
-  };
-
-  openDetail = async function(name){
-    const c=state.data?.characters?.find(x=>x.name===name),m=q('#characterModal');if(!c||!m)return;
-    state.detail={c,d:null,q:'',st:'all',page:1,size:25};
-    q('#modalContent').innerHTML=`<div class="vault loading"><span class="modal-kicker">// CHARACTER DATA VAULT</span><h3>${esc(c.name)}</h3><p>${fmt.format(c.total)} satırlık canlı Excel verisi yükleniyor…</p><div class="skeleton"><i></i><i></i><i></i><i></i></div></div>`;
-    if(!m.open)m.showModal();document.body.classList.add('modal-open');
-    try{state.detail.d=await detailData(c);detail();}
-    catch(err){
-      console.error('ODIUM detail load failed',err);
-      q('#modalContent').innerHTML=`<div class="vault error"><span class="modal-kicker">// DETAIL LOAD ERROR</span><h3>${esc(c.name)}</h3><p>Satır verisi şu anda yüklenemedi. Aşağıdaki düğme GitHub ana veri kaynağını yeniden kontrol eder.</p><section class="vault-stats">${tile('TOPLAM',c.total,'Excel satırı')}${tile('BEKLEYEN',c.waiting)}${tile('KAYIT',c.recorded)}${tile('KONTROL',c.checked)}${tile('OYUNDA',c.added)}</section><div style="margin-top:22px"><button class="btn primary" id="v3Retry"><span>Tekrar Yükle</span><b>↻</b></button></div><p style="margin-top:16px;opacity:.55;font-size:9px">Dosya: ${esc(c.detailPath||`data/characters/${slug(c.name)}.json`)}</p></div>`;
-      q('#v3Retry')?.addEventListener('click',()=>openDetail(c.name));
-    }
-  };
-
-  const oldRender=typeof render==='function'?render:null;
-  if(oldRender){render=function(...args){const out=oldRender(...args);setTimeout(()=>{installV3UI();refreshDigest()},0);return out}}
-
-  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',installV3UI,{once:true}); else installV3UI();
-  setTimeout(refreshDigest,1000);
+/* ODIUM Marvel Rivals comic runtime v5 */
+(()=>{
+const V='5.0',LOGO="data:image/webp;base64,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",F={"Adam Warlock":"Hero Card Adam Warlock","Angela":"Angela Hero Card","Black Cat":"Hero Card Black Cat","Black Panther":"Hero Card Black Panther","Black Widow":"Hero Card Black Widow","Blade":"Blade Hero Card","Hulk":"Hulk Hero Card","Capt. America":"Hero Card Captain America","Cloak":"Hero Card Cloak & Dagger","Dagger":"Hero Card Cloak & Dagger","Cyclops":"Hero Card Cyclops","Dare Devil":"Daredevil Hero Card","Deadpool":"Hero Card Deadpool","Devil Dinosaur":"Hero Card Devil Dinosaur","Dr.Strange":"Hero Card Doctor Strange","Elsa Bloodstone":"Hero Card Elsa Bloodstone","Emma Frost":"Hero Card Emma Frost","Gambit":"Gambit Hero Card","Groot":"Hero Card Groot","Hawkeye":"Hero Card Hawkeye","Hela":"Hela Prestige Artwork","Human Torch":"Hero Card Human Torch","Invisible Woman":"Hero Card Invisible Woman","Iron Fist":"Prestigeironfist","Iron Man":"Iron man prestige","Jeff":"Hero Card Jeff","Loki":"Hero Card Loki","Luna Snow":"Hero Card Luna Snow","Magik":"Magik marvel rivals prestige art","Magneto":"Magneto prestige","Mantis":"Hero Card Mantis","Mr.Fantastic":"Hero Card Mister Fantastic","Moon Knight":"Moonknight prestige","Namor":"Namor prestige","Peni Parker":"Peni Parker Prestige Artwork","Phoenix":"Phoenix prestige","Psylocke":"Hero Card Psylocke","Rocket Raccoon":"Hero Card Rocket Raccoon","Rogue":"Rogue Hero Card","Scarlet Witch":"Hero Card Scarlet Witch","Spider-Man":"Hero Card Spider-Man","Squirrel Girl":"Prestige squirellgirl","Star Lord":"Hero Card Star-Lord","Storm":"Hero Card Storm","The Punisher":"Punisher prestige","The Thing":"The Thing Prestige art","Thor":"Hero Card Thor","Ultron":"Hero Card Ultron","Venom":"Hero Card Venom","White Fox":"Hero Card White Fox","Winter Soldier":"Winter soldier prestige","Wolverine":"Hero Card Wolverine","Galacta":"Galacta"},O={"Capt. America":"captain-america","Dr.Strange":"doctor-strange","Mr.Fantastic":"mister-fantastic","Dare Devil":"daredevil","Jeff":"jeff-the-land-shark","Star Lord":"star-lord","Cloak":"cloak-and-dagger","Dagger":"cloak-and-dagger"},C=new Map();
+const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
+const slug=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const canon=n=>({'Capt. America':'Captain America','Dr.Strange':'Doctor Strange','Mr.Fantastic':'Mister Fantastic','Dare Devil':'Daredevil','Jeff':'Jeff the Land Shark','Star Lord':'Star-Lord','Cloak':'Cloak & Dagger','Dagger':'Cloak & Dagger'}[n]||n);
+const fan=(b,e='png')=>`https://marvelrivals.fandom.com/wiki/Special:Redirect/file/${encodeURIComponent(b+'.'+e)}`;
+function sources(n){let c=canon(n),b=F[n]||F[c],a=[];if(b)a.push(fan(b),fan(b,'jpg'));else a.push(fan('Hero Card '+c),fan(c+' Hero Card'));let os=O[n]||O[c]||slug(c);a.push(`https://marvelrivals.net/static/heroes/official/${os}.png`,`./assets/characters/${slug(n)}.webp`);return [...new Set(a)]}
+function load(img,n,done){let a=sources(n),i=0,next=()=>{if(i>=a.length){img.remove();done&&done(null,true);return}let u=a[i++];img.onload=()=>{C.set(n,u);img.dataset.source=u.includes('fandom.com')?'fandom':u.includes('marvelrivals.net')?'official':'local';done&&done(u,img.dataset.source!=='fandom')};img.onerror=next;img.src=u};let u=C.get(n);if(u){img.onload=()=>done&&done(u,!u.includes('fandom.com'));img.onerror=next;img.src=u}else next()}
+function brand(){let m=$('.brand-mark');if(m){m.textContent='';m.style.backgroundImage=`url("${LOGO}")`}let c=$('.brand-copy');if(c)c.innerHTML='<b>ODIUM TAKİP SİTESİ</b><small>STUDIOS // MARVEL RIVALS TRACKER</small>';let f=$('.footer-mark');if(f)f.textContent='ODIUM // RIVALS'}
+function card(el){if(!el||el.dataset.rivalsDecorated===V)return;el.dataset.rivalsDecorated=V;let n=el.dataset.name||$('.char-name',el)?.textContent?.trim();if(!n)return;el.classList.toggle('art-cloak',n==='Cloak');el.classList.toggle('art-dagger',n==='Dagger');let im=document.createElement('img');im.className='mr-hero-art';im.alt='';im.loading='lazy';im.decoding='async';el.prepend(im);load(im,n,(_,fb)=>el.dataset.artState=fb?'fallback':'fandom')}
+function cards(){$$('#characterGrid .char-card').forEach(card)}
+function vault(){let root=$('#modalContent'),h=$('.vault-head',root);if(!h||$('.mr-vault-art',h))return;let n=$('.vault-head h3',root)?.textContent?.trim()||$('.vault>h3',root)?.textContent?.trim();if(!n)return;let im=document.createElement('img');im.className='mr-vault-art';im.alt='';im.decoding='async';h.appendChild(im);load(im,n)}
+function boot(){document.body.classList.add('rivals-theme');brand();if(!$('.mr-page-accent')){let a=document.createElement('i');a.className='mr-page-accent';a.style.cssText='position:fixed;left:0;top:0;width:8px;height:100vh;background:linear-gradient(#ffd82e 0 28%,#ff4cac 28% 60%,#59edff 60%);z-index:120;pointer-events:none;box-shadow:0 0 22px #59edff44';document.body.appendChild(a)}cards();vault();let g=$('#characterGrid'),m=$('#modalContent');if(g)new MutationObserver(()=>requestAnimationFrame(cards)).observe(g,{childList:true});if(m)new MutationObserver(()=>requestAnimationFrame(vault)).observe(m,{childList:true,subtree:true});setTimeout(cards,300);setTimeout(cards,1100)}
+document.readyState==='loading'?document.addEventListener('DOMContentLoaded',boot,{once:true}):boot();
 })();
