@@ -1,84 +1,24 @@
-/* ODIUM Marvel Rivals — exact Fandom card layout v12 */
-body.rivals-theme .char-card{
-  overflow:hidden!important;
-  isolation:isolate!important;
-  background:#0a0d19!important;
-}
-body.rivals-theme .char-card .mr-hero-art-base,
-body.rivals-theme .char-card .mr-hero-art-hover{
-  position:absolute!important;
-  left:0!important;
-  top:0!important;
-  width:100%!important;
-  height:72%!important;
-  object-fit:contain!important;
-  object-position:var(--art-focus,50% 2%)!important;
-  pointer-events:none!important;
-  user-select:none!important;
-  -webkit-user-drag:none!important;
-  transition:opacity .25s ease,filter .3s ease,transform .32s cubic-bezier(.2,.8,.2,1)!important;
-}
-body.rivals-theme .char-card .mr-hero-art-base{
-  z-index:1!important;
-  opacity:.54!important;
-  filter:grayscale(.38) saturate(.42) brightness(.69) contrast(1.04)!important;
-  transform:scale(.985)!important;
-}
-body.rivals-theme .char-card .mr-hero-art-hover{
-  z-index:2!important;
-  opacity:0!important;
-  filter:saturate(1.12) brightness(1.02) contrast(1.04) drop-shadow(0 18px 22px #0008)!important;
-  transform:scale(.98)!important;
-}
-body.rivals-theme .char-card:hover .mr-hero-art-base,
-body.rivals-theme .char-card:focus-visible .mr-hero-art-base{opacity:.08!important;transform:scale(1.01)!important}
-body.rivals-theme .char-card:hover .mr-hero-art-hover,
-body.rivals-theme .char-card:focus-visible .mr-hero-art-hover{opacity:1!important;transform:scale(1.035)!important}
-body.rivals-theme .char-card:before{
-  z-index:4!important;
-  background:
-    linear-gradient(to top,#090b18 0 26%,#090b18fa 30%,#090b18d7 37%,#090b186d 47%,transparent 62%),
-    radial-gradient(circle,#ffffff15 0 1px,transparent 1.5px) 0 0/11px 11px!important;
-}
+/* ODIUM Marvel Rivals — exact Fandom card layout v12.1 */
+body.rivals-theme .char-card{overflow:hidden!important;isolation:isolate!important;background:#0a0d19!important}
+body.rivals-theme .char-card .mr-hero-art-base,body.rivals-theme .char-card .mr-hero-art-hover{position:absolute!important;left:0!important;top:0!important;width:100%!important;height:78%!important;object-fit:contain!important;object-position:var(--art-focus,50% 2%)!important;clip-path:none!important;-webkit-clip-path:none!important;pointer-events:none!important;user-select:none!important;-webkit-user-drag:none!important;transition:opacity .25s ease,filter .3s ease,transform .32s cubic-bezier(.2,.8,.2,1)!important}
+body.rivals-theme .char-card .mr-hero-art-base{z-index:1!important;opacity:.54!important;filter:grayscale(.38) saturate(.42) brightness(.69) contrast(1.04)!important;transform:scale(.985)!important}
+body.rivals-theme .char-card .mr-hero-art-hover{z-index:2!important;opacity:0!important;filter:saturate(1.12) brightness(1.02) contrast(1.04) drop-shadow(0 18px 22px #0008)!important;transform:scale(.985)!important}
+body.rivals-theme .char-card:hover .mr-hero-art-base,body.rivals-theme .char-card:focus-visible .mr-hero-art-base{opacity:.06!important;transform:scale(1.005)!important}
+body.rivals-theme .char-card:hover .mr-hero-art-hover,body.rivals-theme .char-card:focus-visible .mr-hero-art-hover{opacity:1!important;transform:scale(1.02)!important}
+body.rivals-theme .char-card:before{z-index:4!important;background:linear-gradient(to top,#090b18 0 24%,#090b18fd 29%,#090b18e8 35%,#090b1880 43%,transparent 58%),radial-gradient(circle,#ffffff15 0 1px,transparent 1.5px) 0 0/11px 11px!important}
 body.rivals-theme .char-card:after{z-index:5!important}
-body.rivals-theme .char-card>.mr-card-ui,
-body.rivals-theme .char-card .char-head,
-body.rivals-theme .char-card .voice-credit,
-body.rivals-theme .char-card .status-badge,
-body.rivals-theme .char-card .open-detail{position:relative!important;z-index:20!important}
-body.rivals-theme .mr-card-ui{
-  left:0!important;
-  right:0!important;
-  bottom:0!important;
-  padding:0 14px 14px!important;
-  overflow:visible!important;
-}
-body.rivals-theme .char-head{
-  background:linear-gradient(100deg,#18224bf6,#11162ff6)!important;
-  border-top:1px solid #ffffff18!important;
-  box-shadow:0 -10px 22px #0008,inset 0 0 0 1px #ffffff10!important;
-}
-body.rivals-theme .char-name{
-  position:relative!important;
-  z-index:24!important;
-  text-shadow:3px 4px 0 #0b0d1a,0 0 12px #000!important;
-}
-body.rivals-theme .voice-credit{
-  z-index:25!important;
-  max-width:min(100%,260px)!important;
-}
-body.rivals-theme .char-mini,
-body.rivals-theme .char-meta,
-body.rivals-theme .char-progress-row,
-body.rivals-theme .char-bar{position:relative!important;z-index:22!important}
-body.rivals-theme .char-card:hover .char-head,
-body.rivals-theme .char-card:focus-visible .char-head{background:linear-gradient(100deg,#1b2654fa,#11162ffa)!important}
-@container (max-width:330px){
-  body.rivals-theme .char-card .mr-hero-art-base,
-  body.rivals-theme .char-card .mr-hero-art-hover{height:69%!important}
-  body.rivals-theme .mr-card-ui{padding-inline:10px!important}
-}
-@media(pointer:coarse){
-  body.rivals-theme .char-card .mr-hero-art-base{opacity:.72!important;filter:grayscale(.18) saturate(.7) brightness(.76)!important}
-  body.rivals-theme .char-card .mr-hero-art-hover{display:none!important}
-}
+body.rivals-theme .char-card>.mr-card-ui{position:absolute!important;z-index:20!important;left:14px!important;right:14px!important;bottom:14px!important;display:flex!important;flex-direction:column!important;gap:8px!important;pointer-events:none!important;overflow:visible!important}
+body.rivals-theme .mr-card-ui>.char-meta,body.rivals-theme .mr-card-ui>.char-mini{display:none!important;max-height:0!important;opacity:0!important}
+body.rivals-theme .mr-card-ui>.char-progress-row,body.rivals-theme .mr-card-ui>.char-bar,body.rivals-theme .mr-card-ui>.char-head{position:static!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;margin:0!important;transform:none!important}
+body.rivals-theme .char-progress-row{z-index:22!important;min-height:42px!important}
+body.rivals-theme .char-progress-row>span{display:none!important}
+body.rivals-theme .char-progress-row strong{margin-left:auto!important;position:static!important;z-index:22!important}
+body.rivals-theme .char-bar{z-index:22!important}
+body.rivals-theme .char-head{position:static!important;z-index:23!important;background:linear-gradient(100deg,#18224bf6,#11162ff9)!important;border-top:1px solid #ffffff18!important;box-shadow:0 -10px 22px #0008,inset 0 0 0 1px #ffffff10!important;padding:11px 12px!important}
+body.rivals-theme .char-name{position:relative!important;z-index:24!important;text-shadow:3px 4px 0 #0b0d1a,0 0 12px #000!important}
+body.rivals-theme .voice-credit{position:relative!important;z-index:25!important;max-width:min(100%,260px)!important}
+body.rivals-theme .status-badge,body.rivals-theme .open-detail{position:relative!important;z-index:25!important}
+body.rivals-theme .char-card:hover .char-head,body.rivals-theme .char-card:focus-visible .char-head{background:linear-gradient(100deg,#1b2654fc,#11162ffc)!important}
+body.rivals-theme .char-card:hover,body.rivals-theme .char-card:focus-visible{overflow:hidden!important}
+@container (max-width:330px){body.rivals-theme .char-card .mr-hero-art-base,body.rivals-theme .char-card .mr-hero-art-hover{height:75%!important}body.rivals-theme .char-card>.mr-card-ui{left:10px!important;right:10px!important;bottom:10px!important}}
+@media(pointer:coarse){body.rivals-theme .char-card .mr-hero-art-base{opacity:.72!important;filter:grayscale(.18) saturate(.7) brightness(.76)!important}body.rivals-theme .char-card .mr-hero-art-hover{display:none!important}}
