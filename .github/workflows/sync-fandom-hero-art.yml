@@ -1,5 +1,6 @@
 name: Sync Fandom hero art
 
+# v1 — Fandom hero-card cache for the public tracker
 on:
   workflow_dispatch:
   schedule:
