@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals comic runtime v8.0 — Pages loader */
+/* ODIUM Marvel Rivals comic runtime v8.1 — Pages loader */
 (async()=>{
   document.body.classList.add('rivals-theme');
   const style=document.createElement('style');
@@ -11,7 +11,7 @@
     .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
   `;
   document.head.appendChild(style);
-  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./hero-v8.css?v=8.0.1']){
+  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./hero-v8.css?v=8.1.1']){
     const css=document.createElement('link');css.rel='stylesheet';css.href=href;document.head.appendChild(css);
   }
   try{
