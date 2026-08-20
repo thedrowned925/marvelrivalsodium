@@ -23,30 +23,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
-
+          cache: pip
       - name: Install parser dependencies
         run: pip install openpyxl==3.1.5 requests==2.32.5
-
-      - name: Download workbook and build JSON
+      - name: Download workbook and build all JSON
         run: >-
           python scripts/sync_data.py
           --url "https://drive.google.com/uc?export=download&id=1POde_zwZb4P6pmAYn37towgVX9qTGDR8"
           --output data/data.json
-
+          --details-dir data/characters
       - name: Commit changed tracker data
         run: |
-          if git diff --quiet -- data/data.json; then
+          if git diff --quiet -- data/data.json data/characters; then
             echo "No data change."
             exit 0
           fi
           git config user.name "odium-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- data/data.json
+          git add -- data/data.json data/characters
           git commit -m "data: sync Marvel Rivals tracker [skip ci]"
           git push
