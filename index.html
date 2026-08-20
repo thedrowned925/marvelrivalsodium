@@ -12,7 +12,7 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="details.css" />
-  <link rel="stylesheet" href="ui-v3.css?v=3.2" />
+  <link rel="stylesheet" href="ui-v3.css?v=6.6.2" />
 </head>
 <body>
   <canvas id="cosmos" aria-hidden="true"></canvas>
@@ -42,81 +42,23 @@
     <section class="hero shell" id="overview">
       <div class="hero-copy reveal">
         <div class="eyebrow"><span>MARVEL RIVALS</span><i></i><span>TÜRKÇE DUBLAJ</span></div>
-        <h1>
-          <span class="outline">SESİNİ</span>
-          <span class="solid">EVRENE YAY.</span>
-        </h1>
+        <h1><span class="outline">SESİNİ</span><span class="solid">EVRENE YAY.</span></h1>
         <p class="hero-lead">ODIUM Studios Marvel Rivals Türkçe dublaj projesinin tamamını tek ekranda izleyin. Her karakterin kaç repliği kaldığını, hangi satırların kayıt/kontrol aşamasında olduğunu ve karaktere tıkladığınızda Excel’deki her repliğin tüm teknik verilerini görüntüleyin.</p>
-        <div class="hero-actions">
-          <a class="btn primary" href="#characters"><span>Karakterleri İncele</span><b>↘</b></a>
-          <a class="btn ghost" href="https://github.com/thedrowned925/marvelrivalsodium" target="_blank" rel="noreferrer"><span>GitHub</span><b>↗</b></a>
-        </div>
-        <div class="update-line">
-          <span class="pulse-ring"></span>
-          <span id="sourceUpdate">Kaynak bekleniyor…</span>
-        </div>
-        <div class="hero-digest" id="heroDigest">
-          <article class="digest-card glass"><small>VERİ REVİZYONU</small><strong id="digestRevision">—</strong><span>Canlı dataset kimliği</span></article>
-          <article class="digest-card glass"><small>AKTİF KARAKTER</small><strong id="digestActiveChars">0</strong><span>Şu anda ilerleyen karakter</span></article>
-          <article class="digest-card glass"><small>KALİTE HAVUZU</small><strong id="digestQuality">0</strong><span>Kontrol + oyuna eklenen satır</span></article>
-        </div>
+        <div class="hero-actions"><a class="btn primary" href="#characters"><span>Karakterleri İncele</span><b>↘</b></a><a class="btn ghost" href="https://github.com/thedrowned925/marvelrivalsodium" target="_blank" rel="noreferrer"><span>GitHub</span><b>↗</b></a></div>
+        <div class="update-line"><span class="pulse-ring"></span><span id="sourceUpdate">Kaynak bekleniyor…</span></div>
+        <div class="hero-digest" id="heroDigest"><article class="digest-card glass"><small>VERİ REVİZYONU</small><strong id="digestRevision">—</strong><span>Canlı dataset kimliği</span></article><article class="digest-card glass"><small>AKTİF KARAKTER</small><strong id="digestActiveChars">0</strong><span>Şu anda ilerleyen karakter</span></article><article class="digest-card glass"><small>KALİTE HAVUZU</small><strong id="digestQuality">0</strong><span>Kontrol + oyuna eklenen satır</span></article></div>
       </div>
-
-      <div class="hero-visual reveal" data-delay="120">
-        <div class="portal-wrap tilt-card">
-          <div class="portal halo-3"></div><div class="portal halo-2"></div><div class="portal halo-1"></div>
-          <div class="progress-orbit" id="progressOrbit" style="--p:0"><div class="orbit-core"><span>GENEL İLERLEME</span><strong id="heroProgress">0%</strong><small id="heroWorked">0 / 0 satır</small></div></div>
-          <div class="orbit-label label-a">RECORD</div><div class="orbit-label label-b">REVIEW</div><div class="orbit-label label-c">IN-GAME</div>
-        </div>
-      </div>
+      <div class="hero-visual reveal" data-delay="120"><div class="portal-wrap tilt-card"><div class="portal halo-3"></div><div class="portal halo-2"></div><div class="portal halo-1"></div><div class="progress-orbit" id="progressOrbit" style="--p:0"><div class="orbit-core"><span>GENEL İLERLEME</span><strong id="heroProgress">0%</strong><small id="heroWorked">0 / 0 satır</small></div></div><div class="orbit-label label-a">RECORD</div><div class="orbit-label label-b">REVIEW</div><div class="orbit-label label-c">IN-GAME</div></div></div>
     </section>
-
     <section class="ticker" aria-label="Proje özeti"><div class="ticker-track" id="tickerTrack"><span>ODIUM // LIVE TRACKER</span><b>✦</b><span>MARVEL RIVALS TÜRKÇE DUBLAJ</span><b>✦</b><span>VERİLER YÜKLENİYOR</span><b>✦</b></div></section>
-
-    <section class="stats shell" aria-label="Genel istatistikler">
-      <article class="stat-card glass tilt-card reveal"><span class="stat-index">01</span><small>TOPLAM KARAKTER</small><strong data-stat="characters">0</strong><p>Excel’de ayrı çalışma sayfası bulunan ve takip sistemine dahil edilen karakter sayısı.</p></article>
-      <article class="stat-card glass tilt-card reveal" data-delay="60"><span class="stat-index">02</span><small>TOPLAM SATIR</small><strong data-stat="totalLines">0</strong><p>Tüm karakter sayfalarındaki gerçek replik satırlarının toplamı. Boş şablon satırları sayılmaz.</p></article>
-      <article class="stat-card glass tilt-card reveal" data-delay="120"><span class="stat-index">03</span><small>İŞLENEN SATIR</small><strong data-stat="worked">0</strong><p>“Kayıt Alındı”, “Kontrol Edildi” veya “Oyuna Eklendi” durumundaki satırların toplamı.</p></article>
-      <article class="stat-card glass tilt-card reveal" data-delay="180"><span class="stat-index">04</span><small>ATANAN SES</small><strong data-stat="assigned">0</strong><p>Karakter Bazlı sayfasında bir seslendirmen atanmış karakterlerin toplamı.</p></article>
-    </section>
-
-    <section class="guide shell" id="guide">
-      <div class="section-heading reveal"><div><span class="kicker">// TRACKER GUIDE</span><h2>BU PANELİ <em>NASIL OKURSUN?</em></h2></div><p>Yüzdelerin ne ifade ettiğini ve karakter detaylarında hangi verileri göreceğini kısa şekilde burada açıklıyoruz.</p></div>
-      <div class="guide-grid">
-        <article class="guide-card glass reveal"><span>01</span><h3>İşlenmiş ne demek?</h3><p>Bir replik “Kayıt Alındı”, “Kontrol Edildi” veya “Oyuna Eklendi” aşamalarından birine geçtiğinde işlenmiş kabul edilir. Bekleyen replikler genel ilerleme yüzdesine dahil edilmez.</p></article>
-        <article class="guide-card glass reveal" data-delay="70"><span>02</span><h3>Karakter yüzdesi nasıl hesaplanır?</h3><p><b>(Kayıt + Kontrol + Oyuna Eklendi) / Toplam replik × 100</b>. Böylece karakterin seslendirme üretiminde ne kadar ilerlediği tek bakışta görülür.</p></article>
-        <article class="guide-card glass reveal" data-delay="140"><span>03</span><h3>Karta basınca ne var?</h3><p>Karakterin tüm Excel sekmesi açılır: Sıra, WAV dosyası, WEM ID, Internal Name, İngilizce replik, Türkçe çeviri, durum, seslendiren, tarih ve not. Arama ve durum filtresiyle yüzlerce satır içinde gezebilirsin.</p></article>
-      </div>
-      <div class="formula-strip reveal"><span>GENEL İLERLEME FORMÜLÜ</span><b>(Kayıt Alındı + Kontrol Edildi + Oyuna Eklendi) ÷ Tüm Replikler</b><strong id="qualityCompletion">—</strong><small>Kontrol edilmiş + oyuna eklenmiş oranı</small></div>
-    </section>
-
-    <section class="pipeline shell" id="pipeline">
-      <div class="section-heading reveal"><div><span class="kicker">// PRODUCTION PIPELINE</span><h2>ÜRETİM <em>AKIŞI</em></h2></div><p>Her satır tek bir aşamada bulunur. Kartlar Excel kaynağındaki güncel durum dağılımını gösterir.</p></div>
-      <div class="pipeline-grid">
-        <article class="pipe-card waiting reveal"><div class="pipe-top"><span>01</span><b>BEKLİYOR</b><strong data-stat="waiting">0</strong></div><div class="bar"><i data-bar="waiting"></i></div><p>Henüz kayıt aşamasına alınmamış satırlar · <b data-pct="waiting">%0</b></p></article>
-        <article class="pipe-card recorded reveal" data-delay="70"><div class="pipe-top"><span>02</span><b>KAYIT ALINDI</b><strong data-stat="recorded">0</strong></div><div class="bar"><i data-bar="recorded"></i></div><p>Ses kaydı tamamlanmış, kontrolde bekleyen satırlar · <b data-pct="recorded">%0</b></p></article>
-        <article class="pipe-card checked reveal" data-delay="140"><div class="pipe-top"><span>03</span><b>KONTROL EDİLDİ</b><strong data-stat="checked">0</strong></div><div class="bar"><i data-bar="checked"></i></div><p>Kalite kontrolünden geçmiş hazır sesler · <b data-pct="checked">%0</b></p></article>
-        <article class="pipe-card added reveal" data-delay="210"><div class="pipe-top"><span>04</span><b>OYUNA EKLENDİ</b><strong data-stat="added">0</strong></div><div class="bar"><i data-bar="added"></i></div><p>Final pakete entegre edilmiş tamamlanmış satırlar · <b data-pct="added">%0</b></p></article>
-      </div>
-    </section>
-
-    <section class="characters shell" id="characters">
-      <div class="section-heading reveal"><div><span class="kicker">// ROSTER STATUS</span><h2>KARAKTER <em>TAKİBİ</em></h2></div><p>Her kart önce karakter özetini gösterir. Bir karaktere tıkladığında o karakterin Excel sayfasındaki tüm replikler ve tüm teknik sütunlar açılır. İsme veya seslendirmen adına göre ara; duruma göre filtrele ve ilerlemeye göre sırala.</p></div>
-      <div class="controls glass reveal">
-        <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Karakter veya seslendirmen ara…" autocomplete="off" /></label>
-        <div class="filter-tabs" id="filterTabs" role="group" aria-label="Durum filtresi"><button class="active" data-filter="all">Tümü</button><button data-filter="Devam Ediyor">Devam Ediyor</button><button data-filter="Baslamadi">Başlamadı</button><button data-filter="Tamamlandi">Tamamlandı</button></div>
-        <select id="sortSelect" aria-label="Sıralama"><option value="progress-desc">İlerleme ↓</option><option value="progress-asc">İlerleme ↑</option><option value="total-desc">Satır sayısı ↓</option><option value="name-asc">İsim A–Z</option></select>
-      </div>
-      <div class="results-meta"><span id="resultCount">0 karakter</span><span class="legend"><i></i> Canlı Excel verisi</span></div>
-      <div class="character-grid" id="characterGrid" aria-live="polite"></div><div class="empty-state" id="emptyState" hidden>Bu filtrelerle eşleşen karakter bulunamadı.</div>
-    </section>
+    <section class="stats shell" aria-label="Genel istatistikler"><article class="stat-card glass tilt-card reveal"><span class="stat-index">01</span><small>TOPLAM KARAKTER</small><strong data-stat="characters">0</strong><p>Excel’de ayrı çalışma sayfası bulunan ve takip sistemine dahil edilen karakter sayısı.</p></article><article class="stat-card glass tilt-card reveal" data-delay="60"><span class="stat-index">02</span><small>TOPLAM SATIR</small><strong data-stat="totalLines">0</strong><p>Tüm karakter sayfalarındaki gerçek replik satırlarının toplamı. Boş şablon satırları sayılmaz.</p></article><article class="stat-card glass tilt-card reveal" data-delay="120"><span class="stat-index">03</span><small>İŞLENEN SATIR</small><strong data-stat="worked">0</strong><p>“Kayıt Alındı”, “Kontrol Edildi” veya “Oyuna Eklendi” durumundaki satırların toplamı.</p></article><article class="stat-card glass tilt-card reveal" data-delay="180"><span class="stat-index">04</span><small>ATANAN SES</small><strong data-stat="assigned">0</strong><p>Karakter Bazlı sayfasında bir seslendirmen atanmış karakterlerin toplamı.</p></article></section>
+    <section class="guide shell" id="guide"><div class="section-heading reveal"><div><span class="kicker">// TRACKER GUIDE</span><h2>BU PANELİ <em>NASIL OKURSUN?</em></h2></div><p>Yüzdelerin ne ifade ettiğini ve karakter detaylarında hangi verileri göreceğini kısa şekilde burada açıklıyoruz.</p></div><div class="guide-grid"><article class="guide-card glass reveal"><span>01</span><h3>İşlenmiş ne demek?</h3><p>Bir replik “Kayıt Alındı”, “Kontrol Edildi” veya “Oyuna Eklendi” aşamalarından birine geçtiğinde işlenmiş kabul edilir. Bekleyen replikler genel ilerleme yüzdesine dahil edilmez.</p></article><article class="guide-card glass reveal" data-delay="70"><span>02</span><h3>Karakter yüzdesi nasıl hesaplanır?</h3><p><b>(Kayıt + Kontrol + Oyuna Eklendi) / Toplam replik × 100</b>. Böylece karakterin seslendirme üretiminde ne kadar ilerlediği tek bakışta görülür.</p></article><article class="guide-card glass reveal" data-delay="140"><span>03</span><h3>Karta basınca ne var?</h3><p>Karakterin tüm Excel sekmesi açılır: Sıra, WAV dosyası, WEM ID, Internal Name, İngilizce replik, Türkçe çeviri, durum, seslendiren, tarih ve not. Arama ve durum filtresiyle yüzlerce satır içinde gezebilirsin.</p></article></div><div class="formula-strip reveal"><span>GENEL İLERLEME FORMÜLÜ</span><b>(Kayıt Alındı + Kontrol Edildi + Oyuna Eklendi) ÷ Tüm Replikler</b><strong id="qualityCompletion">—</strong><small>Kontrol edilmiş + oyuna eklenmiş oranı</small></div></section>
+    <section class="pipeline shell" id="pipeline"><div class="section-heading reveal"><div><span class="kicker">// PRODUCTION PIPELINE</span><h2>ÜRETİM <em>AKIŞI</em></h2></div><p>Her satır tek bir aşamada bulunur. Kartlar Excel kaynağındaki güncel durum dağılımını gösterir.</p></div><div class="pipeline-grid"><article class="pipe-card waiting reveal"><div class="pipe-top"><span>01</span><b>BEKLİYOR</b><strong data-stat="waiting">0</strong></div><div class="bar"><i data-bar="waiting"></i></div><p>Henüz kayıt aşamasına alınmamış satırlar · <b data-pct="waiting">%0</b></p></article><article class="pipe-card recorded reveal" data-delay="70"><div class="pipe-top"><span>02</span><b>KAYIT ALINDI</b><strong data-stat="recorded">0</strong></div><div class="bar"><i data-bar="recorded"></i></div><p>Ses kaydı tamamlanmış, kontrolde bekleyen satırlar · <b data-pct="recorded">%0</b></p></article><article class="pipe-card checked reveal" data-delay="140"><div class="pipe-top"><span>03</span><b>KONTROL EDİLDİ</b><strong data-stat="checked">0</strong></div><div class="bar"><i data-bar="checked"></i></div><p>Kalite kontrolünden geçmiş hazır sesler · <b data-pct="checked">%0</b></p></article><article class="pipe-card added reveal" data-delay="210"><div class="pipe-top"><span>04</span><b>OYUNA EKLENDİ</b><strong data-stat="added">0</strong></div><div class="bar"><i data-bar="added"></i></div><p>Final pakete entegre edilmiş tamamlanmış satırlar · <b data-pct="added">%0</b></p></article></div></section>
+    <section class="characters shell" id="characters"><div class="section-heading reveal"><div><span class="kicker">// ROSTER STATUS</span><h2>KARAKTER <em>TAKİBİ</em></h2></div><p>Her kart önce karakter özetini gösterir. Bir karaktere tıkladığında o karakterin Excel sayfasındaki tüm replikler ve tüm teknik sütunlar açılır. İsme veya seslendirmen adına göre ara; duruma göre filtrele ve ilerlemeye göre sırala.</p></div><div class="controls glass reveal"><label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Karakter veya seslendirmen ara…" autocomplete="off" /></label><div class="filter-tabs" id="filterTabs" role="group" aria-label="Durum filtresi"><button class="active" data-filter="all">Tümü</button><button data-filter="Devam Ediyor">Devam Ediyor</button><button data-filter="Baslamadi">Başlamadı</button><button data-filter="Tamamlandi">Tamamlandı</button></div><select id="sortSelect" aria-label="Sıralama"><option value="progress-desc">İlerleme ↓</option><option value="progress-asc">İlerleme ↑</option><option value="total-desc">Satır sayısı ↓</option><option value="name-asc">İsim A–Z</option></select></div><div class="results-meta"><span id="resultCount">0 karakter</span><span class="legend"><i></i> Canlı Excel verisi</span></div><div class="character-grid" id="characterGrid" aria-live="polite"></div><div class="empty-state" id="emptyState" hidden>Bu filtrelerle eşleşen karakter bulunamadı.</div></section>
   </main>
-
   <footer class="footer shell"><div class="footer-mark">ODIUM</div><div><b>Marvel Rivals Türkçe Dublaj Projesi</b><span>Proje Yönetmenleri: Efe Karatepe · Hasan Çağın Yıldırım</span></div><div class="footer-right"><span>DATA SYNC</span><b id="footerSync">—</b></div></footer>
-
   <dialog class="character-modal" id="characterModal"><button class="modal-close" id="modalClose" aria-label="Kapat">×</button><div id="modalContent"></div></dialog>
-
   <script src="app.js" defer></script>
-  <script src="hotfix-v3.js?v=3.2" defer></script>
+  <script src="hotfix-v3.js?v=6.6.2" defer></script>
 </body>
 </html>
