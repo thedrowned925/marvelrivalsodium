@@ -1,0 +1,97 @@
+/* ODIUM Marvel Rivals — dual-state roster art + cast credits v9 */
+body.rivals-theme .char-card .mr-hero-art-base,
+body.rivals-theme .char-card .mr-hero-art-hover{
+  position:absolute!important;
+  inset:-3% -5% -2%!important;
+  width:110%!important;
+  height:106%!important;
+  object-fit:cover!important;
+  object-position:var(--hero-focal-x) 18%!important;
+  z-index:1!important;
+  pointer-events:none!important;
+  transition:opacity .32s ease,filter .38s ease,transform .42s cubic-bezier(.2,.8,.2,1)!important;
+}
+body.rivals-theme .char-card .mr-hero-art-base{
+  opacity:.64!important;
+  filter:saturate(.28) contrast(1.08) brightness(.72) sepia(.08)!important;
+  transform:scale(1.015)!important;
+}
+body.rivals-theme .char-card .mr-hero-art-hover{
+  opacity:0!important;
+  filter:saturate(1.2) contrast(1.08) brightness(1.02)!important;
+  transform:scale(1.07) translateY(1%)!important;
+}
+body.rivals-theme .char-card:hover .mr-hero-art-base,
+body.rivals-theme .char-card:focus-visible .mr-hero-art-base{
+  opacity:0!important;
+  transform:scale(1.05)!important;
+}
+body.rivals-theme .char-card:hover .mr-hero-art-hover,
+body.rivals-theme .char-card:focus-visible .mr-hero-art-hover{
+  opacity:1!important;
+  transform:scale(1.13) translateY(-1.5%)!important;
+}
+body.rivals-theme .char-card[data-hover-art="missing"]:hover .mr-hero-art-base,
+body.rivals-theme .char-card[data-hover-art="missing"]:focus-visible .mr-hero-art-base{
+  opacity:.98!important;
+  filter:saturate(1.12) contrast(1.08) brightness(.98)!important;
+  transform:scale(1.11) translateY(-1%)!important;
+}
+body.rivals-theme .char-card:before{z-index:2!important}
+body.rivals-theme .char-card>.mr-card-ui{z-index:12!important}
+
+body.rivals-theme .voice-credit{
+  display:inline-flex!important;
+  align-items:center!important;
+  gap:8px!important;
+  width:max-content!important;
+  max-width:100%!important;
+  margin-top:8px!important;
+  padding:7px 10px 7px 8px!important;
+  border-left:3px solid #59edff!important;
+  background:linear-gradient(90deg,#08121be8,#161126d9 62%,#ff4cac14)!important;
+  box-shadow:inset 0 0 0 1px #59edff2e,5px 5px 0 #0007!important;
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease!important;
+}
+body.rivals-theme .voice-credit-star{
+  display:grid!important;
+  place-items:center!important;
+  width:24px!important;
+  height:24px!important;
+  flex:0 0 24px!important;
+  background:#59edff!important;
+  color:#081019!important;
+  font:900 13px/1 sans-serif!important;
+  clip-path:polygon(50% 0,63% 35%,100% 50%,63% 65%,50% 100%,37% 65%,0 50%,37% 35%)!important;
+}
+body.rivals-theme .voice-credit>span:last-child{display:grid!important;gap:2px!important;min-width:0!important}
+body.rivals-theme .voice-credit small{
+  color:#59edff!important;
+  font:800 clamp(8px,2.4cqw,10px)/1 'Barlow Condensed',sans-serif!important;
+  letter-spacing:.16em!important;
+}
+body.rivals-theme .voice-credit strong{
+  color:#fff!important;
+  font:800 clamp(13px,4cqw,16px)/1 'Barlow Condensed',sans-serif!important;
+  letter-spacing:.015em!important;
+  white-space:normal!important;
+  text-wrap:balance!important;
+}
+body.rivals-theme .char-card:hover .voice-credit,
+body.rivals-theme .char-card:focus-visible .voice-credit{
+  transform:translateX(3px)!important;
+  border-left-color:#ffd82e!important;
+  box-shadow:inset 0 0 0 1px #ffd82e44,7px 7px 0 #ff4cac66!important;
+}
+body.rivals-theme .char-meta{grid-template-columns:1fr!important}
+body.rivals-theme .char-meta span:first-child{display:none!important}
+body.rivals-theme .char-meta span:last-child{text-align:left!important}
+
+@container (max-width:330px){
+  body.rivals-theme .voice-credit{padding:6px 8px!important;gap:6px!important}
+  body.rivals-theme .voice-credit-star{width:20px!important;height:20px!important;flex-basis:20px!important;font-size:11px!important}
+}
+@media(pointer:coarse){
+  body.rivals-theme .char-card .mr-hero-art-base{opacity:.78!important;filter:saturate(.6) contrast(1.06) brightness(.82)!important}
+  body.rivals-theme .char-card .mr-hero-art-hover{display:none!important}
+}
