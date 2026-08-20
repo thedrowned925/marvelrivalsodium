@@ -1,5 +1,16 @@
 /* ODIUM Marvel Rivals comic runtime v5 — Pages loader */
 (async()=>{
+  document.body.classList.add('rivals-theme');
+  const style=document.createElement('style');
+  style.textContent=`
+    .rivals-theme #cosmos{background:radial-gradient(circle at 73% 17%,#153c55 0,#10152e 28%,#090a13 56%,#05060b 100%)!important}
+    .rivals-theme .aurora-a{background:#59edff!important;opacity:.11!important;filter:blur(110px)!important}
+    .rivals-theme .aurora-b{background:#ff4cac!important;opacity:.12!important;filter:blur(105px)!important}
+    .rivals-theme .scanlines{opacity:.055!important;background:repeating-linear-gradient(0deg,#fff2 0 1px,transparent 1px 4px),radial-gradient(circle,#ffd82e22 0 1px,transparent 1.5px) 0 0/18px 18px!important}
+    .rivals-theme ::selection{background:#ffd82e;color:#0a0c13}
+    .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
+  `;
+  document.head.appendChild(style);
   try{
     const url='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/hotfix-v3.js?v=5.0&ts='+Date.now();
     const response=await fetch(url,{cache:'no-store'});
@@ -8,6 +19,5 @@
     (0,eval)(code);
   }catch(error){
     console.error('[ODIUM] Marvel Rivals runtime could not load',error);
-    document.body.classList.add('rivals-theme');
   }
 })();
