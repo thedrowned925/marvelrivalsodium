@@ -1,5 +1,6 @@
 name: Sync live tracker data
 
+# Generates both the lightweight summary and lazy per-character full datasets.
 on:
   schedule:
     - cron: '*/5 * * * *'
