@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals — face-safe roster artwork v11 */
+/* ODIUM Marvel Rivals — face-safe roster artwork v11.3 */
 body.rivals-theme .char-card{overflow:hidden!important;isolation:isolate!important;background:#0b0e1c!important}
 body.rivals-theme .char-card .mr-hero-art-base,
 body.rivals-theme .char-card .mr-hero-art-hover{position:absolute!important;pointer-events:none!important;user-select:none!important;-webkit-user-drag:none!important;transition:opacity .28s ease,filter .32s ease,transform .34s ease!important}
@@ -13,8 +13,19 @@ body.rivals-theme .char-card[data-hover-art="base-fallback"]:hover .mr-hero-art-
 body.rivals-theme .char-card[data-hover-art="base-fallback"]:focus-visible .mr-hero-art-hover{filter:saturate(1.08) contrast(1.04) brightness(.96) drop-shadow(0 16px 20px #0008)!important}
 body.rivals-theme .char-card:before{z-index:4!important;background:linear-gradient(to top,#05060dfd 0 19%,#060817e8 31%,#080a1595 49%,#080a1420 70%,transparent 83%),radial-gradient(circle,#ffffff18 0 1px,transparent 1.55px) 0 0/11px 11px!important}
 body.rivals-theme .char-card:after{z-index:6!important}
-body.rivals-theme .char-card>.mr-card-ui{z-index:12!important}
+body.rivals-theme .char-card>.mr-card-ui{z-index:50!important;opacity:1!important;visibility:visible!important}
 body.rivals-theme .char-card>.char-number{z-index:7!important}
+body.rivals-theme .char-card .char-head,
+body.rivals-theme .char-card .char-head>div,
+body.rivals-theme .char-card .char-name,
+body.rivals-theme .char-card .status-badge,
+body.rivals-theme .char-card .voice-credit,
+body.rivals-theme .char-card .open-detail,
+body.rivals-theme .char-card .char-progress-row,
+body.rivals-theme .char-card .char-bar{position:relative!important;z-index:60!important;opacity:1!important;visibility:visible!important}
+body.rivals-theme .char-card .char-name{display:block!important;color:#fff!important;text-shadow:3px 4px 0 #080a15,0 0 14px #000!important}
+body.rivals-theme .char-card:hover .char-name,
+body.rivals-theme .char-card:focus-visible .char-name{color:#fff!important;opacity:1!important;transform:none!important}
 body.rivals-theme .char-card:hover,body.rivals-theme .char-card:focus-visible{overflow:hidden!important}
 body.rivals-theme .voice-credit{display:inline-flex!important;align-items:center!important;gap:8px!important;width:max-content!important;max-width:100%!important;margin-top:8px!important;padding:7px 10px 7px 8px!important;border-left:3px solid #59edff!important;background:linear-gradient(90deg,#08121bf2,#161126e8 62%,#ff4cac18)!important;box-shadow:inset 0 0 0 1px #59edff35,5px 5px 0 #0007!important}
 body.rivals-theme .voice-credit-star{display:grid!important;place-items:center!important;width:24px!important;height:24px!important;flex:0 0 24px!important;background:#59edff!important;color:#081019!important;font:900 13px/1 sans-serif!important;clip-path:polygon(50% 0,63% 35%,100% 50%,63% 65%,50% 100%,37% 65%,0 50%,37% 35%)!important}
