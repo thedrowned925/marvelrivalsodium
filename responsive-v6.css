@@ -1,0 +1,58 @@
+/* ODIUM Marvel Rivals Tracker — responsive hero-card pass v6 */
+body.rivals-theme .char-card{container-type:inline-size;min-height:520px!important;aspect-ratio:.72!important;padding:0!important;overflow:hidden!important}
+body.rivals-theme .char-card:before{background:linear-gradient(to top,#05060dfd 0 23%,#070915ee 37%,#0a0b1425 66%),radial-gradient(circle,#ffffff20 0 1px,transparent 1.55px) 0 0/11px 11px!important}
+body.rivals-theme .mr-hero-art{inset:-2% -4% 0!important;width:108%!important;height:103%!important;object-position:var(--hero-focal-x) 16%!important}
+body.rivals-theme .char-head{position:absolute!important;z-index:8!important;left:20px!important;right:20px!important;bottom:22px!important;display:flex!important;align-items:flex-end!important;justify-content:space-between!important;gap:10px!important;min-width:0!important}
+body.rivals-theme .char-head>div{min-width:0!important;max-width:calc(100% - 92px)!important}
+body.rivals-theme .char-name{max-width:100%!important;font-size:clamp(27px,10.5cqw,38px)!important;line-height:.88!important;white-space:normal!important;overflow-wrap:normal!important;word-break:normal!important;text-wrap:balance!important}
+body.rivals-theme .status-badge{display:inline-flex!important;max-width:100%!important;margin-top:8px!important;padding:6px 9px!important;font-size:clamp(9px,3.2cqw,11px)!important;line-height:1!important;white-space:nowrap!important}
+body.rivals-theme .open-detail{position:absolute!important;right:0!important;bottom:1px!important;font-size:clamp(8px,2.8cqw,10px)!important;padding:6px 8px!important;white-space:nowrap!important}
+body.rivals-theme .char-progress-row{position:absolute!important;z-index:7!important;left:20px!important;right:20px!important;bottom:102px!important;margin:0!important;display:flex!important;align-items:flex-end!important;justify-content:space-between!important;gap:10px!important;min-width:0!important}
+body.rivals-theme .char-progress-row span{font:700 clamp(10px,3.5cqw,12px)/1.15 'Barlow Condensed',sans-serif!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;color:#c6c8d5!important}
+body.rivals-theme .char-progress-row strong{flex:0 0 auto!important;font-size:clamp(30px,11cqw,40px)!important;line-height:.8!important;letter-spacing:-.02em!important}
+body.rivals-theme .char-bar{position:absolute!important;z-index:7!important;left:20px!important;right:20px!important;bottom:84px!important;height:7px!important;margin:0!important;background:#ffffff1c!important;border-radius:999px!important;overflow:hidden!important}
+body.rivals-theme .char-mini{position:absolute!important;z-index:7!important;left:20px!important;right:20px!important;bottom:139px!important;display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:6px!important;margin:0!important;max-height:0!important;opacity:0!important;overflow:hidden!important;transform:translateY(10px)!important;transition:max-height .28s ease,opacity .22s ease,transform .28s ease!important}
+body.rivals-theme .char-mini span{min-width:0!important;height:64px!important;padding:8px 6px!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important;justify-content:space-between!important;background:#080a14e8!important;border:1px solid #ffffff14!important;font:800 clamp(8px,2.7cqw,10px)/1 'Barlow Condensed',sans-serif!important;white-space:nowrap!important;overflow:hidden!important}
+body.rivals-theme .char-mini b{display:block!important;width:100%!important;margin:0!important;font-size:clamp(20px,7.5cqw,28px)!important;line-height:.85!important;text-align:right!important;overflow:hidden!important;text-overflow:ellipsis!important}
+body.rivals-theme .char-meta{position:absolute!important;z-index:7!important;left:20px!important;right:20px!important;bottom:215px!important;display:grid!important;grid-template-columns:minmax(0,1fr) auto!important;gap:12px!important;align-items:center!important;max-height:0!important;opacity:0!important;overflow:hidden!important;transform:translateY(10px)!important;margin:0!important;padding:0!important;border:0!important;transition:max-height .28s ease,opacity .22s ease,transform .28s ease!important}
+body.rivals-theme .char-meta span{min-width:0!important;padding:11px 12px!important;background:#090b15e8!important;border:1px solid #ffffff16!important;font:800 clamp(9px,2.9cqw,11px)/1.15 'Barlow Condensed',sans-serif!important;color:#979bad!important;white-space:normal!important}
+body.rivals-theme .char-meta span:last-child{text-align:right!important;min-width:96px!important}
+body.rivals-theme .char-meta b{display:block!important;margin-top:4px!important;font-size:clamp(12px,4cqw,15px)!important;line-height:1.1!important;color:#fff!important;white-space:normal!important;overflow-wrap:anywhere!important}
+body.rivals-theme .char-card:hover .char-mini,body.rivals-theme .char-card:focus-visible .char-mini{max-height:70px!important;opacity:1!important;transform:none!important}
+body.rivals-theme .char-card:hover .char-meta,body.rivals-theme .char-card:focus-visible .char-meta{max-height:74px!important;opacity:1!important;transform:none!important;margin:0!important;padding:0!important;border:0!important}
+body.rivals-theme .char-card:hover,body.rivals-theme .char-card:focus-visible{transform:translateY(-12px) rotate(-.7deg) scale(1.045)!important}
+body.rivals-theme .char-number{top:10px!important;right:14px!important;font-size:clamp(48px,18cqw,72px)!important}
+
+@container (max-width:330px){
+ body.rivals-theme .char-head{left:14px!important;right:14px!important;bottom:16px!important}
+ body.rivals-theme .char-head>div{max-width:calc(100% - 72px)!important}
+ body.rivals-theme .char-progress-row{left:14px!important;right:14px!important;bottom:91px!important}
+ body.rivals-theme .char-bar{left:14px!important;right:14px!important;bottom:76px!important}
+ body.rivals-theme .char-mini{left:14px!important;right:14px!important;bottom:124px!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:5px!important}
+ body.rivals-theme .char-mini span{height:48px!important;padding:6px!important}
+ body.rivals-theme .char-meta{left:14px!important;right:14px!important;bottom:230px!important;grid-template-columns:1fr!important;gap:5px!important}
+ body.rivals-theme .char-meta span{padding:7px 9px!important}
+ body.rivals-theme .char-meta span:last-child{text-align:left!important;min-width:0!important}
+ body.rivals-theme .char-card:hover .char-mini,body.rivals-theme .char-card:focus-visible .char-mini{max-height:104px!important}
+ body.rivals-theme .char-card:hover .char-meta,body.rivals-theme .char-card:focus-visible .char-meta{max-height:110px!important}
+}
+
+@media(max-width:1320px){body.rivals-theme .character-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:20px!important}}
+@media(max-width:940px){
+ body.rivals-theme .character-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:16px!important}
+ body.rivals-theme .char-card{min-height:510px!important}
+ body.rivals-theme .controls{position:relative!important;top:auto!important;grid-template-columns:1fr!important;gap:10px!important}
+ body.rivals-theme .filter-tabs{display:grid!important;grid-template-columns:repeat(2,1fr)!important}
+}
+@media(max-width:590px){
+ body.rivals-theme .character-grid{grid-template-columns:1fr!important;gap:18px!important;max-width:440px!important;margin-inline:auto!important}
+ body.rivals-theme .char-card{min-height:560px!important;aspect-ratio:.76!important}
+ body.rivals-theme .char-mini,body.rivals-theme .char-meta{display:grid!important}
+ body.rivals-theme .char-card:hover,body.rivals-theme .char-card:focus-visible{transform:translateY(-6px) scale(1.015)!important}
+ body.rivals-theme .open-detail{display:block!important}
+}
+@media(pointer:coarse){
+ body.rivals-theme .char-card{min-height:570px!important}
+ body.rivals-theme .char-mini{max-height:70px!important;opacity:1!important;transform:none!important}
+ body.rivals-theme .char-meta{max-height:74px!important;opacity:1!important;transform:none!important}
+}
