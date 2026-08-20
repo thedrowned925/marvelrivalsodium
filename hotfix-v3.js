@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals comic runtime v9.0 — Pages loader */
+/* ODIUM Marvel Rivals comic runtime v9.1 — Pages loader */
 (async()=>{
   document.body.classList.add('rivals-theme');
   const style=document.createElement('style');
@@ -11,16 +11,16 @@
     .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
   `;
   document.head.appendChild(style);
-  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./card-hover-v9.css?v=9.0.1','./hero-v8.css?v=8.2.1']){
+  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./card-hover-v9.css?v=9.0.2','./hero-v8.css?v=8.2.2']){
     const css=document.createElement('link');css.rel='stylesheet';css.href=href;document.head.appendChild(css);
   }
   try{
     const url='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/hotfix-v3.js?v=5.0&ts='+Date.now();
     const response=await fetch(url,{cache:'no-store'});
-    if(!response.ok) throw new Error('Runtime fetch failed: '+response.status);
+    if(!response.ok)throw new Error('Runtime fetch failed: '+response.status);
     (0,eval)(await response.text());
   }catch(error){console.error('[ODIUM] Marvel Rivals runtime could not load',error);}
-  for(const src of ['./art-v6.js?v=6.7.2','./card-hover-v9.js?v=9.0.1','./hero-v8.js?v=8.3.1']){
-    const script=document.createElement('script');script.src=src;script.defer=true;document.head.appendChild(script);
+  for(const src of ['./art-v6.js?v=6.7.2','./card-hover-v9.js?v=9.1.1','./hero-v8.js?v=8.3.2']){
+    const script=document.createElement('script');script.src=src;script.async=false;document.head.appendChild(script);
   }
 })();
