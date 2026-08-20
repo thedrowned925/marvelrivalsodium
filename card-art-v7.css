@@ -1,0 +1,25 @@
+/* ODIUM Marvel Rivals — roster artwork layer fix v7 */
+body.rivals-theme .char-card{
+  background:#151936!important;
+}
+body.rivals-theme .char-card .mr-hero-art{
+  z-index:1!important;
+  display:block!important;
+  visibility:visible!important;
+  opacity:.96!important;
+}
+body.rivals-theme .char-card:before{
+  z-index:2!important;
+  pointer-events:none!important;
+  background:
+    linear-gradient(to top,#05060dfa 0 12%,#05060de8 24%,#070915b8 43%,#0a0b1424 69%,transparent 84%),
+    radial-gradient(circle,#ffffff1d 0 1px,transparent 1.55px) 0 0/11px 11px!important;
+}
+body.rivals-theme .char-card:after{z-index:6!important}
+body.rivals-theme .char-card>.mr-card-ui{z-index:12!important}
+body.rivals-theme .char-card>.char-number{z-index:7!important}
+body.rivals-theme .char-card[data-art-state="missing"]:before{
+  background:
+    linear-gradient(to top,#05060dfa,#11152ad9 58%,#282c3fa8),
+    radial-gradient(circle,#ffffff1d 0 1px,transparent 1.55px) 0 0/11px 11px!important;
+}
