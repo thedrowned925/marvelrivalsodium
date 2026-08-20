@@ -1,0 +1,25 @@
+/* ODIUM Marvel Rivals — stable info layering v11.4 */
+body.rivals-theme .char-card>.mr-card-ui{z-index:80!important}
+body.rivals-theme .char-card .char-head,
+body.rivals-theme .char-card .char-head>div,
+body.rivals-theme .char-card .char-name,
+body.rivals-theme .char-card .status-badge,
+body.rivals-theme .char-card .voice-credit,
+body.rivals-theme .char-card .open-detail,
+body.rivals-theme .char-card .char-progress-row,
+body.rivals-theme .char-card .char-bar,
+body.rivals-theme .char-card .char-mini,
+body.rivals-theme .char-card .char-meta{position:relative!important;z-index:90!important}
+body.rivals-theme .char-card .char-name{display:block!important;opacity:1!important;visibility:visible!important;color:#fff!important;text-shadow:3px 4px 0 #070914,0 0 16px #000!important}
+body.rivals-theme .char-card .char-meta{grid-template-columns:1fr!important}
+body.rivals-theme .char-card .char-meta span:first-child{display:none!important}
+body.rivals-theme .char-card .char-meta span:last-child{display:block!important;text-align:left!important;background:#070912f4!important}
+body.rivals-theme .char-card .char-mini{z-index:92!important}
+body.rivals-theme .char-card .char-mini span{background:#070912f6!important;border-color:#ffffff20!important}
+body.rivals-theme .char-card:hover .char-meta,body.rivals-theme .char-card:focus-visible .char-meta{max-height:58px!important;opacity:1!important}
+body.rivals-theme .char-card:hover .char-mini,body.rivals-theme .char-card:focus-visible .char-mini{max-height:76px!important;opacity:1!important}
+body.rivals-theme .char-card .voice-credit{z-index:96!important;max-width:100%!important;overflow:visible!important}
+body.rivals-theme .char-card .voice-credit strong{overflow:visible!important;text-overflow:clip!important}
+body.rivals-theme .char-card .mr-hero-art-base,body.rivals-theme .char-card .mr-hero-art-hover{z-index:1!important}
+body.rivals-theme .char-card:before{z-index:4!important}
+body.rivals-theme .char-card:after{z-index:6!important}
