@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals comic runtime v5 — Pages loader */
+/* ODIUM Marvel Rivals comic runtime v6 — Pages loader */
 (async()=>{
   document.body.classList.add('rivals-theme');
   const style=document.createElement('style');
@@ -11,6 +11,12 @@
     .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
   `;
   document.head.appendChild(style);
+
+  const css=document.createElement('link');
+  css.rel='stylesheet';
+  css.href='./responsive-v6.css?v=6.1';
+  document.head.appendChild(css);
+
   try{
     const url='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/hotfix-v3.js?v=5.0&ts='+Date.now();
     const response=await fetch(url,{cache:'no-store'});
@@ -20,4 +26,9 @@
   }catch(error){
     console.error('[ODIUM] Marvel Rivals runtime could not load',error);
   }
+
+  const art=document.createElement('script');
+  art.src='./art-v6.js?v=6.1';
+  art.defer=true;
+  document.head.appendChild(art);
 })();
