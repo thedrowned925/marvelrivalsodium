@@ -1,10 +1,9 @@
-name: Sync Fandom hero art
+name: Sync Marvel Rivals character art
 
-# v1 — Fandom hero-card cache for the public tracker
 on:
   workflow_dispatch:
   schedule:
-    - cron: '19 4 * * 1'
+    - cron: '*/10 * * * *'
   push:
     branches: [main]
     paths:
@@ -15,12 +14,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: marvel-rivals-fandom-art
-  cancel-in-progress: true
+  group: marvel-rivals-character-art
+  cancel-in-progress: false
 
 jobs:
   sync-art:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,16 +33,16 @@ jobs:
           cache: pip
       - name: Install image sync dependencies
         run: pip install requests==2.32.5 pillow==11.3.0
-      - name: Cache hero cards from Marvel Rivals Fandom
+      - name: Cache roster cards and detail artwork
         run: python scripts/sync_fandom_hero_art.py
-      - name: Commit updated Fandom art cache
+      - name: Commit character artwork
         run: |
           if git diff --quiet -- assets/characters; then
-            echo "No hero art change."
+            echo "No character art change."
             exit 0
           fi
           git config user.name "odium-art-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- assets/characters
-          git commit -m "assets: sync Marvel Rivals Fandom hero art [skip ci]"
+          git commit -m "assets: cache roster and detail character artwork [skip ci]"
           git push
