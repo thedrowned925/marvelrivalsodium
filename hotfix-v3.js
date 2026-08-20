@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals comic runtime v11.3 — Pages loader */
+/* ODIUM Marvel Rivals comic runtime v11.4 — Pages loader */
 (async()=>{
   document.body.classList.add('rivals-theme');
   const style=document.createElement('style');
@@ -11,7 +11,7 @@
     .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
   `;
   document.head.appendChild(style);
-  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./card-fix-v10.css?v=10.0.1','./card-art-v11.css?v=11.3.1','./hero-v10.css?v=10.0.1']){
+  for(const href of ['./responsive-v6.css?v=6.2.1','./detail-art-v6.css?v=6.6.2','./card-art-v7.css?v=7.0.1','./card-fix-v10.css?v=10.0.1','./card-art-v11.css?v=11.3.1','./card-recovery-v11.css?v=11.4.0','./hero-v10.css?v=10.0.1']){
     const css=document.createElement('link');css.rel='stylesheet';css.href=href;document.head.appendChild(css);
   }
   try{
@@ -20,7 +20,7 @@
     if(!response.ok)throw new Error('Runtime fetch failed: '+response.status);
     (0,eval)(await response.text());
   }catch(error){console.error('[ODIUM] base runtime could not load',error);}
-  for(const src of ['./card-art-v11.js?v=11.3.1','./detail-art-v10.js?v=10.0.1','./hero-v10.js?v=10.0.1']){
+  for(const src of ['./card-art-v11.js?v=11.3.1','./card-recovery-v11.js?v=11.4.0','./detail-art-v10.js?v=10.0.1','./hero-v10.js?v=10.0.1']){
     const script=document.createElement('script');script.src=src;script.async=false;document.head.appendChild(script);
   }
   try{
