@@ -5,22 +5,22 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "734fcb769c593918",
-  "generatedAt": "2026-08-20T19:07:55.759408Z",
+  "dataRevision": "f92580e81d282ff6",
+  "generatedAt": "2026-08-21T14:06:14.120271Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 22202,
-    "recorded": 1389,
+    "waiting": 22063,
+    "recorded": 1528,
     "checked": 107,
     "added": 0,
-    "worked": 1496,
-    "progress": 6.31,
+    "worked": 1635,
+    "progress": 6.9,
     "statusCounts": {
       "Baslamadi": 43,
       "Devam Ediyor": 11
     },
-    "assigned": 34
+    "assigned": 37
   },
   "characters": [
     {
@@ -35,7 +35,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Bere Aydoğan Sancar"
     },
     {
       "name": "Angela",
@@ -448,12 +448,12 @@
       "slug": "phoenix",
       "detailPath": "data/characters/phoenix.json",
       "total": 420,
-      "waiting": 270,
-      "recorded": 150,
+      "waiting": 218,
+      "recorded": 202,
       "checked": 0,
       "added": 0,
-      "worked": 150,
-      "progress": 35.71,
+      "worked": 202,
+      "progress": 48.1,
       "status": "Devam Ediyor",
       "voiceActor": "Ecem Varlık"
     },
@@ -469,19 +469,19 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Mina Çakılkaya"
     },
     {
       "name": "Rocket Raccoon",
       "slug": "rocket-raccoon",
       "detailPath": "data/characters/rocket-raccoon.json",
       "total": 474,
-      "waiting": 405,
-      "recorded": 69,
+      "waiting": 318,
+      "recorded": 156,
       "checked": 0,
       "added": 0,
-      "worked": 69,
-      "progress": 14.56,
+      "worked": 156,
+      "progress": 32.91,
       "status": "Devam Ediyor",
       "voiceActor": "Ali Fuat Adak"
     },
@@ -651,7 +651,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Bedirhan Kartal"
     },
     {
       "name": "Wolverine",
