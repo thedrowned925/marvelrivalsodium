@@ -1,8 +1,7 @@
-/* ODIUM Marvel Rivals comic runtime v11.5 — desktop preserved + isolated device UI */
+/* ODIUM Marvel Rivals comic runtime v11.6 — persistent live art + isolated device UI */
 (async()=>{
   document.body.classList.add('rivals-theme');
 
-  // Classify before loading device-scoped CSS to avoid a desktop-layout flash on phones.
   const uaMobile=()=>{
     if(navigator.userAgentData&&typeof navigator.userAgentData.mobile==='boolean')return navigator.userAgentData.mobile;
     return /Android|iPhone|iPod|Windows Phone|webOS|BlackBerry|Opera Mini|IEMobile/i.test(navigator.userAgent||'');
@@ -49,9 +48,11 @@
   for(const src of [
     './card-art-v11.js?v=11.3.1',
     './card-recovery-v11.js?v=11.4.0',
+    './art-persistence-v1.js?v=1.0.0',
     './detail-art-v10.js?v=10.0.1',
     './hero-v10.js?v=10.0.1',
-    './device-mode-v1.js?v=1.0.0'
+    './device-mode-v1.js?v=1.0.0',
+    './live-refresh-v1.js?v=1.0.0'
   ]){
     const script=document.createElement('script');script.src=src;script.async=false;document.head.appendChild(script);
   }
