@@ -3,12 +3,12 @@
   "voiceActor": "Parsa Okutan",
   "summary": {
     "total": 442,
-    "waiting": 369,
-    "recorded": 73,
+    "waiting": 344,
+    "recorded": 98,
     "checked": 0,
     "added": 0,
-    "worked": 73,
-    "progress": 16.52,
+    "worked": 98,
+    "progress": 22.17,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -907,7 +907,7 @@
       "internalName": "vo_10260348_sp_interact_wakanda_01_10480_a_play",
       "english": "I fear a sword may not be enough in the conflict to come…",
       "turkish": "Korkarım ki bir sonraki savaşta kılıç tek başına yeterli olmayacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10260400_escorting_remind_museume_02_play",
       "english": "Our opponents stand against freedom! They should be ashamed!",
       "turkish": "Rakiplerimiz özgürlüğe karşı duruyor! Utanmalılar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10260458_ko_sp_01_10590_play",
       "english": "Hunt the panther, and you become prey, Elsa!",
       "turkish": "Panteri avlamaya kalkarsan, sen av olursun, Elsa!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10260189_ko_normal_10_play",
       "english": "You have brought shame upon yourself.",
       "turkish": "Kendinin utanç kaynağısın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10260343_sp_interact_wakanda_01_10460_c_play",
       "english": "What better place for a golden man than this golden city?",
       "turkish": "Bir altın adam için bu altın şehirden daha iyi bir yer olabilir mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10260009_single_04_play",
       "english": "Bringing Wakanda to the stars was a dream of mine since youth.",
       "turkish": "Wakanda'yı yıldızlara çıkarmak gençliğimden beri hayalimdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10260452_escorting_remind_newyorkh02_02_play",
       "english": "The freedom of our allies depends upon our success!",
       "turkish": "Müttefiklerimizin özgürlüğü, başarılı olmamıza bağlı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10260132_sp_interact_asgard_01_10160_a_play",
       "english": "You are not fit to sit upon a throne, Trickster.",
       "turkish": "Tahta oturmak sana göre değil Hilebaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10260254_signal_wheel_attack_02_play",
       "english": "Our battle shall take place here.",
       "turkish": "Savaşımız burada gerçekleşecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10260164_building_spotted_nest_01_play",
       "english": "Such strange little spiders…",
       "turkish": "Ne kadar da tuhaf küçük örümcekler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10260006_single_01_play",
       "english": "My father would have loved to see Wakanda reaching across the stars.",
       "turkish": "Babam Wakanda'nın yıldızların da ötesine ulaştığını görmeyi çok isterdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10260028_switch_02_play_p2",
       "english": "I am T'Challa, the Black Panther.",
       "turkish": "Ben Black Panther'im, T'Challa'yım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10260066_saw_enemy_02_play",
       "english": "The enemy approaches.",
       "turkish": "Düşman yaklaşıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10260301_building_spotted_octopus_01_play",
       "english": "What in Bast's name are those, Namor?",
       "turkish": "Bast aşkına! Bunlar da ne Namor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10260116_quick_thanks_01_play",
       "english": "My thanks.",
       "turkish": "Teşekkürlerimi sunarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10260306_building_destroy_octopus_03_play",
       "english": "Your arms were no match for my claws!",
       "turkish": "Kolların pençelerime rakip olamazdı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10260177_building_destroy_turret_02_play",
       "english": "Your weapon will cause no more harm, Punisher.",
       "turkish": "Silahın artık zarar vermeyecek Punisher.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10260480_interact_01_10640_c_play",
       "english": "Then let me be clear: We have hope that Wakanda's Heart-Shaped Herb may hold the key to curing vampirism.",
       "turkish": "O hâlde açık konuşayım: Wakanda’nın Kalp Şeklindeki Otu’nun vampirizmi iyileştirmenin anahtarını barındırabileceğine dair umudumuz var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10260102_respawn_03_play",
       "english": "Again! My ancestors are watching.",
       "turkish": "Bir şans daha! Atalarım beni izliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10260443_entrance_01_10150_play",
       "english": "Bast is not the only Goddess who has blessed me this day…",
       "turkish": "Bast, bugün beni kutsayan tek Tanrıça değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10260495_sp_ability_10150_01_play",
       "english": "Vibranium Storm!",
       "turkish": "Vibranyum Fırtınası!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10260106_quick_hi_01_play",
       "english": "Molo, unjani?",
       "turkish": "Molo, unjani?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10260304_building_destroy_octopus_01_play",
       "english": "The creatures of the deep can harm us no more.",
       "turkish": "Derinlerdeki yaratıklar bize artık zarar veremez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10260020_interact_01_10400_a_play",
       "english": "Dr. Richards, I hope you found our Institute of Science helpful?",
       "turkish": "Dr. Richards, umarım Bilim Enstitümüzü faydalı bulmuşsundur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10260351_sp_interact_wakanda_01_10220_d_play",
       "english": "If this battle does not go as planned, he will be able to tell me soon enough.",
       "turkish": "Bu savaş planlandığı gibi gitmezse bana yakında nedenini söyleyebilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -5329,6 +5329,6 @@
       "note": null
     }
   ],
-  "dataRevision": "301cae9154240186",
-  "generatedAt": "2026-08-21T15:52:58.197386Z"
+  "dataRevision": "465cc19fadcc4726",
+  "generatedAt": "2026-08-21T18:02:59.353703Z"
 }
