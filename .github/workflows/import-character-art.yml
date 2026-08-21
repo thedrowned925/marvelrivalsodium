@@ -1,0 +1,54 @@
+name: Import linked character artwork
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/characters/sources.json'
+      - 'scripts/import_character_art.py'
+      - '.github/workflows/import-character-art.yml'
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linked-character-art-import
+  cancel-in-progress: false
+
+jobs:
+  import-art:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests==2.32.5 pillow==11.3.0
+
+      - name: Download and normalize linked art
+        run: python scripts/import_character_art.py
+
+      - name: Commit generated WebP files
+        run: |
+          if git diff --quiet -- assets/characters/normal assets/characters/hover assets/characters/detail; then
+            echo "No generated art changes."
+            exit 0
+          fi
+          git config user.name "odium-art-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/characters/normal assets/characters/hover assets/characters/detail
+          git commit -m "assets: import linked character artwork [skip ci]"
+          git pull --rebase origin main
+          git push origin main
