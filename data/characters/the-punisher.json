@@ -3,12 +3,12 @@
   "voiceActor": "Ertuğrul Fırat",
   "summary": {
     "total": 417,
-    "waiting": 163,
-    "recorded": 254,
+    "waiting": 118,
+    "recorded": 299,
     "checked": 0,
     "added": 0,
-    "worked": 254,
-    "progress": 60.91,
+    "worked": 299,
+    "progress": 71.7,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10140244_quick_need_heal_02_play",
       "english": "I'm hit pretty bad.",
       "turkish": "Fena vuruldum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10140018_interact_01_10110_b_play",
       "english": "Don't worry, I'm ready for the Hulk.",
       "turkish": "Endişelenme, Hulk’a hazırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10140317_sp_single_newyorkh_01_play",
       "english": "Thought I cleaned up Central Park ages ago…",
       "turkish": "Central Park’ı temizleyeli uzun zaman oldu sanıyordum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10140407_single_20_play",
       "english": "Can’t wait to finally put you down, Fisk.",
       "turkish": "Seni sonunda gebertmeyi iple çekiyorum, Fisk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10140117_quick_hi_01_play",
       "english": "Yeah hi.",
       "turkish": "Aynen, selam.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10140112_respawn_02_play",
       "english": "This is not over.",
       "turkish": "Bu iş daha bitmedi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10140383_interact_01_10630_a_play",
       "english": "Heard Alchemax was tryin' to create super-weapons based off your powers, Cyke.",
       "turkish": "Alchemax’in senin güçlerinden yola çıkarak süper silahlar yapmaya çalıştığını duydum, Cyke.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10140017_interact_02_10420_c_play",
       "english": "You know who killed him?",
       "turkish": "Onu kim öldürdü, biliyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10140422_ko_sp_01_10570_play",
       "english": "Someone had to shut you up, Wade.",
       "turkish": "Seni susturması gereken biri vardı, Wade.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10140400_select_10_play",
       "english": "Me against an undead army? I like those odds.",
       "turkish": "Ben ve bir ölümsüz ordusu mu? Bu şansı severim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10140280_interact_01_10310_d_play",
       "english": "I don't listen to music. I punish criminals.",
       "turkish": "Ben müzik dinlemem. Suçluları cezalandırırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10140399_interact_02_10600_d_play",
       "english": "Then consider this another failed performance review, \"Director.\"",
       "turkish": "O zaman bunu da bir başarısız performans değerlendirmesi say, “Müdür.”",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10140358_sp_single_newyorkh02_01_play",
       "english": "\"Home, sweet home\" ain't lookin' so sweet these days…",
       "turkish": "\"ANA SAYFA, tatlı ANA SAYFA\" bu günlerde pek tatlı görünmüyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10140050_buff_endure_02_play",
       "english": "No one can hurt me!",
       "turkish": "Kimse bana zarar veremez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10140053_buff_dr_01_play",
       "english": "Armored up.",
       "turkish": "Zırhımı kuşandım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10140326_escorting_payload_newyorke_01_play",
       "english": "We've gotta babysit a robot? Great.",
       "turkish": "Robota bebek bakıcılığı mı yapıyoruz? Bir bu eksikti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10140249_quick_thanks_02_play",
       "english": "Good, thanks.",
       "turkish": "Güzel, sağ ol.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10140029_q_p2_play_p2",
       "english": "I'm doing this MY WAY!!",
       "turkish": "KENDİ YÖNTEMLERİMLE hallediyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10140001_single_21_play",
       "english": "Right is right and wrong is wrong.",
       "turkish": "Doğruyla yanlışı ayırt edebilmek gerekir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10140243_quick_q_charge_100_01_play",
       "english": "Locked and loaded. Just need a target.",
       "turkish": "Atışa hazırım. Hedef olsun yeter.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10140419_escorting_remind_newyorkh02_02_play",
       "english": "Speed it up, or I'm takin' the wheel!",
       "turkish": "Hızlan, yoksa direksiyona ben geçiyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10140294_interact_01_10370_a_play",
       "english": "Think you're fast enough to stop a high velocity round aimed straight between your eyes, old timer?",
       "turkish": "Sence iki kaşının tam ortasına nişan alınmış yüksek hızlı bir mermiyi durduracak kadar hızlı mısın ihtiyar?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10140207_ko_five_03_play",
       "english": "That's a full fist.",
       "turkish": "Bir elin parmakları kadar oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10140193_ko_v_01_play",
       "english": "Another notch on the belt.",
       "turkish": "Bir pislik daha temizlendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10140303_sp_ability_10230_03_play",
       "english": "Eat unlimited ammo!",
       "turkish": "Hepinize benden sınırsız kurşun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10140252_signal_broken_01_play",
       "english": "This could all come down.",
       "turkish": "Tüm bunlar yıkılabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10140175_building_destroy_amplifier_01_play",
       "english": "Amplifier's shorted out.",
       "turkish": "Kuvvetlendirici kısa devre yaptı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10140198_ko_q_03_play",
       "english": "Blaze of glory.",
       "turkish": "Zafer ateşi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10140190_ko_assist_01_play",
       "english": "Got your back.",
       "turkish": "Arkanı kolluyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10140416_escorting_payload_newyorkh02_01_play",
       "english": "Not a fan of S.H.I.E.L.D., but I appreciate the wheels.",
       "turkish": "S.H.I.E.L.D. hayranı değilim ama tekerleklere saygım var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10140173_building_destroy_beacon_02_play",
       "english": "Beacon's neutralized.",
       "turkish": "Fener etkisiz hâle getirildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10140151_respawn_06_play",
       "english": "Back for another tour.",
       "turkish": "Görev sürem uzadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10140189_ko_sniper_03_play",
       "english": "Sniper let me get too close.",
       "turkish": "Keskin nişancı yaklaşmama izin vermemeliydi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10140242_quick_q_charge_90_higher_01_play",
       "english": "I feel a barrage coming on…",
       "turkish": "Yaylım ateşi yolda…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10140254_signal_enemy_01_play",
       "english": "Bogey here.",
       "turkish": "Düşman burada.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10140327_escorting_payload_newyorke_02_play",
       "english": "Destination: Avengers Tower. Move out!",
       "turkish": "İstikamet Yenilmezler Kulesi. Yola koyulun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10140008_single_03_play",
       "english": "Different battlefield, same war.",
       "turkish": "Savaş alanı değişse de savaş aynı savaş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10140437_entrance_02_10230_play",
       "english": "All right, you filthy space rodent. Let's amp it up!",
       "turkish": "Pekâlâ, seni pis uzay kemirgeni. Hadi şunu coşturalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10140337_escorting_remind_newyorkh_02_play",
       "english": "Can't let the vamps win! Keep going!",
       "turkish": "Vampirlerin kazanmasına izin veremeyiz! Devam edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10140155_saw_sniper_02_play",
       "english": "Sniper, look out!",
       "turkish": "Keskin nişancı! Dikkat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10140184_building_broken_turret_01_play",
       "english": "So long, turret.",
       "turkish": "Görüşürüz taret.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10140234_escorting_remind_wakandah_01_play",
       "english": "Step on it. The king needs his cat statue.",
       "turkish": "Hızlanın. Kedi heykeli krala lazım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10140055_buff_purge_01_play",
       "english": "Combat-ready again.",
       "turkish": "Yeniden savaşa hazırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10140087_ko_sp_01_10440_play",
       "english": "Always knew you'd turn bad.",
       "turkish": "Her zaman kötüye döneceğini biliyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10140004_single_24_play",
       "english": "I'll fight this war against crime until I fall.",
       "turkish": "Suçla ölümüne savaşacağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5029,6 +5029,6 @@
       "note": null
     }
   ],
-  "dataRevision": "f92580e81d282ff6",
-  "generatedAt": "2026-08-21T14:06:14.120271Z"
+  "dataRevision": "301cae9154240186",
+  "generatedAt": "2026-08-21T15:52:58.197386Z"
 }
