@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "90fdf2bac298555c",
-  "generatedAt": "2026-08-22T17:44:24.720870Z",
+  "dataRevision": "c5a5f42bc0b4aa7c",
+  "generatedAt": "2026-08-22T18:01:47.842557Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 21262,
-    "recorded": 2329,
+    "waiting": 21163,
+    "recorded": 2428,
     "checked": 107,
     "added": 0,
-    "worked": 2436,
-    "progress": 10.28,
+    "worked": 2535,
+    "progress": 10.7,
     "statusCounts": {
-      "Baslamadi": 41,
-      "Devam Ediyor": 13
+      "Baslamadi": 40,
+      "Devam Ediyor": 14
     },
     "assigned": 37
   },
@@ -112,13 +112,13 @@
       "slug": "cyclops",
       "detailPath": "data/characters/cyclops.json",
       "total": 421,
-      "waiting": 421,
-      "recorded": 0,
+      "waiting": 322,
+      "recorded": 99,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 99,
+      "progress": 23.52,
+      "status": "Devam Ediyor",
       "voiceActor": "Berke Damar"
     },
     {
