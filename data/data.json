@@ -5,20 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "24094b2480be59a0",
-  "generatedAt": "2026-08-22T22:01:30.040748Z",
+  "dataRevision": "4d0211faeb580023",
+  "generatedAt": "2026-08-22T22:53:40.948100Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
     "waiting": 21086,
-    "recorded": 2505,
-    "checked": 106,
-    "added": 1,
+    "recorded": 1602,
+    "checked": 0,
+    "added": 1010,
     "worked": 2612,
     "progress": 11.02,
     "statusCounts": {
       "Baslamadi": 40,
-      "Devam Ediyor": 14
+      "Devam Ediyor": 11,
+      "Tamamlandi": 3
     },
     "assigned": 37
   },
@@ -226,11 +227,11 @@
       "total": 107,
       "waiting": 0,
       "recorded": 0,
-      "checked": 106,
-      "added": 1,
+      "checked": 0,
+      "added": 107,
       "worked": 107,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Berke Damar"
     },
     {
@@ -295,12 +296,12 @@
       "detailPath": "data/characters/iron-fist.json",
       "total": 415,
       "waiting": 0,
-      "recorded": 415,
+      "recorded": 0,
       "checked": 0,
-      "added": 0,
+      "added": 415,
       "worked": 415,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Kaan Şahin"
     },
     {
@@ -519,12 +520,12 @@
       "detailPath": "data/characters/spider-man.json",
       "total": 488,
       "waiting": 0,
-      "recorded": 488,
+      "recorded": 0,
       "checked": 0,
-      "added": 0,
+      "added": 488,
       "worked": 488,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Efe Karatepe"
     },
     {
