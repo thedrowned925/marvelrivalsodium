@@ -5,8 +5,8 @@
     "total": 107,
     "waiting": 0,
     "recorded": 0,
-    "checked": 107,
-    "added": 0,
+    "checked": 106,
+    "added": 1,
     "worked": 107,
     "progress": 100.0,
     "status": "Devam Ediyor"
@@ -31,7 +31,7 @@
       "internalName": "vo_10270015_ability_e_01_play",
       "english": "I am groot!",
       "turkish": "Adım Groot!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1309,6 +1309,6 @@
       "note": null
     }
   ],
-  "dataRevision": "fabb9261084927ac",
-  "generatedAt": "2026-08-22T19:48:21.919232Z"
+  "dataRevision": "24094b2480be59a0",
+  "generatedAt": "2026-08-22T22:01:30.040748Z"
 }
