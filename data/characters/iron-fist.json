@@ -3,12 +3,12 @@
   "voiceActor": "Kaan Şahin",
   "summary": {
     "total": 415,
-    "waiting": 16,
-    "recorded": 399,
+    "waiting": 0,
+    "recorded": 415,
     "checked": 0,
     "added": 0,
-    "worked": 399,
-    "progress": 96.14,
+    "worked": 415,
+    "progress": 100.0,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10520425_sp_emote_10470_1047001217_06_play",
       "english": "My power is a gift from Shou-Lao the Undying!",
       "turkish": "Gücüm Ölümsüz Shou-Lao'nun bir armağanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10520159_ko_terrain_02_play",
       "english": "You can't escape your fate. Trust me.",
       "turkish": "Kaderinden kaçamazsın. Güven bana.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10520005_single_15_play",
       "english": "There were lots of Iron Fists before me, but I'll be the best.",
       "turkish": "Benden önce birçok Iron Fist vardı ama en iyisi ben olacağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10520270_ko_ability_shift_01_play",
       "english": "You're done!",
       "turkish": "İşin bitti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10520328_interact_01_10320_c_play",
       "english": "You really think they'll be able to help if we go up against Doctor Doom?",
       "turkish": "Gerçekten Doctor Doom'a karşı çıkarsak yardım edebileceklerini mi düşünüyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10520067_saw_flank_03_play_p2",
       "english": "Watch your back!",
       "turkish": "Arkanızı kollayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10520250_sp_interact_kunlun_01_10350_c_play",
       "english": "Okay, but if you get swallowed by an ancient dragon, that's on you.",
       "turkish": "Tamam, ama eski bir ejderha tarafından yutulursan, bu senin sorunun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10520028_debuff_control_01_play",
       "english": "I'm not in control!",
       "turkish": "Kontrol bende değil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10520410_interact_01_10550_b_play",
       "english": "K'un-Lun fights to protect all of the Capital Cities of Heaven. Even one as dark as yours, Dizang.",
       "turkish": "K'un-Lun, Cennet'in tüm Başkentlerini korumak için savaşır. Seninki kadar karanlık olanları bile, Dizang.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10520252_sp_interact_kunlun_01_10260_d_play",
       "english": "I guess that means you're welcome here in K'un-Lun… old friend.",
       "turkish": "Sanırım bu, K'un-Lun'da hoş karşılandığın anlamına geliyor... eski dost.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10520289_escorting_payload_newyorke_01_play",
       "english": "Who's up for a trip to Avengers Tower?",
       "turkish": "Yenilmezler Kulesi'ne yolculuğa kimler geliyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10520104_saw_sniper_01_play",
       "english": "Someone's shooting at us.",
       "turkish": "Biri bize ateş ediyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10520385_interact_01_10540_a_play",
       "english": "So, you're the almighty Phoenix Force I've read so much about…? Huh.",
       "turkish": "Demek o çokça okuduğum kudretli Phoenix Force sensin, ha…? Hıh.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10520239_sp_interact_hydra_01_10410_a_play",
       "english": "Hydra, huh? That's kind of like a dragon, isn't it?",
       "turkish": "Hydra mı? Bu da bir çeşit ejderha sayılır, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10520323_interact_01_10370_b_play",
       "english": "Good for you, old man. But age doesn't always mean wisdom.",
       "turkish": "İyi iş çıkarmışsın yaşlı adam. Ancak yaş her zaman bilgelik anlamına gelmez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
@@ -4999,12 +4999,12 @@
       "internalName": "vo_10520177_escorting_remind_tokyoh_02_play",
       "english": "Don't lose faith, Spider. We we'll win this race.",
       "turkish": "Umudunu kaybetme Örümcek. Bu yarışı kazanacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Kaan",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "b382cf3b3016bee9",
-  "generatedAt": "2026-08-22T13:44:43.380391Z"
+  "dataRevision": "aada8cd171c51ebf",
+  "generatedAt": "2026-08-22T16:56:11.740521Z"
 }
