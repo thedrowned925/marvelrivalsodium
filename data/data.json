@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "ac7b40b85247b841",
-  "generatedAt": "2026-08-23T17:41:01.815330Z",
+  "dataRevision": "5d8b61c07fe2b01e",
+  "generatedAt": "2026-08-23T18:01:26.540079Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 20987,
-    "recorded": 1701,
+    "waiting": 20919,
+    "recorded": 1352,
     "checked": 0,
-    "added": 1010,
-    "worked": 2711,
-    "progress": 11.44,
+    "added": 1427,
+    "worked": 2779,
+    "progress": 11.73,
     "statusCounts": {
       "Baslamadi": 39,
-      "Devam Ediyor": 12,
-      "Tamamlandi": 3
+      "Devam Ediyor": 11,
+      "Tamamlandi": 4
     },
     "assigned": 38
   },
@@ -561,13 +561,13 @@
       "slug": "the-punisher",
       "detailPath": "data/characters/the-punisher.json",
       "total": 417,
-      "waiting": 68,
-      "recorded": 349,
+      "waiting": 0,
+      "recorded": 0,
       "checked": 0,
-      "added": 0,
-      "worked": 349,
-      "progress": 83.69,
-      "status": "Devam Ediyor",
+      "added": 417,
+      "worked": 417,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Ertuğrul Fırat"
     },
     {
