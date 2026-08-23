@@ -3,12 +3,12 @@
   "voiceActor": "Berke Damar",
   "summary": {
     "total": 421,
-    "waiting": 322,
-    "recorded": 99,
+    "waiting": 261,
+    "recorded": 160,
     "checked": 0,
     "added": 0,
-    "worked": 99,
-    "progress": 23.52,
+    "worked": 160,
+    "progress": 38.0,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10630311_interact_01_10480_b_play",
       "english": "Yes… and so have you.",
       "turkish": "Evet… sen de öyle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10630340_interact_01_10200_d_play",
       "english": "Nothing new there. Trauma is just part of being a Mutant. I tap into it to keep the fight going.",
       "turkish": "Yeni bir şey değil. Travma, Mutant olmanın bir parçası. Dövüşü sürdürmek için ona tutunuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10630110_saw_ko_01_10650_play",
       "english": "You haven't lost your touch, Rogue.",
       "turkish": "Dokunuşunu kaybetmemişsin, Rogue.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10630098_ko_sp_01_10650_play",
       "english": "You were too big a threat, Rogue.",
       "turkish": "Çok büyük bir tehdittin, Rogue.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10630417_ability_shift_03_play",
       "english": "Blasting through!",
       "turkish": "Yararak geçiyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10630209_building_spotted_nest_01_play",
       "english": "That SP//dr mech set some traps.",
       "turkish": "Şu SP//dr mekası bazı tuzaklar kurmuş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10630266_signal_wheel_defend_02_play",
       "english": "Defend this spot at all costs.",
       "turkish": "Bu noktayı ne pahasına olursa olsun savunun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10630277_signal_no_01_play",
       "english": "Negative.",
       "turkish": "Olumsuz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10630006_single_05_play",
       "english": "After what Alchemax did to me, I'm more than ready for a fight!",
       "turkish": "Alchemax’in bana yaptıklarından sonra, kavgaya fazlasıyla hazırım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10630212_building_destroy_ankh_01_play",
       "english": "Have Khonshu bill me for repairs.",
       "turkish": "Onarım masraflarını Khonshu bana kessin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10630081_escorting_remind_kunlunh_01_play",
       "english": "A little faster or we'll never get to Shou-Lao!",
       "turkish": "Biraz daha hızlı, yoksa SHOU-LAO'ya asla ulaşamayacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10630300_interact_01_10580_d_play",
       "english": "We've been lucky. But these days, all bets are off. So let's go into this battle like it's the last one we'll ever fight.",
       "turkish": "Şanslıydık. Ama bugünlerde artık hiçbir şey garanti değil. O yüzden bu savaşa, sanki gireceğimiz son savaşmış gibi girelim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10630184_healthpack_02_play",
       "english": "You know, extra health never hurt.",
       "turkish": "Biliyorsun, ekstra Can asla zarar vermez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10630397_interact_01_10240_b_play",
       "english": "You're not wrong. The X-Men found a workaround to keep our people from going extinct.",
       "turkish": "Haksız sayılmazsın. X-Men, halkımızın yok olup gitmesini önlemek için bir çözüm yolu buldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10630146_buff_dr_01_play",
       "english": "Didn't even feel that.",
       "turkish": "Bunu hiç hissetmedim bile.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10630400_interact_02_10290_c_play",
       "english": ">Sigh< Sometimes I wonder whatever happened to our \"Little Snowflake\"…",
       "turkish": ">İç çeker< Bazen “Küçük Kar Tanemiz”e ne oldu diye düşünüyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10630105_saw_ko_01_10490_play",
       "english": "Brutal as ever, Logan.",
       "turkish": "Her zamanki gibi acımasızsın, Logan.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10630305_interact_01_10370_b_play",
       "english": "Thanks for taking point while I was out of commission, Erik. I can handle things from here.",
       "turkish": "Devre dışıyken ön safta liderliği üstlendiğin için sağ ol, Erik. Buradan sonrasını ben hallederim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10630365_interact_02_10650_a_play",
       "english": "Erik told me about what happened in the Elders' Grand Garden. How are you holding up?",
       "turkish": "Erik, Büyük Bahçe’de olanları anlattı. Nasıl dayanıyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10630216_building_destroy_amplifier_02_play",
       "english": "Silenced Rocket's amplifier.",
       "turkish": "Rocket'ın kuvvetlendiricisini susturdum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10630071_escorting_remind_wakandah_01_play",
       "english": "Keep going! Krakoa can’t let Wakanda down!",
       "turkish": "Devam edin! Krakoa, Wakanda’yı yüzüstü bırakamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10630391_sp_interact_newyorkh02_01_10620_b_play",
       "english": "I know. You were just trying to find a way back home. And in the end, you got us both here.",
       "turkish": "Biliyorum. Sadece eve dönüş yolunu bulmaya çalışıyordun. Ve sonunda ikimizi de buraya getirdin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10630296_interact_01_10300_c_play",
       "english": "Actually, they're ruby quartz. And I wear them to keep my powers in check.",
       "turkish": "Aslında onlar yakut kuvars. Ve güçlerimi kontrol altında tutmak için onları takıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10630073_escorting_remind_klyntarh_01_play",
       "english": "Do you want Knull to come back? Then move!",
       "turkish": "Knull geri mi dönsün istiyorsun? O zaman harekete geç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10630362_interact_03_10490_d_play",
       "english": "Hmm… now I'm finally starting to understand where all your rage comes from…",
       "turkish": "Hımm… şimdi öfkenin nereden geldiğini nihayet anlamaya başlıyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10630405_interact_02_10530_a_play",
       "english": "Emma.",
       "turkish": "Emma.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10630007_single_06_play",
       "english": "Been away from the battle for too long. It's nice to be back in action.",
       "turkish": "Savaştan çok uzun süre uzak kaldım. Yeniden aksiyona dönmek iyi geldi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10630211_building_spotted_nest_03_play",
       "english": "Keep an eye out for Spider-Bots!",
       "turkish": "Örümcek Botlarına dikkat et!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10630130_debuff_exhaust_01_play",
       "english": "Feeling exposed!",
       "turkish": "Savunmasız hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10630297_interact_01_10440_a_play",
       "english": "We've got some serious competition here. If we want to win, we'll have to stay sharp.",
       "turkish": "Burada çok ciddi bir rekabet var. Kazanmak istiyorsak, tetikte kalmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10630289_interact_01_10140_b_play",
       "english": "They were. And I'm afraid of what they might've unleash on the world if they succeeded.",
       "turkish": "Öyleydi. Ve başarılı olsalardı dünyaya neler salabileceklerinden korkuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10630272_signal_area_occupied_02_play",
       "english": "This spot is ours. No one takes it from us.",
       "turkish": "Bu nokta bizim. Kimse bizden alamaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10630024_sp_single_asgard_01_play",
       "english": "If the World Tree burns, Earth follows. We can't let that happen.",
       "turkish": "Dünya Ağacı yanarsa, sıradaki Dünya olur. Buna izin veremeyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10630240_quick_fallback_02_play",
       "english": "Strategic retreat!",
       "turkish": "Stratejik geri çekilme!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10630195_saw_sniper_02_play",
       "english": "Someone's got us in their sights…",
       "turkish": "Birisi bizi gözüne kestirmiş…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10630230_revenge_01_play",
       "english": "You brought this one on yourself.",
       "turkish": "Bunu kendin istedin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10630136_buff_heal_noncritical_01_play",
       "english": "Thanks for the boost.",
       "turkish": "Destek için teşekkürler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10630274_signal_vehicle_as_attack_02_play",
       "english": "We can’t let them stand in our path!",
       "turkish": "Yolumuza dikilmelerine izin veremeyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10630285_interact_01_10390_b_play",
       "english": "I've still got both eyes behind this visor.",
       "turkish": "Bu vizörün arkasında hâlâ iki gözüm de yerinde.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10630072_escorting_remind_wakandah_02_play",
       "english": "If we don't deliver this totem, Wakanda's in grave danger.",
       "turkish": "Bu totemi teslim etmezsek, Wakanda büyük bir tehlikede.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10630287_interact_01_10260_b_play",
       "english": "Our nations seem to have built quite the alliance while I was out of play.",
       "turkish": "Ben oyunun dışındayken uluslarımız epey sağlam bir ittifak kurmuş gibi görünüyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10630152_occupied_hint_engage_01_play",
       "english": "Let's seize control of the area.",
       "turkish": "Bölgenin kontrolünü ele geçirelim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10630393_sp_interact_newyorke_03_10640_a_play",
       "english": "Are you sure you're going to be okay on this mission, Jubilee?",
       "turkish": "Bu görevde iyi olacağına emin misin, Jubilee?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10630037_sp_single_museume_01_play",
       "english": "I can see why Remy felt drawn to this place.",
       "turkish": "Remy'nin neden buraya çekildiğini anlıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10630083_escorting_remind_museume_01_play",
       "english": "Let's go! Nothing stops us from getting these creatures to freedom!",
       "turkish": "Haydi! Bu yaratıkları özgürlüğe kavuşturmamıza hiçbir şey engel olamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10630232_revenge_03_play",
       "english": "You messed with the wrong X-Man.",
       "turkish": "Yanlış X-Man’le uğraştın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10630150_occupied_celebrate_01_play",
       "english": "Good job, team! The area is ours!",
       "turkish": "İyi iş, TAKIM! Bölge bizim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10630167_ko_normal_02_play",
       "english": "Bet you didn't see that coming.",
       "turkish": "Bunu beklemiyordun, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10630258_signal_broken_02_play",
       "english": "No holding back here!",
       "turkish": "Geri çekilmek yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10630050_escorting_payload_klyntarh_02_play",
       "english": "I'd prefer to keep things surface level, but we don't have a choice.",
       "turkish": "Her şeyi yüzeyde tutmayı tercih ederdim ama başka seçeneğimiz yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10630217_building_destroy_amplifier_03_play",
       "english": "Got any other gadgets, Rocket?",
       "turkish": "Başka bir aletin var mı, Rocket?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10630411_entrance_01_10540_play",
       "english": "Jean may not be here… but she's always with me…",
       "turkish": "Jean burada olmayabilir… ama o hep benimle…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10630151_occupied_celebrate_02_play",
       "english": "Mission accomplished. Now to win the battle!",
       "turkish": "Görev başarılı. Şimdi savaşı kazanmaya!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10630410_entrance_02_10580_play",
       "english": "Thanks for the boost, Remy. Now, let me lead the charge!",
       "turkish": "Takviye için sağ ol, Remy. Şimdi hücuma ben önderlik edeyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10630237_enemy_advanced_02_play",
       "english": "There are more of them than there are of us.",
       "turkish": "Sayıları bizden fazla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10630359_interact_02_10540_a_play",
       "english": "Your bond with Jean is stronger than its ever been before, Phoenix.",
       "turkish": "Jean’le olan bağın her zamankinden daha güçlü, PHOENIX.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10630147_buff_dr_02_play",
       "english": "You'll have to hit harder than that!",
       "turkish": "Bundan daha fazlası lazım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10630058_escorting_payload_kunlunh_02_play",
       "english": "We're putting our trust in you, Bi Xi. Don't let us down.",
       "turkish": "Sana güveniyoruz, Bi Xi. Bizi hayal kırıklığına uğratma.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10630080_escorting_remind_arakkoe_02_play",
       "english": "Sorry, but there's no reality where we surrender Arakko!",
       "turkish": "Üzgünüm ama Arakko'yu teslim olduğumuz hiçbir gerçeklik yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10630158_countdown_at_01_play",
       "english": "It's now or never. Attack!",
       "turkish": "Ya şimdi ya asla. SALDIRIN!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10630224_building_destroy_octopus_01_play",
       "english": "Back to the ocean with you!",
       "turkish": "Hadi okyanusa geri dön sen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Berke Damar",
       "date": null,
       "note": null
@@ -5077,6 +5077,6 @@
       "note": null
     }
   ],
-  "dataRevision": "5d8b61c07fe2b01e",
-  "generatedAt": "2026-08-23T18:01:26.540079Z"
+  "dataRevision": "defd949dfe22de93",
+  "generatedAt": "2026-08-23T18:54:41.291250Z"
 }
