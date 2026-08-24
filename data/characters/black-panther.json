@@ -3,12 +3,12 @@
   "voiceActor": "Parsa Okutan",
   "summary": {
     "total": 442,
-    "waiting": 344,
-    "recorded": 98,
+    "waiting": 328,
+    "recorded": 114,
     "checked": 0,
     "added": 0,
-    "worked": 98,
-    "progress": 22.17,
+    "worked": 114,
+    "progress": 25.79,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10260216_escorting_payload_asgarde_02_play",
       "english": "Onward, my friends! Yggdrasill awaits!",
       "turkish": "İlerleyin dostlarım! Yggdrasill bizi bekliyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10260215_escorting_payload_asgarde_01_play",
       "english": "The World Tree lies ahead.",
       "turkish": "Dünya Ağacı ileride.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10260136_sp_interact_klyntar_01_10430_a_play",
       "english": "My sister should not have sent you here, Star-Lord.",
       "turkish": "Kardeşim seni buraya göndermeliydi Star-Lord.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10260259_sp_interact_wakandac_01_10340_d_play",
       "english": "Welcome to the future, Stark. Glad you are here.",
       "turkish": "Geleceğe hoş geldin Stark. Burada olmana sevindim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10260135_sp_interact_tokyo_01_10360_c_play",
       "english": "A shame. You have the heart of a king. You would rule this empire well.",
       "turkish": "Utanç verici. Bir kralın kalbine sahipsin. Bu imparatorluğu iyi yönetirdin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10260300_sp_ability_10290_03_play",
       "english": "Another chance to strike.",
       "turkish": "Saldırmak için bir şansımız daha var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10260142_countdown_at_03_play",
       "english": "If we are to prevail, now is the time.",
       "turkish": "Kazanmak istiyorsak tam zamanı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10260338_sp_interact_wakanda_01_10370_b_play",
       "english": "Everything here is crafted from pure Vibranium. One of the few metals you have no power over.",
       "turkish": "Buradaki her şey, üzerinde hiçbir gücünün olmadığı birkaç metalden biri olan saf Vibranyum'dan yapılmıştır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10260235_quick_hi_02_play",
       "english": "Greetings.",
       "turkish": "Selamlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10260180_building_destroy_nest_02_play",
       "english": "Those spiders shall bother us no more.",
       "turkish": "O örümcekler bizi artık rahatsız edemeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10260032_ability_right_01_play",
       "english": "Ha! My aim is true.",
       "turkish": "Ha! Hedefimi şaşırmam.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10260141_buff_heal_critical_02_play",
       "english": "This will not be my last battle after all.",
       "turkish": "Ne de olsa bu benim son savaşım olmayacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10260246_signal_open_spot_02_play",
       "english": "A location worth our attention.",
       "turkish": "Dikkate değer bir yer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10260234_quick_fallback_02_play",
       "english": "A hasty retreat would be wise.",
       "turkish": "Hızlıca geri çekilmek akıllıca olacaktır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10260243_quick_confirm_02_play",
       "english": "Agreed!",
       "turkish": "Kabul!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10260074_ko_sp_01_10220_play",
       "english": "Very crude use of Vibranium, Captain.",
       "turkish": "Vibranyum'u daha iyi kullanmalıydın Kaptan.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Parsa Okutan",
       "date": null,
       "note": null
@@ -5329,6 +5329,6 @@
       "note": null
     }
   ],
-  "dataRevision": "c96e398589b45d11",
-  "generatedAt": "2026-08-23T22:01:42.358844Z"
+  "dataRevision": "09a4145b3d31bdba",
+  "generatedAt": "2026-08-24T13:13:41.944374Z"
 }

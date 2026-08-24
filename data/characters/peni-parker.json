@@ -3,12 +3,12 @@
   "voiceActor": "Rüzgar Bayram",
   "summary": {
     "total": 435,
-    "waiting": 406,
-    "recorded": 29,
+    "waiting": 19,
+    "recorded": 416,
     "checked": 0,
     "added": 0,
-    "worked": 29,
-    "progress": 6.67,
+    "worked": 416,
+    "progress": 95.63,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -379,7 +379,7 @@
       "internalName": "vo_10420142_saw_ko_01_10220_play",
       "english": "Wow! Not bad for an old guy, Cap!",
       "turkish": "Vay canına! Bir ihtiyara göre hiç de fena değil Kaptan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10420419_sp_ability_10260_03_play",
       "english": "Vibranium boost!",
       "turkish": "Vibranyum takviyesi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10420272_signal_wheel_attack_02_play",
       "english": "This is the place. Let's go!",
       "turkish": "İşte burası. Haydi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10420193_ko_assist_02_play",
       "english": "You've got my back, I've got yours.",
       "turkish": "Sen beni kolla, ben de seni kollayayım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10420405_sp_emote_10470_1047001217_07_play",
       "english": "Your Jeff is ready to go！",
       "turkish": "Jeff'iniz harekete hazır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10420006_single_11_play",
       "english": "What I do may seem dangerous, but I've never felt safer than when I'm with SP//dr.",
       "turkish": "Yaptıklarım tehlikeli görünebilir ama en çok SP//dr ile olduğumda güvende hissediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10420239_easter_egg_tokyoe_02_play",
       "english": "I see this bridge every day, and I'm still in awe!",
       "turkish": "Bu köprüyü her gün görsem de her gün hayran kalıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10420067_sp_interact_tokyo_01_10160_a_play",
       "english": "Loki! Are you a good guy today or not?",
       "turkish": "Loki! Bugün iyi misin yoksa kötü mü?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10420294_sp_ability_10350_03_play",
       "english": "Don't get jealous, SP//dr!",
       "turkish": "Kıskanma SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10420112_occupied_hint_engage_01_play",
       "english": "Time to engage the enemy.",
       "turkish": "Düşmanla çarpışma zamanı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10420032_interact_01_10111_b_play",
       "english": "Try to smash this bug, big guy, and I promise you'll regret it!",
       "turkish": "Bu böceği ezmeye çalışırsan pişman olursun koca oğlan. Sana sözüm söz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10420309_interact_02_10350_b_play",
       "english": "In a big crunchy shell. Try to take a bite out of SP//dr and you'll chip a fang!",
       "turkish": "Ama etrafı büyük ve sert bir kabukla sarılı. SP//dr’ı ısırmaya çalışırsan dişini kırarsın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10420166_building_spotted_portal_02_play",
       "english": "One of the doctor's doorways!",
       "turkish": "Doktorun geçitlerinden biri!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10420223_escorting_payload_asgarde_02_play",
       "english": "The gods must be on our side!",
       "turkish": "Tanrılar bizim tarafımızda olmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10420297_building_spotted_octopus_03_play",
       "english": "Look what just crawled out of the ocean!",
       "turkish": "Bak sen, okyanustan kimler çıkıp gelmiş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10420431_escorting_remind_newyorkh02_01_play",
       "english": "These antique cars sure weren't built for speed…",
       "turkish": "Bu antika arabalar kesinlikle hız için yapılmamış…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10420365_sp_interact_arakkoe_01_10410_b_play",
       "english": "SP//dr has got so many levels of protection, he's virtually hack-proof.",
       "turkish": "SP//dr’ın o kadar çok koruması var ki hack geçirmez sayılır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10420081_ability_e_03_play",
       "english": "Mines in place.",
       "turkish": "Mayınları yerleştirdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10420237_escorting_remind_wakandah_02_play",
       "english": "Could use some panther-like speed here…",
       "turkish": "Biraz panter hızına hayır demezdim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10420445_saw_ko_01_10580_play",
       "english": "Next time, deal me in, Gambit!",
       "turkish": "Bir dahaki sefere beni de oyuna dahil et, Gambit!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10420065_sp_interact_tokyo_01_10310_d_play",
       "english": "Crazy!",
       "turkish": "İnanılmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10420462_interact_02_10640_c_play",
       "english": "In the history books, of course! All the kids in Tokyo 2099 totally adore you!",
       "turkish": "Tabii ki tarih kitaplarında! Tokyo 2099’daki bütün çocuklar sana resmen bayılıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10420357_interact_01_10280_b_play",
       "english": "And let you overwrite SP//dr's programming? Not a chance!",
       "turkish": "SP//dr'ın programının üstüne yazmana izin mi vereyim? Hayatta olmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10420288_signal_vehicle_as_defend_01_play",
       "english": "If we don't stop them now, we lose.",
       "turkish": "Onları şimdi durdurmazsak kaybederiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10420187_building_destroy_nest_02_play",
       "english": "A shame to ruin such amazing spider-tech.",
       "turkish": "Bu muhteşem örümcek teknolojisine yazık oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10420228_escorting_payload_wakandah_01_play",
       "english": "One lucky cat, on its way!",
       "turkish": "Şanslı kedi yola çıktı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10420418_sp_ability_10260_02_play",
       "english": "Panther's protection!",
       "turkish": "Panter'in koruması!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10420038_interact_01_10330_d_play",
       "english": "Ha! No, there's already one of those.",
       "turkish": "Ha! Yok, zaten başka bir karadul var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10420404_sp_emote_10470_1047001217_06_play",
       "english": "SP//dr for the win!",
       "turkish": "Bir numarasın SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10420386_interact_01_10540_d_play",
       "english": "So far, so good. And, to be fair, I could ask the same of you…",
       "turkish": "Şimdiye kadar her şey yolunda. Ve dürüst olmak gerekirse, aynı şeyi sana da sorabilirim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10420161_saw_sniper_03_play",
       "english": "Heads up! They've got a sniper!",
       "turkish": "Dikkat! Keskin nişancıları var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10420194_ko_assist_03_play",
       "english": "We're better when we work together.",
       "turkish": "Birlikte daha iyi iş çıkarıyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10420138_ko_sp_01_10470_play",
       "english": "ごめんね, adorable sharky thing!",
       "turkish": "ごめんね sevimli köpek balığı şeysi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10420248_quick_q_charge_90_higher_02_play",
       "english": "A few more seconds…",
       "turkish": "Sadece birkaç saniye daha…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10420090_debuff_exhaust_01_play",
       "english": "We lost our shields!",
       "turkish": "Kalkanlarımızı kaybettik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10420269_signal_wheel_enemy_spot_01_play",
       "english": "Here they are!",
       "turkish": "İşte buradalar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10420378_interact_02_10230_d_play",
       "english": "Well, now that we've all been properly introduced, let's get back to the action!",
       "turkish": "Eh, şimdi hepimiz düzgün bir şekilde tanıştığımıza göre, aksiyona geri dönelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10420391_interact_01_10550_b_play",
       "english": "No. My co-pilot is a spider that I'm bonded to telepathically. How'd you know?",
       "turkish": "Hayır. Yardımcı pilotum telepatik olarak bağlandığım bir örümcek. Nereden bildin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10420425_escorting_payload_newyorkh02_01_play",
       "english": "This Fisk guy sounds worse than the Public Eye!",
       "turkish": "Şu Fisk denen herif, Kamusal Göz’den bile beter gibi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10420155_respawn_02_play",
       "english": "Just needed a few repairs.",
       "turkish": "Sadece biraz tamir gerekiyordu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10420217_ko_terrain_02_play",
       "english": "Sorry about that! But not really.",
       "turkish": "Bunun için üzgünüm! Ama çok da değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10420395_interact_01_10650_b_play",
       "english": "Arigato, Rogue. I like to think that SP//dr is equal parts function and fashion.",
       "turkish": "Arigato, Rogue. SP//dr'nin işlev ve tarzın eşit bir birleşimi olduğunu düşünmeyi seviyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10420189_ko_sniper_01_play",
       "english": "The sniper is no longer a threat.",
       "turkish": "Keskin nişancı artık tehdit değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10420103_buff_endure_02_play",
       "english": "Stronger than ever!",
       "turkish": "Hiç olmadığımız kadar güçlüyüz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10420040_interact_01_10310_c_play",
       "english": "You were my お婆ちゃん's favorite singer!",
       "turkish": "Ninemin en sevdiği şarkıcıydın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10420336_sp_single_museume_01_play",
       "english": "I really wanna see all the cool tech in the Collector's gallery, but there are people to save!",
       "turkish": "Koleksiyoncu'nun galerisindeki tüm havalı teknolojiyi gerçekten görmek istiyorum, ama kurtarılacak insanlar var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10420115_occupied_hint_defend_02_play",
       "english": "SP//dr's ready for them. Are you?",
       "turkish": "SP//dr onlara karşı hazır. Ya siz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10420344_escorting_payload_arakkoe_02_play",
       "english": "Ultron isn’t going to make this easy for us…",
       "turkish": "Ultron bu işimizi zorlaştıracak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10420136_ko_sp_01_10310_play",
       "english": "How's that for a greatest hit, Luna?",
       "turkish": "Nasıl, bis yapmamı ister misin Luna?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10420180_building_destroy_amplifier_01_play",
       "english": "I found their power amplifier. SP//dr shut it down.",
       "turkish": "Güç kuvvetlendiricilerini buldum. SP//dr kapattı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10420262_quick_thanks_02_play",
       "english": "Many thanks!",
       "turkish": "Çok teşekkür ederim! ",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10420456_interact_01_10610_c_play",
       "english": "Good luck finding anyone with reflexes quick enough to pilot it!",
       "turkish": "Onu kullanabilecek kadar hızlı refleksleri olan birini bulmakta bol şans!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10420438_ko_sp_01_10620_play",
       "english": "SP//dr's more powerful than a dino?! Cool!",
       "turkish": "SP//dr bir dinozordan daha mı güçlü?! Havalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10420186_building_destroy_nest_01_play",
       "english": "Sorry, little spiders. I didn't have a choice.",
       "turkish": "Üzgünüm minik örümcekler. Başka çarem yoktu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10420348_escorting_remind_newyorke_02_play",
       "english": "Avengers Tower can't be much further!",
       "turkish": "Yenilmezler Kulesi çok uzakta olamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10420265_signal_broken_01_play",
       "english": "So many things to destroy!",
       "turkish": "Yıkacak ne çok şey var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10420352_escorting_remind_arakkoe_02_play",
       "english": "We need to shut Ultron down! Now!",
       "turkish": "Ultron’u kapatmalıyız! Hemen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10420361_sp_interact_klyntarh_01_10360_a_play",
       "english": "An alien world teeming with hungry protoplasmic life forms? Sounds like fun!",
       "turkish": "Aç protoplazmik yaşam formlarıyla dolu bir başka dünya mı? Kulağa eğlenceli geliyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10420375_escorting_remind_kunlunh_01_play",
       "english": "We need to keep moving. K'un-Lun is counting on us.",
       "turkish": "Hareket etmeye devam etmeliyiz. K'un-Lun bize güveniyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10420407_interact_01_10620_d_play",
       "english": "Probably about the same as keeping a three ton dinosaur in check!",
       "turkish": "Muhtemelen üç tonluk bir dinozoru kontrol altında tutmakla aşağı yukarı aynı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10420125_saw_flank_02_play_p2",
       "english": "Look out behind you!",
       "turkish": "Arkanıza dikkat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10420111_occupied_celebrate_02_play",
       "english": "Another win for us!",
       "turkish": "Yine biz kazandık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10420078_q_p2_play_p2",
       "english": "SP//dr mode!",
       "turkish": "SP//dr modu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10420373_escorting_payload_kunlunh_01_play",
       "english": "Time to get this tablet to Shou-Lao!",
       "turkish": "Bu tableti Shou-Lao'ya götürme zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10420219_enemy_advanced_01_play",
       "english": "We're outnumbered!",
       "turkish": "Sayıca bizden çoklar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10420230_escorting_remind_asgarde_01_play",
       "english": "Guess we aren't as blessed as I thought…",
       "turkish": "Demek ki sandığım gibi kutsanmış değilmişiz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10420140_ko_sp_01_10280_play",
       "english": "I love robots, Ultron. Just not evil ones.",
       "turkish": "Robotlara bayılıyorum Ultron. Kötücül olanlar hariç.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10420345_escorting_remind_klyntarh_01_play",
       "english": "Come on! Time is of the essence! Literally!",
       "turkish": "Haydi! Kaybedecek vaktimiz yok! Özü teslim etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10420131_ko_normal_06_play",
       "english": "Way to go, SP//dr!",
       "turkish": "İşte bu SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10420079_ability_e_01_play",
       "english": "Time for some fireworks.",
       "turkish": "Biraz da havai fişek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10420175_building_destroy_ankh_02_play",
       "english": "Destroyed that ankh. Hope I'm not cursed now.",
       "turkish": "Şu yaşam çarmıhını yok ettim. Umarım artık lanetli değilimdir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10420341_escorting_payload_newyorkh_01_play",
       "english": "Picking up some major activity across the park. Follow me!",
       "turkish": "Parkın etrafında çok hareketlilik tespit ettim. Peşimden gelin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10420188_building_destroy_nest_03_play",
       "english": "さよなら(Sayonara),spider-bots.",
       "turkish": "さよなら (Sayonara) örümcek botlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10420137_ko_sp_01_10260_play",
       "english": "No hard feelings, your royal cat-ness!",
       "turkish": "Kusura bakma kedi hazretleri!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10420048_sp_single_wakanda_01_play",
       "english": "Wooooowww. Forget Tokyo, spider. We should totally move here.",
       "turkish": "Ohaaaa. Boş ver Tokyo’yu örümcek. Mutlaka buraya taşınmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10420018_interact_01_10490_a_play",
       "english": "あの, ローガンsensei, what is it that you teach, exactly?",
       "turkish": "あの, ローガンsensei, tam olarak ne öğretmenisin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10420367_sp_interact_klyntarc_01_10430_a_play",
       "english": "What is this thing? Some sort of giant space god?",
       "turkish": "Bu şey nedir? Bir tür dev uzay tanrısı mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10420170_building_spotted_turret_03_play",
       "english": "A turret? Careful not to get punished!",
       "turkish": "Taret mi? Dikkat, sizi cezalandırmasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10420450_saw_death_01_10570_play",
       "english": "Deadpool's down? At least I can unmute my headset now…",
       "turkish": "Deadpool düştü mü? En azından artık kulaklığımın sesini açabilirim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10420385_interact_01_10540_b_play",
       "english": "Someone has to do it. Might as well be me.",
       "turkish": "Birinin bunu yapması gerekiyor. Ben yapayım bari.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10420420_sp_single_newyorkh02_01_play",
       "english": "Whoa. The past and future collide!",
       "turkish": "Vay canına. Geçmişle gelecek çarpışıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10420203_ko_ability_e_03_play",
       "english": "よくできた、くも!(Yoku dekita, kumo!)",
       "turkish": "よくできた、くも! (Yoku dekita, kumo!)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10420346_escorting_remind_klyntarh_02_play",
       "english": "We'd better move it, or Knull wins!",
       "turkish": "Harekete geçmeliyiz yoksa Knull kazanacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10420072_sp_interact_tokyo_01_10210_d_play",
       "english": "I really only know asians here… ごめんなさい!",
       "turkish": "Burada tanıdığım herkes Asyalı… ごめんなさい!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10420319_sp_interact_tokyo_01_10490_b_play",
       "english": "Really? What was it like?",
       "turkish": "Gerçekten mi? Nasıl bir şeydi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10420021_interact_01_10340_c_play",
       "english": "Actually, we've made some pretty serious advancements since that.",
       "turkish": "Aslında o zamandan beri bayağı önemli gelişmeler katettik.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10420324_sp_interact_tokyo_01_10480_d_play",
       "english": "Well, as long as you're visiting this timeline, you're welcome to help us fight to change that!",
       "turkish": "Hımm, hazır bu zaman çizgisindeyken bunu düzeltmemize yardımcı olabilirsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10420432_escorting_remind_newyorkh02_02_play",
       "english": "Really, New York?! And I thought Tokyo's traffic was bad!",
       "turkish": "Cidden mi, New York?! Tokyo’nun trafiği kötü sanırdım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10420139_ko_sp_01_10290_play",
       "english": "Goth is so out of style, Magik. Just like you.",
       "turkish": "Gotikliğin modası geçti Magik. Tıpkı senin gibi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10420061_sp_interact_tokyo_01_10330_d_play",
       "english": "Kidding! All we have to worry about is inter-dimensional attacks that will end reality!",
       "turkish": "Şaka şaka! Gerçekliğe son verebilecek, boyutlar arası saldırılardan başka endişelenecek hiçbir şey yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10420382_interact_01_10150_c_play",
       "english": "You're the one causing all of SP//dr's sensors to go haywire?",
       "turkish": "SP//dr'ın sensörlerini bozan kişi sen misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10420122_saw_enemy_01_play",
       "english": "Here comes trouble!",
       "turkish": "İşte bela yolda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10420299_building_destroy_octopus_02_play",
       "english": "SP//dr and I have neutralized Namor's nasties.",
       "turkish": "SP//dr ile Namor’un çirkin yaratıklarını etkisiz hâle getirdik.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10420426_escorting_payload_newyorkh02_02_play",
       "english": "Heroes in prison? Not cool. We have to help!",
       "turkish": "KAHRAMANLAR hapiste mi? Hiç Havalı değil. Yardım etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10420023_interact_01_10230_d_play",
       "english": "Not yet. But I'd be careful if I were you.",
       "turkish": "Henüz değil. Ama yerinde olsam dikkat ederdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10420045_sp_single_hydra_01_play",
       "english": "It takes a lot to give me the creepy crawlies, but this place does it.",
       "turkish": "Beni ürkütmek kolay değildir ama burası bunu başardı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10420337_escorting_payload_klyntarh_01_play",
       "english": "It's up to us to get this essence underground!",
       "turkish": "Bu özü yer altına götürmek bize kalmış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10420030_interact_01_10370_b_play",
       "english": "Spider's plating is made from carbon nano fibers and ceramics. It's magneto proof.",
       "turkish": "Örümcek'in kaplaması, karbon nanofiber ve seramikten yapılmadır. Magneto geçirmezdir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10420074_switch_01_play_p2",
       "english": "SP//dr is all powered up!",
       "turkish": "SP//dr güç dolu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10420212_ko_ace_03_play",
       "english": "やった!(Yatta)!We win!",
       "turkish": "やった! (Yatta!) Biz kazandık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10420379_interact_01_10210_a_play",
       "english": "Is your aim really as good as they say it is, Hawkeye-san?",
       "turkish": "Nişan alma yeteneğin gerçekten söylendiği kadar iyi mi, Hawkeye-san?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10420154_respawn_01_play",
       "english": "We're back in action!",
       "turkish": "Savaşa döndük!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10420381_interact_01_10150_a_play",
       "english": "Whoa. These atmospheric readings don't make any sense…",
       "turkish": "Vay canına. Bu atmosferik ölçümler hiç mantıklı değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10420027_interact_01_10320_d_play",
       "english": "I suppose we'll find out soon enough.",
       "turkish": "Sanırım yakında öğreneceğiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10420458_interact_02_10620_c_play",
       "english": "Or not. Clearly there's only room for one engine of destruction here… and you're it!",
       "turkish": "Ya da yapmayabilirim. Belli ki burada yalnızca bir yıkım makinesine yer var… ve o da sensin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10420200_ko_q_03_play",
       "english": "よっしゃあ!",
       "turkish": "よっしゃあ!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10420008_single_13_play",
       "english": "Pretty sure I'm still the coolest spider-hero in any reality.",
       "turkish": "Bence tüm gerçekliklerdeki en havalı örümcek kahraman hâlâ benim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10420044_interact_02_10140_d_play",
       "english": "I don't want to talk about revenge. I just want to carry on his work.",
       "turkish": "İntikam almak istemiyorum. Sadece babamın izinden gitmek istiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10420005_single_10_play",
       "english": "The Web of Life and Destiny is fragile. Someone has to protect it.",
       "turkish": "Yaşam ve Kader Ağı kırılgan bir şey. Birileri onu korumalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10420453_interact_01_10600_b_play",
       "english": "Easy! It's because I'm not from your reality, Director Han.",
       "turkish": "Kolay! Çünkü ben senin gerçekliğinden değilim, Direktör Han.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10420117_occupied_hint_attack_02_play",
       "english": "If we fight hard, we can win this!",
       "turkish": "Sıkı savaşırsak bunu kazanabiliriz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10420414_sp_ability_10260_01_play",
       "english": "Kinetic kick!",
       "turkish": "Kinetik tekme!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10420406_interact_01_10620_b_play",
       "english": "No. My father built the SP//dr suit. I just pilot it.",
       "turkish": "Hayır. SP//dr zırhını babam yaptı. Ben sadece onu kullanıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10420327_sp_interact_tokyo_01_10520_a_play",
       "english": "At the center of the Web of Life and Destiny sits the Master Weaver…",
       "turkish": "Yaşam ve Kader Ağı’nın merkezinde Usta Dokumacı bizi bekler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10420233_escorting_remind_tokyoe_02_play",
       "english": "ねえ... Did they name you Zero for your speed?",
       "turkish": "ねえ… Sana hızın yüzünden mi Zero demişler?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10420035_interact_01_10220_b_play",
       "english": "Cap, 大丈夫. SP//dr will protect me.",
       "turkish": "Kaptan, 大丈夫. SP//dr beni koruyacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10420242_quick_fallback_02_play",
       "english": "Time to retreat!",
       "turkish": "Geri çekilme zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10420283_signal_area_unoccupied_02_play",
       "english": "Taking control of this place is key.",
       "turkish": "Burasının kontrolünü ele geçirmek çok önemli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10420106_buff_dr_01_play",
       "english": "They can't hurt us now.",
       "turkish": "Artık bize zarar veremezler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10420298_building_destroy_octopus_01_play",
       "english": "Thanks, Namor. Now I can never eat sushi again!",
       "turkish": "Çok sağ ol Namor ya. Bir daha suşi yiyebileceğimi sanmıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10420082_ability_shift_01_play",
       "english": "You're up, little ones.",
       "turkish": "Sıra sizde miniklerim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10420310_interact_02_10350_d_play",
       "english": "Yeah, well, let me know if there's a change to the menu, okay?",
       "turkish": "İyi, peki ama menüde değişiklik olursa haber ver, tamam mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10420009_single_01_play",
       "english": "This isn't my first trip through the multiverse, you know.",
       "turkish": "Çoklu evrende ilk yolculuğum değil bu, herkesin de haberi olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10420250_quick_q_charge_100_02_play",
       "english": "All systems go!",
       "turkish": "Tüm sistemler hazır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10420124_saw_flank_01_play_p2",
       "english": "They're on your tail!",
       "turkish": "Düşman peşinizde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10420004_single_09_play",
       "english": "The spider controlling my suit is small, but fierce. Just like me.",
       "turkish": "Zırhımı komuta eden örümcek küçük ama tehlikelidir. Tıpkı benim gibi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10420371_sp_ability_10230_03_play",
       "english": "Extra-strength awesomeness!",
       "turkish": "Ekstra güçlü harikalık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10420173_building_spotted_nest_03_play",
       "english": "These spiders are cute, but deadly.",
       "turkish": "Bu örümcekler sevimli ama ölümcül.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10420370_sp_ability_10230_02_play",
       "english": "Check out these nests!",
       "turkish": "Bu yuvalara göz atın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10420034_interact_02_10310_c_play",
       "english": "そうなの, お婆さん loved to play them on the oldies station for me.",
       "turkish": "そうなの, お婆さん eski şarkılar çalan kanallara bayılırdı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10420050_sp_interact_wakanda_01_10260_a_play",
       "english": "Your empire's technology is unlike anything I've ever seen before!",
       "turkish": "İmparatorluğunun teknolojilerinin daha önce eşini benzerini görmedim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10420114_occupied_hint_defend_01_play",
       "english": "We can't let them take control.",
       "turkish": "Kontrolü ele geçirmelerine izin veremeyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10420273_signal_wheel_defend_01_play",
       "english": "We must defend this place!",
       "turkish": "Bu yeri savunmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10420264_signal_open_spot_02_play",
       "english": "Keep your eyes on this spot!",
       "turkish": "Gözlerinizi buradan ayırmayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10420439_ko_sp_01_10650_play",
       "english": "Absorb THIS, Rogue!",
       "turkish": "ŞUNU da em, Rogue!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10420403_sp_emote_10470_1047001217_05_play",
       "english": "And that's how we do it in Tokyo.",
       "turkish": "İşte Tokyo’da böyle yaparlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10420058_sp_interact_asgard_01_10240_a_play",
       "english": "あの(Ano), are you really the goddess of death?",
       "turkish": "あの (Ano), gerçekten ölüm tanrıçası mısın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10420249_quick_q_charge_100_01_play",
       "english": "SP//dr is fully charged!",
       "turkish": "SP//dr tamamen şarj oldu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10420312_sp_interact_tokyoh_01_80310_c_play",
       "english": "Then I guess it's up to us to be the change.",
       "turkish": "O zaman değişimi bizim getirmemiz gerekecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10420052_sp_interact_hydra_01_10410_a_play",
       "english": "How many of Hydra's secrets are hidden away in your brain?",
       "turkish": "Hydra’nın sırlarından kaçı beyninde saklı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10420255_quick_hp_normal_01_play",
       "english": "We're doing great!",
       "turkish": "Harika gidiyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10420218_ko_terrain_03_play",
       "english": "I'm sure you'll survive. Maybe.",
       "turkish": "Eminim bundan sağ çıkarsın. Belki.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10420401_sp_emote_10470_1047001217_03_play",
       "english": "You know what to do, spiders.",
       "turkish": "Siz ne yapacağınızı biliyorsunuz örümcekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10420060_sp_interact_tokyo_01_10330_b_play",
       "english": "Sure! Shouldn't bother you, though, right…Black Widow?",
       "turkish": "Elbette! Seni rahatsız etmez ama, değil mi… Black Widow?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10420322_sp_interact_tokyo_01_10510_d_play",
       "english": "Not in this timeline or any other, Thing-san.",
       "turkish": "Asla olmaz Taş Adam-san.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10420088_debuff_control_01_play",
       "english": "Why'd we stop, SP//dr?",
       "turkish": "Neden durduk SP//dr?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10420263_signal_open_spot_01_play",
       "english": "This is the place to watch.",
       "turkish": "Buraya göz kulak olmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10420362_sp_interact_klyntarh_01_10360_c_play",
       "english": "Don't worry. Symbiotes only bond with organic hosts, and I'm fully protected inside SP//dr.",
       "turkish": "Endişelenme. Sembiyotlar sadece organik konakçılarla bağ kurabilir ve ben de SP//dr’ın içinde tamamen güvendeyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10420017_interact_02_10360_a_play",
       "english": "Peter, have you… ever wondered if you're doing the right thing? You know, going out every night, putting your loved ones in danger?",
       "turkish": "Peter, hiç… Hiç doğru şeyi mi yapıyorum diye merak ettin mi? Yani her gece dışarı çıkıp sevdiklerini tehlikeye atarak?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10420415_sp_ability_10260_02_play",
       "english": "Full potential!",
       "turkish": "Tam potansiyel!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10420280_signal_wheel_backup_02_play",
       "english": "Anyone willing to help?",
       "turkish": "Yardım etmek isteyen var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10420318_sp_interact_tokyo_01_10251_c_play",
       "english": "That can't be easy.",
       "turkish": "Kolay değildir herhâlde.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10420197_ko_v_03_play",
       "english": "Another one down!",
       "turkish": "Birini daha indirdik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10420174_building_destroy_ankh_01_play",
       "english": "Whatever that ankh was, it's gone now.",
       "turkish": "Şu yaşam çarmıhı her neyse artık gitti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10420320_sp_interact_tokyo_01_10490_d_play",
       "english": "Okay… Don't get too nostalgic, old man!",
       "turkish": "Tamam… Daha fazla nostaljiye kapılmak yok ihtiyar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10420085_ability_shift_child_explode_01_play",
       "english": "Spiders get the job done.",
       "turkish": "Örümcekler iş bitiricidir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10420390_interact_01_10560_c_play",
       "english": "Well, I have a feeling that this battle is one that will make it into the history books.",
       "turkish": "Şey, bu savaşın GEÇMİŞ kitaplarına geçeceğini hissediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10420108_buff_purge_01_play",
       "english": "Good as new!",
       "turkish": "Gıcır gıcır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10420363_sp_interact_newyorke_01_10400_b_play",
       "english": "It's not so tough when you get used to it. You just need to speak SP//dr's language.",
       "turkish": "Alışınca o kadar zor değil. SP//dr'ın dilinden anlamak yetiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10420417_sp_ability_10260_01_play",
       "english": "Shield up!",
       "turkish": "Kalkanlar yukarı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10420183_building_destroy_turret_01_play",
       "english": "The turret is toast!どういたしまして!(Dou itashimashite!)",
       "turkish": "Tareti paramparça ettim! どういたしまして! (Dou itaşimaşite!)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10420339_escorting_payload_newyorke_01_play",
       "english": "We get a tour of New York City? Fun!",
       "turkish": "New York City’de tura mı çıkıyoruz? Yaşasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10420127_ko_normal_02_play",
       "english": "And that's how we do it in Tokyo.",
       "turkish": "İşte Tokyo’da böyle yaparlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10420109_buff_purge_02_play",
       "english": "Rebooted and ready to go!",
       "turkish": "Restart attım, başlamaya hazırım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10420350_escorting_remind_newyorkh_02_play",
       "english": "Let's go! Are we gonna end this curse or not?!",
       "turkish": "Haydi gidelim! Bu lanete son verecek miyiz vermeyecek miyiz?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10420225_escorting_payload_tokyoe_02_play",
       "english": "The Web of Life is counting on us!",
       "turkish": "Yaşam Ağı bize muhtaç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10420113_occupied_hint_engage_02_play",
       "english": "We'll need to put up a good fight.",
       "turkish": "İyi savaşmamız gerekecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10420335_sp_single_kunlun_01_play",
       "english": "K'un-Lun?! I thought this place was only in fairy tales!",
       "turkish": "K'un-Lun?! Bu yerin sadece masallarda olduğunu sanıyordum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10420094_debuff_weak_01_play",
       "english": "Not feeling so good.",
       "turkish": "Çok da iyi hissetmiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10420325_sp_interact_tokyo_01_10280_b_play",
       "english": "Yeah, I'm sure it's pretty advanced for an outdated A.I. like yours.",
       "turkish": "Evet, eminim seninki gibi eski moda bir YZ’ye göre gayet gelişmiştir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10420202_ko_ability_e_02_play",
       "english": "Boom go the spiders!",
       "turkish": "Örümcekler bum dedi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10420196_ko_v_02_play",
       "english": "Got 'em, SP//dr!",
       "turkish": "Hakladık onu SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10420172_building_spotted_nest_02_play",
       "english": "Spider-bots? Just like mine! Uh oh…",
       "turkish": "Örümcek botlar mı? Tıpkı benimkiler gibi! Eyvah…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10420342_escorting_payload_newyorkh_02_play",
       "english": "Off to a vampire's castle… What could go wrong?",
       "turkish": "Vampirin şatosuna doğru yola çıktık… Ne ters gidebilir ki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10420274_signal_wheel_defend_02_play",
       "english": "This area must be kept safe!",
       "turkish": "Bu bölgeyi güvende tutmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10420236_escorting_remind_wakandah_01_play",
       "english": "There might be a slight delay on the panther totem…",
       "turkish": "Panter totemi birazcık gecikebilir…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10420211_ko_ace_02_play",
       "english": "Wah? Was that really all of them?",
       "turkish": "Ne? Gerçekten hepsi bu kadar mıydı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10420020_interact_01_10340_a_play",
       "english": "I've always admired your work, Mr. Stark.",
       "turkish": "Bay Stark, üstün başarılarına hayranım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10420430_escorting_remind_museume_02_play",
       "english": "We don't turn back until everyone is free!",
       "turkish": "Herkes özgür olana kadar geri dönmeyeceğiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10420398_interact_02_10570_c_play",
       "english": "Sure, I may be young, but that won't stop me from saving the world!",
       "turkish": "Tabii ki genç olabilirim, ama bu beni dünyayı kurtarmaktan alıkoyamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10420204_ko_three_01_play",
       "english": "That makes three!",
       "turkish": "Bu da üç etti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10420372_sp_single_kunlunec_01_play",
       "english": "Seriously? The Spider-Kingdom didn't choose me as their Immortal Weapon? Weak!",
       "turkish": "Cidden mi? Örümcek Krallığı ölümsüz silahları olarak beni seçmedi mi? Zayıf!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10420132_ko_sp_01_10360_play",
       "english": "Guess it takes a spider to beat one!",
       "turkish": "Demek ki örümcek örümceği yeniyormuş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10420147_saw_death_01_10160_play",
       "english": "This is just one of your tricks, right, Loki?",
       "turkish": "Bu da numaralarından biri, değil mi Loki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10420234_escorting_remind_tokyoh_01_play",
       "english": "We need to move faster, Zero!",
       "turkish": "Daha hızlı hareket etmeliyiz Zero!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10420413_entrance_02_10230_play",
       "english": "Time for some major upgrades, right, Rocket?",
       "turkish": "Sağlam geliştirmelerin zamanı geldi, değil mi Rocket?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10420326_sp_interact_tokyo_01_10280_d_play",
       "english": "Believe it or not, a psychic spider. Good luck hacking that!",
       "turkish": "İster inan ister inanma ama psişik bir örümcek. Kolaysa hackle bakalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10420376_escorting_remind_kunlunh_02_play",
       "english": "Keep pushing ahead. It's time to wake the dragon!",
       "turkish": "İleriye doğru itmeye devam edin. Ejderhayı uyandırma zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10420282_signal_area_unoccupied_01_play",
       "english": "We need to secure the area.",
       "turkish": "Bu bölgeyi ele geçirmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10420285_signal_area_occupied_02_play",
       "english": "Don't let them seize control.",
       "turkish": "Kontrolü ele geçirmelerine izin vermeyin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10420036_interact_01_10220_d_play",
       "english": "If I end up a super-cool cyborg assassin, I promise I won't blame you. Deal?",
       "turkish": "Süper havalı bir sayborg suikastçı olursam seni suçlamam, söz. Anlaştık mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10420408_interact_01_10250_b_play",
       "english": "It totally is! SP//dr and I are synced. Separate entities, but we work together as a team.",
       "turkish": "Kesinlikle öyle! SP//dr’la senkronizeyiz. Ayrı varlıklarız ama TAKIM olarak birlikte çalışıyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10420206_ko_three_03_play",
       "english": "Three for me!",
       "turkish": "Üçü bana!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10420213_revenge_01_play",
       "english": "You had that coming.",
       "turkish": "Bunu hak ettin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10420259_quick_confirm_01_play",
       "english": "わかった!",
       "turkish": "わかった!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10420010_single_02_play",
       "english": "The Master Weaver is not going to be thrilled with me for jumping around realities…",
       "turkish": "Usta Dokumacı farklı gerçekliklerde gezdiğim için bana kızacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10420222_escorting_payload_asgarde_01_play",
       "english": "Keep forging ahead!",
       "turkish": "İlerlemeye devam edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10420169_building_spotted_turret_02_play",
       "english": "Looks like the Punisher is upping his game.",
       "turkish": "Görünüşe bakılırsa Punisher kendini aşmış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10420300_building_destroy_octopus_03_play",
       "english": "This is officially a squid-free zone!",
       "turkish": "Resmen kalamarlardan kurtulduk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10420457_interact_02_10620_a_play",
       "english": "You sure can cause a lot of damage, Devil. Maybe I should build a bigger SP//dr suit to keep up!",
       "turkish": "Epey Hasar verebiliyorsun, Devil. Ayak uydurmak için daha büyük bir SP//dr zırhı yapmam gerekebilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10420145_saw_ko_01_10330_play",
       "english": "And that's why you're a legend, Widow.",
       "turkish": "İşte bu yüzden sen bir efsanesin Widow.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10420328_sp_interact_tokyo_01_10520_c_play",
       "english": "Umm… No…",
       "turkish": "Şey… Hayır…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10420011_single_03_play",
       "english": "I can't let Doom do any more damage to the Web of Life and Destiny.",
       "turkish": "Doom’un Yaşam ve Kader Ağı’na daha fazla hasar vermesini göze alamam.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10420314_sp_interact_tokyo_01_10350_c_play",
       "english": "But those threads are literally holding the entire universe together!",
       "turkish": "Ama tüm evreni o iplikler bir arada tutuyor! Harbiden!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10420071_sp_interact_tokyo_01_10210_b_play",
       "english": "Or he's your reality's version of me!",
       "turkish": "Ya da o, benim sizin gerçeklikteki bir versiyonum gibi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10420191_ko_sniper_03_play",
       "english": "That sniper wasn't the only one with good aim!",
       "turkish": "İyi nişan alan tek o keskin nişancı değilmiş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10420400_sp_emote_10470_1047001217_02_play",
       "english": "SP//dr mode!",
       "turkish": "SP//dr modu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10420056_sp_interact_tokyo_01_10360_a_play",
       "english": "The Web of Life and Destiny. Ever seen so many strands before?",
       "turkish": "Yaşam ve Kader Ağı. Daha önce hiç bu kadar çok ipliği bir arada görmüş müydün?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10420261_quick_thanks_01_play",
       "english": "有り難う!",
       "turkish": "有り難う!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10420116_occupied_hint_attack_01_play",
       "english": "Web-Warriors, let's take this place!",
       "turkish": "Ağ Savaşçıları, burayı alalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10420315_sp_interact_tokyo_01_10380_b_play",
       "english": "Yeah. We call it the Web of Life and Destiny. Pretty cool, right?",
       "turkish": "Evet. Buna Yaşam ve Kader Ağı diyoruz. Çok havalı değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10420148_saw_death_01_10360_play",
       "english": "No! Spideys don't go down this easy!",
       "turkish": "Olamaz! Örümcekler böyle kolay yenilmez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10420349_escorting_remind_newyorkh_01_play",
       "english": "Almost to the castle… I hope…",
       "turkish": "Şatoya geldik sayılır… Umarım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10420402_sp_emote_10470_1047001217_04_play",
       "english": "Perfect hit, SP//dr!",
       "turkish": "Mükemmel vuruştu SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10420437_ko_sp_01_10600_play",
       "english": "Threat identified, Director Han. It's me!",
       "turkish": "Tehdit tespit edildi, Direktör Han. Benim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10420110_occupied_celebrate_01_play",
       "english": "We did it, SP//dr!",
       "turkish": "Başardık SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10420031_interact_01_10370_d_play",
       "english": "Not before SP//dr finds you, old man.",
       "turkish": "Önce SP//dr seni bulur ihtiyar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10420397_interact_02_10570_a_play",
       "english": "Wade-san, ready to team-up for some hardcore action?",
       "turkish": "Wade-san, sert bir aksiyon için ekip olmaya hazır mısın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10420162_building_spotted_ankh_01_play",
       "english": "Some sort of ancient ankh?",
       "turkish": "Bu bir tür antik yaşam çarmıhı mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10420168_building_spotted_turret_01_play",
       "english": "The Punisher set up a turret.",
       "turkish": "Punisher taret kurdu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10420105_buff_shield_02_play",
       "english": "This should keep us safe.",
       "turkish": "Bu bizi korur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10420152_healthpack_01_play",
       "english": "I needed that!",
       "turkish": "Bu iyi geldi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10420026_interact_01_10320_b_play",
       "english": "You have a fully-weaponized spider robot as well?",
       "turkish": "Senin de mi silahlarla donatılmış bir örümcek robotun var?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10420291_signal_no_02_play",
       "english": "Sorry, but no.",
       "turkish": "Pardon ama hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10420007_single_12_play",
       "english": "My dad built SP//dr for himself, but I feel like I was born to pilot it.",
       "turkish": "Babam SP//dr’ı kendisi için yapmıştı ama ben sanki onu kullanmak için doğmuşum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10420209_ko_five_03_play",
       "english": "We're on a roll, SP//dr!",
       "turkish": "Formumuzdayız SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10420019_interact_01_10490_c_play",
       "english": "ええと…I think I'll just stick to math class…",
       "turkish": "ええと… En iyisi ben matematikten şaşmayayım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10420221_enemy_advanced_03_play",
       "english": "How are there so many of them!",
       "turkish": "Onlardan nasıl bu kadar fazla olabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10420384_interact_03_10330_c_play",
       "english": "Then you aren't one of the most dangerous and elusive spies they've ever faced?",
       "turkish": "O zaman onların karşılaştığı en tehlikeli ve kaçması en zor casuslardan biri değil misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10420366_sp_interact_arakkoe_01_10410_d_play",
       "english": "Okay, fair. I guess we'll have to keep an extra eye on Ultron… and on you…",
       "turkish": "Tamam, haklısın. Sanırım gözümüzü Ultron’dan hiç ayırmamalıyız… Senden de…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10420388_interact_01_10440_c_play",
       "english": "Really? My father passed the SP//dr armor down to me when he died.",
       "turkish": "Cidden mi? Babam öldüğünde SP//dr zırhını bana bıraktı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10420334_sp_single_klyntarec_01_play",
       "english": "I don't like this place either, SP//dr. It gives me the creeps…",
       "turkish": "Ben de burayı sevmiyorum, SP//dr. Tüylerimi diken diken ediyor...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10420270_signal_wheel_enemy_spot_02_play",
       "english": "Enemies at this location.",
       "turkish": "Bu konumda düşmanlar var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10420316_sp_interact_tokyo_01_10380_d_play",
       "english": "We spiders may not get a lot of credit, but we're always here to help.",
       "turkish": "Bazen biz örümceklerin hakkı yense de daima yardım etmeye hazırız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10420181_building_destroy_amplifier_02_play",
       "english": "Rocket's amplifier is disabled.",
       "turkish": "Rocket'ın kuvvetlendiricisi kapatıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10420387_interact_01_10440_a_play",
       "english": "So… did you get your powers when you were bitten by a vampire?",
       "turkish": "Yani… güçlerini bir vampir tarafından ısırıldığında mı kazandın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10420001_select_01_play",
       "english": "I'm here to finish the fight that my father began. I hope I make him proud.",
       "turkish": "Babamın başlattığı savaşı bitirmeye geldim. Umarım benimle gurur duymasını sağlayabilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10420167_building_spotted_portal_03_play",
       "english": "Strange opened a portal!",
       "turkish": "Strange bir portal açtı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10420392_interact_01_10550_d_play",
       "english": "Sorry. I get excited when its time to save all of time and space! You know how it is…",
       "turkish": "Üzgünüm. Tüm zaman ve mekânı kurtarma zamanı geldiğinde heyecanlanıyorum! Nasıl olduğunu biliyorsun...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10420412_entrance_01_10230_play",
       "english": "Watch your step! It's about to get real sticky around here!",
       "turkish": "Adımına dikkat et! Buralar birazdan fena yapış yapış olacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10420150_saw_death_01_10240_play",
       "english": "Never thought I'd be sad to see Death get defeated.",
       "turkish": "Ölüm Tanrıçası'nın yenildiğini gördüğümde üzüleceğimi hiç sanmazdım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10420313_sp_interact_tokyo_01_10350_a_play",
       "english": "See those webs? We have to protect them at all costs.",
       "turkish": "Şu ağları görüyor musun? Onları ne pahasına olursa olsun korumalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10420356_interact_01_10530_d_play",
       "english": "I've gotten used to them. They don't bother me anymore… except at feeding time. Yuck!",
       "turkish": "Onlara alıştım. Artık beni rahatsız etmiyorlar… Yemek saati hariç. Iyy!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10420051_sp_interact_wakanda_01_10260_c_play",
       "english": "やった! ええと, I mean… That would be an honor… your majesty…",
       "turkish": "やった! ええと, yani… Onur duyarım… Majesteleri…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10420195_ko_v_01_play",
       "english": "This is almost too easy.",
       "turkish": "Neredeyse fazla kolay diyeceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10420377_interact_02_10230_b_play",
       "english": "It's more than just a suit of armor. SP//dr's my partner. Kinda like your tree.",
       "turkish": "Bu sadece bir zırh değil. SP//dr benim ortağım. Senin ağacın gibi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10420064_sp_interact_tokyo_01_10310_b_play",
       "english": "Ohh, right, you're from the past. Is there, like electricity in your Tokyo?",
       "turkish": "Aa, doğru, sen geçmiştensin. Senin zamanının Tokyo’sunda elektrik falan var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10420295_building_spotted_octopus_01_play",
       "english": "Whoa. Those are some angry octopi!",
       "turkish": "Amanın. Şu ahtapotlar ne kızgınmış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10420444_saw_ko_01_10560_play",
       "english": "You really are an angel!",
       "turkish": "Gerçekten bir meleksin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10420024_interact_02_10330_a_play",
       "english": "The Black Widow? It's really you! I thought you were just a legend.",
       "turkish": "Black Widow? Gerçekten de senmişsin! Seni sadece efsane sanıyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10420423_escorting_payload_museume_01_play",
       "english": "No one belongs in a museum! We have to do something!",
       "turkish": "Kimsenin yeri müze değil! Bir şeyler yapmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10420290_signal_no_01_play",
       "english": "やだね!",
       "turkish": "やだね!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10420123_saw_enemy_02_play",
       "english": "Whoever they are, they don't look friendly.",
       "turkish": "Bunlar her kimse pek dost canlısı görünmüyorlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10420134_ko_sp_01_10230_play",
       "english": "Shoulda kept your hands off my tech, fuzzball!",
       "turkish": "Sana makineme dokunma demiştim kıl yumağı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10420323_sp_interact_tokyo_01_10480_b_play",
       "english": "To be fair, we've done our best to keep Alchemax at bay.",
       "turkish": "Haksızlık olmasın, Alchemax’ı uzak tutmak için elimizden geleni yaptık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10420102_buff_endure_01_play",
       "english": "Nothing can stop us!",
       "turkish": "Bizi hiçbir şey durduramaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10420241_quick_fallback_01_play",
       "english": "We need to fall back!",
       "turkish": "Geri çekilmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10420383_interact_03_10330_a_play",
       "english": "I've read all the reports about what you've been doing in Tokyo, Widow…",
       "turkish": "Tokyo'da yaptıklarınla ilgili tüm raporları okudum, Widow…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10420107_buff_dr_02_play",
       "english": "SP//dr can handle anything!",
       "turkish": "SP//dr her şeyle başa çıkabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10420355_interact_01_10530_b_play",
       "english": "Yeah. I'm connected to the spider that helps me pilot this armor.",
       "turkish": "Evet. Bu zırhı kullanmama yardım eden örümcekle bağlıyım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10420253_quick_group_up_01_play",
       "english": "Let's form a cluster!",
       "turkish": "Grup olalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10420284_signal_area_occupied_01_play",
       "english": "We can't lose our advantage.",
       "turkish": "Avantajımızı kaybetmemeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10420163_building_spotted_ankh_02_play",
       "english": "One of Moon Knight's ankhs.",
       "turkish": "Moon Knight'ın yaşam çarmıhlarından biri.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10420215_revenge_03_play",
       "english": "That'll teach you!",
       "turkish": "Bu da sana ders olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10420144_saw_ko_01_10270_play",
       "english": "Two points for the talking tree!",
       "turkish": "Konuşan ağaca iki puan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10420266_signal_broken_02_play",
       "english": "The perfect place to do some damage.",
       "turkish": "Biraz hasar vermek için muhteşem bir yer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10420455_interact_01_10610_a_play",
       "english": "Umm… why are you looking at SP//dr like that, Ms. Hardy?",
       "turkish": "Şey… Bayan Hardy, SP//dr’a neden öyle bakıyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10420126_ko_normal_01_play",
       "english": "SP//dr for the win!",
       "turkish": "Bir numarasın SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10420178_building_destroy_beacon_02_play",
       "english": "Broke that blasted beacon!",
       "turkish": "O sinir bozucu feneri yok ettim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10420100_buff_dmg_01_play",
       "english": "Full arsenal primed.",
       "turkish": "Tüm cephanelik hazır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10420002_single_07_play",
       "english": "SP//dr is more than just a mechanized suit of armor. It's my best friend.",
       "turkish": "SP//dr, mekanik bir zırhtan çok daha fazlasıdır. Ayrıca en yakın dostumdur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10420279_signal_wheel_backup_01_play",
       "english": "We could really use a hand.",
       "turkish": "Biraz yardıma hayır demeyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10420096_buff_heal_noncritical_01_play",
       "english": "Powering up…",
       "turkish": "Güç toplanıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10420292_sp_ability_10350_01_play",
       "english": "Symbiote sheath activated!",
       "turkish": "Sembiyot zırhı etkinleştirildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10420380_interact_01_10210_c_play",
       "english": "That's cool… but could you hit one in a totally different timeline?",
       "turkish": "Bu harika… ama tamamen farklı bir zaman tünelinde birine vurabilir misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10420207_ko_five_01_play",
       "english": "Five points for SP//dr!",
       "turkish": "SP//dr’a beş puan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10420143_saw_ko_01_10360_play",
       "english": "That's some vintage spider style!",
       "turkish": "İşte klasik örümcek stili!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10420260_quick_confirm_02_play",
       "english": "Yes. Of course.",
       "turkish": "Evet. Elbette.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10420359_interact_01_10570_b_play",
       "english": "It's a psychic-powered battlesuit that also happens to be my partner. No joyrides allowed!",
       "turkish": "Bu, aynı zamanda benim ortağım olan psişik güçle çalışan bir savaş zırhı. Keyfi sürüşlere izin yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10420059_sp_interact_asgard_01_10240_c_play",
       "english": "My father… Is he in your realm…?",
       "turkish": "Babam… Acaba babam senin diyarında mı?..",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10420347_escorting_remind_newyorke_01_play",
       "english": "We've got you covered, H.E.R.B.I.E.! Keep going!",
       "turkish": "Arkandayız H.E.R.B.I.E.! Yola devam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10420258_quick_hp_low_02_play",
       "english": "SP//dr's pretty busted.",
       "turkish": "SP//dr iyice hasar aldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10420317_sp_interact_tokyo_01_10251_a_play",
       "english": "Isn't the Web amazing? Strands that span the space between dimensions…",
       "turkish": "Ağ muhteşem bir şey değil mi? Boyutlar arasındaki boşluğa yayılmış iplikler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10420033_interact_02_10310_a_play",
       "english": "Luna Snow! I know all of your songs!",
       "turkish": "Luna Snow! Tüm şarkılarını biliyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10420089_debuff_control_02_play",
       "english": "Huh? System error?!",
       "turkish": "Ne? Sistem hatası mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10420256_quick_hp_normal_02_play",
       "english": "No problems here.",
       "turkish": "Bizde sorun yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10420190_ko_sniper_02_play",
       "english": "Guess who sniped the sniper?",
       "turkish": "Keskin nişancıyı kim vurdu, tahmin edin bakalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10420091_debuff_exhaust_02_play",
       "english": "Defenses are down.",
       "turkish": "Savunmalar devre dışı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10420205_ko_three_02_play",
       "english": "いち!に!さん!(Ichi! Ni! San!)",
       "turkish": "いち!に!さん! (İçi! Ni! San!)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10420338_escorting_payload_klyntarh_02_play",
       "english": "This is our best hope to take down Knull.",
       "turkish": "Knull’u alt etmek için en iyi umudumuz bu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10420232_escorting_remind_tokyoe_01_play",
       "english": "We can still do this, Spider-Zero!",
       "turkish": "Hâlâ başarabiliriz Spider-Zero!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10420416_sp_ability_10260_03_play",
       "english": "Juice it up!",
       "turkish": "Gücü artır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10420214_revenge_02_play",
       "english": "You asked for this.",
       "turkish": "Kendin kaşındın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10420037_interact_01_10330_b_play",
       "english": "Oh, all I have to do is interface with the spider in the suit's command cortex! She does all the hard work. Here, I’ll show you!",
       "turkish": "Aa, zırhın komuta korteksindeki örümcekle bağ kurmam yetiyor! İşin zor kısmını örümcek hallediyor. Bak, göstereyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10420224_escorting_payload_tokyoe_01_play",
       "english": "I've got your back, Zero. Always.",
       "turkish": "Arkanı kolluyorum Zero. Daima.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10420041_interact_02_10340_b_play",
       "english": "Check the logo! ほら, Parker Industries!",
       "turkish": "Logoya bak! ほら, Parker Industries!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10420399_sp_emote_10470_1047001217_01_play",
       "english": "It's SP//dr time!",
       "turkish": "SP//dr zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10420095_debuff_weak_02_play",
       "english": "Losing power fast…",
       "turkish": "Hızla güç kaybediyoruz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10420128_ko_normal_03_play",
       "english": "It just wasn't your day.",
       "turkish": "Bugün şanssız günündesin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10420129_ko_normal_04_play",
       "english": "さよなら!（Sayonara!)",
       "turkish": "さよなら!（Sayonara!)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10420068_sp_interact_tokyo_01_10160_c_play",
       "english": "You didn't answer my question.",
       "turkish": "Soruma cevap vermedin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10420254_quick_group_up_02_play",
       "english": "Gather 'round!",
       "turkish": "Toplanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10420245_quick_q_charge_90_under_01_play",
       "english": "Systems charging…",
       "turkish": "Sistemler şarj oluyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10420330_sp_single_newyorkh_01_play",
       "english": "Just call me Vampire Hunter P!",
       "turkish": "Artık bana Vampir Avcısı P diyebilirsiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10420364_sp_interact_newyorke_01_10400_d_play",
       "english": "You've already got all the brains you need. We're better off taking the battle to the streets!",
       "turkish": "Kafası çalışan herkes zaten seninle. Biz en iyisi sokaklarda savaşa çıkalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10420171_building_spotted_nest_01_play",
       "english": "Those spiders look way too familiar.",
       "turkish": "Şu örümcekler bana fazla tanıdık geldi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10420047_sp_single_tokyo_01_play",
       "english": "Ahh, ただいま!",
       "turkish": "Ahh, ただいま!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10420358_interact_01_10280_d_play",
       "english": "Maybe not… but when it comes the two organic ones inside of him, I'm not convinced…",
       "turkish": "Belki de… Ama konu zırhın içindeki iki organik varlık olunca pek ikna olmuş sayılmam…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10420016_interact_01_10360_c_play",
       "english": "Huh. Maybe not. It is a big multiverse, after all.",
       "turkish": "Hımm. Belki de öyledir. Sonuçta çoklu evren kocaman bir yer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10420393_interact_01_10580_b_play",
       "english": "No, no, no, no! SP//dr is a friend, I swear! Please don't blow us up!",
       "turkish": "Hayır, hayır, hayır, hayır! SP//dr bir arkadaş, yemin ederim! Lütfen bizi havaya uçurma!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10420452_interact_03_10570_c_play",
       "english": "Actually, I thought you were Spider-Man. It was an easy mistake to make.",
       "turkish": "Aslında seni Örümcek Adam sandım. Bu, yapılması kolay bir hataydı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10420227_escorting_payload_tokyoh_02_play",
       "english": "We need to finish this. For the Web.",
       "turkish": "Bu işi bitirmeliyiz. Ağ için.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10420454_interact_01_10600_d_play",
       "english": "Well, let's be honest. Nothing really makes much sense anymore. But hopefully we can fix that.",
       "turkish": "Hadi dürüst olalım. Artık hiçbir şey pek mantıklı gelmiyor. Ama umarım bunu düzeltebiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10420226_escorting_payload_tokyoh_01_play",
       "english": "Go go, Spider-Zero!",
       "turkish": "Haydi Spider-Zero, haydi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10420075_switch_02_play_p2",
       "english": "I've got SP//dr on standby.",
       "turkish": "SP//dr hazırda bekliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10420243_quick_hi_01_play",
       "english": "こんにちは!",
       "turkish": "こんにちは!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10420451_interact_03_10570_a_play",
       "english": "Peter-san! There you -- Oh. Gomen nasai! I thought you were someone else.",
       "turkish": "Peter-san! İşte oradasın— Ah. Gomen nasai! Seni başka biri sandım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10420311_sp_interact_tokyoh_01_80310_a_play",
       "english": "Anything new around here since I got sucked into all this reality-hopping nonsense, Zero?",
       "turkish": "Gerçeklikler arasında zıplayıp durduğumdan bu yana buralarda yeni bir şeyler oldu mu Zero?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10420039_interact_01_10310_a_play",
       "english": "Luna Snow!",
       "turkish": "Luna Snow!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10420354_interact_03_10340_d_play",
       "english": "The right choices never are. But that doesn't mean we stop making them.",
       "turkish": "Doğru seçimi yapmak asla kolay değildir ama yine de bundan vazgeçemeyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10420340_escorting_payload_newyorke_02_play",
       "english": "Aww! Look at the little bot, SP//dr! How cute!",
       "turkish": "Yaa! Şu küçük bota da bak SP//dr! Çok sevimli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10420198_ko_q_01_play",
       "english": "Perfect hit, SP//dr!",
       "turkish": "Mükemmel vuruştu SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10420396_interact_01_10650_d_play",
       "english": "If we've gotta save the timestream, we might as well look good doing it, right?",
       "turkish": "Eğer zaman akışını kurtarmamız gerekiyorsa, bunu yaparken iyi görünmeliyiz, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10420014_single_06_play",
       "english": "なに, You were expecting Peter Parker? Please!",
       "turkish": "なに, Peter Parker’ı mı bekliyordun? Hadi canım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10420410_entrance_01_10260_play",
       "english": "Feel that energy, SP//dr? Time to let it flow!",
       "turkish": "O enerjiyi hissediyor musun, SP//dr? Akıtma zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10420289_signal_vehicle_as_defend_02_play",
       "english": "Stop that vehicle!",
       "turkish": "Şu aracı durdurun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10420083_ability_shift_02_play",
       "english": "I'm counting on you, friends.",
       "turkish": "Size güveniyorum dostlarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10420333_sp_single_klyntarc_01_play",
       "english": "Wow… I thought I had a big suit of armor…",
       "turkish": "Vay… Benim büyük bir zırhım olduğunu sanıyordum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10420028_interact_01_10350_a_play",
       "english": "Venom? I've heard stories about you. And the chaos you caused for countless spider-heroes.",
       "turkish": "Venom? Hakkında çok hikâye duydum. Sayısız örümcek kahramanın başına ne gibi belalar açtığını da.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10420158_respawn_05_play",
       "english": "Ready for another go, SP//dr?",
       "turkish": "Yeniden denemeye hazır mısın SP//dr?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10420368_sp_interact_klyntarc_01_10430_c_play",
       "english": "Wait… the same Knull we're supposed to be fighting against? You're kidding me…",
       "turkish": "Bekle… Savaşmamız gereken aynı Knull mu? Şaka yapıyorsun…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10420043_interact_02_10140_b_play",
       "english": "It was my dad's. He died piloting it and then I took over.",
       "turkish": "Babamındı. Onu kullanırken öldü. Sonra da yerine ben geçtim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10420097_buff_heal_noncritical_02_play",
       "english": "Systems restoring…",
       "turkish": "Sistemler kurtarılıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10420286_signal_vehicle_as_attack_01_play",
       "english": "That vehicle needs our support.",
       "turkish": "Bu aracın desteğimize ihtiyacı var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10420084_ability_shift_03_play",
       "english": "You know what to do, spiders.",
       "turkish": "Siz ne yapacağınızı biliyorsunuz örümcekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10420271_signal_wheel_attack_01_play",
       "english": "Focus your fire here!",
       "turkish": "Buraya yoğun ateş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10420086_ability_shift_child_explode_02_play",
       "english": "Ooh! I know that sound!",
       "turkish": "Aa! Bu sesi tanıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10420179_building_destroy_beacon_03_play",
       "english": "Sorry, Rocket. No more reviving here.",
       "turkish": "Üzgünüm Rocket. Artık burada kimse dirilmeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10420394_interact_01_10580_d_play",
       "english": "Yep, we hear you, Gambit. Loud and clear.",
       "turkish": "Evet, seni duyuyoruz Gambit. Hem de gayet net.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10420013_single_05_play",
       "english": "Whoa. These chronal energy readings are gonna blow out your sensors, SP//dr!",
       "turkish": "Vay canına. Bu zamansal enerji değerleri yüzünden sensörlerin patlayacak SP//dr!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10420029_interact_01_10350_c_play",
       "english": "So, you never tried to eat Spider-Man's brains then?",
       "turkish": "O zaman Örümcek Adam’ın beynini yemeye hiç çalışmadın mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10420424_escorting_payload_museume_02_play",
       "english": "We have a duty to return these creatures safely home.",
       "turkish": "Bu yaratıkları güvenle evlerine geri götürmek bizim görevimiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10420118_countdown_at_01_play",
       "english": "Hurry! We're running out of time!",
       "turkish": "Acele edin! Zamanımız tükeniyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10420157_respawn_04_play",
       "english": "Don't count us out yet!",
       "turkish": "Henüz pes ettik sanmayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10420231_escorting_remind_asgarde_02_play",
       "english": "We have to save Yggdrasill!",
       "turkish": "Yggdrasill’i kurtarmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10420025_interact_02_10330_c_play",
       "english": "If you came out of the shadows, that must mean…",
       "turkish": "Gölgelerden çıkmışsın, bu durumda…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10420073_sp_interact_tokyo_01_10230_b_play",
       "english": "It reminds me of my duty. Plus it's awesome!",
       "turkish": "Bana görevimi hatırlatıyor. Hem harika bir şey bu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10420440_ko_sp_01_10640_play",
       "english": "Show's over, Jubilee.",
       "turkish": "Gösteri bitti, Jubilee.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10420098_buff_heal_critical_01_play",
       "english": "ありがとう!(Arigato!)I needed that boost!",
       "turkish": "ありがとう! (Arigato!) Bu desteğe ihtiyacım vardı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10420149_saw_death_01_10340_play",
       "english": "You've gotta reboot, Tony. We need you!",
       "turkish": "Sistemini yeniden başlat Tony. Sana ihtiyacımız var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10420321_sp_interact_tokyo_01_10510_b_play",
       "english": "SP//dr is not a robot, Mr. Grimm. It is a highly advanced mech suit.",
       "turkish": "SP//dr robot değildir Bay Grimm. Son derece gelişmiş bir meka zırhtır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10420054_sp_interact_tokyo_01_10340_b_play",
       "english": "If you want a fancy toaster, いいんじゃない(iinjanai)?",
       "turkish": "Lüks bir tost makinesi almak istersen いいんじゃない (iinjanai)?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10420461_interact_02_10640_a_play",
       "english": "Yabai! Jubilee! When I read about the X-Men, you're always my favorite!",
       "turkish": "Yabai! JUBILEE! X-Men’i okurken hep favorim sensin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10420093_debuff_purple_02_play",
       "english": "Repair functions offline!",
       "turkish": "Tamir özelliği çevrim dışı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10420192_ko_assist_01_play",
       "english": "We make quite a team.",
       "turkish": "Harika bir ekip olduk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10420220_enemy_advanced_02_play",
       "english": "Too many enemies!",
       "turkish": "Çok fazla düşman var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10420049_sp_single_klyntar_01_play",
       "english": "A planet of symbiotes is no place for a SP//dr. Or a teenager for that matter!",
       "turkish": "Sembiyotlarla dolu bir gezegen, SP//dr’a uygun bir yer değil. Genç bir kıza da tabii!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10420429_escorting_remind_museume_01_play",
       "english": "Let's roll, preferably before the Collector catches us!",
       "turkish": "Hadi gidelim; mümkünse Koleksiyoncu bizi yakalamadan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10420411_entrance_02_10260_play",
       "english": "We won't let you or Wakanda down, your majesty!",
       "turkish": "Sizi de Wakanda'yı da yüzüstü bırakmayacağız, Majesteleri!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10420246_quick_q_charge_90_under_02_play",
       "english": "Powering up…",
       "turkish": "Güç toplanıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10420247_quick_q_charge_90_higher_01_play",
       "english": "Almost to full power…",
       "turkish": "Tam güce az kaldı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10420287_signal_vehicle_as_attack_02_play",
       "english": "We have to keep things moving.",
       "turkish": "Bu şeyi ilerletmeye devam etmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10420015_interact_01_10360_a_play",
       "english": "Peter? ねえ… Is it really you? I haven't seen you in ages!",
       "turkish": "Peter? ねえ… Bu gerçekten de sen misin? Kaç zamandır görüşemedik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10420201_ko_ability_e_01_play",
       "english": "Good job, spiders!",
       "turkish": "Aferin örümcekler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10420146_saw_ko_01_10430_play",
       "english": "Okay. Quit showing off, Star-Lord.",
       "turkish": "Peki. Şov yapmayı bırak Star-Lord.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10420369_sp_ability_10230_01_play",
       "english": "Spider-Nests upgraded!",
       "turkish": "Örümcek Yuvaları yükseltildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10420120_countdown_dt_01_play",
       "english": "Just keep fighting a little longer!",
       "turkish": "Savaşmaya birazcık daha devam edelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10420121_countdown_dt_02_play",
       "english": "Hold the line. We've got this!",
       "turkish": "Dayanın. Bu iş bizde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10420022_interact_01_10230_b_play",
       "english": "C'mon, Rocket. You know SP//dr isn't for sale.",
       "turkish": "Yapma Rocket. SP//dr satılık değil. Bunu biliyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10420087_ability_shift_child_explode_03_play",
       "english": "My trap worked!",
       "turkish": "Tuzağım işe yaradı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10420135_ko_sp_01_10140_play",
       "english": "Looks like I'm the one doing the punishing today!",
       "turkish": "Görünen o ki bugün cezalandırmak bana düşüyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10420046_sp_single_asgard_01_play",
       "english": "So, this is where the viking gods live? Glad I brought my armor.",
       "turkish": "Yani viking tanrıları burada mı yaşıyor? İyi ki zırhımı getirmişim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10420062_sp_interact_tokyo_02_10360_b_play",
       "english": "When you teach me how to shoot webs and hang from the ceiling!",
       "turkish": "Sen bana ağ atmayı ve tavandan sarkmayı öğrettiğin zaman!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10420063_sp_interact_tokyo_02_10360_d_play",
       "english": "When we save the world, I'll let you take a ride.",
       "turkish": "Dünyayı kurtardığımızda binmene izin veririm.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10420159_saw_sniper_01_play",
       "english": "Sniper! Look out!",
       "turkish": "Keskin nişancı! Dikkat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10420003_single_08_play",
       "english": "Most spiders just climb walls. I'm psionically linked to a giant robot. I win!",
       "turkish": "Örümceklerin çoğu sadece duvara tırmanır. Bense devasa bir robotla psionik olarak bağlıyım. Ben kazandım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10420182_building_destroy_amplifier_03_play",
       "english": "Let's see how they do without this amplifier…",
       "turkish": "Bakalım bu kuvvetlendirici olmadan ne yapacaklar…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10420244_quick_hi_02_play",
       "english": "Oh, hi!",
       "turkish": "Aa, selam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10420296_building_spotted_octopus_02_play",
       "english": "Namor's brought in some freaky reinforcements…",
       "turkish": "Namor ucube takviye kuvvetler getirmiş…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10420185_building_destroy_turret_03_play",
       "english": "Back to regular-sized weapons for you, Punisher!",
       "turkish": "Normal boyutlu silahlarına dön Punisher!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10420165_building_spotted_portal_01_play",
       "english": "We found a portal!",
       "turkish": "Bir portal bulduk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10420119_countdown_at_02_play",
       "english": "The clock is ticking! Let's move!",
       "turkish": "Saat işliyor! Harekete geçelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10420446_saw_death_01_10590_play",
       "english": "Elsa's down, but the hunt isn't over!",
       "turkish": "Elsa düştü ama av bitmedi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10420012_single_04_play",
       "english": "まあ, how can I focus in class when there's a HUMONGOUS CRACK in the sky?!",
       "turkish": "まあ, gökte DEVASA bir YARIK varken derslerime nasıl odaklanabilirim?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10420235_escorting_remind_tokyoh_02_play",
       "english": "まあ... We should've just webbed our way there…",
       "turkish": "まあ… Keşke ağ atıp çıksaymışız…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10420251_quick_need_heal_01_play",
       "english": "SP//dr needs repairs. Bad.",
       "turkish": "SP//dr’ın tamire ihtiyacı var. Hem de çok fena.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10420130_ko_normal_05_play",
       "english": "You never stood a chance.",
       "turkish": "Kazanma şansın hiç yoktu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Rüzgar Bayram",
       "date": null,
       "note": null
@@ -5245,6 +5245,6 @@
       "note": null
     }
   ],
-  "dataRevision": "c96e398589b45d11",
-  "generatedAt": "2026-08-23T22:01:42.358844Z"
+  "dataRevision": "09a4145b3d31bdba",
+  "generatedAt": "2026-08-24T13:13:41.944374Z"
 }
