@@ -3,13 +3,13 @@
   "voiceActor": "Efe Karatepe",
   "summary": {
     "total": 488,
-    "waiting": 189,
-    "recorded": 299,
+    "waiting": 0,
+    "recorded": 0,
     "checked": 0,
-    "added": 0,
-    "worked": 299,
-    "progress": 61.27,
-    "status": "Devam Ediyor"
+    "added": 488,
+    "worked": 488,
+    "progress": 100.0,
+    "status": "Tamamlandi"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10360557_easter_egg_newyorkh02_01_play",
       "english": "Oh, man. So many memories…",
       "turkish": "Ah, dostum. Ne çok anı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10360285_quick_hp_low_02_play",
       "english": "I'm less-than-amazing.",
       "turkish": "Pek de muhteşem sayılmam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10360479_interact_01_10440_c_play",
       "english": "But those lousy vampires got exactly what they deserved in the end! Oh… Sorry… I…",
       "turkish": "Ama o berbat vampirler sonunda hak ettiklerini buldu! Ah… Üzgünüm… Ben…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10360278_quick_hi_02_play",
       "english": "Hi, neighbor!",
       "turkish": "Selam komşu!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10360213_building_destroy_beacon_03_play",
       "english": "Oh sorry, fresh out of armor packs!",
       "turkish": "Tüh! Zırh paketleri yeni bitti, kusura bakmayın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10360160_quick_hi_01_play",
       "english": "Oh hey!",
       "turkish": "Aa, selam!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10360342_sp_interact_klyntar_01_10440_a_play",
       "english": "Hey, Blade! What do symbiotes and vampires have in common?",
       "turkish": "Hey, Blade! Sembiyotlar ve vampirlerin ortak noktası nedir?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10360487_interact_01_10650_c_play",
       "english": "You're name is literally \"Rogue.\" How do I know you won't go… you?",
       "turkish": "Adın resmen \"Rogue.\" Sana nasıl güvenebilirim ki... kendin olmayacaksın?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10360064_sp_interact_tokyo_02_10420_c_play",
       "english": "Seriously? Because I have a radioactive spider right over here, ready to go.",
       "turkish": "Ciddi misin? Çünkü hemen şuracıkta seni bekleyen radyoaktif bir örümcek var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10360128_ko_sp_01_10440_play",
       "english": "You never could see beyond the… Blade.",
       "turkish": "Hiçbir zaman… Blade'in ötesini göremedin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10360422_interact_02_10570_d_play",
       "english": "I rest my case.",
       "turkish": "Söyleyeceklerim bu kadar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10360181_sp_interact_tokyo_01_10150_d_play",
       "english": "I guess not. It's just one of those weird things that you have to expect at a dimensional crossroads.",
       "turkish": "Sanırım değil. İnsan boyutlar arasında olunca bu tarz tuhaf şeylere alışmalı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10360495_sp_ability_10420_01_play",
       "english": "Web-splosive!",
       "turkish": "Ağ-patlayıcı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10360068_sp_interact_hydra_01_10220_c_play",
       "english": "What?",
       "turkish": "Ne?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10360465_interact_02_10240_d_play",
       "english": "I'd say you obviously didn't have an Uncle Ben to teach you right from wrong…",
       "turkish": "Sanırım doğru ile yanlışı öğretmek için bir Amca Ben'in olmadığını söyleyebilirim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10360215_building_destroy_amplifier_02_play",
       "english": "The CYA is DOA.",
       "turkish": "KİK sizlere ömür.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10360450_sp_interact_klyntarh_01_10420_d_play",
       "english": "Wow. I wish my partnership with Venom had been half as healthy as yours with your mech suit!",
       "turkish": "Vay be. Keşke Venom’la benim aramdaki ilişki de sen ve meka zırhının yarısı kadar sağlıklı olsaymış!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10360395_escorting_payload_arakkoe_03_play",
       "english": "Time to crash Ultron's system!",
       "turkish": "Ultron’un sistemini çökertelim bakalım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10360396_escorting_payload_arakkoe_04_play",
       "english": "Looks like we get to be Arakko's IT department!",
       "turkish": "Görünüşe bakılırsa Arakko’nun IT departmanı biz olduk!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10360085_debuff_purple_02_play",
       "english": "Don't heal me! It won't help.",
       "turkish": "Beni iyileştirmeyin! İşe yaramaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10360040_interact_01_10300_b_play",
       "english": "Do you see an unicorn in afro next to me?",
       "turkish": "Yanımda tek boynuzlu at görüyor musun?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10360566_saw_ko_01_10620_play",
       "english": "Always bet on the T. rex, kids!",
       "turkish": "Her zaman T. rex’e oynayın, çocuklar!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10360540_sp_emote_10470_1047001217_07_play",
       "english": "Too sticky for you!",
       "turkish": "Fazla mı yapıştın?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10360165_quick_group_up_01_play",
       "english": "We have to stick together!",
       "turkish": "Birbirimizden ayrılmamalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10360106_occupied_hint_defend_01_play",
       "english": "Here they come to kick us out.",
       "turkish": "Bizi kovmaya geliyorlar işte.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10360446_sp_interact_klyntarh_01_10330_d_play",
       "english": "Home? This sure doesn't look like Queens to me, lady!",
       "turkish": "Ev mi? Bence burası Queens’e hiç benzemiyor hanımefendi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10360398_escorting_remind_klyntarh_04_play",
       "english": "Knull's not taking over the universe if I have anything to say about it!",
       "turkish": "Burada kapı gibi ben dururken Knull evreni zor ele geçirir!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10360056_sp_single_klyntar_01_play",
       "english": "Symbiotes. Why did it have to be symbiotes?",
       "turkish": "Sembiyotlar. İlla sembiyot olmak zorunda mıydı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10360515_interact_01_10610_c_play",
       "english": "The world is about to end, Felicia! This really isn't the time for that…",
       "turkish": "Dünya sona ermek üzere, Felicia! Gerçekten şu an bunun zamanı değil…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10360224_ko_sniper_02_play",
       "english": "We got ninety-nine problems, but a sniper ain't one.",
       "turkish": "Bizde dertler bitmez ama en azından keskin nişancı derdimiz kalmadı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10360223_ko_sniper_01_play",
       "english": "I turned out the sniper's lights.",
       "turkish": "Keskin nişancıyı vuramaz hâle getirdim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10360262_escorting_payload_wakandah_01_play",
       "english": "Great! We made the new season of Wakandan Idol!",
       "turkish": "Müthiş! O Ses Wakanda’nın yeni sezonuna yetiştik!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10360089_buff_heal_noncritical_02_play",
       "english": "Nice!",
       "turkish": "Harika!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10360099_buff_dr_02_play",
       "english": "Go ahead, hit me!",
       "turkish": "Hadi, vur bakalım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10360550_entrance_02_10350_play",
       "english": "Thought I was done with symbiotes. But desperate times call for desperate partnerships…",
       "turkish": "Simbiyotlarla işim bitti sanıyordum. Ama çaresiz zamanlar çaresiz ortaklıklar gerektirir…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10360402_escorting_remind_newyorkh_04_play",
       "english": "Hang tight! We'll clear you a path to Dracula's place.",
       "turkish": "Sıkı tutun! Drakula’nın şatosuna kadar yolunu temizleyeceğiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10360206_building_spotted_nest_02_play",
       "english": "Spider nest, watch out!",
       "turkish": "Örümcek yuvası, dikkat edin!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10360025_interact_01_10570_c_play",
       "english": "Just an observation.",
       "turkish": "Sadece bir gözlem.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10360324_building_spotted_octopus_02_play",
       "english": "Is this the part where the crab starts singing?",
       "turkish": "Ee, yengeç ne zaman şarkı söylemeye başlayacak?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10360175_interact_02_10250_b_play",
       "english": "Whoa. That's a lot of pressure.",
       "turkish": "Of. Çok baskı altında hissettim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10360277_quick_fallback_02_play",
       "english": "We need to go. Like, now!",
       "turkish": "Gitmemiz lazım. Hem de hemen!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10360280_quick_q_charge_90_higher_02_play",
       "english": "I'll be ready soon. I swear!",
       "turkish": "Yakında hazır olacağım. Söz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10360344_sp_interact_tokyo_01_10500_a_play",
       "english": "Ya know, as cool as Future Spider City is, I'd rather be in Queens.",
       "turkish": "Bir şey diyeyim mi? Geleceğin Örümcek Şehri havalı mavalı ama Queens gibisi yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10360130_ko_sp_02_10220_play",
       "english": "Try to keep up, Uncle Sam.",
       "turkish": "Çağın gerisinde kalmışsın Sam Amca.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10360541_interact_02_10610_a_play",
       "english": "Spider-Man and the Black Cat, back together again. Just like old times.",
       "turkish": "Örümcek Adam ve KARA KEDİ, yine birlikte. Tıpkı eski günlerdeki gibi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10360116_saw_flank_01_play_p2",
       "english": "Look behind you!",
       "turkish": "Arkana bak!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10360061_sp_interact_wakandac_01_10340_a_play",
       "english": "Whooooa this place is AMAZING! What… Is that a holo projector?",
       "turkish": "Ohaaaaa burası HARİKAYMIŞ! Ne… Holo projektör mü şu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10360328_building_destroy_octopus_03_play",
       "english": "Octopi, octo-punched!",
       "turkish": "Kalamar kalamadı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10360107_occupied_hint_defend_02_play",
       "english": "They're not just gonna let us stay? Sheesh.",
       "turkish": "Kalmamıza vermeyecekler miymiş? Tüh be.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10360451_sp_interact_museume_01_10230_b_play",
       "english": "Sweet! I'm gonna eat too many corn dogs and ride the Whirly Whirl 'til I puke!",
       "turkish": "Harika! Çok fazla mısır köpeği yiyeceğim ve Whirly Whirl'e binip kusana kadar döneceğim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10360475_interact_02_10490_d_play",
       "english": "Sigh. Throw up in your mask once and they never let you forget it…",
       "turkish": "Ahh. Maskene bir kez kus ve bir daha asla unutmalarına izin verme…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10360273_easter_egg_tokyoh_02_play",
       "english": "Private police. They don't care about people. Just the people writing their checks.",
       "turkish": "Özel polis. İnsanlar umurlarında değil. Sadece aldıkları paraya bakıyorlar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10360233_ko_q_02_play",
       "english": "Once I get you stuck…game over.",
       "turkish": "Seni yapıştırdım mı bir kere… İşin biter.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10360034_interact_02_10320_a_play",
       "english": "Hey Doreen, so you gave your squirrels little shields and sticks?!",
       "turkish": "Ee Doreen, sincaplarına minik kalkanlar ve sopalar mı verdin?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10360353_interact_01_10240_a_play",
       "english": "I know why I'm in this fight… but what made you crawl out from under your rock?",
       "turkish": "Ben bu savaşta niye olduğumu biliyorum… Peki seni hangi rüzgâr attı buraya?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10360015_single_06_play",
       "english": "That spider could have bitten anyone, but it bit me. Pretty amazing luck.",
       "turkish": "O örümcek başka birilerini de ısırabilirdi ama beni ısırdı. İnanılmaz bir şans.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10360135_ko_sp_02_10320_play",
       "english": "Oh, man, I'll never be safe in Central Park again.",
       "turkish": "Of, var ya, Central Park’ta bir daha asla kendimi güvende hissetmeyeceğim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10360552_entrance_02_10420_play",
       "english": "Thanks for the upgrade, Peni! These Nano-Tracers really hit the mark!",
       "turkish": "Yükseltme için sağ ol, Peni! Bu Nano-İzleyiciler tam hedefi buluyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10360217_building_destroy_turret_01_play",
       "english": "Come on out, Frank!",
       "turkish": "Çık dışarı Frank!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10360013_single_04_play",
       "english": "This feels like an Avengers gig. Does that mean I've made it to the big leagues?",
       "turkish": "Bu sanki Yenilmezlere göre bir iş. O zaman üst lige çıktım mı demek?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10360183_sp_interact_tokyo_01_10420_d_play",
       "english": "I was going to go with \"amazing\"… but sure. That's \"amazing\" in Japanese, right?",
       "turkish": "Ben “muhteşem” diyecektim ama o da olur. Japonca “muhteşem” demek bu, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10360458_escorting_payload_kunlunh_01_play",
       "english": "I know a thing or two about deliveries. But this is a new one for me.",
       "turkish": "Teslimat işleri hakkında bir iki şey bilirim. Ama bu benim için yeni bir şey.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10360257_escorting_payload_asgarde_02_play",
       "english": "We're off to wreck the tapping machine!",
       "turkish": "Aktarım makinesini bozmaya çıkıyoruz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10360204_building_spotted_turret_03_play",
       "english": "Frank's gone full turret mode.",
       "turkish": "Frank taret moduna geçmiş.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10360476_interact_01_10540_b_play",
       "english": "Hey! I was the host for a powerful cosmic entity for a hot minute, too, ya know!",
       "turkish": "Hey! Ben de kısa bir süreliğine güçlü bir kozmik varlığa ev sahipliği yaptım, biliyorsun!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10360168_quick_confirm_01_play",
       "english": "One hundred percent.",
       "turkish": "Kesinlikle.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10360387_sp_single_kunlun_02_play",
       "english": "Huh. Everybody really is kung-fu fighting! How about that?",
       "turkish": "Hımm. Herkes gerçekten kung-fu yapıyor! Buna ne dersin?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10360219_building_destroy_turret_03_play",
       "english": "Punisher's out of the turret!",
       "turkish": "Punisher taretinden çıktı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10360539_sp_emote_10470_1047001217_06_play",
       "english": "Yoohoo, Spider-Jeff over here!",
       "turkish": "Aloo! Örümcek-Jeff burada!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10360038_interact_01_10390_b_play",
       "english": "Haven't plenty people lifted it already? There's Cap, Jane Foster, that alien horse guy…",
       "turkish": "Zaten bir dünya insan o çekici kaldırmamış mıydı? Kaptan, Jane Foster, şu uzaylı at adam…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10360226_ko_assist_01_play",
       "english": "Hey, we make a pretty good team.",
       "turkish": "Baksana, bizden iyi takım oldu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10360019_interact_02_10170_c_play",
       "english": "Yes! We're gonna save the world a crack dumb jokes while we do it.",
       "turkish": "Evet! Hem dünyayı kurtaracağız hem de aptal aptal şakalar yapacağız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10360225_ko_sniper_03_play",
       "english": "We are sniper-free. You're welcome.",
       "turkish": "Keskin nişancıdan kurtulduk. Rica ederim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10360448_sp_interact_newyorke_01_10570_d_play",
       "english": "You know… I think I might see if the other team needs an extra member…",
       "turkish": "Biliyor musun… Sanırım diğer takımın ekstra bir üyeye ihtiyacı olup olmadığını kontrol edeceğim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10360044_interact_01_10251_b_play",
       "english": "Sorry, not really a joiner. I mean, I can't even commit to the Avengers.",
       "turkish": "Kusura bakma, takımlara katılmayı pek sevmem. Mesela Yenilmezlere bile katılmış sayılmam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10360207_building_spotted_nest_03_play",
       "english": "Steer clear of the spider nest!",
       "turkish": "Örümcek yuvasına yaklaşmayın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10360081_debuff_control_02_play",
       "english": "A little help here?",
       "turkish": "Biraz yardım etseniz?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10360478_interact_01_10440_a_play",
       "english": "Sorry about that whole thing back at Central Park. We kinda blew it the first time…",
       "turkish": "Central Park'taki o olay için üzgünüm. İlk seferinde biraz batırdık…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10360094_buff_endure_01_play",
       "english": "Like, really invincible? Sweet!",
       "turkish": "Gerçekten yenilmez miyim? Müthiş!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10360457_sp_single_kunlunh_01_play",
       "english": "Sigh. I was kind of hoping everybody actually would be Kung-Fu fighting…",
       "turkish": "Of. Herkesin gerçekten Kung-Fu yapmasını umuyordum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10360086_debuff_weak_01_play",
       "english": "I feel like a wet noodle.",
       "turkish": "Üflesen düşecek gibiyim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10360447_sp_interact_newyorke_01_10570_b_play",
       "english": "I mean… Morbius. But he's a \"Living Vampire\"… so I'm not sure that counts…",
       "turkish": "Yani… Morbius. Ama o bir \"Yaşayan Vampir\"… bu yüzden emin değilim, bu sayılır mı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10360481_interact_01_10560_c_play",
       "english": "Aww! A widdle teeny Thor baby? If you ever need a sitter, I'm great with kids!",
       "turkish": "Aaa! Minik bir Thor bebeği mi? Eğer bir bakıcıya ihtiyacın olursa, çocuklarla aram çok iyidir!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10360216_building_destroy_amplifier_03_play",
       "english": "Seeya, CYA!",
       "turkish": "KİK’i kökünden hallettim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10360310_signal_area_occupied_02_play",
       "english": "Hold the fort, gang!",
       "turkish": "Savunmaya geçelim dostlar!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10360180_sp_interact_tokyo_01_10150_b_play",
       "english": "You know about the Spider-People?",
       "turkish": "Örümcek İnsanları duydun mu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10360103_occupied_celebrate_02_play",
       "english": "We did it! The area's under control.",
       "turkish": "Başardık! Bu bölge bizim kontrolümüzde.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10360498_sp_single_museume_01_play",
       "english": "A cosmic museum? Aunt May would love this place! I wonder if they offer a senior discount…",
       "turkish": "Kozmik bir müze mi? May Hala burayı çok severdi! Acaba yaşlılar için indirim yapıyorlar mı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10360382_sp_single_newyorkh_02_play",
       "english": "Vampires? I thought it was landlords who were bleeding New Yorkers dry!",
       "turkish": "Vampirler mi? Ben de New York halkının kanını ev sahipleri emiyor sanıyordum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10360314_signal_vehicle_as_defend_02_play",
       "english": "We can't let them go any farther.",
       "turkish": "Daha fazla ilerlemelerine göz yumamayız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10360263_escorting_payload_wakandah_02_play",
       "english": "We've got the king's kitty statue. Let's roll!",
       "turkish": "Kralın kedicik heykelini aldık. Haydi yola çıkalım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10360143_saw_death_01_10170_play",
       "english": "Johnny! Okay… Now I'm mad.",
       "turkish": "Johnny! Tamam… İşte şimdi kızdım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10360452_sp_interact_museume_01_10230_d_play",
       "english": "Admit it: You're just grumpy because you’re under the height limit!",
       "turkish": "İtiraf et: Sadece boy sınırının altında olduğun için huysuzsun!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10360073_q_p2_play_p2",
       "english": "You get a web, and you get a web, and you get a web!",
       "turkish": "Herkese benden ağ!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10360088_buff_heal_noncritical_01_play",
       "english": "That put some pep in my step!",
       "turkish": "Modum yerine geldi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10360269_escorting_remind_tokyoh_02_play",
       "english": "Come on, come on…we have to get there!",
       "turkish": "Hadi ama, hadi… Hedefimize ulaşmalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10360499_sp_single_newyorkh02_01_play",
       "english": "Always glad to be back home. Even if home is currently being run by one of the worst criminals I've ever fought…",
       "turkish": "Her zaman eve dönmek güzel. Hatta ev, şu anda savaştığım en kötü suçlulardan biri tarafından yönetiliyor olsa bile…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10360001_select_01_play",
       "english": "I'm your Friendly Neighborhood Spider-Man, only my neighborhood is now, like, multiple realities. Cool, right?",
       "turkish": "Ben, mahallemizin dost canlısı kahramanı Örümcek Adam. Gerçi artık mahallemiz birden fazla gerçekliği kapsıyor. Havalı değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10360100_buff_purge_01_play",
       "english": "I feel like myself again!",
       "turkish": "Tekrar kendime geldim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10360137_saw_ko_01_10170_play",
       "english": "He's on fire! Heh heh.",
       "turkish": "Adam tutuştu! Heh heh.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10360297_signal_wheel_attack_02_play",
       "english": "Here's where we do our thing!",
       "turkish": "Üzerimize düşeni burada yapacağız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10360122_ko_normal_05_play",
       "english": "Yeah! Woo!",
       "turkish": "Evet! Yaşasın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10360516_interact_01_10600_b_play",
       "english": "Whoa, hey! Easy with the Eter-Pay Arker-Pay, lady! I don't go around spouting off your secret identity!",
       "turkish": "Hey, dur bir dakika! Eter-Pay Arker-Pay konusunda sakin ol, hanımefendi! Ben senin gizli kimliğini ulu orta söylemiyorum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10360052_interact_01_10260_c_play",
       "english": "That's what I always said! Only in a totally different way. So you're…a Friendly Neighborhood Black Panther? Wow.",
       "turkish": "Ben de hep öyle diyorum! Ama bambaşka bir şekilde. Yani sen, mahallemizin dost canlısı kahramanı Black Panther misin? Vay canına.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10360173_interact_01_10420_d_play",
       "english": "Either way, we're together now. Whaddya say we hit the webs?",
       "turkish": "Her şekilde şimdi tanışmış olduk. Ee, ağ atalım mı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10360127_ko_sp_01_10170_play",
       "english": "Sorry, Johnny. It's just what I had to do.",
       "turkish": "Üzgünüm Johnny. Başka çaresi yoktu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10360133_ko_sp_01_10260_play",
       "english": "The kitty has been declawed!",
       "turkish": "Kedimizin tırnaklarını aldırdık!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10360112_countdown_dt_01_play",
       "english": "We're close. Stay tough.",
       "turkish": "Az kaldı. Dayanın.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10360503_escorting_payload_museume_02_play",
       "english": "I wish I could say this was the weirdest mission I've been on… but nope!",
       "turkish": "Keşke bu, bulunduğum en garip görev diyebilseydim… ama hayır!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10360208_building_destroy_ankh_01_play",
       "english": "Ankh's taken care of!",
       "turkish": "Yaşam çarmıhının icabına baktım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10360551_entrance_01_10420_play",
       "english": "Gotta be careful! So many ways this could blow up in my face!",
       "turkish": "Dikkatli olmalıyım! Bunun yüzümde patlamasının o kadar çok yolu var ki!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10360340_sp_interact_klyntar_01_10450_d_play",
       "english": "As an expert on symbiotes? No, wait… You're gonna use me as bait, aren't you? Great.",
       "turkish": "Sembiyot uzmanı olarak mı? Yok, dur… Beni yem olarak kullanacaksın, değil mi? Müthiş.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10360348_sp_interact_tokyo_01_10220_c_play",
       "english": "I don't know. I should feel totally at home here… but something's off…",
       "turkish": "Bilmiyorum. Burada tamamen evimdeymiş gibi hissetmeliyim… Ama garip bir şeyler var...",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10360346_sp_interact_tokyo_01_10480_b_play",
       "english": "Same. Though, if you ask me, the webs are a nice upgrade.",
       "turkish": "Benim evrenimde de. Gerçi bana sorarsan ağlar buraya yakıştı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10360092_buff_dmg_01_play",
       "english": "Now's the time to hit em!",
       "turkish": "İşte şimdi onlara saldırma vakti!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10360045_interact_01_10251_d_play",
       "english": "Yeah, for sure. Go team!",
       "turkish": "Tabii, neden olmasın? Bastır takım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10360017_interact_01_10320_c_play",
       "english": "Brighteyedandbushytailed I'm sorry! I couldn't help it.",
       "turkish": "Seni gidi fındık kıran, yılanı deliğinden çıkaran! Pardon! Kendimi tutamadım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10360090_buff_heal_critical_01_play",
       "english": "That hit the spot.",
       "turkish": "İlaç gibi geldi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10360455_sp_ability_10170_03_play",
       "english": "Comin' in hot!",
       "turkish": "Sıcak geliyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10360104_occupied_hint_engage_01_play",
       "english": "We're almost there!",
       "turkish": "Ha oldu ha olacak!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10360119_ko_normal_02_play",
       "english": "You'll be all right. Someday.",
       "turkish": "Bir gün iyileşirsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10360054_sp_single_tokyo_01_play",
       "english": "Geez, how do you even make that much web fluid?",
       "turkish": "Vay canına, o kadar ağ sıvısını nereden bulmuşlar ki?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10360432_interact_03_10350_d_play",
       "english": "You've also tried to devour me more times than I can count. So pardon my skepticism…",
       "turkish": "Ayrıca beni sayamayacağım kadar çok kez yutmaya çalıştın. O yüzden şüphe duyuyorsam kusura bakma…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10360179_interact_01_10350_c_play",
       "english": "Not as long as you keep that big, nasty tongue of yours far away from me.",
       "turkish": "O koca ve iğrenç dilini bana yaklaştırmadığın sürece yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10360486_interact_01_10650_a_play",
       "english": "So…. how can I be sure you're gonna stay on my side of the battle?",
       "turkish": "Peki... savaşta benim tarafımda kalacağından nasıl emin olabilirim?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10360333_sp_interact_tokyo_01_10390_b_play",
       "english": "Not so much a god. The Master Weaver. That's the Web of Life and Destiny.",
       "turkish": "Tanrı değil de, Usta Dokumacı. Yaşam ve Kader Ağı bu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10360497_sp_ability_10420_03_play",
       "english": "Stick 'em up!",
       "turkish": "Eller yukarı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10360046_interact_01_10140_b_play",
       "english": "Well, that's a one-way street.",
       "turkish": "Açıkçası, aynısını diyemiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10360221_building_destroy_nest_02_play",
       "english": "Spider nest is empty!",
       "turkish": "Örümcek yuvası boş!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10360275_sp_interact_tokyoh_01_80310_a_play",
       "english": "Thanks to the Web of Life and Destiny, you've probably seen versions of me in every alternate dimension, huh?",
       "turkish": "Yaşam ve Kader Ağı sayesinde diğer tüm alternatif boyutlardaki versiyonlarımla karşılaşmışsındır herhâlde.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10360421_interact_02_10570_b_play",
       "english": "Which means you're absolutely nothing like me.",
       "turkish": "Bu da demek oluyor ki, sen kesinlikle benim gibi biri değilsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10360548_interact_04_10300_d_play",
       "english": "For starters, no matter how evil a villain is, there's always something ridiculous about them. Usually their haircut.",
       "turkish": "Öncelikle, bir kötü adam ne kadar şeytani olursa olsun, onlarda her zaman komik bir şey vardır. Genelde saç kesimleri.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10360329_interact_01_10490_b_play",
       "english": "I know! Pretty cool, right?",
       "turkish": "Evet! Çok havalı değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10360577_interact_02_10620_a_play",
       "english": "That's some sweet armor you've got there, Devil! Totally makes up for those teeny little arms!",
       "turkish": "Şuradaki zırh bayağı havalıymış, Şeytan! O minnacık kollarını da tamamen telafi ediyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10360016_interact_01_10320_a_play",
       "english": "You're looking…",
       "turkish": "Peki...",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10360315_signal_no_01_play",
       "english": "No way!",
       "turkish": "Yok artık!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10360320_sp_ability_10360_01_play",
       "english": "The symbiote Spider-Man returns!",
       "turkish": "Sembiyot Örümcek Adam geri döndü!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10360211_building_destroy_beacon_01_play",
       "english": "This is a beacon-free zone now.",
       "turkish": "Artık burası fenersiz hava sahası.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10360429_interact_02_10390_b_play",
       "english": "Right… About that… You wouldn't happen to have any spare enchanted weapons, would you?",
       "turkish": "Doğru… Hazır konusu açılmışken… Yedekte duran başka tılsımlı silahın yoktur herhâlde, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10360488_interact_03_10570_b_play",
       "english": "Those people are insane. You're a mercenary, Wade. You kill people for money.",
       "turkish": "Bu insanlar deli. Sen bir paralı askersin, Wade. Para için insanları öldürüyorsun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10360384_sp_single_arakkoe_02_play",
       "english": "Did anyone else realize that \"Arakko\" is just \"Krakoa\" jumbled up? Really? Only me…?",
       "turkish": "“Arakko”nun harflerinin yerini değiştirince “Krakoa” olduğunu fark eden oldu mu? Hayır mı? Sadece ben mi?..",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10360060_sp_interact_klyntar_01_10350_c_play",
       "english": "You working for the Klyntar Board of Tourism now? You're a natural.",
       "turkish": "Hayırdır, Klyntar Turizm Bakanlığı’nda işe mi başladın? Bu işte ustasın.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10360002_single_07_play",
       "english": "Life is hard sometimes, but at least maybe I can make it easier for other people.",
       "turkish": "Bazen hayat zor olsa da en azından başkaları için kolaylaştırabilirim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10360189_sp_interact_klyntar_02_10350_c_play",
       "english": "Wow. I… guess I never thought of it that way. Sorry.",
       "turkish": "Vay canına. Ben… Sanırım bunu hiç bu açıdan düşünmemiştim. Üzgünüm.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10360237_ko_ability_e_03_play",
       "english": "Jeez, that must've hurt.",
       "turkish": "Of, fena acıtmıştır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10360236_ko_ability_e_02_play",
       "english": "The ol' web whip!",
       "turkish": "Ağ kırbacı asla şaşmaz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10360496_sp_ability_10420_02_play",
       "english": "Bombs away!",
       "turkish": "Bomba atışı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10360153_healthpack_01_play",
       "english": "Better than Aunt May's chicken soup.",
       "turkish": "May Hala'nın tavuk çorbasından daha lezzetli!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10360139_saw_ko_02_10320_play",
       "english": "Don't mess with Empire State University!",
       "turkish": "Empire State Üniversitesi öğrencilerine bulaşmayın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10360321_sp_ability_10360_02_play",
       "english": "Partners, like the old days!",
       "turkish": "Partner olduk, tıpkı eski günlerdeki gibi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10360549_entrance_01_10350_play",
       "english": "Some bonds just can’t be broken… no matter how hard you try…",
       "turkish": "Bazı bağlar koparılamaz… ne kadar uğraşırsan uğraş…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10360547_interact_04_10300_b_play",
       "english": "Honestly, I don't know. But if I didn't, I think I'd probably snap!",
       "turkish": "Açıkçası bilmiyorum. Ama yapmasaydım, sanırım kafayı yerdim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10360316_signal_no_02_play",
       "english": "That's a big nope.",
       "turkish": "Benden hayır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10360096_buff_shield_01_play",
       "english": "Defense, huh? Okay, let's try it.",
       "turkish": "Koruma demek? Tamam, deneyelim bakalım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10360403_escorting_remind_arakkoe_03_play",
       "english": "We've gotta get this core in place. Arakko's counting on us!",
       "turkish": "Bu çekirdeği yerine ulaştırmalıyız. Arakko bize bel bağlamış!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10360202_building_spotted_turret_01_play",
       "english": "Get that turret before Frank gets us!",
       "turkish": "Frank bizi haklamadan biz o tareti haklayalım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10360239_ko_three_02_play",
       "english": "Three is the magic number.",
       "turkish": "Üç, büyülü bir sayı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10360023_interact_01_10220_c_play",
       "english": "Come on, you're just kidding me.",
       "turkish": "Yok artık, şaka mı bu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10360227_ko_assist_02_play",
       "english": "You can count on me.",
       "turkish": "Bana güvenebilirsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10360339_sp_interact_klyntar_01_10450_b_play",
       "english": "Yeah. We have a long, complicated history. Sometimes they want to be my best friend. Sometimes they want to eat me.",
       "turkish": "Evet. Uzun ve karmaşık bir geçmişimiz var. Bazen benimle kanka olmak istiyorlar. Bazen de beni yemek istiyorlar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10360070_switch_02_play_p2",
       "english": "I mean, it's not like Spider-Man could help or anything…",
       "turkish": "Örümcek Adam’ın faydası olur herhâlde…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10360389_escorting_payload_klyntarh_03_play",
       "english": "Beneath the Planet of the Symbiotes? I think I saw this sequel…",
       "turkish": "Sembiyotlar Cehennemine Dönüş mü? Galiba bu devam filmini görmüştüm…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10360234_ko_q_03_play",
       "english": "Too sticky for you!",
       "turkish": "Fazla mı yapıştın?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10360076_ability_e_03_play",
       "english": "Crack the whip!",
       "turkish": "Çektim gitti!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10360279_quick_q_charge_90_under_02_play",
       "english": "Hang on! The cool stuff takes time!",
       "turkish": "Dişinizi sıkın! Havalı şeyler yapmak zaman alır!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10360383_sp_single_krakoac_02_play",
       "english": "\"Come to the party,\" Wolverine said. \"It'll be fun,\" he said…",
       "turkish": "“Partiye gel.” demişti Wolverine. “Eğlenceli olur.” demişti…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10360308_signal_area_unoccupied_02_play",
       "english": "We need to take control here!",
       "turkish": "Burada kontrolü ele geçirmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10360255_enemy_advanced_03_play",
       "english": "Too many to fight right now.",
       "turkish": "Şimdi sayıları savaşamayacağımız kadar fazla.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10360024_interact_01_10570_a_play",
       "english": "Great, we're saving the world and here comes The Loosest Cannon.",
       "turkish": "Harika, dünyayı kurtarıyoruz ve işte Kararsız Top geliyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10360295_signal_wheel_enemy_spot_02_play",
       "english": "Over here! I found trouble!",
       "turkish": "Buraya bakın! Başımız belada!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10360032_interact_03_10180_a_play",
       "english": "Say Doc, you never told me where ya learned all those tricks.",
       "turkish": "Doktor bir şey sorayım, tüm şu numaraları nereden öğrenmiştin? Hiç anlatmadın.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10360381_sp_single_newyorke_02_play",
       "english": "This is why I try not to leave Queens anymore…",
       "turkish": "İşte bu yüzden artık Queens’ten dışarı adımımı atmamaya çalışıyorum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10360003_single_08_play",
       "english": "Please can we discover Aunt May's Cherry Pie dimension?",
       "turkish": "Lütfen May Halamın Kirazlı Turta boyutunu keşfedebilir miyiz?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10360393_escorting_payload_newyorkh_03_play",
       "english": "I know every tree in this park. Stick with me!",
       "turkish": "Bu parkta bilmediğim ağaç yoktur. Peşimden ayrılmayın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10360245_ko_ace_02_play",
       "english": "Aw, jeez, I didn't mean to hog the bad guys.",
       "turkish": "Ay kusura bakmayın ya, tüm kötüleri tekelime almaya çalışmıyordum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10360542_interact_02_10610_c_play",
       "english": "Maybe you're right. It probably doesn't count as a date when its six-on-six, does it?",
       "turkish": "Belki haklısın. Altıya altı olunca bu buluşma sayılmaz herhalde, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10360241_ko_five_01_play",
       "english": "Maybe I'm getting good at this hero thing!",
       "turkish": "Belki de kahramanlık işinde gelişiyorumdur!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10360326_building_destroy_octopus_01_play",
       "english": "Sorry, squiddo! But not really…",
       "turkish": "Üzgünüm minik kalamar! Gerçi pek de üzgün değilim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10360504_escorting_payload_newyorkh02_01_play",
       "english": "Follow me! I know these streets like the back of my webbed hand!",
       "turkish": "Beni takip et! Bu sokakları ağ kaplı elim gibi biliyorum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10360271_escorting_remind_wakandah_02_play",
       "english": "Bast will not be happy if we're late.",
       "turkish": "Gecikirsek Bast çok kızacak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10360020_interact_01_10340_b_play",
       "english": "I'm thinking of the galactic neighborhood right now.",
       "turkish": "Sonuçta her galaksi de bir mahalle sayılır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10360286_quick_confirm_02_play",
       "english": "Sure!",
       "turkish": "Tabii!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10360118_ko_normal_01_play",
       "english": "Fight for the good guys next time!",
       "turkish": "Bir dahaki sefere iyilerin yanında savaş!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10360469_interact_05_10320_d_play",
       "english": "I guess somebody's gotta do it. Might as well be us!",
       "turkish": "Sanırım birilerinin bunu yapması gerekiyor. O kişi biz olsak fena olmaz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10360511_interact_04_10570_d_play",
       "english": "Thanks, but I'd prefer something a lot less lethal. And I mean that for both of us! Yeesh!",
       "turkish": "Teşekkürler, ama çok daha az ölümcül bir şey tercih ederim. Ve bunu ikimiz için de söylüyorum! Aman!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10360492_sp_ability_10420_01_play",
       "english": "Spider-Bomb!",
       "turkish": "Örümcek Bombası!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10360117_saw_flank_02_play_p2",
       "english": "They got behind you!",
       "turkish": "Düşman arkanızda!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10360426_interact_02_10340_d_play",
       "english": "Hank Pym gets all of his news from insects. Just sayin'… I'm an arachnid.",
       "turkish": "Hank Pym tüm haberleri böceklerden alıyor. Benden söylemesi… Bense araknidim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10360229_ko_normal_06_play",
       "english": "Whooo, no webs needed.",
       "turkish": "Yaşasın, ağ atmama bile gerek kalmadı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10360203_building_spotted_turret_02_play",
       "english": "Frank's in his turret!",
       "turkish": "Frank taretine girmiş!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10360390_escorting_payload_klyntarh_04_play",
       "english": "As if being on the surface of Klyntar wasn't bad enough…",
       "turkish": "Sanki Klyntar’da yeryüzünde olmak yeterince fena değilmiş gibi…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10360336_sp_interact_tokyo_01_10260_d_play",
       "english": "You're kidding, right? I can barely keep my own life from imploding!",
       "turkish": "Dalga mı geçiyorsun? Daha kendi hayatım zar zor bir arada tutuyorum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10360292_signal_enemy_01_play",
       "english": "Oop, Found a bad guy!",
       "turkish": "Oo, kötülerden birini gördüm!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10360400_escorting_remind_newyorke_04_play",
       "english": "Don't blow a gasket, H.E.R.B.I.E.! We'll get you there safely.",
       "turkish": "Aman balatayı sıyırma H.E.R.B.I.E.! Seni oraya güvenle ulaştıracağız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10360291_signal_broken_02_play",
       "english": "Let's bust this place up!",
       "turkish": "Burayı paramparça edelim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10360111_countdown_at_02_play",
       "english": "Not much time left!",
       "turkish": "Fazla zamanımız kalmadı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10360184_sp_interact_tokyo_01_10140_b_play",
       "english": "Come on, Frank. I'm from Queens.",
       "turkish": "Yapma Frank. Queens çocuğuyum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10360230_ko_normal_07_play",
       "english": "I don't want to hit you more than I have to.",
       "turkish": "Sana daha fazla vurmak istemiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10360312_signal_vehicle_as_attack_02_play",
       "english": "Let's keep this ride moving!",
       "turkish": "Bu taşıt durmasın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10360078_ability_f_02_play",
       "english": "Ground and pound!",
       "turkish": "Yerden yere!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10360091_buff_heal_critical_02_play",
       "english": "You're a life-saver.",
       "turkish": "Hayatımı kurtardın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10360110_countdown_at_01_play",
       "english": "We're up against the clock! Hurry!",
       "turkish": "Zamana karşı yarışıyoruz! Acele edin!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10360268_escorting_remind_tokyoh_01_play",
       "english": "We're running out of time to protect the Web!",
       "turkish": "Ağ’ı korumak için zamanımız tükeniyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10360345_sp_interact_tokyo_01_10500_c_play",
       "english": "Right?! You get it more than anyone, Sue. It's about family.",
       "turkish": "Değil mi ama? Bunu en iyi sen anlarsın Sue. İşin aslı ailedir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10360123_ko_sp_01_10350_play",
       "english": "You'd have done the same to me. Only with more fangs.",
       "turkish": "Ben de olsam bana da aynısını yapardın ama daha çok ısırarak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10360115_saw_enemy_02_play",
       "english": "Watch out, they're headed our way!",
       "turkish": "Dikkat, bize doğru geliyorlar!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10360581_interact_04_10610_a_play",
       "english": "You really put yourself on the line to save our city, Cat. I knew I could count on you.",
       "turkish": "Şehrimizi kurtarmak için kendini gerçekten tehlikeye attın, Kedi. Sana güvenebileceğimi biliyordum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10360136_saw_ko_01_10510_play",
       "english": "Did he say it? Did he say the clobberin' time thing? I hope he said it.",
       "turkish": "Dedi mi? “Dayak zamanı” dedi mi? Umarım demiştir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10360559_ko_sp_01_10600_play",
       "english": "Your mission’s over, Director Han!",
       "turkish": "Görevin bitti, Direktör Han!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10360525_interact_01_10640_c_play",
       "english": "Aww, when did my spunky little valley girl grow up to be so emo?",
       "turkish": "Aww, benim enerjik küçük valley girl’üm ne zaman büyüdü de bu kadar emo oldu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10360464_interact_02_10240_b_play",
       "english": "I've had my share of loss over the years. It's made me who I am.",
       "turkish": "Yıllar boyunca birçok kayıp yaşadım. Bu, beni ben yapan şeydir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10360510_interact_04_10570_b_play",
       "english": "They've always done the trick before. Why change things up now?",
       "turkish": "Daha önce her zaman işe yaradı. Şimdi neden değişiklik yapalım ki?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10360404_escorting_remind_arakkoe_04_play",
       "english": "What a major malfunction! Arakko needs a reboot! Fast!",
       "turkish": "Eyvah, arıza büyük! Arakko’yu acilen yeniden başlatmalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10360260_escorting_payload_tokyoh_01_play",
       "english": "Budokan, here we come!",
       "turkish": "Bekle bizi Budokan!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10360289_signal_open_spot_02_play",
       "english": "Might wanna take a look over here…",
       "turkish": "Şuraya bir göz atmak ister misiniz?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10360524_interact_01_10640_a_play",
       "english": "Whaddaya think, Jubes? You make with the PAF PAF and I'll make with the THWIP THWIP?",
       "turkish": "Ne dersin, Jubes? Sen “PAF PAF”ı yap, ben de “THWIP THWIP”i yapayım?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10360050_interact_01_10210_c_play",
       "english": "Yeah, I like that enthusiasm!",
       "turkish": "Bu coşkuna bayıldım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10360008_single_13_play",
       "english": "Come to New York sometime, I'll do whatever a spider can!",
       "turkish": "Bir ara New York’a gelin de size marifetlerimi göstereyim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10360162_quick_q_charge_90_higher_01_play",
       "english": "Almost. It's not easy making that much webbing.",
       "turkish": "Az kaldı. O kadar ağ üretmek kolay değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10360176_interact_01_10400_b_play",
       "english": "Between you and Tony, I think you've got that part covered.",
       "turkish": "Sen ve Tony varken işin orasını hallettik bence.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10360489_interact_03_10570_d_play",
       "english": "You've gotta be kidding! We aren't even two sides of the same argument!",
       "turkish": "Şaka yapıyor olmalısın! Aynı tartışmanın iki tarafı bile değiliz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10360102_occupied_celebrate_01_play",
       "english": "The mission area is ours.",
       "turkish": "Görev bölgesi bizimdir!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10360388_sp_single_museume_02_play",
       "english": "An evil theme park. As if waiting in line wasn't torture enough!",
       "turkish": "Kötü bir tema parkı. Sırada beklemek zaten yeterince işkence değilmiş gibi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10360196_building_spotted_ankh_01_play",
       "english": "There's an ankh!",
       "turkish": "Yaşam çarmıhı var!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10360074_ability_e_01_play",
       "english": "Now I gotcha!",
       "turkish": "İşte şimdi düştünüz elime!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10360200_building_spotted_portal_02_play",
       "english": "Open portal here!",
       "turkish": "Burada portal var!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10360158_respawn_04_play",
       "english": "Back in the swing of things!",
       "turkish": "Yeniden ortamlara döndüm!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10360007_single_12_play",
       "english": "Anybody who has the chance can be a hero. I believe that.",
       "turkish": "Fırsat bulan herkes kahraman olabilir. Buna inanıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10360267_escorting_remind_tokyoe_02_play",
       "english": "We're close…but we're running out of time!",
       "turkish": "Az kaldı ama zamanımız tükeniyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10360066_sp_interact_newyork_01_10570_b_play",
       "english": "Because it's full of vampires and other bloodthirsty monsters?",
       "turkish": "Çünkü burası vampirler ve diğer kana susamış canavarlarla dolu olduğu için mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10360027_interact_01_10111_d_play",
       "english": "When the time stream gets sorted out, we arm-wrestle.",
       "turkish": "Zaman akışı işini bir çözelim, sonra bilek güreşine tutuşuruz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10360063_sp_interact_tokyo_02_10420_a_play",
       "english": "Peni! When are you going to make me a SP//dr?",
       "turkish": "Peni! Ne zaman bana da bir SP//dr yapacaksın?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10360087_debuff_weak_02_play",
       "english": "Feeling mighty slow…",
       "turkish": "Epey yavaşladım sanki…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10360574_interact_02_10600_c_play",
       "english": "You have no idea what I had to do to make that happen, Director Han. And I'm not sure you want to know…",
       "turkish": "Bunu gerçekleştirmek için neler yapmak zorunda kaldığımı bilmiyorsun, Direktör Han. Ve bilmek isteyeceğinden de emin değilim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10360330_interact_01_10490_d_play",
       "english": "Yeah… I've been told I'm a lot…",
       "turkish": "Doğru… Biraz sinir bozuyormuşum derler…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10360079_ability_f_03_play",
       "english": "Gonna get sticky…",
       "turkish": "Her taraf yapış yapış olacak…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10360483_interact_01_10550_c_play",
       "english": "The fact that you're still here fighting means your journey isn't over yet.",
       "turkish": "Hâlâ burada savaşıyor olman, yolculuğunun henüz bitmediği anlamına geliyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10360391_escorting_payload_newyorke_03_play",
       "english": "H.E.R.B.I.E.! My favorite robot! Let's do this, buddy!",
       "turkish": "H.E.R.B.I.E.! En sevdiğim robot! Haydi gidelim dostum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10360041_interact_01_10300_d_play",
       "english": "Then you're missing out!!",
       "turkish": "O zaman çok şey kaçırıyorsun!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10360084_debuff_purple_01_play",
       "english": "Nobody can heal me? Great.",
       "turkish": "Kimse beni iyileştiremiyor mu? Bir bu eksikti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10360218_building_destroy_turret_02_play",
       "english": "I got the turret!",
       "turkish": "Taretin icabına baktım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10360140_saw_ko_02_10510_play",
       "english": "And this is why I never worry about Yancy Street.",
       "turkish": "İşte bu yüzden Yancy Sokağı için asla endişelenmiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10360164_quick_need_heal_01_play",
       "english": "Is there a doctor in the house?",
       "turkish": "Buralarda doktor var mı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10360354_interact_01_10240_c_play",
       "english": "Hate to disappoint, your majesty, but on my watch, everybody lives.",
       "turkish": "Kusura bakmayın majesteleri ama ben iş başındayken kimse canından olmaz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10360042_interact_02_10300_b_play",
       "english": "Yeah but what if you're in a room? Or there's an eclipse? Or I'm blind?",
       "turkish": "Tamam ama ya bir odanın içindeysem? Ya ay tutulması oluyorsa? Ya körsem?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10360033_interact_03_10180_c_play",
       "english": "So you weren't bitten by a radioactive wizard?",
       "turkish": "Yani seni radyoaktif bir büyücü ısırmadı mı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10360194_saw_sniper_02_play",
       "english": "Sniper! Watch your heads!",
       "turkish": "Keskin nişancı! Kafalara dikkat!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10360462_interact_01_10160_a_play",
       "english": "Loki. Ugh. I knew there was a reason my Spidey-Sense was going crazy!",
       "turkish": "Loki. Off. Örümcek Hissim'in çıldırmasının bir sebebi olduğunu biliyordum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10360075_ability_e_02_play",
       "english": "Spider-Sling!",
       "turkish": "Örümcek sapanı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10360093_buff_dmg_02_play",
       "english": "Look out, bad guys!",
       "turkish": "Dikkat, kötü adamlar geliyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10360397_escorting_remind_klyntarh_03_play",
       "english": "If we don't deliver Knull's essence, it's lights out for all of us!",
       "turkish": "Knull’un özünü teslim etmezsek hepimizin işi biter!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10360505_escorting_payload_newyorkh02_02_play",
       "english": "A S.H.I.E.L.D. transport? Guess it's less obvious than a Spider-Buggy.",
       "turkish": "S.H.I.E.L.D.'in bir nakliye aracı mı? Sanırım Spider-Buggy'den daha az dikkat çekici.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10360484_interact_01_10580_b_play",
       "english": "Honestly, I was just expecting the card tricks from Doctor Strange. Not you.",
       "turkish": "Dürüst olmak gerekirse, Doctor Strange'den sadece kart numaralarını bekliyordum. Senden değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10360187_sp_interact_tokyo_01_10400_c_play",
       "english": "Yeah? Are they all this good at making a guy feel less special? Or is that just you?",
       "turkish": "Öyle mi? Peki hepsi de insanı böyle değersiz hissettirmekte usta mı? Yoksa o sana has mı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10360243_ko_five_03_play",
       "english": "Five? Can't be many of them left!",
       "turkish": "Beş mi? Daha kaç tane olabilir ki?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10360185_sp_interact_tokyo_01_10430_b_play",
       "english": "Uh, I didn't make this mess! It's some sort of cosmic web of life and destiny. I swear!",
       "turkish": "Ee, ortalığı ben batırmadım! Bir tür kozmik yaşam ve kader ağı bu. Yemin ederim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10360209_building_destroy_ankh_02_play",
       "english": "Don't worry, I got the ankh!",
       "turkish": "Endişelenmeyin, yaşam çarmıhını hâllettim!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10360147_saw_death_01_10490_play",
       "english": "OUCH! THAT's gonna take time to regrow.",
       "turkish": "Ay! Bunun iyileşmesi zaman alacak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10360474_interact_02_10490_b_play",
       "english": "I know what’s at stake here, Logan. I'm a big boy. I can handle it.",
       "turkish": "Buradaki durumun ciddiyetini biliyorum, Logan. Ben büyüdüm artık. Bununla başa çıkabilirim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10360174_interact_02_10420_b_play",
       "english": "Every time I put on the mask, Peni. But we have a responsibility. SOMEONE has to stand up to all the bullies out there.",
       "turkish": "Bu maskeyi her takışımda aklımda Peni. Yine de bir sorumluluğumuz var. BİRİLERİ, dünyadaki tüm zorbalara karşı koymalı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10360004_single_09_play",
       "english": "It's up to us to help the people who can't help themselves.",
       "turkish": "Yardıma muhtaçlara yardım etmek bize düşer.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10360071_switch_03_play_p2",
       "english": "Yoohoo, Spider-Man over here!",
       "turkish": "Aloo! Örümcek Adam burada!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10360386_sp_single_klyntarec_02_play",
       "english": "I hate symbiote stuff so much. Just…so, so much.",
       "turkish": "Sembiyot şeylerinden gerçekten nefret ediyorum. Sadece… çok, çok fazla.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10360186_sp_interact_tokyo_01_10400_a_play",
       "english": "Did you know that web over there connects us to a whole multiverse full of different Spider-Heros?",
       "turkish": "Şu ağın bizi farklı Örümcek Kahramanlarla dolu koskoca bir çoklu evrene bağladığını biliyor muydun?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10360307_signal_area_unoccupied_01_play",
       "english": "Let's secure this location.",
       "turkish": "Bu konumu ele geçirelim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10360266_escorting_remind_tokyoe_01_play",
       "english": "We'll get you there, Spider-Zero.",
       "turkish": "Seni oraya ulaştıracağız Spider-Zero.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10360043_interact_03_10300_b_play",
       "english": "Take your own advice, Moonie. I don't need protecting.",
       "turkish": "Kendi tavsiyene kendin uy Moonie. Kimsenin beni korumasına ihtiyacım yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10360454_sp_ability_10170_02_play",
       "english": "That's gotta burn!",
       "turkish": "Bu kesinlikle yakar!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10360039_interact_01_10170_b_play",
       "english": "We always do! Except don't try to be as funny as me. It just looks pitiful.",
       "turkish": "Her zaman olduğu gibi! Ama benim kadar komik olmaya çalışma. Her seferinde yürek burkuyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10360132_ko_sp_01_10280_play",
       "english": "Ha! I'm one bug his system couldn't beat.",
       "turkish": "Ha! Onu nasıl yendiğimi hesaplasın şimdi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10360283_quick_group_up_02_play",
       "english": "Stick together!",
       "turkish": "Birbirinizden ayrılmayın!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10360055_sp_single_tokyo_02_play",
       "english": "I'm protecting this Web of Life and Destiny now, and boy that's a huge responsibility!",
       "turkish": "Şimdi şu Yaşam ve Kader Ağı’nı koruyorum ve bu çok ama çok büyük bir sorumluluk!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10360428_interact_02_10350_d_play",
       "english": "Well, in that case, we've always been the best of friends! Definitely no bad blood here!",
       "turkish": "Hımm, o zaman biz hep ölümüne kanka olmuşuzdur! Aramızda hiç husumet yok!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10360276_sp_interact_tokyoh_01_80310_c_play",
       "english": "So… Where do I rank on the list of Reality's Best Spideys? Gotta be pretty high, right?",
       "turkish": "Ee? Gerçekliğin En İyi Örümcekleri listesinde hangi sıradayım? Epey yükseklerdeyimdir herhâlde.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10360125_ko_sp_01_10420_play",
       "english": "In another timeline, we're still friends.",
       "turkish": "Bir başka zaman çizgisinde arkadaşlığımız devam ediyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10360538_sp_emote_10470_1047001217_05_play",
       "english": "Ground and pound!",
       "turkish": "Yerden yere!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10360010_single_01_play",
       "english": "Travel tip: With the right credit card, interdimensional trips get crazy extra miles.",
       "turkish": "Benden size bir tüyo: Doğru kredi kartıyla boyutlar arası seyahatlerden inanılmaz mil kazanabilirsiniz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10360069_switch_01_play_p2",
       "english": "C'mon, I'm right here. You know, Spider-Man?",
       "turkish": "Haydi, şuracıkta duruyorum işte. Örümcek Adam’ım ben!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10360095_buff_endure_02_play",
       "english": "Let's see if this works!",
       "turkish": "Bakalım işe yarayacak mı?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10360480_interact_01_10560_a_play",
       "english": "Whoa! Thor's got a secret sister?! Glad it's not just me…",
       "turkish": "Vay! Thor'un gizli bir kız kardeşi mi varmış?! Sadece ben değilmişim, neyse ki…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10360251_ko_terrain_02_play",
       "english": "There they go…",
       "turkish": "Nereye? Daha karpuz kesecektik!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10360327_building_destroy_octopus_02_play",
       "english": "That takes care of Namor's calamari crew!",
       "turkish": "Bu sayede Namor’un kalamar ekibinin işi bitmiş oldu!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10360163_quick_q_charge_100_01_play",
       "english": "Web-shooters locked and loaded!",
       "turkish": "Ağ atıcılar hazır!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10360546_interact_02_10220_d_play",
       "english": "Fisk's had me on his list for years, right under \"eat a thousand cheeseburgers.\" So he might be getting close…",
       "turkish": "Fisk yıllardır beni listesine yazmış; “bin tane cheeseburger ye”nin hemen altına. Yani yaklaşıyor olabilir…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10360311_signal_vehicle_as_attack_01_play",
       "english": "Should we push this thing?",
       "turkish": "Şu şeyi itmemiz gerekmez mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10360282_quick_need_heal_02_play",
       "english": "Hey! Need some love over here!",
       "turkish": "Hop dedik! Yardım edecek bir yiğit yok mu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10360155_respawn_01_play",
       "english": "I gotta do better this time.",
       "turkish": "Bu kez daha iyi olmalıyım!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10360466_interact_01_10310_b_play",
       "english": "Eh. I used to hang with Iceman back in the day. I'm cool.",
       "turkish": "Eh. Eskiden Iceman ile takılırdım. Ben havalıyım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10360244_ko_ace_01_play",
       "english": "Hey, sorry, team. There's no bad guys left.",
       "turkish": "Pardon gençler. Size kötü adam kalmadı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10360512_interact_01_10590_b_play",
       "english": "Probably not. I'm just a regular guy under this mask. A Spider-Man, not a Man-Spider. That's another dude.",
       "turkish": "Muhtemelen hayır. Bu maskenin altında sadece sıradan bir adamım. Bir Örümcek Adam, Erkek Örümcek değil. O başka bir adam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10360578_interact_02_10620_c_play",
       "english": "Sorry, pal! Didn't realize that was such a sore subject. If it makes you feel better, the rest of you is beyond terrifying!",
       "turkish": "Üzgünüm, dostum! Bunun bu kadar hassas bir konu olduğunu fark etmemiştim. İçin rahatlasın diye söylüyorum: Geri kalan halin de dehşet verici derecede korkutucu!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10360460_escorting_remind_kunlunh_01_play",
       "english": "What would help him move faster? Pizza? Turtles love pizza, right…?",
       "turkish": "Onun daha hızlı hareket etmesine ne yardımcı olurdu? Pizza mı? Kaplumbağalar pizzayı sever, değil mi…?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10360582_interact_04_10610_c_play",
       "english": "Play the master criminal angle all you want, but you've got what it takes to be a hero. I know the real Felicia Hardy.",
       "turkish": "Suç dehası rolünü istediğin kadar oyna, ama kahraman olmak için gerekenlere sahipsin. Ben gerçek Felicia Hardy'yi tanıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10360146_saw_death_01_10270_play",
       "english": "The tree is down, who heard that?",
       "turkish": "Ağaç devrildi. Duyan oldu mu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10360145_saw_death_01_10350_play",
       "english": "That's a problem. But also I feel more comfortable.",
       "turkish": "Bu bir sorun ama öte yandan içim rahatladı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10360290_signal_broken_01_play",
       "english": "Ooh! So much stuff to smash!",
       "turkish": "Oo! Kıracak çok şey var!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10360006_single_11_play",
       "english": "Doing the right thing just makes you feel good, doesn't it?",
       "turkish": "İnsan doğru şeyi yapınca iyi hissediyor, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10360309_signal_area_occupied_01_play",
       "english": "Can't let them take this place from us...",
       "turkish": "Burayı almalarına göz yumamayız…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10360172_interact_01_10420_b_play",
       "english": "Wait… Have we met? You sure you've got the right Spidey?",
       "turkish": "Bir saniye… Tanışmış mıydık? Başka bir Örümcek olmasın?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10360565_saw_ko_01_10590_play",
       "english": "Right on target, Elsa!",
       "turkish": "Tam isabet, Elsa!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10360154_healthpack_02_play",
       "english": "Feeling good!",
       "turkish": "İyi hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10360058_sp_single_wakandac_01_play",
       "english": "Whoa, Wakanda goes galactic. In this timeline, I bet printers never jam.",
       "turkish": "Oha, Wakanda galaksiye yayılmış. Eminim bu zaman tünelinde yazıcıya kâğıt sıkışmıyordur.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10360197_building_spotted_ankh_02_play",
       "english": "Careful, an ankh. There might be others…",
       "turkish": "Dikkat, yaşam çarmıhı var. Dahası da olabilir…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10360231_ko_normal_08_play",
       "english": "Stay down, willya?",
       "turkish": "Bir daha da kalkma, olur mu?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10360080_debuff_control_01_play",
       "english": "I'm stuck!",
       "turkish": "Kapana kısıldım!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10360433_interact_03_10340_b_play",
       "english": "Sounds like now would be a perfect time for a quick suit upgrade, Tony!",
       "turkish": "Görünüşe bakılırsa şimdi zırh yenilemenin tam zamanı Tony!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10360212_building_destroy_beacon_02_play",
       "english": "That was it for revivals.",
       "turkish": "Canlandırma işi bitti.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10360444_sp_interact_newyorkm_01_80630_b_play",
       "english": "Aww, thanks, puppers! You really are a Spider-Man's best friend!",
       "turkish": "Yaa, teşekkürler köpüş! Gerçekten Örümcek Adam’ın en iyi dostusun!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10360138_saw_ko_01_10320_play",
       "english": "Look at her go! Doreen Green, everybody!",
       "turkish": "İşte budur! Doreen Green’e alkış!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10360005_single_10_play",
       "english": "Someone's got to stop Doom. I mean, Dooms. Hope there's only two?",
       "turkish": "Birisi Doom’u durdurmalı. Yani Doomları. Umarım sadece iki tane vardır.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10360059_sp_interact_klyntar_01_10350_a_play",
       "english": "How could Cosmic Misery Parasites have evolved in a lush, tranquil setting like this?",
       "turkish": "Böyle yemyeşil, sakin bir ortamda Kozmik Sefalet Parazitleri nasıl evrilmiş olabilir?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10360242_ko_five_02_play",
       "english": "I think that's five in a row! Crazy!",
       "turkish": "Galiba art arda beş etti! İnanılır gibi değil!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10360477_interact_01_10540_d_play",
       "english": "See! Power like that stays with you… no matter how often you wash your costume!",
       "turkish": "Görüyor musun! Böyle bir güç, kostümünü ne kadar yıkarsan yıka, hep seninle kalır!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10360261_escorting_payload_tokyoh_02_play",
       "english": "Let's get Spider-Zero where she needs to go.",
       "turkish": "Spider-Zero'yu gitmesi gereken yere götürelim.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10360456_sp_single_kunlunec_01_play",
       "english": "I'm not big on the whole arena combat thing. I'd rather stick to the sidelines. Literally.",
       "turkish": "Arena dövüşü işi bana göre değil. Kenarda durmayı tercih ederim. Kelimenin tam anlamıyla.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10360401_escorting_remind_newyorkh_03_play",
       "english": "It's a long way to that castle, but I think we can swing it.",
       "turkish": "Şatoya giden yol uzun ama bence hallederiz.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10360513_interact_01_10590_d_play",
       "english": "I mean, it's happened before… but I got better…",
       "turkish": "Yani, daha önce olmuştu… ama iyileştim…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10360247_revenge_01_play",
       "english": "Haha! Got you back.",
       "turkish": "Haha! Ben de seni hakladım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10360077_ability_f_01_play",
       "english": "Spider-Fist is ready to punch!",
       "turkish": "Örümcek Yumruğu atmaya hazırım!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10360188_sp_interact_klyntar_02_10350_a_play",
       "english": "A planet full of Venoms? This is my worst nightmare!",
       "turkish": "Venom’larla dolu bir gezegen mi? En büyük kâbusum!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10360228_ko_assist_03_play",
       "english": "I got your back.",
       "turkish": "Arkanı kolluyorum.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10360131_ko_sp_01_10320_play",
       "english": "I don't know what to tell you. Spiders beat squirrels!",
       "turkish": "Ne desen bilemedim. Örümcekler, sincapları yener!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10360322_sp_ability_10360_03_play",
       "english": "Ugh. I hate this part…",
       "turkish": "Öf. En nefret ettiğim kısım…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10360576_interact_02_10630_c_play",
       "english": "Oh, right. I was thinking of Bobby… and Hank… and Warren… Heck, even Logan was more chill than you!",
       "turkish": "Ah, doğru. Bobby’yi düşünüyordum… ve Hank’i… ve Warren’ı… Hatta Logan bile senden daha rahattı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10360463_interact_01_10160_c_play",
       "english": "And tomorrow, you'll gladly stab me in the back to get what you want.",
       "turkish": "Ve yarın, istediğini elde etmek için beni sırtımdan bıçaklamaktan mutluluk duyacaksın.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10360105_occupied_hint_engage_02_play",
       "english": "There's our target. It's up for grabs!",
       "turkish": "İşte hedefimiz! Kapanın elinde kalır!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10360294_signal_wheel_enemy_spot_01_play",
       "english": "Look for them around here!",
       "turkish": "Onları burada arayın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10360572_saw_death_01_10610_play",
       "english": "Don’t quit on me now, Cat!",
       "turkish": "Şimdi pes etmek yok, Cat!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10360573_interact_02_10600_a_play",
       "english": "When you set up your undercover op at ESU, how come I didn't get a cool alias like everyone else?",
       "turkish": "ESU’da gizli operasyonunu kurarken, neden bana da herkes gibi havalı bir takma ad vermedin?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10360544_sp_interact_tokyo_03_10600_c_play",
       "english": "Is that… encouragement?",
       "turkish": "Bu da… cesaretlendirme mi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10360434_interact_03_10340_d_play",
       "english": "Oh, I wasn't talking about your suit… but good for you, I guess…",
       "turkish": "Ee, senin zırhından bahsetmiyordum… Ama senin adına sevindim sanırım…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10360299_signal_wheel_defend_02_play",
       "english": "Stick here and fight back!",
       "turkish": "Burada kalıp karşı koyun!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10360014_single_05_play",
       "english": "So if the timelines are all entangled, how many MJs are there? This could get complicated.",
       "turkish": "Ee, zaman tünelleri birbirine karışmışsa etrafta kaç MJ geziyor? İşler karışabilir.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10360535_sp_emote_10470_1047001217_02_play",
       "english": "You get a web, and you get a web, and you get a web!",
       "turkish": "Herkese benden ağ!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10360259_escorting_payload_tokyoe_02_play",
       "english": "We're headed straight for the Shrine of the Weaver.",
       "turkish": "Hedefimiz doğrudan Dokumacı'nın Mabedi.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10360198_building_spotted_ankh_03_play",
       "english": "Stay away from that ankh if it starts to hover.",
       "turkish": "Havada süzülmeye başlarsa şu yaşam çarmıhına yaklaşmayın.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10360445_sp_interact_klyntarh_01_10330_b_play",
       "english": "You and me both. Wait… you didn't ever happen to wear a symbiote, did you?",
       "turkish": "Al benden de o kadar. Bir dakika… Hiç sembiyot giymemişsindir herhâlde, değil mi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10360022_interact_01_10220_a_play",
       "english": "Cap. Holy cow, you sure make a guy feel better just by being here.",
       "turkish": "Kaptan. Vay canına, sırf burada olman bile insana kendini daha iyi hissettiriyor.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10360349_sp_interact_krakoac_01_10350_a_play",
       "english": "Yikes. I probably should've worn a tie to a fancy shindig like this…",
       "turkish": "Öf be. Böyle şık bir etkinliğe tam takım kravat giyerek gelmeliydim muhtemelen…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10360254_enemy_advanced_02_play",
       "english": "We ought to wait for reinforcements?",
       "turkish": "Takviye kuvvetleri beklesek mi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10360586_interact_02_10640_c_play",
       "english": "Of course I did! I know exactly how annoying it is when I go \"THWIP! THWIP!\" and someone says I went \"PEW! PEW!\"",
       "turkish": "Tabii ki yaptım! Ben “THWIP! THWIP!” diye giderken birinin “PEW! PEW!” dediğimi söylemesinin ne kadar sinir bozucu olduğunu çok iyi bilirim!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10360341_sp_interact_tokyo_01_10460_b_play",
       "english": "One of them, I guess. But there are, like, thousands of other Spider-Folks out there putting in the work, too.",
       "turkish": "Koruyucularından biriyim diyelim. Canını dişine takan başka binlerce Örümcek İnsan da var.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10360082_debuff_exhaust_01_play",
       "english": "I feel kind of vulnerable.",
       "turkish": "Biraz savunmasız hissediyorum.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10360332_interact_01_10510_c_play",
       "english": "Whatever it is, it's pretty fantastic!",
       "turkish": "Adı her ne olursa olsun fantastik bu!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10360031_interact_02_10180_c_play",
       "english": "I mean…maybe? I bet there are a million spiders in Doomstadt. I could command them all.",
       "turkish": "Ne bileyim… Belki? Eminim Doomstadt’ta milyonlarca örümcek vardır. Hepsine emir verebilirdim.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10360240_ko_three_03_play",
       "english": "Easy as 1-2-3!",
       "turkish": "Bir, iki, üç, tıp!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10360521_interact_01_10630_d_play",
       "english": "Maybe you're right. At least now I don't have to finish a science fair project after we save the universe…",
       "turkish": "Belki de haklısın. En azından artık evreni kurtardıktan sonra bir bilim fuarı projesi bitirmek zorunda değilim…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10360580_interact_03_10610_d_play",
       "english": "I can think of a few possibilities… but most people say I was never much fun in the first place!",
       "turkish": "Aklıma birkaç ihtimal geliyor… ama çoğu kişi zaten başından beri pek eğlenceli biri olmadığımı söyler!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10360334_sp_interact_tokyo_01_10170_b_play",
       "english": "I'm sure you had one, pal. It just probably burned down. Immediately.",
       "turkish": "Eminim senin de vardı be oğlum. Muhtemelen hemen yakmışsındır sadece.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10360392_escorting_payload_newyorke_04_play",
       "english": "Avengers Tower, here we come!",
       "turkish": "Bekle bizi Yenilmezler Kulesi!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10360171_interact_03_10320_d_play",
       "english": "I like your optimism. Yeah. Let's do that.",
       "turkish": "Bu iyimserliğini sevdim. Tamam. Öyle yapalım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10360170_interact_03_10320_b_play",
       "english": "A little, I guess? I can't quite get a grip on the math.",
       "turkish": "Sadece biraz. İşin matematik kısmı beni zorluyor.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10360246_ko_ace_03_play",
       "english": "Don't worry. You guys can win some next time.",
       "turkish": "Endişelenmeyin. Bir dahaki sefere de siz kazanırsınız.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10360072_q_p13_play",
       "english": "Don't mess with the Amazing Spider-Man!",
       "turkish": "Muhteşem Örümcek Adam’a bulaşmayın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10360049_interact_01_10210_a_play",
       "english": "Hey, Hawkeye! We gonna save the world?",
       "turkish": "Selam Hawkeye! Dünyayı kurtaracak mıyız?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10360430_interact_02_10390_d_play",
       "english": "Bummer. Any chance Odin had a spare set of mystical toenail clippers? No…? Oh, well. I'd to ask.",
       "turkish": "Tüh. Peki acaba Odin’in yedek bir mistik ayak tırnağı makası var mıydı? Yok mu?.. Peki, neyse. Sorayım dedim.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10360288_signal_open_spot_01_play",
       "english": "Whoa! Check this place out!",
       "turkish": "Vay! Şuraya bakın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10360220_building_destroy_nest_01_play",
       "english": "Spider-on-spider violence.",
       "turkish": "Örümceği örümceğe kırdırdılar.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10360235_ko_ability_e_01_play",
       "english": "Come here so I can hit you!",
       "turkish": "Gel de vurayım sana!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10360248_revenge_02_play",
       "english": "We spiders don't forget.",
       "turkish": "Örümcekler unutmaz.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10360037_interact_01_10250_d_play",
       "english": "Things got weirder from there. I'll tell you about that sometime.",
       "turkish": "Sonra işler daha da tuhaf bir hâl aldı. Bir ara anlatayım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10360065_sp_interact_newyork_01_10170_a_play",
       "english": "Glad you're around, Johnny. With everything so weird, it's good to see a friend.",
       "turkish": "Buralarda olmana sevindim Johnny. O kadar acayip işler dönüyor ki bir dostumu görmek iyi geldi.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10360067_sp_interact_hydra_01_10220_a_play",
       "english": "Which way do we go, Cap?",
       "turkish": "Hangi taraftan gidiyoruz Kaptan?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10360385_sp_single_klyntarc_02_play",
       "english": "Yeesh! This cosmic stuff is so outta my neighborhood!",
       "turkish": "Yuh! Bu kozmik şeyler mahallemden çok uzak!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10360250_ko_terrain_01_play",
       "english": "Woohoo! Seeya!",
       "turkish": "Oley! Haydi görüşürüz!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10360575_interact_02_10630_a_play",
       "english": "Ever miss the days when we were just carefree teens, saving the world between classes?",
       "turkish": "Ders aralarında dünyayı kurtaran, kaygısız gençler olduğumuz günleri hiç özlüyor musun?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10360425_interact_02_10340_b_play",
       "english": "Okay… but I don't think that's a real thing, Tony…",
       "turkish": "Peki… Ama bunun gerçek olduğunu sanmıyorum Tony…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10360325_building_spotted_octopus_03_play",
       "english": "I saw one of these on a beach in Jersey once…",
       "turkish": "Bir keresinde Jersey’de sahilde şunlardan birini görmüştüm…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10360514_interact_01_10610_a_play",
       "english": "Admit it, Cat. Saving countless lives is better than stealing jewels any night!",
       "turkish": "İtiraf et, Kedi. Sayısız hayatı kurtarmak, herhangi bir gece mücevher çalmaktan daha iyidir!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10360468_interact_05_10320_b_play",
       "english": "It's not just you. I mean… gods, monsters, robots…. All of this is pretty crazy!",
       "turkish": "Sadece sen değilsin. Yani… tanrılar, canavarlar, robotlar… Tüm bunlar oldukça çılgınca!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10360298_signal_wheel_defend_01_play",
       "english": "Defend this spot, okay?",
       "turkish": "Bu noktayı savunun, olur mu?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10360029_interact_01_10230_c_play",
       "english": "Yeah. So I wonder if there are, like, Raccoon totems?",
       "turkish": "Öyle. O yüzden merak ettim, acaba rakun totemi de var mıdır?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10360114_saw_enemy_01_play",
       "english": "Pretty sure those are bad guys…",
       "turkish": "Sanırım şunlar kötü adam…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10360335_sp_interact_tokyo_01_10260_b_play",
       "english": "This place? No no no. My neighborhood is way less futuristic.",
       "turkish": "Burası mı? Yok canım, daha neler. Benim mahalle bunun kadar fütüristik değil.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10360129_ko_sp_01_10360_play",
       "english": "I hope the next version of me I meet is nicer.",
       "turkish": "Umarım karşılaşacağım bir sonraki Örümcek Adam daha dost canlısı olur.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10360350_sp_interact_krakoac_01_10350_c_play",
       "english": "Sure, I'd be dapper if you were still my costume, V. But also, a total psycho!",
       "turkish": "Tabii, hâlâ kostüm niyetine seni giyseydim şık olurdum V. Ayrıca psikopatın teki de olurdum.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10360519_interact_01_10620_c_play",
       "english": "Or, you know, I could just leave that for Moon-Girl and stick to the webs. It's cool! Please don't eat me…",
       "turkish": "Ya da bilirsin, bunu Moon Girl’e bırakır, ben de ağlara sadık kalırım. Sorun değil! Lütfen beni yeme…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10360270_escorting_remind_wakandah_01_play",
       "english": "The Orisha are getting restless, I think…",
       "turkish": "Orishalar huzursuzlanmaya başladı galiba…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10360083_debuff_exhaust_02_play",
       "english": "Ohh, if I get hit it's gonna hurt.",
       "turkish": "Öff, vurulursam çok acıtacak.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10360035_interact_02_10320_d_play",
       "english": "Yeah, I can't knit, or talk to spiders.",
       "turkish": "Ben örgü öremem. Örümceklerle de konuşamam.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10360108_occupied_hint_attack_01_play",
       "english": "Hello, mission objective? It's right here!",
       "turkish": "Alo, görevimizin hedefini unuttunuz mu? Hemen şurası!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10360473_interact_01_10520_d_play",
       "english": "Huh. I guess a back-up plan wouldn't be a bad idea. You don't happen to give lessons, do you?",
       "turkish": "Hımm. Sanırım bir yedek plan kötü bir fikir olmazdı. Ders veriyor musun, yoksa?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10360537_sp_emote_10470_1047001217_04_play",
       "english": "Spider-Sling!",
       "turkish": "Örümcek sapanı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10360520_interact_01_10630_b_play",
       "english": "We sure do go way back, Cyke. You ever miss the simple days, when we were just teens who fought crime?",
       "turkish": "Cidden eskiye dayanıyoruz, Cyke. Hiç özlemiyor musun o basit günleri; daha sadece suçla savaşan iki ergendik?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10360167_quick_hp_low_01_play",
       "english": "I'm in a rough shape.",
       "turkish": "Fena hırpalandım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10360427_interact_02_10350_b_play",
       "english": "Really, Eddie? After all the times you've tried to ruin my life? I'm hurt!",
       "turkish": "Gerçekten mi Eddie? Kaç kez hayatımı mahvetmeye çalışmana rağmen? Kırdın beni!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10360047_interact_01_10180_a_play",
       "english": "Say Doc, you never told me where'cha learned all those tricks.",
       "turkish": "Doktor bir şey sorayım, tüm şu numaraları nereden öğrenmiştin? Hiç anlatmadın.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10360493_sp_ability_10420_02_play",
       "english": "Thanks, Peni!",
       "turkish": "Teşekkürler, Peni!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10360258_escorting_payload_tokyoe_01_play",
       "english": "Next stop, the Shrine of the Weaver. All aboard!",
       "turkish": "Sırada Dokumacının Mabedi var. Herkes binsin!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10360101_buff_purge_02_play",
       "english": "A fresh start!",
       "turkish": "Yeni bir başlangıç!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10360304_signal_wheel_backup_01_play",
       "english": "Don't make me do this solo!",
       "turkish": "İlla tek başıma mı yapayım!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10360018_interact_02_10170_a_play",
       "english": "Johnny, with your reckless charm and my acrobatic skills, we'll knock'em dead.",
       "turkish": "Johnny, senin pervasız caziben ve benim akrobatik yeteneklerimle hepsini yere sereriz.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10360199_building_spotted_portal_01_play",
       "english": "Strange is at it again! Portal!",
       "turkish": "Strange yine yapacağını yaptı! Portal!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10360193_saw_sniper_01_play",
       "english": "Yikes, a sniper!",
       "turkish": "Amanın, keskin nişancı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10360053_sp_single_newyork_01_play",
       "english": "When I was a kid, New York wasn't quite so ominous. Miss that.",
       "turkish": "Ben çocukken New York bu kadar tekinsiz değildi. O günleri özledim.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10360287_quick_thanks_02_play",
       "english": "Thanks, friend!",
       "turkish": "Sağ ol dostum!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10360121_ko_normal_04_play",
       "english": "And stay down.",
       "turkish": "Bir daha da kalkma.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10360399_escorting_remind_newyorke_03_play",
       "english": "I knew we should've taken the 6 Train…",
       "turkish": "Keşke metroyla gitseymişiz…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10360256_escorting_payload_asgarde_01_play",
       "english": "Let's go, there's a tree to save!",
       "turkish": "Haydi, kurtaracağımız bir ağaç var!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10360338_sp_interact_tokyo_01_10370_d_play",
       "english": "Uh huh. Shouldn't you be stuck to the front of a fridge somewhere?",
       "turkish": "Hee. Senin bir yerlerde bir buzdolabına asılı olman gerekmiyor muydu?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10360097_buff_shield_02_play",
       "english": "Armor. Cool.",
       "turkish": "Zırh. Güzelmiş.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10360036_interact_01_10250_b_play",
       "english": "Oh, me too. You'll never guess who showed up to save the day: Morbius!",
       "turkish": "Ben de ya. Sonra kim çıkıp günü kurtarsa beğenirsin? Morbius!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10360579_interact_03_10610_b_play",
       "english": "How many times do I have to tell you, Felicia? I'm not a thief!",
       "turkish": "Sana kaç kere söylemem gerekiyor, Felicia? Ben hırsız değilim!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10360536_sp_emote_10470_1047001217_03_play",
       "english": "Gonna get sticky…",
       "turkish": "Her taraf yapış yapış olacak…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10360485_interact_01_10580_d_play",
       "english": "Nah. It's cool. I've always been a \"Go Fish\" kinda guy myself.",
       "turkish": "Yok, sorun değil. Ben her zaman \"Go Fish\" tarzı bir adam olmuşumdur.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10360545_interact_02_10220_b_play",
       "english": "Come on, Cap! You look way better in red, white, and blue than you do in an orange jumpsuit!",
       "turkish": "Hadi ama, Cap! Kırmızı, beyaz ve mavinin içinde turuncu bir tuluma göre çok daha iyi görünüyorsun!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10360169_quick_thanks_01_play",
       "english": "Hey, thanks!",
       "turkish": "Sağ ol ya!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10360028_interact_01_10230_a_play",
       "english": "I was thinking. All Spider-People are connected to a Spider-Totem.",
       "turkish": "Bir şey düşünüyordum da. Tüm Örümcek İnsanların bağlı olduğu bir Örümcek Totemi vardır.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10360337_sp_interact_tokyo_01_10370_b_play",
       "english": "I know, right? Wait. What are we talking about here?",
       "turkish": "Değil mi ama? Bir saniye. Konu neydi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10360424_interact_04_10320_d_play",
       "english": "Don't even finish that question. The thought alone is gonna give me nightmares for weeks!",
       "turkish": "Şu soruyu hiç sorma. Sırf düşünsem bile haftalarca kâbuslarıma girecek!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10360423_interact_04_10320_b_play",
       "english": "Just like you have all the powers of a squirrel and all the powers of a girl. So…?",
       "turkish": "Tıpkı senin de bir sincabın ve bir kızın tüm güçlerine sahip olman gibi. Yani?..",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10360305_signal_wheel_backup_02_play",
       "english": "I sure could use some amazing friends!",
       "turkish": "Muhteşem dostlarım, yetişin!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10360534_sp_emote_10470_1047001217_01_play",
       "english": "Don't mess with the Amazing Spider-Jeff!",
       "turkish": "Muhteşem Örümcek-Jeff’e bulaşmayın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10360195_saw_sniper_03_play",
       "english": "Take cover, we got a sniper!",
       "turkish": "Siper alın, keskin nişancı var!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10360449_sp_interact_klyntarh_01_10420_b_play",
       "english": "Whoa! Careful, Peni! You do not want to bring one of these guys home with you!",
       "turkish": "Hop dedik! Dikkatli ol Peni! Bu elemanlardan birini yanında eve götürmek istemezsin!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10360470_interact_01_10430_a_play",
       "english": "All right! Another meeting of the Secret Society of Super-Peters!",
       "turkish": "Tamam! Süper-Peter'ların Gizli Topluluğu'nun bir başka toplantısı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10360585_interact_02_10640_a_play",
       "english": "Hey, Jubes! Ready to make with the \"PAF! PAF!\"?",
       "turkish": "Hey, Jubes! \"PAF! PAF!\" yapmaya hazır mısın?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10360461_escorting_remind_kunlunh_02_play",
       "english": "If we don't get this tablet to Shou-Lao soon, he’ll stay asleep forever.",
       "turkish": "Eğer bu tableti yakında Shou-Lao'ya ulaştırmazsak, sonsuza kadar uykuda kalacak.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10360210_building_destroy_ankh_03_play",
       "english": "All clear, no more ankh!",
       "turkish": "Sorun çözüldü, yaşam çarmıhı kalmadı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10360274_easter_egg_tokyoe_03_play",
       "english": "Spiders rock, you know. Seriously. We do.",
       "turkish": "Örümcekler gibisi yok. Cidden. Bizim gibisi yok.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10360205_building_spotted_nest_01_play",
       "english": "Self-guided spider-bombs? Yikes!",
       "turkish": "Kendinden güdümlü örümcek bombaları mı? Amanın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10360355_interact_03_10250_a_play",
       "english": "Hey, Tandy! Where's Ty? You two are usually inseparable!",
       "turkish": "Selam Tandy! Ty nerede? Normalde ikinizi ayrı görmezdim!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10360182_sp_interact_tokyo_01_10420_b_play",
       "english": "Just one time back in high school when my webshooters malfunctioned. That was embarrassing. But this is…",
       "turkish": "Bir keresinde lisedeyken ağ atıcılarım arıza yapmıştı. Çok utanç vericiydi. Ama bu ise…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10360265_escorting_remind_asgarde_02_play",
       "english": "Hurry! The tree can't take much more tapping!",
       "turkish": "Acele edin! Ağaç buna daha fazla dayanamayacak!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10360201_building_spotted_portal_03_play",
       "english": "Uh oh, that sure looks like a portal.",
       "turkish": "Eyvah, portal göründü galiba.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10360166_quick_hp_normal_01_play",
       "english": "I feel great. How's everyone else?",
       "turkish": "Harika hissediyorum. Siz nasılsınız millet?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10360238_ko_three_01_play",
       "english": "Good things come in threes.",
       "turkish": "İşte üçü bir arada.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10360502_escorting_payload_museume_01_play",
       "english": "No monsters get left behind, got it? Good.",
       "turkish": "Hiçbir canavar geride kalmayacak, anladın mı? Güzel.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10360232_ko_q_01_play",
       "english": "Spider-Domain is not for the weak.",
       "turkish": "Örümcekler Âlemini öyle herkes kaldıramaz.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10360149_saw_death_01_10420_play",
       "english": "Jeez, we needed her and SP//dr.",
       "turkish": "Tüh, Peni ve SP//dr bize lazımdı.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10360272_easter_egg_wakandac_01_play",
       "english": "I can just about see how this thing should work…and yeah, it's pretty brilliant.",
       "turkish": "Bu şeyin nasıl çalıştığını az çok anladım sanki… Evet, inanılmaz zekice.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5203,7 +5203,7 @@
       "internalName": "vo_10360011_single_02_play",
       "english": "The truth is, I can do some amazing stuff. I should enjoy this more.",
       "turkish": "Aslında muhteşem şeyler yapabiliyorum. Bunun tadını çıkarmalıyım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5215,7 +5215,7 @@
       "internalName": "vo_10360222_building_destroy_nest_03_play",
       "english": "No more spiders to worry about. Except me.",
       "turkish": "Artık örümcekleri dert etmeye gerek yok. Ben hariç.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5227,7 +5227,7 @@
       "internalName": "vo_10360161_quick_q_charge_90_under_01_play",
       "english": "I can only do it so often, okay?",
       "turkish": "Bunu çok sık yapamam, tamam mı?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5239,7 +5239,7 @@
       "internalName": "vo_10360159_quick_fallback_01_play",
       "english": "We need to get back from here, like now.",
       "turkish": "Buradan hemen geri çekilmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5251,7 +5251,7 @@
       "internalName": "vo_10360459_escorting_payload_kunlunh_02_play",
       "english": "Like Aunt May always says, slow and steady wins the race… I guess…",
       "turkish": "Teyze May'in her zaman dediği gibi, yavaş ve istikrarlı olan yarışı kazanır… Sanırım…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5263,7 +5263,7 @@
       "internalName": "vo_10360471_interact_01_10430_c_play",
       "english": "Hyphenated Heroes? Lords and Men? Spidey and Garfun-Quill?",
       "turkish": "Çizgili Kahramanlar mı? Lordlar ve Adamlar mı? Spidey ve Garfun-Quill mi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5275,7 +5275,7 @@
       "internalName": "vo_10360467_interact_01_10310_d_play",
       "english": "Yeah, I guess I do. But I'm always looking for more. Glad to add you to the list!",
       "turkish": "Evet, sanırım öyle. Ama her zaman daha fazlasını arıyorum. Seni listeye eklemekten memnuniyet duyarım!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5287,7 +5287,7 @@
       "internalName": "vo_10360178_interact_01_10350_a_play",
       "english": "Great. Eddie… I guess we're doing the team-up thing again.",
       "turkish": "Müthiş. Eddie… Desene yine birlik olduk diye.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5299,7 +5299,7 @@
       "internalName": "vo_10360356_interact_03_10250_c_play",
       "english": "Are you guys sharing a studio in Hell's Kitchen now? I get it. Rent's been skyrocketing!",
       "turkish": "Cehennem Mutfağı’nda aynı eve mi çıktınız? İyi fikir. Kiralar aldı başını gitti!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5311,7 +5311,7 @@
       "internalName": "vo_10360144_saw_death_01_10220_play",
       "english": "On no, not Cap!",
       "turkish": "Eyvah, Kaptan olmasın!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5323,7 +5323,7 @@
       "internalName": "vo_10360012_single_03_play",
       "english": "I don't know the actual mileage, but this feels like a long way from Queens.",
       "turkish": "Gerçek mesafeden emin değilim ama sanki Queens'ten epey uzaktayız.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5335,7 +5335,7 @@
       "internalName": "vo_10360343_sp_interact_klyntar_01_10440_c_play",
       "english": "I was gonna say, \"they both suck\"… but yeah, that works too…",
       "turkish": "\"İkisi de kan emiyor\" diyecektim… ama evet, bu da işe yarıyor…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5347,7 +5347,7 @@
       "internalName": "vo_10360293_signal_enemy_02_play",
       "english": "Tagged them with a spider-tracer!",
       "turkish": "Örümcek izleyiciyi yapıştırdım!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5359,7 +5359,7 @@
       "internalName": "vo_10360120_ko_normal_03_play",
       "english": "Ohhh, you went down pretty hard.",
       "turkish": "Oo, yere iyi serdim ama.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5371,7 +5371,7 @@
       "internalName": "vo_10360134_ko_sp_01_10140_play",
       "english": "Aw, you coulda been a hero, Frank.",
       "turkish": "Yapma ya, kahraman olabilirdin Frank.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5383,7 +5383,7 @@
       "internalName": "vo_10360281_quick_q_charge_100_02_play",
       "english": "All right! Time to get my web on!",
       "turkish": "Tamam! Ağımla şovumu yapma vakti!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5395,7 +5395,7 @@
       "internalName": "vo_10360564_saw_ko_01_10640_play",
       "english": "Yeah! Jubilee, blowin’ it up!",
       "turkish": "İşte bu! JUBILEE ortalığı yıkıyor!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5407,7 +5407,7 @@
       "internalName": "vo_10360509_escorting_remind_newyorkh02_02_play",
       "english": "Starting to think we should have taken the subway instead…",
       "turkish": "Sanırım metroyla gitmeliydik diye düşünmeye başlıyorum…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5419,7 +5419,7 @@
       "internalName": "vo_10360518_interact_01_10620_a_play",
       "english": "Oh, man! I've wanted to ride a dinosaur ever since I was a little kid! And it's finally happening!",
       "turkish": "Vay be! Küçük bir çocuktan beri bir dinozora binmek istiyordum! Ve sonunda oluyor!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5431,7 +5431,7 @@
       "internalName": "vo_10360558_ko_sp_01_10610_play",
       "english": "Sorry about that, Felicia…",
       "turkish": "Bunun için üzgünüm, Felicia…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5443,7 +5443,7 @@
       "internalName": "vo_10360394_escorting_payload_newyorkh_04_play",
       "english": "Not the Squirrel Girl I was expecting… but I'm sure you'll do fine…",
       "turkish": "Beklediğim Sincap Kız sen değildin… Ama eminim sen de görevini yerine getirirsin…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5455,7 +5455,7 @@
       "internalName": "vo_10360253_enemy_advanced_01_play",
       "english": "I don't think I like these odds.",
       "turkish": "Kazanma şansımız pek yüksek değil.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5467,7 +5467,7 @@
       "internalName": "vo_10360098_buff_dr_01_play",
       "english": "I can be more reckless now!",
       "turkish": "Artık daha da pervasız olabilirim!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5479,7 +5479,7 @@
       "internalName": "vo_10360517_interact_01_10600_d_play",
       "english": ">Sigh< I knew I should've picked a stronger password than \"AMAZING123\"…",
       "turkish": ">İç çeker< \"AMAZING123\"den daha güçlü bir şifre seçmem gerektiğini biliyordum…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5491,7 +5491,7 @@
       "internalName": "vo_10360026_interact_01_10111_b_play",
       "english": "There are people who think I'm as strong as you.",
       "turkish": "Senin kadar güçlü olduğumu düşünen insanlar var.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5503,7 +5503,7 @@
       "internalName": "vo_10360472_interact_01_10520_b_play",
       "english": "Not much… but in theory, my Spider-Sense should let me dodge any punch you throw!",
       "turkish": "Çok değil… ama teoride, Örümcek Hissim attığın her yumruktan kaçınmamı sağlamalı!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5515,7 +5515,7 @@
       "internalName": "vo_10360494_sp_ability_10420_03_play",
       "english": "Counting down!",
       "turkish": "Geri sayım başlıyor!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5527,7 +5527,7 @@
       "internalName": "vo_10360562_ko_sp_01_10630_play",
       "english": "One eye, zero wins!",
       "turkish": "Tek göz, sıfır zafer!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5539,7 +5539,7 @@
       "internalName": "vo_10360021_interact_01_10340_d_play",
       "english": "It's gonna take more than scrambled timelines to cloud my naturally sunny disposition.",
       "turkish": "Doğal olarak neşeli mizacımı bozmak için zaman çizgilerinin karman çorman edilmesi yetmez.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5551,7 +5551,7 @@
       "internalName": "vo_10360508_escorting_remind_newyorkh02_01_play",
       "english": "Oy! What have you gotten us into this time, Felicia?",
       "turkish": "Hey! Bu kez bizi neyin içine soktun, Felicia?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5563,7 +5563,7 @@
       "internalName": "vo_10360347_sp_interact_tokyo_01_10220_a_play",
       "english": "I can't believe this actually is the future. Spidey for the win… I guess…",
       "turkish": "Şu an gelecekte olduğumuza inanamıyorum. Spidey müthişmiş… Yani sanırım…",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5575,7 +5575,7 @@
       "internalName": "vo_10360284_quick_hp_normal_02_play",
       "english": "Feeling spectacular!",
       "turkish": "Olağanüstü hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5587,7 +5587,7 @@
       "internalName": "vo_10360142_saw_ko_01_10140_play",
       "english": "Gotta admit, he gets things done.",
       "turkish": "Ne yalan söyleyeyim, adam bu işte başarılı.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5599,7 +5599,7 @@
       "internalName": "vo_10360048_interact_01_10180_c_play",
       "english": "Come on. Were you bitten by a radioactive wizard?",
       "turkish": "Hadi söylesene. Seni radyoaktif bir büyücü mü ısırdı?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5611,7 +5611,7 @@
       "internalName": "vo_10360249_revenge_03_play",
       "english": "Now we're even!",
       "turkish": "Şimdi ödeşmiş olduk!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5623,7 +5623,7 @@
       "internalName": "vo_10360009_single_14_play",
       "english": "Where's the timeline where we all just go down to the bodega for a sandwich?",
       "turkish": "Hepimizin bir büfeye gidip sandviç aldığı bir zaman çizgisi yok mu?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5635,7 +5635,7 @@
       "internalName": "vo_10360252_ko_terrain_03_play",
       "english": "That's a long way down.",
       "turkish": "Düş düş bitmez şimdi.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5647,7 +5647,7 @@
       "internalName": "vo_10360062_sp_interact_wakandac_01_10340_c_play",
       "english": "Hyper Structure Printer!!!",
       "turkish": "Hiper Yapı Yazıcısı!!!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5659,7 +5659,7 @@
       "internalName": "vo_10360431_interact_03_10350_b_play",
       "english": "I couldn't even trust you to write an accurate news story, Eddie. What’s changed?",
       "turkish": "Yazdığın haberlerin doğruluğundan bile şüphe ederim Eddie. Ne değişti?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5671,7 +5671,7 @@
       "internalName": "vo_10360109_occupied_hint_attack_02_play",
       "english": "We need to take that area, remember?",
       "turkish": "Şu bölgeyi ele geçirmeliyiz, hatırlıyor musunuz?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5683,7 +5683,7 @@
       "internalName": "vo_10360323_building_spotted_octopus_01_play",
       "english": "Spiders love things with eight legs... but this?!",
       "turkish": "Örümcekler sekiz bacaklı şeylere bayılır… Bu hariç!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5695,7 +5695,7 @@
       "internalName": "vo_10360331_interact_01_10510_a_play",
       "english": "You and me, together again, Ben! It's a classic Team-Up!",
       "turkish": "İkimiz yine bir araya geldik Ben! İşte klasik bir ikili!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5707,7 +5707,7 @@
       "internalName": "vo_10360264_escorting_remind_asgarde_01_play",
       "english": "We're behind schedule.",
       "turkish": "Geciktik.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5719,7 +5719,7 @@
       "internalName": "vo_10360569_saw_death_01_10570_play",
       "english": "Don’t worry. It’s just Wade. He’ll be back.",
       "turkish": "Merak etme. Bu sadece Wade. Geri döner.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5731,7 +5731,7 @@
       "internalName": "vo_10360156_respawn_02_play",
       "english": "Now I've got something to prove.",
       "turkish": "Şimdi kendimi kanıtlamam gerek!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5743,7 +5743,7 @@
       "internalName": "vo_10360214_building_destroy_amplifier_01_play",
       "english": "No more yarn's getting amplified here.",
       "turkish": "Artık iplik kuvvetlendirmek yok.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5755,7 +5755,7 @@
       "internalName": "vo_10360313_signal_vehicle_as_defend_01_play",
       "english": "Time to slam on their brakes.",
       "turkish": "Frene basmalarını sağlayalım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5767,7 +5767,7 @@
       "internalName": "vo_10360157_respawn_03_play",
       "english": "I'm not a vengeful person, but today I'll make an exception.",
       "turkish": "Normalde kin tutmam ama bugünlük bir istisna yaptım.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5779,7 +5779,7 @@
       "internalName": "vo_10360051_interact_01_10260_a_play",
       "english": "Shouldn't you be off ruling your awesome intergalactic empire?",
       "turkish": "Gidip muhteşem galaksiler arası imparatorluğuna hükmetmen gerekmez mi?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5791,7 +5791,7 @@
       "internalName": "vo_10360030_interact_02_10180_a_play",
       "english": "Doc, I have a question. Squirrel Girl can talk to squirrels, Ant-Man can control ants…how come I can't control spiders?",
       "turkish": "Doktor, bir sorum var. Sincap Kız sincaplarla konuşabiliyor, Ant-Man de karıncaları kontrol edebiliyor… Ben neden örümcekleri kontrol edemiyorum?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5803,7 +5803,7 @@
       "internalName": "vo_10360113_countdown_dt_02_play",
       "english": "Can't give up now!",
       "turkish": "Şimdi pes edemeyiz!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5815,7 +5815,7 @@
       "internalName": "vo_10360482_interact_01_10550_a_play",
       "english": "Matt?! Boy, is it good to see a friendly face! Well, friendly-ish. You okay, pal?",
       "turkish": "Matt?! Dostum, tanıdık bir yüz görmek ne güzel! Yani, nispeten dostça. İyi misin, dostum?",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5827,7 +5827,7 @@
       "internalName": "vo_10360543_sp_interact_tokyo_03_10600_a_play",
       "english": "2099! My web-fluid is way past its expiration date.",
       "turkish": "2099! Ağ sıvımın son kullanma tarihi çoktan geçmiş.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5839,7 +5839,7 @@
       "internalName": "vo_10360126_ko_sp_01_10220_play",
       "english": "I have never felt worse about a win.",
       "turkish": "Kazandım diye hiç bu kadar kötü hissetmemiştim.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5851,7 +5851,7 @@
       "internalName": "vo_10360177_interact_01_10400_d_play",
       "english": "Wow. Really? I'd be honored. And I promise I won't get any webs on them… this time…",
       "turkish": "Vay canına. Cidden mi? Onur duyarım. Hem söz veriyorum, bu kez ağ bulaştırmam.",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5863,7 +5863,7 @@
       "internalName": "vo_10360453_sp_ability_10170_01_play",
       "english": "Flaming webs!",
       "turkish": "Alevli ağlar!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5875,12 +5875,12 @@
       "internalName": "vo_10360296_signal_wheel_attack_01_play",
       "english": "A good place for some action!",
       "turkish": "Biraz aksiyon için ideal bir yer!",
-      "status": "Bekliyor",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "734fcb769c593918",
-  "generatedAt": "2026-08-20T19:07:55.759408Z"
+  "dataRevision": "09a4145b3d31bdba",
+  "generatedAt": "2026-08-24T13:13:41.944374Z"
 }

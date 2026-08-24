@@ -3,12 +3,12 @@
   "voiceActor": "Ecem Varlık",
   "summary": {
     "total": 420,
-    "waiting": 270,
-    "recorded": 150,
+    "waiting": 141,
+    "recorded": 279,
     "checked": 0,
     "added": 0,
-    "worked": 150,
-    "progress": 35.71,
+    "worked": 279,
+    "progress": 66.43,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10540288_interact_01_10350_c_play",
       "english": "[Phoenix Force] Why waste your time fighting when I can burn his darkness from existence?",
       "turkish": "[Phoenix Gücü] Onun karanlığını varoluştan yakıp yok edebilecekken neden zamanınızı savaşarak harcıyorsunuz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10540396_interact_02_10490_d_play",
       "english": "Then let's show it just how wrong it is, old friend. Together.",
       "turkish": "O zaman ona ne kadar yanıldığını gösterelim, eski dostum. Birlikte.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10540038_ko_ability_left_03_play",
       "english": "[Phoenix Force] Taste my fury!",
       "turkish": "[Phoenix Gücü] Öfkemi tadın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10540354_interact_01_10460_c_play",
       "english": "[Phoenix Force] Ah… You were communing with a Celestial. That takes great power.",
       "turkish": "[Phoenix Gücü] Ah… Bir Göksel Varlık ile iletişim kuruyordun. Bu büyük bir güç gerektirir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10540120_saw_death_01_10270_play",
       "english": "You were Groot. We won't forget that…",
       "turkish": "Adın Groot'tu. Bunu unutmayacağız…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10540092_escorting_remind_arakkoe_01_play",
       "english": "No way I'm letting Arakko fall. Not on my watch.",
       "turkish": "Arakko'nun düşmesine asla izin vermem. Benim nöbetimde asla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10540097_easter_egg_asgardc_01_play",
       "english": "[Phoenix Force] I hope you slumber well, my love…",
       "turkish": "[Phoenix Gücü] Umarım huzur içinde uyuyorsundur, sevgilim...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10540240_quick_group_up_01_play",
       "english": "Everyone! To me!",
       "turkish": "Herkes! Yanıma!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10540183_building_spotted_turret_01_play",
       "english": "Look out! The Punisher's packing heat!",
       "turkish": "Dikkat et! Punisher silahlarını kuşanmış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10540391_interact_02_10430_b_play",
       "english": "[Phoenix Force] Yet you and your Guardians have tampered with so many of them over the years.",
       "turkish": "[Phoenix Gücü] Ancak siz ve Koruyucularınız yıllar boyunca onlardan pek çoğuna müdahale ettiniz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10540251_signal_open_spot_02_play",
       "english": "[Phoenix Force] Curious. This is worth your notice.",
       "turkish": "[Phoenix Gücü] Merak ettim. Bu dikkatinizi çekmeye değer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10540134_buff_heal_critical_02_play",
       "english": "[Phoenix Force] My flames burn bright once more!",
       "turkish": "[Phoenix Gücü] Alevlerim yeniden parlak bir şekilde yanıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10540180_building_spotted_portal_01_play",
       "english": "Strange opened up a portal.",
       "turkish": "Strange bir portal açtı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10540227_revenge_03_play",
       "english": "[Phoenix Force] May you suffer for all of eternity!",
       "turkish": "[Phoenix Gücü] Sonsuzluğa kadar acı çekesin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10540419_sp_ability_10240_03_play",
       "english": "Fire and ashes!",
       "turkish": "Ateş ve küller!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10540230_ko_terrain_03_play",
       "english": "[Phoenix Force] The universe is on our side.",
       "turkish": "[Phoenix Gücü] Evren bizim yanımızda.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10540322_interact_02_10270_d_play",
       "english": "I have an even better idea. Let's show them. Together.",
       "turkish": "Daha iyi bir fikrim var. Hadi onlara birlikte gösterelim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10540100_ko_sp_01_10280_play",
       "english": "Consider your circuits fried, Ultron.",
       "turkish": "Devrelerinin yandığını kabul et, Ultron.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10540033_ko_q_01_play",
       "english": "Incinerated.",
       "turkish": "Kül oldun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10540414_entrance_02_10240_play",
       "english": "We are part of the same cycle, Hela. Without death, there can be no rebirth.",
       "turkish": "Aynı döngünün parçalarıyız, Hela. Ölüm olmadan yeniden doğuş olmaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10540357_interact_01_10390_a_play",
       "english": "[Phoenix Force] Do you remember me, Phoenix-Son?",
       "turkish": "[Phoenix Gücü] Beni hatırlıyor musun, Phoenix-Oğlu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10540008_single_17_play",
       "english": "[Phoenix Force] \"Host\" is an outdated term. Jean Grey and I are one now.",
       "turkish": "[Phoenix Gücü] \"Ev sahibi\" eski bir terim. Jean Grey ve ben artık biriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10540161_ko_normal_01_play",
       "english": "You really should've known better.",
       "turkish": "Gerçekten daha iyi bilmeliydin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10540387_interact_02_10320_b_play",
       "english": "It is lovely… but it can also be very lonely.",
       "turkish": "Bu harika… ama aynı zamanda çok yalnız da olabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10540023_q_p2_play_p2",
       "english": "I am Phoenix!",
       "turkish": "Ben Phoenix’im!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10540024_ability_right_01_play",
       "english": "Turning up the heat!",
       "turkish": "Sıcaklığı artırıyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10540142_buff_dr_02_play",
       "english": "[Phoenix Force] Their attacks do little harm.",
       "turkish": "[Phoenix Gücü] Saldırıları çok az zarar veriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10540306_interact_01_10200_c_play",
       "english": "[Phoenix Force] How can one walk away from an eternity of cosmic splendor?",
       "turkish": "[Phoenix Gücü] Kozmik ihtişamın sonsuzluğundan nasıl uzaklaşabilir biri?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10540267_signal_area_occupied_02_play",
       "english": "[Phoenix Force] They shall not take this land from us!",
       "turkish": "[Phoenix Gücü] Bu toprakları bizden alamayacaklar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10540050_sp_single_newyork_01_play",
       "english": "I suppose it's up to me to shed some light on this long night.",
       "turkish": "Bu uzun geceye biraz ışık tutmak bana düşüyor sanırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10540037_ko_ability_left_02_play",
       "english": "A fitting end.",
       "turkish": "Uygun bir son.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10540367_sp_interact_museume_01_10580_a_play",
       "english": "Your thoughts are racing, Remy. Where's your mind at?",
       "turkish": "Düşüncelerin hızla akıyor, Remy. Aklın nerede?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10540199_building_destroy_amplifier_02_play",
       "english": "Rocket built it. I broke it.",
       "turkish": "Rocket yaptı, ben kırdım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10540290_interact_01_10150_c_play",
       "english": "A sister.",
       "turkish": "Bir kız kardeş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10540102_ko_sp_01_10520_play",
       "english": "Next time, stick to punching dragons, Iron Fist.",
       "turkish": "Bir dahaki sefere ejderhaları yumruklamaya odaklan, Iron Fist.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10540121_saw_death_01_10150_play",
       "english": "Ororo! No! You deserved so much better…",
       "turkish": "Ororo! Hayır! Çok daha iyisini hak ediyordun…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10540042_quick_q_charge_90_higher_02_play",
       "english": "[Phoenix Force] Patience. My power is still building.",
       "turkish": "[Phoenix Gücü] Sabır. Gücüm hâlâ birikiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10540234_quick_fallback_01_play",
       "english": "Want to survive? Then fall back!",
       "turkish": "Hayatta kalmak mı istiyorsun? O zaman geri çekil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10540314_interact_01_10170_c_play",
       "english": "[Phoenix Force] My flames have reduced entire worlds to ash.",
       "turkish": "[Phoenix Gücü] Alevlerim tüm dünyaları kül haline getirdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10540211_ko_sniper_02_play",
       "english": "Good news. I took down the sniper.",
       "turkish": "İyi haber. Keskin nişancıyı indirdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10540053_sp_single_krakoac_01_play",
       "english": "I was born a Mutant. And I will always answer the call of my people.",
       "turkish": "Ben bir Mutant olarak doğdum. Ve her zaman halkımın çağrısına cevap vereceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10540012_single_04_play",
       "english": "This isn't exactly the homecoming I was hoping for… but it'll do!",
       "turkish": "Bu tam olarak umduğum eve dönüş değil… ama idare eder!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10540192_building_destroy_ankh_01_play",
       "english": "So much for Moon Knight's ankh.",
       "turkish": "Moon Knight'ın yaşam çarmıhı için bu kadar yeter.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10540301_interact_01_10140_a_play",
       "english": "[Phoenix Force] Be wary, Frank Castle. The Phoenix is watching you.",
       "turkish": "[Phoenix Gücü] Dikkatli ol, Frank Castle. Phoenix seni izliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10540352_interact_01_10590_d_play",
       "english": "[Phoenix Force] I assure you, you would not live long enough to find out.",
       "turkish": "[Phoenix Gücü] Sana garanti ederim, bunu öğrenmek için yeterince uzun yaşamazsın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10540096_easter_egg_krakoac_01_play",
       "english": "Charles… We won't let you down… I swear…",
       "turkish": "Charles... Seni hayal kırıklığına uğratmayacağız... Söz veriyorum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10540206_building_destroy_nest_03_play",
       "english": "[Phoenix Force] The spider mechanoids are no longer a threat.",
       "turkish": "[Phoenix Gücü] Örümcek mekanizmaları artık bir tehdit değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10540019_switch_01_play_p2",
       "english": "Time for Jean Grey to shine!",
       "turkish": "Jean Grey’in parlama zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10540394_interact_01_10520_d_play",
       "english": "[Phoenix Force] She witnessed my full glory. And you only had a taste. Soon, you will change your mind.",
       "turkish": "[Phoenix Gücü] Tüm ihtişamımı gördü. Ve sen sadece bir tadına baktın. Yakında fikrini değiştireceksin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10540237_quick_hi_02_play",
       "english": "[Phoenix Force] Greetings.",
       "turkish": "[Phoenix Gücü] Selamlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10540304_interact_02_10150_c_play",
       "english": "Even with all this unfathomable power, I'm still me, Ororo.",
       "turkish": "Tüm bu akıl almaz güce rağmen, hâlâ benim, Ororo.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10540311_interact_01_10370_b_play",
       "english": "Charles would be proud, Erik. You've come so far…",
       "turkish": "Charles gurur duyardı, Erik. Çok yol kat ettin…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10540090_escorting_remind_newyorkh_01_play",
       "english": "This city deserves a new day. It's up to us to make that happen!",
       "turkish": "Bu şehir yeni bir günü hak ediyor. Bunu gerçekleştirmek bizim elimizde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10540340_sp_interact_museume_01_10460_d_play",
       "english": "[Phoenix Force] The Collector may be beyond me… but I can still burn everything he's built to the ground…",
       "turkish": "[Phoenix Gücü] Koleksiyoncu benim için erişilmez olabilir… ama yine de onun inşa ettiği her şeyi yerle bir edebilirim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10540337_sp_interact_klyntar_01_10460_b_play",
       "english": "[Phoenix Force] And I sensed you, Warlock. It was you who led me here.",
       "turkish": "[Phoenix Gücü] Ve seni hissettim, Warlock. Beni buraya getiren sendin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10540365_sp_interact_kunlunh_01_10550_b_play",
       "english": "The Daredevil I knew would never consider hurting innocents.",
       "turkish": "Tanıdığım Daredevil asla masumlara zarar vermeyi düşünmezdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10540421_sp_ability_10650_02_play",
       "english": "Flaming fury!",
       "turkish": "Alevli hiddet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10540011_single_03_play",
       "english": "I've touched the infinite. All of this seems so small now…",
       "turkish": "Sonsuzluğa dokundum. Şimdi tüm bunlar çok küçük görünüyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10540381_interact_01_10160_b_play",
       "english": "[Phoenix Force] True. Odin cared for me. But not as deeply as he would come to care for his sons.",
       "turkish": "[Phoenix Gücü] Doğru. Odin bana değer verdi. Ama oğullarına duyacağı kadar derin bir sevgiyle değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10540082_escorting_remind_tokyoh_01_play",
       "english": "We can make it to Budokan. Don't turn back now!",
       "turkish": "Budokan’a ulaşabiliriz. Şimdi geri dönmek yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10540128_debuff_purple_02_play",
       "english": "[Phoenix Force] I cannot recover my strength.",
       "turkish": "[Phoenix Gücü] Gücümü geri kazanamıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10540243_quick_hp_normal_02_play",
       "english": "[Phoenix Force] I still burn bright.",
       "turkish": "[Phoenix Gücü] Hâlâ parlak bir şekilde yanıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10540022_q_p13_play",
       "english": "You are nothing!",
       "turkish": "Sen bir hiçsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10540374_sp_interact_wakanda_01_10450_c_play",
       "english": "[Phoenix Force] You don't wish to finish what you started and wash them from existence?",
       "turkish": "[Phoenix Gücü] Başladığın işi bitirmek ve onları varoluştan silmek istemiyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10540329_interact_01_10210_a_play",
       "english": "[Phoenix Force] You have found yourself in the presence of the Phoenix, Clint Barton of Earth.",
       "turkish": "[Phoenix Gücü] Kendinizi Phoenix'in huzurunda buldunuz, Dünya'dan Clint Barton.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10540286_interact_01_10380_c_play",
       "english": "[Phoenix Force] Chaos and creation have always gone hand-in-hand.",
       "turkish": "[Phoenix Gücü] Kaos ve yaratım her zaman el ele yürümüştür.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10540039_quick_q_charge_90_under_01_play",
       "english": "A little low on Phoenix Force…",
       "turkish": "Biraz Phoenix Gücü eksik…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10540112_saw_ko_01_10320_play",
       "english": "You did that with an acorn? Impressive…",
       "turkish": "Bunu bir meşe palamudu ile mi yaptın? Etkileyici…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10540155_countdown_dt_01_play",
       "english": "We need to stop them now!",
       "turkish": "Onları hemen durdurmamız lazım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10540215_ko_assist_03_play",
       "english": "[Phoenix Force] You finished the job well.",
       "turkish": "[Phoenix Gücü] Görevi iyi bir şekilde tamamladın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10540170_respawn_03_play",
       "english": "Reborn again. Good times.",
       "turkish": "Yeniden doğdum. Güzel zamanlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10540248_quick_thanks_01_play",
       "english": "Thank you!",
       "turkish": "Teşekkür ederim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10540372_sp_interact_klyntarec_01_10350_c_play",
       "english": "[Phoenix Force] Victory for the greater good often comes at an even greater cost.",
       "turkish": "[Phoenix Gücü] Daha büyük iyilik için zafer genellikle daha büyük bir bedelle gelir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10540246_quick_confirm_01_play",
       "english": "Sure.",
       "turkish": "Tabii.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10540378_easter_egg_klyntarc_02_play",
       "english": "Wakanda's weaponized the Phoenix Force? A terrifying notion… but it may be necessary…",
       "turkish": "Wakanda, Phoenix Gücünü silahlandırdı mı? Korkutucu bir düşünce... ama belki de gerekli...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10540049_sp_single_klyntar_01_play",
       "english": "[Phoenix Force] Upon my wings, this world shall burn. May fire be the last thing Knull feels.",
       "turkish": "[Phoenix Gücü] Kanatlarımın üzerinde, bu dünya yanacak. Ateş, Knull'un hissettiği son şey olsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10540172_respawn_05_play",
       "english": "[Phoenix Force] The Phoenix burns once more!",
       "turkish": "[Phoenix Gücü] Anka kuşu bir kez daha yanıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10540085_escorting_remind_wakandah_02_play",
       "english": "[Phoenix Force] Forge ahead. We must not let Bast fall further into darkness!",
       "turkish": "[Phoenix Gücü] İleri atılın. Bast'ın daha fazla karanlığa düşmesine izin veremeyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10540279_interact_01_10430_b_play",
       "english": "I've been traveling the spaceways alone for some time…",
       "turkish": "Uzun zamandır uzay yollarında yalnız seyahat ediyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10540219_ko_five_01_play",
       "english": "Five in a row.",
       "turkish": "Üst üste beş nakavt.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10540030_ko_v_01_play",
       "english": "At least you tried.",
       "turkish": "Eh, en azından denedin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10540351_interact_01_10590_b_play",
       "english": "[Phoenix Force] I do not like that look on your face, human. What are you pondering?",
       "turkish": "[Phoenix Gücü] O yüzündeki ifadeyi hiç beğenmedim, insan. Ne düşünüyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10540335_interact_01_10330_b_play",
       "english": "[Phoenix Force] No, I am not. Not yet. But if I were, I would have grave concerns.",
       "turkish": "[Phoenix Gücü] Hayır, değilim. Henüz değil. Ama olsaydım, ciddi endişelerim olurdu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10540107_saw_ko_01_10490_play",
       "english": "I missed seeing you in action, Logan…",
       "turkish": "Seni aksiyon içinde görmeyi özlemişim, Logan…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10540132_buff_heal_noncritical_02_play",
       "english": "[Phoenix Force] How refreshing!",
       "turkish": "[Phoenix Gücü] Ne ferahlatıcı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10540052_sp_single_newyorkh_01_play",
       "english": "This place makes the Morlock tunnels feel welcoming…",
       "turkish": "Burası, Morlock tünellerini bile davetkâr hissettiriyor...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10540224_ko_ace_03_play",
       "english": "[Phoenix Force] They have all tasted my flames.",
       "turkish": "[Phoenix Gücü] Hepsi alevlerimi tattı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10540244_quick_hp_low_01_play",
       "english": "I'm not at my best…",
       "turkish": "En iyi hâlimde değilim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10540026_ability_right_03_play",
       "english": "[Phoenix Force] Burn, mortals!",
       "turkish": "[Phoenix Gücü] Yanın, ölümlüler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10540032_ko_v_03_play",
       "english": "[Phoenix Force] How… disappointing…",
       "turkish": "[Phoenix Gücü] Ne kadar… hayal kırıklığı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10540338_sp_interact_klyntar_01_10460_d_play",
       "english": "[Phoenix Force] It could burn far more than that if I'm not careful…",
       "turkish": "[Phoenix Gücü] Dikkatli olmazsam bundan çok daha fazlasını yakabilir...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10540081_escorting_remind_tokyoe_02_play",
       "english": "We'll hold the other team back, Zero. Just keep driving!",
       "turkish": "Diğer takımı geri tutacağız, Zero. Sadece sürmeye devam et!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10540310_interact_01_10320_c_play",
       "english": "[Phoenix Force] I was speaking to the miniscule mammal that you call Tippy-Toe.",
       "turkish": "[Phoenix Gücü] Sizin Tippy-Toe dediğiniz küçücük memeliyle konuşuyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10540321_interact_02_10270_b_play",
       "english": "Your words might not make sense to them, but I can hear your every thought.",
       "turkish": "Sözlerin onlara mantıklı gelmeyebilir, ama ben her düşünceni duyabiliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10540377_easter_egg_klyntarc_01_play",
       "english": "The Phoenix left shards of its Force behind. I hope they're enough to turn the tide of this battle…",
       "turkish": "Phoenix, Gücünün parçalarını geride bıraktı. Umarım bu savaşın gidişatını değiştirmek için yeterlidir...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10540015_single_07_play",
       "english": "Even the Phoenix acknowledges how important this battle is.",
       "turkish": "Phoenix bile bu savaşın ne kadar önemli olduğunu kabul ediyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10540325_interact_01_10420_a_play",
       "english": "[Phoenix Force] You have devoted yourself to protecting the Web of Life and Destiny, child?",
       "turkish": "[Phoenix Gücü] Hayat ve Kader Ağını korumaya kendini adadın mı, çocuk?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10540376_sp_interact_asgard_01_10560_c_play",
       "english": "But… the Phoenix told me you're the daughter of Odin…",
       "turkish": "Ama… Phoenix bana Odin'in kızı olduğunu söyledi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10540197_building_destroy_beacon_03_play",
       "english": "[Phoenix Force] The rodent's beacon is no longer a concern.",
       "turkish": "[Phoenix Gücü] Kemirgenin işaretçisi artık bir sorun değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10540040_quick_q_charge_90_under_02_play",
       "english": "[Phoenix Force] My flame is still too dim…",
       "turkish": "[Phoenix Gücü] Alevim hâlâ çok sönük…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10540164_ko_normal_04_play",
       "english": "That's all it took? Really?",
       "turkish": "Bu kadarı mı yetti? Gerçekten mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10540225_revenge_01_play",
       "english": "You mess with the Phoenix, you get burned.",
       "turkish": "Phoenix ile uğraşırsan, yanarsın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10540088_escorting_remind_newyorke_01_play",
       "english": "Come on, H.E.R.B.I.E. I know we can finish this together!",
       "turkish": "Hadi, H.E.R.B.I.E. Bunu birlikte bitirebileceğimizi biliyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10540063_escorting_payload_tokyoe_02_play",
       "english": "Stick with us and we'll be at the Web in no time.",
       "turkish": "Bize bağlı kal, kısa sürede Ağ’a ulaşacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10540313_interact_01_10170_a_play",
       "english": "[Phoenix Force] You and I burn with a cosmic fury few mortals could ever hope to contain.",
       "turkish": "[Phoenix Gücü] Sen ve ben, az sayıda ölümlünün kontrol edebileceği kozmik bir öfkeyle yanıyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10540147_occupied_hint_engage_01_play",
       "english": "Time to claim what's ours!",
       "turkish": "Bizim olanı alma vakti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10540149_occupied_hint_defend_01_play",
       "english": "Control is ours. Hold onto it!",
       "turkish": "Kontrol bizde. Şimdi koruyun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10540373_sp_interact_wakanda_01_10450_a_play",
       "english": "[Phoenix Force] I can see the hatred in your eyes, King of the Secret Seas.",
       "turkish": "[Phoenix Gücü] Gözlerinde nefreti görebiliyorum, Gizli Denizlerin Kralı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10540162_ko_normal_02_play",
       "english": "And I was holding back…",
       "turkish": "Ve ben kendimi tutuyordum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10540101_ko_sp_01_10590_play",
       "english": "Sorry, Elsa. Your hunt ends here.",
       "turkish": "Üzgünüm, Elsa. Avın burada sona eriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10540205_building_destroy_nest_02_play",
       "english": "Those bots were cute, Peni, but they had to go.",
       "turkish": "Bu botlar sevimliydi, Peni, ama gitmeleri gerekiyordu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10540280_interact_01_10430_d_play",
       "english": "Take a deep breath, Peter. Amongst all life in the universe, you're really quite unforgettable.",
       "turkish": "Derin bir nefes al, Peter. Evrenin tüm yaşamı arasında, gerçekten oldukça unutulmazsın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10540004_single_13_play",
       "english": "Did everyone miss me while I was off soaring through the stars?",
       "turkish": "Yıldızlar arasında süzülürken beni özlediniz mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10540344_sp_interact_klyntarec_01_10230_c_play",
       "english": "[Phoenix Force] Knull's darkness cannot be allowed to envelop the universe.",
       "turkish": "[Phoenix Gücü] Knull'un karanlığının evreni sarmasına izin verilemez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10540266_signal_area_occupied_01_play",
       "english": "Don't let them take control here!",
       "turkish": "Burada kontrolü ele geçirmelerine izin vermeyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10540259_signal_wheel_attack_02_play",
       "english": "[Phoenix Force] Prepare to unleash your fury here!",
       "turkish": "[Phoenix Gücü] Öfkenizi burada serbest bırakmaya hazırlanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10540220_ko_five_02_play",
       "english": "Anyone else got five?",
       "turkish": "Başka beşleyen var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10540154_countdown_at_02_play",
       "english": "[Phoenix Force] Our time grows short. Attack!",
       "turkish": "[Phoenix Gücü] Zamanımız daralıyor. Saldırın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10540324_interact_03_10270_d_play",
       "english": "[Phoenix Force] If only the others we fight alongside could hear the wisdom of your words…",
       "turkish": "[Phoenix Gücü] Keşke birlikte savaştığımız diğerleri senin sözlerinin bilgeliğini duyabilseydi...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10540395_interact_02_10490_b_play",
       "english": "A connection as deep as ours can't be limited by space or time, Logan.",
       "turkish": "Bizim kadar derin bir bağ, ne zamanla ne de mekânla sınırlanabilir, Logan.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10540013_single_05_play",
       "english": "[Phoenix Force] Even if this world dies, we shall be reborn anew.",
       "turkish": "[Phoenix Gücü] Bu dünya ölse bile, biz yeniden doğacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10540416_entrance_02_10650_play",
       "english": "You know the drill, Rogue. We hit 'em hard and fast!",
       "turkish": "Ne yapacağını biliyorsun, Rogue. Sert ve hızlı vuracağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10540315_interact_01_10410_a_play",
       "english": "[Phoenix Force] Your mind is troubled…",
       "turkish": "[Phoenix Gücü] Zihnin huzursuz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10540041_quick_q_charge_90_higher_01_play",
       "english": "I'm almost at full Phoenix!",
       "turkish": "Tam Phoenix gücüne ulaşmak üzereyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10540350_interact_02_10530_c_play",
       "english": "As X-Men always do. I just wish I could do more to help.",
       "turkish": "X-Men her zaman olduğu gibi. Keşke daha fazla yardım edebilseydim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10540320_interact_01_10220_c_play",
       "english": "[Phoenix Force] A fact that makes you one of the few humans truly worthy of harnessing my vast cosmic might.",
       "turkish": "[Phoenix Gücü] Bu gerçek, seni benim muazzam kozmik gücümü kullanmaya gerçekten layık birkaç insandan biri yapıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10540127_debuff_purple_01_play",
       "english": "I'm not healing? Why?",
       "turkish": "İyileşmiyorum? Neden?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10540062_escorting_payload_tokyoe_01_play",
       "english": "We'll get you where you need to go, Spider-Zero.",
       "turkish": "Seni gitmen gereken yere ulaştıracağız, Spider-Zero.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10540272_signal_no_01_play",
       "english": "Sorry, no.",
       "turkish": "Pardon ama hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Ecem Varlık",
       "date": null,
       "note": null
@@ -5065,6 +5065,6 @@
       "note": null
     }
   ],
-  "dataRevision": "734fcb769c593918",
-  "generatedAt": "2026-08-20T19:07:55.759408Z"
+  "dataRevision": "09a4145b3d31bdba",
+  "generatedAt": "2026-08-24T13:13:41.944374Z"
 }

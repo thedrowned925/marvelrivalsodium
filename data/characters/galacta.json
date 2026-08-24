@@ -3,12 +3,12 @@
   "voiceActor": "Öykü Kocaöz",
   "summary": {
     "total": 405,
-    "waiting": 282,
-    "recorded": 123,
+    "waiting": 173,
+    "recorded": 232,
     "checked": 0,
     "added": 0,
-    "worked": 123,
-    "progress": 30.37,
+    "worked": 232,
+    "progress": 57.28,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -1507,7 +1507,7 @@
       "internalName": "vo_40170124_system_nm_summary_play",
       "english": "No way! It's a draw!",
       "turkish": "Olamaz! Berabere!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_40170125_system_tdm_play",
       "english": "Astonishing!",
       "turkish": "Şaşırtıcı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_40170126_system_tdm_play",
       "english": "Someone's on a winning streak! Totally cosmic!",
       "turkish": "Biri galibiyet serisi yakaladı! Kozmik bir başarı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_40170127_system_tdm_play",
       "english": "Frenzy!",
       "turkish": "Cinnet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_40170128_system_tdm_play",
       "english": "Team Champ!",
       "turkish": "Takımın Şampiyonu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_40170129_system_tdm_play",
       "english": "We've got a heavy hitter!",
       "turkish": "Takımımızda vurdu mu oturtan biri var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_40170130_system_tdm_play",
       "english": "Halfway to victory!",
       "turkish": "Zafer yolunu yarıladık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_40170131_system_tdm_play",
       "english": "Your team is close to winning!",
       "turkish": "Takımın kazanmaya yakın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_40170132_system_tdm_play",
       "english": "The other team is about to win!",
       "turkish": "Diğer takım kazanmak üzere!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_40170133_system_tdm_play",
       "english": "The final piece! We've got a winner!",
       "turkish": "Son parça! Kazanan belli oldu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_40170134_system_tdm_play",
       "english": "Just one more piece!",
       "turkish": "Sadece bir parça daha!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_40170138_system_tutorial_level_play",
       "english": "Now you're playing as Bruce Banner. Try transforming into Hero Hulk. You know you want to!",
       "turkish": "Şimdi Bruce Banner olarak oynuyorsun. Kahraman Hulk'a dönüşmeyi dene. Bunu istediğini sen de biliyorsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_40170140_system_tutorial_level_play",
       "english": "Hulk is a Vanguard hero with skills to protect his allies.",
       "turkish": "Hulk, müttefiklerini koruma yeteneklerine sahip öncü bir kahramandır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_40170142_system_tutorial_level_play",
       "english": "Use Indestructible Guard near your allies to keep them safe!",
       "turkish": "Müttefiklerini güvende tutmak için onların yakınlarındayken Yok Edilemez Koruma'yı kullan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_40170149_system_tutorial_level_play",
       "english": "Uh oh! Your allies are hurt! Try using Repair Mode to heal them!",
       "turkish": "Hay aksi! Müttefiklerin zarar gördü! Onları iyileştirmek için Tamir Modu’nu kullanmayı dene!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_40170151_system_tutorial_level_play",
       "english": "Time to power up your allies with your ultimate ability, so you can take down your enemies together!",
       "turkish": "Ultinle müttefiklerini güçlendirmenin zamanı geldi, böylece düşmanlarını onlarla birlikte devirebilirsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_40170155_system_tutorial_level_play",
       "english": "Rocket's here! That means the Team-up Ability ammo overload is now activated!",
       "turkish": "Rocket burada! Yani mühimmat aşırı yükleme Birlik Olma Yeteneği etkinleştirildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_40170157_system_tutorial_level_play",
       "english": "Try to take down the enemies within the range of Rocket's device!",
       "turkish": "Rocket'in cihazının menzilinde bulunan düşmanları indirmeye çalış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_40170165_system_competitive_play",
       "english": "Final Score: {RedScore} to {BlueScore}!",
       "turkish": "Nihai Skor: {RedScore}-{BlueScore}!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_40170165_system_competitive_play",
       "english": "Final Score: {RedScore} to {BlueScore}!",
       "turkish": "Nihai Skor: {RedScore}-{BlueScore}!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_40170165_system_competitive_play",
       "english": "Final Score: {RedScore} to {BlueScore}!",
       "turkish": "Nihai Skor: {RedScore}-{BlueScore}!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_40170166_system_annihilation_play",
       "english": "Take down all your enemies for the win!",
       "turkish": "Kazanmak için tüm düşmanlarını indir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_40170180_system_nm_objective_play",
       "english": "You've captured more than half of the mission area! Keep going!",
       "turkish": "Görev bölgesinin yarısından fazlasını ele geçirdin! Böyle devam et!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_40170181_system_nm_objective_play",
       "english": "Their team's capture progress has passed the halfway point!",
       "turkish": "Takımlarının ele geçirme ilerlemesi yarıyı geçti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_40170196_system_nm_ko_hexa_play",
       "english": "Six in a row?! Way to go!",
       "turkish": "Üst üste altı tane mi? Süper!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_40170197_system_competitive_play",
       "english": "Which hero do you think you wanna be today?",
       "turkish": "Bugün hangi kahraman olmak istiyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_40170198_system_competitive_play",
       "english": "Oh-kay. Which heros will get my cosmic favorite today?",
       "turkish": "Tamamdır. Bugün hangi kahramanlar kozmik favorimi alacak?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_40170199_system_competitive_play",
       "english": "Now… who am I gonna banish from this match?",
       "turkish": "Şimdi... Bu karşılaşmadan kimi kovacağım?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_40170205_system_tutorial_level_play",
       "english": "Go on and move the camera around to look at the target location.",
       "turkish": "Devam et ve hedef konuma bakmak için kamerayı hareket ettir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_40170206_system_tutorial_level_play",
       "english": "You can jump over obstacles to reach the target location.",
       "turkish": "Hedef konuma ulaşmak için engellerin üzerinden atlayabilirsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_40170207_system_tutorial_level_play",
       "english": "Ready, aim, fire! Press the fire button and take down that nasty robot!",
       "turkish": "Hazır, nişan al, ateş! Ateş düğmesine bas ve o adi robotu alt et!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_40170208_system_tutorial_level_play",
       "english": "Out of ammo? No worries! Just press the reload button to get more!",
       "turkish": "Mühimmatın mı bitti? Dert değil! Daha fazla cephane için doldur düğmesine basman yeterli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_40170209_system_tutorial_level_play",
       "english": "Aim for the head to deal extra damage. Ouch!",
       "turkish": "Ekstra hasar vermek için düşmanlarının kafasına hedef al. Of!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_40170211_system_tutorial_level_play",
       "english": "Go on! Get up close to the enemy and use your melee attacks!",
       "turkish": "Durma! Düşmana yaklaş ve yakın dövüş saldırılarını kullan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_40170212_system_tutorial_level_play",
       "english": "Defeat as many enemies as you can before the countdown hits zero!",
       "turkish": "Geri sayım bitmeden önce mümkün olduğu kadar çok düşmanı alt et!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_40170213_system_tutorial_level_play",
       "english": "The target challenge is over! We can move on... or you can give it another shot.",
       "turkish": "Hedef meydan okuma tamamlandı! Yola devam edebilirsin veya bir kez daha deneyebilirsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_40170215_system_tutorial_level_play",
       "english": "You can throw down a Smoke Grenade to briefly cloak the targeted area. Try it!",
       "turkish": "Hedef bölgeyi kısa süreliğine gizlemek için Sis Bombası atabilirsin. Dene hemen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_40170216_system_tutorial_level_play",
       "english": "Set up a Culling Turret and open fire on your foes!",
       "turkish": "Bir İtlaf Tareti kur ve düşmanlarına ateş aç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_40170217_system_tutorial_level_play",
       "english": "Want to get up to that higher spot? Just use your grappling hook!",
       "turkish": "O yüksekliğe çıkmak ister misin? Tırmanma kancanı kullanman yeterli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_40170218_system_tutorial_level_play",
       "english": "Final Judgement is your Ultimate Ability. It deals massive damage, but it needs to charge first. Attack those Galacta Bots to charge it up!",
       "turkish": "Nihai Karar, Ulti Yeteneğindir. Çok fazla hasar verir ancak önce güç doldurman gerekir. Bunun için o Galacta Botlarına saldır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_40170219_system_tutorial_level_play",
       "english": "All right! Final Judgement is fully charged!",
       "turkish": "Evet! Nihai Karar tamamen doldu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_40170224_system_tutorial_level_play",
       "english": "Use Magneto's Metallic Curtain to help protect your team from damage.",
       "turkish": "Takımını hasardan korumak için Magneto'nun Metalik Perde yeteneğini kullan.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_40170231_system_tutorial_level_play",
       "english": "Your Ultimate Ability draws in enemy bullets and sends them hurtling back like a meteorite. Sweet!",
       "turkish": "Ulti Yeteneğin düşman mermilerini çeker ve onları bir gök taşı gibi savurur. Çok iyi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_40170236_system_tutorial_level_play",
       "english": "Approach a wall and scale it to reach your target point! Fun!",
       "turkish": "Bir duvara yaklaş ve tırmanarak hedef noktaya ulaş! Çok eğlenceli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_40170237_system_tutorial_level_play",
       "english": "Zoom forward using Jetpack Dash!",
       "turkish": "Jet Çantası Atılması ile ileri doğru atıl!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_40170238_system_tutorial_level_play",
       "english": "You can drop a Battle Rebirth Beacon to bring fallen teammates back into the fight!",
       "turkish": "Ölen takım arkadaşlarını savaşa geri getirmek için Savaş Yeniden Doğuş Feneri bırakabilirsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_40170240_system_tutorial_level_play",
       "english": "The B.R.B.'s range is limited, so make sure to place it close to a fallen teammate.",
       "turkish": "SYDF'nin menzili sınırlıdır. Bu yüzden feneri ölen bir takım arkadaşının yakınına bırakman gerek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_40170246_system_tutorial_level_play",
       "english": "Scarlet Witch can infuse Magneto with Chaos Energy, granting him a new Team-up ability: Metallic Fusion.",
       "turkish": "Scarlet Witch, Magneto'ya Kaos Enerjisi sağlayarak yeni bir Birlik Olma Yeteneği olan Metalik Füzyon kazandırabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_40170248_system_tutorial_level_play",
       "english": "Conjure up some Chaos Energy to defeat the enemy in front of you!",
       "turkish": "Önündeki düşmanı alt etmek için bir miktar Kaos Enerjisi oluştur!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_40170249_system_tutorial_level_play",
       "english": "Hey there! Welcome to the Domination tutorial! I'm gonna show you how to capture target areas.",
       "turkish": "Merhaba! Hâkimiyet öğreticisine hoş geldin! Sana hedef bölgeleri nasıl ele geçireceğini göstereceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_40170250_system_tutorial_level_play",
       "english": "Head over to the target area. Go on… Just follow the guiding line or the target point marker…",
       "turkish": "Hedef bölgeye ilerle. Devam et… Kılavuz çizgiyi veya hedef nokta işaretçisini takip etmen yeterli…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_40170251_system_tutorial_level_play",
       "english": "Once you're inside the area, you'll begin to capture control of it.",
       "turkish": "Bölgenin içine girdikten sonra kontrolü ele geçirmeye başlayacaksın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_40170252_system_tutorial_level_play",
       "english": "If enemies are in the target area, the capture progress stops. So you should probably take 'em down!",
       "turkish": "Hedef bölgede düşman varsa ele geçirme ilerlemesi durur. O yüzden düşmanları alt etmen gerekebilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_40170253_system_tutorial_level_play",
       "english": "Awesome! We've got control now!",
       "turkish": "Harika! Kontrol artık bizde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_40170254_system_tutorial_level_play",
       "english": "After gaining control, the progress gradually increases…",
       "turkish": "Kontrol ele geçirildikten sonra ilerleme yavaş yavaş hız kazanır…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_40170255_system_tutorial_level_play",
       "english": "Keep track of the control progress and status for both teams at the top of the screen.",
       "turkish": "Ekranın üst kısmından her iki takımın kontrol ilerlemesini ve durumunu takip et.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_40170256_system_tutorial_level_play",
       "english": "We're almost there! Victory is within reach!",
       "turkish": "Neredeyse bitti! Zafer yakındır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_40170257_system_tutorial_level_play",
       "english": "Uh oh! Another group of enemies! Defeat them, or we won't be able to fully capture the target point!",
       "turkish": "Ah! Bir düşman grubu daha! Onları alt et yoksa hedef noktayı tümüyle ele geçiremeyeceğiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_40170258_system_tutorial_level_play",
       "english": "Welcome to the Convoy tutorial! I'm here to show you everything you need to know about escort missions!",
       "turkish": "Konvoy öğreticisine hoş geldin! Eşlik etme görevleri hakkında bilmen gereken her şeyi göstermek için buradayım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_40170259_system_tutorial_level_play",
       "english": "Follow the guiding line or the target point marker to the escort objective.",
       "turkish": "Eşlik etme hedefine giden kılavuz çizgiyi veya hedef nokta işaretçisini izle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_40170260_system_tutorial_level_play",
       "english": "Once you're close to the objective, you'll start gaining control of it.",
       "turkish": "Hedefe yaklaştığında kontrolünü ele geçirmeye başlayacaksın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_40170261_system_tutorial_level_play",
       "english": "After taking control, the objective will start to move forward. The more teammates nearby, the faster it'll move!",
       "turkish": "Kontrol sağlandıktan sonra hedef ilerlemeye başlar ve yakında ne kadar takım arkadaşı varsa o kadar hızlı ilerler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_40170262_system_tutorial_level_play",
       "english": "Your progress and the control status of the objective are right there at the top of the screen. See?",
       "turkish": "İlerlemen ve hedefin kontrol edilme durumu ekranın üst kısmında yer alıyor. Gördün mü?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_40170263_system_tutorial_level_play",
       "english": "Your team's task is simple: Escort the objective all the way to the endpoint to win the match.",
       "turkish": "Takımının görevi basit: Maçı kazanmak için hedefe bitiş noktasına kadar eşlik etmek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_40170264_system_tutorial_level_play",
       "english": "Heads up! A bunch of enemies are looking to seize control of the objective. Get ready for a fight!",
       "turkish": "Dikkat et! Bir grup düşman, hedefi ele geçirmek istiyor. Dövüşe hazır ol!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_40170265_system_tutorial_level_play",
       "english": "If there are enemies near the objective, clear them out fast, or it'll stop moving forward!",
       "turkish": "Hedefin yakınında düşmanlar varsa onları hızlıca yok et. Aksi takdirde ilerleme duracaktır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_40170266_system_tutorial_level_play",
       "english": "Awesome! Now keep on escorting to the endpoint!",
       "turkish": "Harika! Şimdi bitiş noktasına kadar eşlik etmeyi sürdürelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_40170267_system_tutorial_level_play",
       "english": "Almost there! The vehicle is nearly at the endpoint! Victory is so close!",
       "turkish": "Neredeyse bitti! Taşıt, bitiş noktasına ulaşmak üzere! Zafer çok yakın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_40170268_system_tutorial_level_play",
       "english": "Way to go! You’ve aced this training session!",
       "turkish": "Bravo! Bu eğitim oturumunu başarıyla geçtin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_40170269_system_practice_level_play",
       "english": "Welcome to the training ground! I'm Galacta, and I'm gonna guide you through the functions of each area.",
       "turkish": "Eğitim alanına hoş geldin! Ben Galacta. Her bölgenin işlevleri konusunda sana rehberlik edeceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_40170270_system_practice_level_play",
       "english": "In the Target Practice area, you can battle my Galacta Bots and practice against simulated hero combatants.",
       "turkish": "Hedef Alıştırması alanında Galacta Botlarımla savaşabilir ve kahraman savaşçıların simülasyonlarına karşı pratik yapabilirsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_40170271_system_practice_level_play",
       "english": "The Support Practice area features Galacta Bots on both sides of the fight and lets you experiment with different Team-Up Abilities.",
       "turkish": "Destek Alıştırması dövüş alanının her iki tarafında da Galacta Botlar bulunur ve farklı Birlik Olma Yeteneklerini denemene olanak tanır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_40170272_system_practice_level_play",
       "english": "In the Destruction area, you can demolish structures and use the terminal to reset them. Go wild!",
       "turkish": "Yıkım alanında yapıları yıkabilir ve terminali kullanarak bu yapıları sıfırlayabilirsin. Vahşet zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_40170273_system_practice_level_play",
       "english": "Head to the Combat Training area to create all sorts of combat scenarios, then assess your performance using the terminal!",
       "turkish": "Dilediğin türde savaş senaryosu oluşturmak için Çatışma Eğitimi alanına git ve daha sonra terminali kullanarak performansını değerlendir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_40170274_system_practice_level_play",
       "english": "Okay, the tour's over! Now, choose your hero and let's get started already!",
       "turkish": "Pekâlâ, turumuz sona erdi! Şimdi kahramanını seç ve işe koyulalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_40170275_system_practice_level_play",
       "english": "five… four… three… two… one…",
       "turkish": "beş… dört… üç… iki… bir…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_40170276_system_tutorial_level_play",
       "english": "Click once to mark this spot. It's easy!",
       "turkish": "Bu noktayı işaretlemek için bir kez tıkla. Çok kolay!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_40170277_system_tutorial_level_play",
       "english": "Double-click to mark your enemy's location.",
       "turkish": "Düşmanın yerini işaretlemek için çift tıkla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_40170278_system_tutorial_level_play",
       "english": "Want to mark the enemy? Just point and click!",
       "turkish": "Düşmanı işaretlemek mi istiyorsun? Gösterip tıklaman yeterli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_40170279_system_tutorial_level_play",
       "english": "Hold down the ping key to bring up the wheel and send a quick message!",
       "turkish": "Çarkı açmak ve hızlı bir uyarı mesajı göndermek için uyarı mesajı tuşunu basılı tut!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_40170280_system_tutorial_level_play",
       "english": "Hey there! I'll be helping you breeze through the hero tutorial. Ready to get started?",
       "turkish": "Merhaba! Kahraman öğreticisini kolayca tamamlamana yardımcı olacağım. Başlamaya hazır mısın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_40170281_system_tutorial_level_play",
       "english": "Head over to that device and interact with it to pick your hero…",
       "turkish": "Şimdi o cihazın yanına git ve cihazla etkileşime geçerek kahramanını seç…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_40170282_system_tutorial_level_play",
       "english": "Get up close to your foes and use some heavy punches to take 'em down!",
       "turkish": "Düşmanlarına yanaş ve onları yere sermek için sert yumruklarından birkaç tane indir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_40170283_system_tutorial_level_play",
       "english": "Wanna reach your target spot? Hold down the jump button to leap super far!",
       "turkish": "Hedef noktaya mı ulaşmak istiyorsun? Çok uzaklara sıçramak için zıplama düğmesini basılı tut!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_40170284_system_tutorial_level_play",
       "english": "It's the perfect time to blast the enemy with a Gamma Burst.",
       "turkish": "Düşmanı Gama Patlaması ile uçurmanın tam zamanı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_40170285_system_tutorial_level_play",
       "english": "Immobilize your opponent with Radioactive Lockdown!",
       "turkish": "Radyoaktif Tecrit ile rakibini hareketsiz hâle getir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_40170286_system_tutorial_level_play",
       "english": "Careful! When Hulk takes fatal damage, he turns back into Doctor Banner…",
       "turkish": "Dikkatli ol! Hulk ölümcül hasar aldığında tekrar Doktor Banner'a dönüşür…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_40170287_system_tutorial_level_play",
       "english": "Need to charge your Ultimate Ability? Throw a Gamma Grenade at your feet!",
       "turkish": "Ulti Yeteneğin için güç doldurman mı gerekiyor? Kendi ayaklarının dibine bir Gama Bombası fırlat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_40170288_system_tutorial_level_play",
       "english": "Take aim with the Gamma Ray Gun to attack enemies and boost your Ultimate Ability.",
       "turkish": "Düşmanlara saldırmak ve Ulti Yeteneğine güç vermek için Gama Işını Tabancası ile nişan al.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_40170289_system_tutorial_level_play",
       "english": "Oh, yeah! Time to Hulk out again! Haha",
       "turkish": "İşte bu! Tekrar Hulk olma zamanı! Haha!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_40170290_system_tutorial_level_play",
       "english": "Gamma time! Unleash your Ultimate Ability to transform into Monster Hulk and wipe out all your enemies!",
       "turkish": "Gama zamanı! Canavar Hulk'a dönüşmek ve tüm düşmanlarını yok etmek için Ulti Yeteneğini kullan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_40170291_system_tutorial_level_play",
       "english": "Now you're playing as Magneto, a Vanguard hero who uses his powers to shield and defend his teammates.",
       "turkish": "Şu anda güçlerini takım arkadaşlarına kalkan olmak için kullanan ve bir Öncü kahraman olan Magneto'sun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_40170292_system_tutorial_level_play",
       "english": "Unleash Iron Volley at the enemy to take them down!",
       "turkish": "Düşmanı yere sermek için Demir Yaylımı ile ateş aç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_40170293_system_tutorial_level_play",
       "english": "Shield your teammates using Metal Bulwark.",
       "turkish": "Takım arkadaşlarını Metal İstihkâm ile koru.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_40170294_system_tutorial_level_play",
       "english": "Fun Fact: Magneto can also use Metal Bulwark to shield himself!",
       "turkish": "İlginç Bilgi: Magneto Metal İstihkâm'ı kendisini korumak için de kullanabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_40170295_system_tutorial_level_play",
       "english": "Get ready to fire the Mag-Cannon at your enemy!",
       "turkish": "Manye-Top'u düşmanına doğru ateşlemeye hazır ol!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_40170296_system_tutorial_level_play",
       "english": "Now you're the Punisher, a Duelist who's all about taking out his enemies… permanently!",
       "turkish": "Şimdi düşmanlarını kalıcı olarak ortadan kaldırmaya çalışan ve bir Düellocu olan Punisher'sın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_40170297_system_tutorial_level_play",
       "english": "Start off with Adjudication to wipe out your foes.",
       "turkish": "Düşmanlarını yok etmek için savaşa Yargı ile başla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_40170298_system_tutorial_level_play",
       "english": "Good. Time to switch to Deliverance…",
       "turkish": "Harika. Şimdi Hüküm'e geçme zamanı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_40170299_system_tutorial_level_play",
       "english": "Now blast your enemies using Deliverance.",
       "turkish": "Şimdi Hüküm'ü kullanarak düşmanlarını havaya uçur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_40170300_system_tutorial_level_play",
       "english": "All hail the Black Panther, a fierce Duelist who's eager to hunt his prey!",
       "turkish": "Avını yakalamaya hevesli, zorlu bir Düellocu olan Black Panther'i selamlasın herkes!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_40170301_system_tutorial_level_play",
       "english": "Get up close and personal, then put those Vibranium Claws to good use!",
       "turkish": "Düşmanların dibine gir ve Vibranyum Pençelerin hakkını ver!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_40170302_system_tutorial_level_play",
       "english": "Spear Toss deals damage and attaches Vibranium Marks to enemies.",
       "turkish": "Mızrak Fırlatma, hasar verir ve düşmanlara Vibranyum İşaretleri ekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_40170303_system_tutorial_level_play",
       "english": "Unleash Spinning Kick to hit hard and attach Vibranium Marks!",
       "turkish": "Sert bir darbe vurmak ve Vibranyum İşaretleri eklemek için Dönen Tekme yeteneğini kullan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_40170304_system_tutorial_level_play",
       "english": "Strike your marked enemies using SPIRIT Rend to reset your ability cooldowns.",
       "turkish": "Yetenek bekleme sürelerini sıfırlamak için RUH Parçalaması'nı kullan ve işaretli düşmanlarına saldır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_40170305_system_tutorial_level_play",
       "english": "Use Bast's Descent to mark your foes, then detonate the Vibranium Marks with SPIRIT Rend.",
       "turkish": "Düşmanlarını işaretlemek için Bast'ın İnişi yeteneğini kullan ve ardından RUH Parçalaması ile Vibranyum İşaretlerini patlat.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_40170306_system_tutorial_level_play",
       "english": "Magik has been summoned! Now you can trigger your Team-Up Ability: Djalia Disc.",
       "turkish": "Magik çağırıldı! Artık Birlik Olma Yeteneğin olan Djalia Diski'ni tetikleyebilirsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_40170307_system_tutorial_level_play",
       "english": "Djalia Disc can return you to a previous position. Cool, right?",
       "turkish": "Djalia Diski seni önceki bir konumuna döndürebilir. Harika değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_40170308_system_tutorial_level_play",
       "english": "You are Iron Man! This powerhouse Duelist takes down enemies while flying freely through the air!",
       "turkish": "Sen Iron Man'sin! Bu güçlü Düellocu, havada özgürce uçarken düşmanlarını alt eder!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4885,6 +4885,6 @@
       "note": null
     }
   ],
-  "dataRevision": "734fcb769c593918",
-  "generatedAt": "2026-08-20T19:07:55.759408Z"
+  "dataRevision": "09a4145b3d31bdba",
+  "generatedAt": "2026-08-24T13:13:41.944374Z"
 }
