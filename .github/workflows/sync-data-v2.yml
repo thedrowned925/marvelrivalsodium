@@ -1,6 +1,6 @@
 name: Sync Marvel Rivals live data v2
 
-# Manual trigger: 2026-08-23
+# Manual trigger: 2026-08-24 16:12 TRT
 on:
   push:
     branches: [main]
