@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "f3cbd9fe4965ab27",
-  "generatedAt": "2026-08-26T14:14:50.917061Z",
+  "dataRevision": "f93a151b3959dfdd",
+  "generatedAt": "2026-08-26T18:12:03.453271Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 20097,
-    "recorded": 2174,
+    "waiting": 20096,
+    "recorded": 2175,
     "checked": 0,
     "added": 1427,
-    "worked": 3601,
+    "worked": 3602,
     "progress": 15.2,
     "statusCounts": {
-      "Devam Ediyor": 11,
-      "Baslamadi": 39,
+      "Devam Ediyor": 12,
+      "Baslamadi": 38,
       "Tamamlandi": 4
     },
     "assigned": 39
@@ -435,13 +435,13 @@
       "slug": "peni-parker",
       "detailPath": "data/characters/peni-parker.json",
       "total": 435,
-      "waiting": 435,
-      "recorded": 0,
+      "waiting": 434,
+      "recorded": 1,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 1,
+      "progress": 0.23,
+      "status": "Devam Ediyor",
       "voiceActor": "Rüzgar Bayram"
     },
     {
