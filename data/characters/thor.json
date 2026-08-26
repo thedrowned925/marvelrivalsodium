@@ -3,13 +3,13 @@
   "voiceActor": "İsak İskenderov",
   "summary": {
     "total": 487,
-    "waiting": 487,
-    "recorded": 0,
+    "waiting": 0,
+    "recorded": 487,
     "checked": 0,
     "added": 0,
-    "worked": 0,
-    "progress": 0.0,
-    "status": "Baslamadi"
+    "worked": 487,
+    "progress": 100.0,
+    "status": "Devam Ediyor"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10390169_quick_group_up_01_play",
       "english": "Stand with me!",
       "turkish": "Yanımda savaşın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10390423_interact_01_10370_d_play",
       "english": "A terrifying proposition. I pray to Odin that we triumph so it will never comes to pass…",
       "turkish": "Korkunç bir fikir. Zafer kazanmamız için Odin’e dua ediyorum. Böylece bu fikir asla gerçeğe dönüşmez…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10390279_quick_q_charge_100_02_play",
       "english": "Witness my full might!",
       "turkish": "Tüm kudretime tanık olun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10390398_escorting_payload_newyorkh_03_play",
       "english": "Ratatoskr! What a pleasant surprise!",
       "turkish": "Ratatoskr! Ne hoş bir sürpriz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10390094_debuff_control_02_play",
       "english": "Release me!",
       "turkish": "Beni serbest bırak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10390261_escorting_payload_wakandah_01_play",
       "english": "This sacred carving of Bast must reach King T'Challa!",
       "turkish": "Bast’ın bu kutsal heykeli, Kral T’Challa’ya ulaşmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10390228_ko_normal_06_play",
       "english": "Strike, Mjölnir!",
       "turkish": "Vur Mjölnir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10390529_select_09_play",
       "english": "The God of Thunder will purge this undead plague!",
       "turkish": "GÖK GÜRÜLTÜSÜ TANRISI bu hortlak vebasını temizleyecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10390459_escorting_remind_kunlunh_02_play",
       "english": "We'd best not fail. Shou-Lao is not one to show mercy.",
       "turkish": "Başarısız olmamalıyız. Shou-Lao merhamet gösteren biri değildir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10390520_interact_02_10590_a_play",
       "english": "Lady Bloodstone! 'Tis a pleasure to be back together with you for more adventures!",
       "turkish": "Lady Bloodstone! Seninle yeniden bir araya gelip daha nice maceraya atılmak ne büyük bir zevk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10390024_interact_01_10340_a_play",
       "english": "Stark.",
       "turkish": "Stark.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10390209_building_destroy_ankh_03_play",
       "english": "We are safe from the ankh once more.",
       "turkish": "Bir kez daha yaşam çarmıhı tehlikesinden kurtulduk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10390158_healthpack_02_play",
       "english": "I am strengthened!",
       "turkish": "Kuvvetimi kazandım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10390101_buff_heal_noncritical_01_play",
       "english": "I am barely wounded!",
       "turkish": "Pek hasar almadım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10390086_q_p2_play_p2",
       "english": "I am Asgard's might!",
       "turkish": "Ben Asgard’ın kudretlisiyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10390562_saw_death_01_10600_play",
       "english": "The Kumiho falls, but her legend shall go on…",
       "turkish": "Kumiho düşer, ama efsanesi yaşayacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10390062_interact_01_10230_d_play",
       "english": "No.",
       "turkish": "Hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10390120_occupied_hint_defend_02_play",
       "english": "Repel them! Hold what is ours!",
       "turkish": "Onları püskürtün! Hakkımız olanı vermeyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10390146_saw_ko_01_10320_play",
       "english": "A storm of acorns! Well fought!",
       "turkish": "Palamuttan bir fırtına koptu! İyi savaştın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10390038_interact_02_10180_c_play",
       "english": "It is always reassuring to have you in Midgard.",
       "turkish": "Midgard’da olman daima içimi rahatlatıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10390168_quick_need_heal_01_play",
       "english": "Who has a healer's magic?",
       "turkish": "Şifa büyüsü bilen kim var?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10390447_interact_01_10540_d_play",
       "english": "Mere legends. Thor is of Gaea, of Earth, of Midgard! No more need be said!",
       "turkish": "Sadece efsaneler. Thor, Gaea'nın, Dünya'nın, Midgard'ın oğludur! Daha fazla bir şey söylemeye gerek yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10390147_saw_ko_01_10470_play",
       "english": "A mighty bite, fish-dog!",
       "turkish": "İyi ısırdın balık köpek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10390203_building_spotted_turret_03_play",
       "english": "And armed tower. Let us besiege it!",
       "turkish": "Silahlı kule kuruldu. Kuşatalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10390352_sp_interact_asgard_01_10300_d_play",
       "english": "I have met Khonshu. Pardon me if I do not take his word.",
       "turkish": "Khonshu’yla tanışmıştım. Kusuruma bakmazsan onun sözüne güvenmiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10390427_interact_01_10320_c_play",
       "english": "I too am proud to call a squirrel my ally! Ratatoskr, the rodent who calls the World Tree home!",
       "turkish": "Ben de bir sincaba müttefikim demekten gurur duyuyorum! Yani Dünya Ağacı’nı yurt bilen kemirgen Ratatoskr’a!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10390054_interact_02_10210_c_play",
       "english": "Hahaha! No promises.",
       "turkish": "Hahaha! Söz veremem.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10390281_quick_group_up_02_play",
       "english": "Together, my friends!",
       "turkish": "Toplanın dostlarım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10390208_building_destroy_ankh_02_play",
       "english": "The ankh is no more!",
       "turkish": "Yaşam çarmıhı artık yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10390050_interact_01_10220_b_play",
       "english": "A little? Haha! I brought a lot!",
       "turkish": "Biraz mı? Haha! Bol bol getirdim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10390307_signal_area_occupied_01_play",
       "english": "Do not let them seize control of this place!",
       "turkish": "Burayı ele geçirmelerine izin vermeyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10390536_single_14_play",
       "english": "No mortal was meant to hold such unfathomable power!",
       "turkish": "Hiçbir ölümlü, böylesine akıl almaz bir gücü taşımak için yaratılmadı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10390229_ko_normal_07_play",
       "english": "I bring the hammer down!",
       "turkish": "Çekiçle çarparım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10390556_saw_ko_01_10590_play",
       "english": "Ah! How I have missed our battles together, Elsa!",
       "turkish": "Ah! Birlikte dövüştüğümüz günleri ne çok özlemişim, Elsa!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10390521_interact_02_10590_c_play",
       "english": "You took me in when I was banished from my own realm. I am forever in your debt, milady.",
       "turkish": "Kendi âlemimden sürgün edildiğimde beni yanına aldın. Sana ömür boyu minnettarım, leydim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10390460_escorting_remind_museume_01_play",
       "english": "Onward! The very lives of these beings are on the line!",
       "turkish": "İleri! Bu varlıkların hayatları tehlikede!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10390141_ko_sp_01_10370_play",
       "english": "Fool. Uru isn't magnetic.",
       "turkish": "Aptal. Uru metali, manyetik değildir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10390234_ko_ability_r_01_play",
       "english": "Awaken, fury, and smite the foe!",
       "turkish": "Uyan, öfkeni serbest bırak ve düşmanı ez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10390180_sp_interact_asgard_01_10110_b_play",
       "english": "If we are to defeat Loki, we must win a battle of minds as well as arms.",
       "turkish": "Loki’yi mağlup etmek istiyorsak hem silahlarımızı hem de aklımızı kullanmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10390016_single_07_play",
       "english": "Yggdrasil be praised!  What an epic gathering across Realms it brought!",
       "turkish": "Yggdrasill’e şükürler olsun! Diyarlar arasından ne destansı bir ekip toplamış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10390183_sp_interact_asgard_01_10320_d_play",
       "english": "There are squirrels other than Ratatoskr in Yggdrasill's branches.",
       "turkish": "Yggdrasill’in dallarında Ratatoskr dışında başka sincaplar da var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10390049_interact_01_10111_b_play",
       "english": "Oh, the battle is joined!",
       "turkish": "Savaşa katıldım bil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10390025_interact_01_10340_c_play",
       "english": "Even here, at the end of all times, you persist with the nicknames.",
       "turkish": "Ragnarök koptu kopacak ama hâlâ ad takıp duruyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10390221_building_destroy_nest_03_play",
       "english": "Fear not, the spider nest is gone.",
       "turkish": "Korkunuz olmasın. Örümcek yuvası yok edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10390040_interact_01_10460_c_play",
       "english": "Typical mortals, to believe that despite their imperfections they could perfect themselves.",
       "turkish": "Kusurlarına rağmen kendilerini kusursuz yapabileceklerini sanmak, tipik bir ölümlü hareketi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10390618_interact_01_10200_b_play",
       "english": "An epic cycle of rebirth begins. My people call it Ragnarok.",
       "turkish": "Destansı bir yeniden doğuş döngüsü başlıyor. Halkım buna Ragnarok der.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10390468_interact_01_10580_d_play",
       "english": "I would take great pleasure watching you put that claim to the test!",
       "turkish": "Bu iddiayı test ederken seni izlemekten büyük zevk alırım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10390110_buff_shield_02_play",
       "english": "Shielded from harm!",
       "turkish": "Hasar almıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10390023_interact_01_10240_c_play",
       "english": "Asgard is my concern.",
       "turkish": "Asgard beni alakadar eder.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10390505_ko_sp_02_10161_play",
       "english": "Maybe defeat will humble her… someday.",
       "turkish": "Yenilince belki bir gün burnu sürtülür…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10390263_escorting_remind_asgarde_01_play",
       "english": "We go too slowly!",
       "turkish": "Çok yavaş ilerliyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10390539_single_15_play",
       "english": "How dare Dracula corrupt such a noble beast?!",
       "turkish": "Drakula nasıl olur da böyle asil bir yaratığı yozlaştırır?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10390081_sp_interact_asgardc_02_10160_c_play",
       "english": "Asgardians have ever been warlike, yet only you have ever set against your own kind.",
       "turkish": "Asgard halkı oldu olası cengâver olmuştur ancak kendi türüne düşman kesilen sırf sen oldun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10390257_escorting_payload_tokyoe_01_play",
       "english": "Whatever you must do, Spider-Zero, we will get you there to do it.",
       "turkish": "Spider-Zero, her ne yapman gerekiyorsa yap diye seni oraya ulaştıracağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10390196_building_spotted_ankh_02_play",
       "english": "Tis best to destroy these ankhs if there is time.",
       "turkish": "Vaktiniz varsa bu yaşam çarmıhlarını yok etmek en iyisi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10390465_interact_01_10550_b_play",
       "english": "A shame you cannot behold my glory. But you can hear my mighty mallet as it strikes!",
       "turkish": "Ne yazık ki ihtişamımı göremiyorsun. Ama güçlü çekicimin darbesini duyabilirsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10390475_interact_01_10610_b_play",
       "english": "Aye. The power contained within is nigh limitless.",
       "turkish": "Evet. İçinde barındırdığı güç neredeyse sınırsız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10390251_ko_terrain_03_play",
       "english": "Lost thy footing? Ah, pity.",
       "turkish": "Ayağın mı kaydı? Ah, yazık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10390250_ko_terrain_02_play",
       "english": "Tis a long way down.",
       "turkish": "Sonu gelmez bir düşüş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10390471_interact_01_10570_b_play",
       "english": "Nay. This is a sacred weapon forged for gods. Not fools.",
       "turkish": "Hayır. Bu, tanrılar için dövülmüş kutsal bir silahtır. Aptallar için değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10390104_buff_heal_critical_02_play",
       "english": "My need was great.",
       "turkish": "En çaresiz zamanımdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10390089_ability_e_03_play",
       "english": "My power grows!",
       "turkish": "Gücüm artıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10390115_occupied_celebrate_01_play",
       "english": "We have triumphed, friends!",
       "turkish": "Zafer kazandık dostlarım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10390009_select_01_play",
       "english": "I am the God of Thunder and the mightiest Avenger!",
       "turkish": "Gök Gürültüsü Tanrısı ve en güçlü Yenilmez benim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10390275_quick_fallback_02_play",
       "english": "We must away!",
       "turkish": "Uzaklaşmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10390005_single_20_play",
       "english": "I will dare the very gates of Hel to save Asgard.",
       "turkish": "Asgard’ı kurtarmak için gerekirse Hel’in kapısına dayanırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10390131_ko_normal_01_play",
       "english": "For Asgard!",
       "turkish": "Asgard için!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10390132_ko_normal_02_play",
       "english": "I am Odinson!",
       "turkish": "Adım Odinson!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10390161_respawn_03_play",
       "english": "To battle again!",
       "turkish": "Yeniden savaşa!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10390446_interact_01_10540_b_play",
       "english": "Aye, World Ravager. And your old host Theodosia as well.",
       "turkish": "Evet, Dünya Yok Edici. Ve eski ev sahibin Theodosia da burada.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10390402_escorting_remind_klyntarh_03_play",
       "english": "Make way! We journey into mystery!",
       "turkish": "Yol açın! Gizeme doğru yol alıyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10390223_ko_sniper_02_play",
       "english": "The cowardly sniper is finished.",
       "turkish": "Korkak keskin nişancının işi bitti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10390013_single_04_play",
       "english": "My heart hurts for my brother, but that will not stop me from defending Asgard.",
       "turkish": "Yüreğimde kardeş acısı taşısam da Asgard’ı savunmama engel olmayacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10390033_interact_02_10430_a_play",
       "english": "Is \"Star-Lord\" a title of the Intergalactic Empire?",
       "turkish": "“Star-Lord”, Galaksiler Arası İmparatorluğun ünvanlarından biri mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10390126_countdown_dt_02_play",
       "english": "Stand fast! We have nearly won.",
       "turkish": "Azminizi yitirmeyin! Kazanmak üzereyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10390042_interact_01_10210_c_play",
       "english": "A little joke before battle. Nevermind.",
       "turkish": "Savaş öncesi ufak bir espri yapmıştım. Boş ver.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10390204_building_spotted_nest_01_play",
       "english": "Mechanical spiders? Vile.",
       "turkish": "Mekanik örümcekler mi? İğrenç.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10390157_healthpack_01_play",
       "english": "My vigor returns!",
       "turkish": "Yaşam gücüme kavuştum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10390003_single_18_play",
       "english": "The true warrior is not defined by strength, but by courage.",
       "turkish": "Gerçek bir savaşçının değeri kuvvetiyle değil, cesaretiyle ölçülür.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10390027_interact_02_10340_b_play",
       "english": "Mjölnir brings the wrath of the Odinforce to our enemies!",
       "turkish": "Mjölnir, düşmanlarımıza Odin’in Gücünün gazabını yaşatır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10390159_respawn_01_play",
       "english": "What battle can continue without Thor?",
       "turkish": "Thor olmadan hangi savaş devam edebilir ki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10390328_building_destroy_octopus_02_play",
       "english": "Back to the depths, spawn of Monstro!",
       "turkish": "Derinliklere dön Su Canavarı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10390451_sp_single_kunlunec_01_play",
       "english": "There is not a challenger alive who Thor cannot smite!",
       "turkish": "Thor’un yıldırımını indiremediği tek bir meydan okuyucu bile hayatta değildir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10390391_sp_single_klyntarec_02_play",
       "english": "King of Darkness, you will kneel before the God of Thunder!",
       "turkish": "Karanlığın Kralı, Gök Gürültüsü Tanrısı'nın önünde diz çökeceksin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10390205_building_spotted_nest_02_play",
       "english": "Crush the spiders from afar!",
       "turkish": "Örümcekleri uzaktan ezin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10390278_quick_q_charge_90_higher_02_play",
       "english": "The thunder approaches!",
       "turkish": "Gök gürültüsü yolda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10390272_easter_egg_asgardc_02_play",
       "english": "This should be mine. But first, Doom must be broken, and Loki with him.",
       "turkish": "Bu taht benim hakkım. Ama önce Doom ve Loki yenilginin tadına bakmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10390244_ko_ace_02_play",
       "english": "This triumph is Asgard's alone!",
       "turkish": "Bu zafer, sırf Asgard’ındır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10390313_signal_no_01_play",
       "english": "Nay.",
       "turkish": "Olmaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10390085_q_p13_play",
       "english": "Behold the God of Thunder!",
       "turkish": "Gök Gürültüsü Tanrısına tanık olun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10390144_saw_ko_01_10160_play",
       "english": "Well struck, brother!",
       "turkish": "İyi vurdun kardeşim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10390211_building_destroy_beacon_02_play",
       "english": "There will be no more revivals!",
       "turkish": "Başka diriltme yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10390206_building_spotted_nest_03_play",
       "english": "Approach not the next of spiders!",
       "turkish": "Örümcek yuvasına yaklaşmayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10390103_buff_heal_critical_01_play",
       "english": "Timely aid!",
       "turkish": "İmdadıma vaktinde yetiştin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10390405_escorting_remind_newyorke_04_play",
       "english": "Fear not, tiny machine. We shall escort you safely.",
       "turkish": "Korkma minik makine. Seni güvenli bir yere götüreceğiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10390215_building_destroy_amplifier_03_play",
       "english": "This amplifier is cosmically destroyed!",
       "turkish": "Bu kuvvetlendiriciyi kozmik gücümle yok ettim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10390490_interact_02_10161_a_play",
       "english": "Did we not always imagine this, sister? Battling side by side with the fate of the realms at stake?",
       "turkish": "Hep bunun hayalini kurmamış mıydık kız kardeşim? Diyarların kaderi tehlikedeyken omuz omuza savaşmak, hayalimiz değil miydi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10390448_interact_01_10560_a_play",
       "english": "It has been long since I have seen you sister. How fare you?",
       "turkish": "Uzun zaman oldu seni görmeyeli, kardeşim. Nasılsın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10390106_buff_dmg_02_play",
       "english": "I wreak battlefield havoc!",
       "turkish": "Savaş alanında yıkıma yol açıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10390575_sp_ability_10240_04_play",
       "english": "The Odinson lives on!",
       "turkish": "Odinson hâlâ yaşıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10390604_interact_02_10560_a_play",
       "english": "Come with me, Angela, and we will restore Yggsgard to its former glory together!",
       "turkish": "Benimle gel, Angela; Yggsgard’ı eski görkemine birlikte kavuşturacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10390293_signal_wheel_enemy_spot_02_play",
       "english": "Come to this place if you wish to find our foes!",
       "turkish": "Düşmanlarımızı bulmak isteyen buraya gelsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10390216_building_destroy_turret_01_play",
       "english": "No more hiding, Punisher.",
       "turkish": "Artık saklanmak yok Punisher.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10390117_occupied_hint_engage_01_play",
       "english": "Here is our battlefield.",
       "turkish": "Savaş meydanımız burası.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10390014_single_05_play",
       "english": "Mjornir, let Heven and Hel hear thy soar!",
       "turkish": "Hem Heven hem Hel duysun darbeni Mjölnir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10390573_sp_ability_10240_02_play",
       "english": "Immortal!",
       "turkish": "ÖLÜMSÜZ!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10390325_building_spotted_octopus_02_play",
       "english": "Alas, it seems Namor has unleashed his pets…",
       "turkish": "Heyhat! Görünen o ki Namor evcil hayvanlarını salmış…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10390357_sp_interact_asgard_01_10520_c_play",
       "english": "Not yet… but if my foolish brother awakens the Midgard Serpent…",
       "turkish": "Henüz değil... Ama eğer ahmak kardeşim Midgard Yılanı'nı uyandırırsa...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10390098_debuff_purple_02_play",
       "english": "I am stopped from healing.",
       "turkish": "Şifam son buldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10390140_ko_sp_01_10380_play",
       "english": "Sorcery is no match for a good hammer.",
       "turkish": "Büyüler, iyi bir çekiç darbesiyle boy ölçüşemez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10390574_sp_ability_10240_03_play",
       "english": "Thor never yields!",
       "turkish": "Thor asla boyun eğmez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10390268_escorting_remind_tokyoh_02_play",
       "english": "Too little time for the distance that remains. Hurry!",
       "turkish": "Mesafe çok uzun, çok az zaman kaldı. Acele edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10390167_quick_q_charge_100_01_play",
       "english": "I wield the power of Asgard!",
       "turkish": "Asgard’ın gücü elimde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10390483_easter_egg_kunlunh_01_play",
       "english": "My sweet little sister! What a joy it is to see you safe!",
       "turkish": "Sevgili küçük kardeşim! Seni güvende görmek ne büyük bir mutluluk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10390442_sp_interact_newyorke_01_10500_a_play",
       "english": "While the men of science prattle on, we shall take this fight to the streets!",
       "turkish": "Bilim adamları çene çalıp dursun. Bizler bu savaşı sokaklara taşıyacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10390041_interact_01_10210_a_play",
       "english": "Archer! I hope you don't plan to miss today.",
       "turkish": "Okçu! Umarım bugün ıskalamayı planlamıyorsundur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10390454_escorting_payload_kunlunh_01_play",
       "english": "Come, my friends! We journey to meet Shou-Lao!",
       "turkish": "Gelin, arkadaşlarım! Shou-Lao ile buluşmaya gidiyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10390068_sp_interact_wakanda_01_10260_a_play",
       "english": "T'Challa, this is marvelous place. You should be proud.",
       "turkish": "T’Challa, burası fevkalade bir yer. Gurur duymalısın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10390394_escorting_payload_klyntarh_03_play",
       "english": "I shall show Knull that a true god brings light, not darkness!",
       "turkish": "Knull'a göstereceğim, gerçek bir tanrı karanlık değil, ışık getirir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10390607_interact_02_10620_c_play",
       "english": "And perhaps the only thing more powerful than your roar is your breath!",
       "turkish": "Ve belki de kükreyişinden daha güçlü olan tek şey… nefesindir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10390088_ability_e_02_play",
       "english": "Lightning confinement!",
       "turkish": "Şimşek hapsi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10390527_sp_emote_10470_1047001217_06_play",
       "english": "The thunder approaches!",
       "turkish": "Gök gürültüsü yolda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10390605_interact_02_10560_c_play",
       "english": "There was a time, long ago, when it truly was a golden realm. But 'tis true, those days have long since passed…",
       "turkish": "Vaktiyle, çok uzun zaman önce, gerçekten de altın gibi bir diyardı. Ama doğru ya… o günler çoktan geride kaldı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10390112_buff_dr_02_play",
       "english": "Haha! Skin like uru!",
       "turkish": "Haha! Derim Uru gibi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10390502_escorting_payload_newyorkh02_02_play",
       "english": "Such an understated vessel for such powerful cargo!",
       "turkish": "Böylesine güçlü bir yük için ne kadar sade bir taşıma aracı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10390172_quick_confirm_01_play",
       "english": "Aye!",
       "turkish": "Evet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10390473_interact_01_10590_a_play",
       "english": "I have heard you hunt monsters for sport, fair maiden.",
       "turkish": "Adil genç hanım, spor için canavar avladığınızı duydum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10390177_interact_03_10430_d_play",
       "english": "Not even in your wildest of dreams, Lord of Stars.",
       "turkish": "Rüyanda bile göremezsin Yıldızların Lordu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10390260_escorting_payload_tokyoh_02_play",
       "english": "Fear not, Spider-Zero. We will protect you.",
       "turkish": "Korkun olmasın Spider-Zero. Seni koruyacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10390030_interact_02_10111_c_play",
       "english": "Like you have never seen before.",
       "turkish": "Hem de eşini benzerini görmediğin gibi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10390606_interact_02_10620_a_play",
       "english": "You truly are a ferocious beast, my friend! Unlike any I've encountered across the Ten Realms!",
       "turkish": "Gerçekten de azılı bir canavarsın, dostum! On Diyâr boyunca karşılaştıklarımın hiçbiri sana benzemiyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10390254_enemy_advanced_03_play",
       "english": "They are too many.",
       "turkish": "Çok fazlalar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10390074_sp_interact_tokyo_01_10360_a_play",
       "english": "A web befitting the Spider-God of your clan! Surely no other beast could have woven it.",
       "turkish": "Klanının Örümcek Tanrısına yaraşır bir ağ! Bu ağ başka kimin elinden çıkmış olabilir?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10390018_interact_04_10160_a_play",
       "english": "Brother.",
       "turkish": "Kardeşim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10390164_quick_hi_01_play",
       "english": "Hail, friend!",
       "turkish": "Selamlar olsun dostum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10390145_saw_ko_01_10240_play",
       "english": "I wish you had always been Asgard's ally.",
       "turkish": "Keşke hep Asgard’la müttefik olsaydın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10390201_building_spotted_turret_01_play",
       "english": "A one-man castle tower? Destroy it!",
       "turkish": "Tek adamlık bir şato kulesi mi? Yok edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10390522_sp_emote_10470_1047001217_01_play",
       "english": "Behold the God of Thunder!",
       "turkish": "Gök Gürültüsü Tanrısına tanık olun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10390286_signal_open_spot_01_play",
       "english": "Watch this place closely…",
       "turkish": "Buradan gözlerinizi ayırmayın…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10390401_escorting_payload_arakkoe_04_play",
       "english": "The damage that Ultron has wrought upon this land must be undone!",
       "turkish": "Ultron'un bu topraklara verdiği zarar telafi edilmeli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10390467_interact_01_10580_b_play",
       "english": "Hefty indeed. Mighty Mjolnir cannot be lifted by brigands and thieves!",
       "turkish": "Gerçekten ağır. Kudretli Mjolnir, haydutlar ve hırsızlar tarafından kaldırılamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10390342_easter_egg_asgardc_14_play",
       "english": "Asgard's most sacred artifacts, endangered by this needless chaos.",
       "turkish": "Asgard’ın en kutsal yadigârları, bu lüzumsuz kargaşa yüzünden tehlikede.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10390195_building_spotted_ankh_01_play",
       "english": "Caution, friends! An ankh.",
       "turkish": "Dikkat dostlar! Bir yaşam çarmıhı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10390227_ko_assist_03_play",
       "english": "Asgard is with you!",
       "turkish": "Asgard seninle!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10390532_enter_10_play",
       "english": "We must not delay, lest more blood be spilled!",
       "turkish": "Daha fazla beklemeyi göze alamayız; yoksa daha çok kan dökülecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10390218_building_destroy_turret_03_play",
       "english": "Never fear, the turret is ruined.",
       "turkish": "Korkunuz olmasın. Taret harap oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10390270_escorting_remind_wakandah_02_play",
       "english": "Time grows very short. T'Challa, we are coming!",
       "turkish": "Vaktimiz çok azaldı. T’Challa, yoldayız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10390143_ko_sp_01_10360_play",
       "english": "Run away home, little spider. Your neighborhood needs you.",
       "turkish": "Evine dön küçük örümcek. Mahallende sana ihtiyaç var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10390121_occupied_hint_attack_01_play",
       "english": "Our foes will not yield unless we force them!",
       "turkish": "Biz zorlamadıkça düşmanlarımız teslim olmayacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10390029_interact_02_10111_a_play",
       "english": "Banner, 'twill be good to smash villains in your company.",
       "turkish": "Banner. Seninle beraber kötü adam ezmek bir zevktir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10390149_saw_death_01_10160_play",
       "english": "Just like my brother to leave when we need him most.",
       "turkish": "Ona en çok ihtiyaç duyduğumuz anda gitmek, tam da kardeşimden beklenen hareket.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10390043_interact_01_10330_a_play",
       "english": "You look…different than the Natasha I knew.",
       "turkish": "Tanıdığım Natasha’dan farklı görünüyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10390171_quick_hp_low_01_play",
       "english": "I am wounded.",
       "turkish": "Yaralıyım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10390353_sp_interact_asgard_01_10440_a_play",
       "english": "Be wary, friend. Few mortal weapons can wound the gods!",
       "turkish": "Dikkatli ol, dostum. Çok az ölümlü silah tanrıları yaralayabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10390002_single_17_play",
       "english": "It was on Earth that I truly learned what it was to become a hero.",
       "turkish": "Gerçekten kahraman olmayı Dünya’da öğrendim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10390108_buff_endure_02_play",
       "english": "I am beyond wounding!",
       "turkish": "Kimse beni yaralayamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10390182_sp_interact_asgard_01_10320_b_play",
       "english": "Yes.",
       "turkish": "Evet.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10390358_interact_02_10230_a_play",
       "english": "How does a creature so small lift a weapon so large?",
       "turkish": "Böylesine minik bir yaratık, bu kadar büyük bir silahı nasıl kaldırabiliyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10390099_debuff_weak_01_play",
       "english": "My might is drained.",
       "turkish": "Kudretim tükendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10390425_interact_03_10340_c_play",
       "english": "Mjolnir has remained the same since the very day it was forged!",
       "turkish": "Mjölnir dövüldüğü günden bu yana hiç değişmemiştir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10390173_quick_thanks_01_play",
       "english": "You have my thanks.",
       "turkish": "Teşekkürü borç bilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10390224_ko_sniper_03_play",
       "english": "Worry no more! The sniper is gone.",
       "turkish": "Artık endişelenmeyin! Keskin nişancının icabına baktım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10390478_interact_01_10600_c_play",
       "english": "Such a shame. Midgard was once teeming with magical creatures.",
       "turkish": "Ne yazık! Midgard bir zamanlar büyülü yaratıklarla dolup taşıyordu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10390397_escorting_payload_newyorke_04_play",
       "english": "Ah! Avengers Tower beckons me once more!",
       "turkish": "Ah! Yenilmezler Kulesi bir kez daha beni çağırıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10390458_escorting_remind_kunlunh_01_play",
       "english": "Toothgrinder alone would have had us there by now!",
       "turkish": "Toothgrinder tek başına bizi şimdiye kadar oraya götürürdü!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10390248_revenge_03_play",
       "english": "I finish what you began.",
       "turkish": "Sen başlattın, ben bitirdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10390400_escorting_payload_arakkoe_03_play",
       "english": "We shall not stand idly by while Ultron lays claim to this sovereign land.",
       "turkish": "Ultron bu özgür topraklara göz dikerken biz de boş durmayacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10390407_escorting_remind_newyorkh_04_play",
       "english": "We shall not fail you, Ratatoskr. This, I pledge!",
       "turkish": "Seni hayal kırıklığına uğratmayacağız Ratatoskr. Söz veriyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10390422_interact_01_10370_b_play",
       "english": "Mjolnir can only be lifted by those who prove worthy. I fear you are not on that list.",
       "turkish": "Mjölnir’i sadece ona layık olduğunu kanıtlayanlar kaldırabilir. Korkarım sen o listede yoksun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10390125_countdown_dt_01_play",
       "english": "Hold a little longer, heroes!",
       "turkish": "Biraz daha dayanın kahramanlar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10390191_sp_interact_asgard_01_10250_b_play",
       "english": "My brother only sees beauty in control.",
       "turkish": "Kardeşimin gözünde güzel olan tek şey hükmetmektir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10390056_interact_02_10160_a_play",
       "english": "Did we not always imagine this, brother? Battling side by side with the fate of the realms at stake?",
       "turkish": "Hep bunun hayalini kurmamış mıydık kardeşim? Diyarların kaderi tehlikedeyken omuz omuza savaşmak, hayalimiz değil miydi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10390162_respawn_04_play",
       "english": "The lightning of Asgard returns!",
       "turkish": "Asgard’ın şimşeği geri döndü!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10390280_quick_need_heal_02_play",
       "english": "I require healing.",
       "turkish": "Şifaya ihtiyacım var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10390111_buff_dr_01_play",
       "english": "I suffer less harm!",
       "turkish": "Daha az hasar alıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10390236_ko_ability_r_03_play",
       "english": "When I awaken, enemies fall!",
       "turkish": "Ben uyanınca düşmanlarım yere serilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10390122_occupied_hint_attack_02_play",
       "english": "We must attack!",
       "turkish": "Saldırmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10390151_saw_death_01_10450_play",
       "english": "The mighty oceans' king has fallen!",
       "turkish": "Ulu okyanusların kralını yitirdik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10390072_sp_interact_asgard_01_10220_b_play",
       "english": "Still it is my home, and Loki's scheming could destroy it.",
       "turkish": "Burası yine de benim yurdum ve Loki’nin komploları yüzünden yok olabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10390240_ko_five_01_play",
       "english": "A ring for every finger!",
       "turkish": "Her parmağıma birer yüzük!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10390421_interact_02_10360_c_play",
       "english": "Aye. But alas, both Stormbreaker and Jarnbjorn are currently in other hands, my friend.",
       "turkish": "Evet. Ancak heyhat, hem Stormbreaker hem de Jarnbjorn şu anda başkalarının ellerinde dostum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10390185_sp_interact_asgard_01_10140_d_play",
       "english": "He will learn. One way or another.",
       "turkish": "Öğrenecek. Öyle ya da böyle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10390189_sp_interact_asgard_02_10410_a_play",
       "english": "The weapon you wear is one worthy of a true warrior, mortal.",
       "turkish": "Ey ölümlü, üzerinde gerçek bir savaşçıya layık bir silah taşıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10390163_quick_fallback_01_play",
       "english": "We must retreat!",
       "turkish": "Geri çekilmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10390065_sp_single_hydra_01_play",
       "english": "No science can mask the stench of monstrous evil.",
       "turkish": "Korkunç kötülüğün kokusunu hiçbir bilimle bastıramazsınız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10390225_ko_assist_01_play",
       "english": "You have need of my strength!",
       "turkish": "Kuvvetim sana lazım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10390571_sp_ability_10240_03_play",
       "english": "Not slain yet!",
       "turkish": "Daha öldürülmedim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10390290_signal_enemy_01_play",
       "english": "Ah! A worthy foe!",
       "turkish": "Ah! Saygın bir düşman!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10390135_ko_normal_05_play",
       "english": "Another foe vanquished!",
       "turkish": "Bir düşmanı daha yendim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10390197_building_spotted_ankh_03_play",
       "english": "Floating ankhs steal your power.",
       "turkish": "Havada süzülen yaşam çarmıhları gücünüzü çalar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10390461_escorting_remind_museume_02_play",
       "english": "Do not halt, lest you wish to join the Collector's menagerie!",
       "turkish": "Durmayın, yoksa Koleksiyoncu'nun koleksiyonuna katılmak istersiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10390238_ko_three_02_play",
       "english": "Triple honor!",
       "turkish": "Üç kat onur!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10390506_saw_ko_02_10161_play",
       "english": "Well struck, sister!",
       "turkish": "İyi vurdun kız kardeşim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10390524_sp_emote_10470_1047001217_03_play",
       "english": "The wrath of Asgard!",
       "turkish": "Asgard’ın gazabı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10390035_interact_01_10180_a_play",
       "english": "Wizard! I thought you were imprisoned on another plane.",
       "turkish": "Büyücü! Başka bir düzleme hapsolduğunu sanıyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10390507_saw_death_02_10161_play",
       "english": "Just like my sister to leave when we need her most.",
       "turkish": "Ona en çok ihtiyaç duyduğumuz anda gitmek, tam da kız kardeşimden beklenen hareket.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10390176_interact_03_10430_b_play",
       "english": "Mjölnir does not \"shoot lightning.\" It channels the unfettered power of the great cosmic mother storm!",
       "turkish": "Mjölnir “şimşek atmaz”. Ulu kozmik ana fırtınanın dizginlenemez gücünü yönlendirir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10390010_single_01_play",
       "english": "As long as I am worthy, I will raise Mjölnir in defense of what is right.",
       "turkish": "Layık olduğum sürece Mjölnir’i doğruları savunmak için kaldıracağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10390408_escorting_remind_arakkoe_03_play",
       "english": "Hurry! We must purge Ultron's influence from this place!",
       "turkish": "Acele edin! Bu bölgeyi Ultron'un etkisinden arındırmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10390557_saw_ko_01_10620_play",
       "english": "This thunder lizard truly lives up to his name!",
       "turkish": "Bu gök gürültüsü kertenkele gerçekten de adının hakkını veriyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10390187_sp_interact_asgard_01_10400_c_play",
       "english": "You are wise beyond your years, mortal. A shame you have so few left ahead of you.",
       "turkish": "Yaşından beklenmeyecek bir şekilde bilgesin ölümlü. Ömrünün bu kadar kısa olması çok yazık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10390124_countdown_at_02_play",
       "english": "We must seize our victory now!",
       "turkish": "Hemen zafer elde etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10390619_interact_01_10200_d_play",
       "english": "Then I fear for my future. Not just that of my fellow Gods, but of all life in the universe.",
       "turkish": "O hâlde geleceğim için korkuyorum. Yalnızca diğer Tanrıların geleceği için değil, evrendeki tüm yaşam için.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10390105_buff_dmg_01_play",
       "english": "Mine enemies tremble!",
       "turkish": "Düşmanlarım karşımda titrer!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10390537_q_p13_play",
       "english": "Curse thee, vile creature!",
       "turkish": "Lanet olsun sana, aşağılık yaratık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10390503_escorting_remind_newyorkh02_01_play",
       "english": "Curses! Can this Midgardian chariot not move any faster?",
       "turkish": "Lanet olsun! Bu Midgard arabası daha hızlı hareket edemez mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10390021_interact_05_10160_c_play",
       "english": "Oh like Hel it wasn't. But I never figured out how could he forget? That bird remembers everything!",
       "turkish": "Hadi canım oradan! Asıl anlamadığım, Munin bunu nasıl unuttu? O kuş hiçbir şey unutmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10390424_interact_03_10340_a_play",
       "english": "Yet another new suit of armor, Stark?",
       "turkish": "Yine yeni zırh mı yaptın Stark?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10390296_signal_wheel_defend_01_play",
       "english": "Defend this place with all your might.",
       "turkish": "Burayı tüm gücünüzle savunun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10390198_building_spotted_portal_01_play",
       "english": "A magical gate. Strange is coming…",
       "turkish": "Büyülü bir kapı. Strange yolda…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10390572_sp_ability_10240_04_play",
       "english": "Hela's blessing!",
       "turkish": "Hela'nın kutsaması!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10390242_ko_five_03_play",
       "english": "A full fist of victories!",
       "turkish": "Bir avuç dolusu zafer!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10390404_escorting_remind_newyorke_03_play",
       "english": "Onward, to the citadel of Midgard's Mightiest Heroes!",
       "turkish": "Hedefimiz Midgard'ın En Kudretli Kahramanlarının kalesi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10390538_q_p2_play_p2",
       "english": "Curse thee, vile creature!",
       "turkish": "Lanet olsun sana, aşağılık yaratık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10390067_sp_single_tokyo_01_play",
       "english": "By Odin's beard, what spider lives in that sky-spanning web?",
       "turkish": "Odin’in sakalı adına, göğü saran şu ağda nasıl bir örümcek yaşıyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10390258_escorting_payload_tokyoe_02_play",
       "english": "Protect Spider-Zero as she journeys toward the Shrine of the Weaver!",
       "turkish": "Dokumacının Mabedi’ne seyahat eden Spider-Zero’yu koruyun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10390359_interact_02_10230_c_play",
       "english": "Ha! Verily you must jest, rocketeer!",
       "turkish": "Ha! Muhakkak latife ediyorsundur roketçi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10390095_debuff_exhaust_01_play",
       "english": "I am…vulnerable?",
       "turkish": "Savunmasız mı kaldım?..",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10390020_interact_05_10160_a_play",
       "english": "Brother, remember that time you -haha- picked Munin's feathers clean and Father was FURIOUS!?",
       "turkish": "Kardeşim, hatırlıyor musun -haha- bir keresinde Munin’in tüm tüylerini yolmuştun, Babamız da CELALLENMİŞTİ?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10390207_building_destroy_ankh_01_play",
       "english": "I have smashed the ankh.",
       "turkish": "Yaşam çarmıhını parçaladım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10390066_sp_single_klyntar_01_play",
       "english": "Such a hellish place could only give rise to monsters.",
       "turkish": "Böylesine korkunç bir yerden çıksa çıksa canavar çıkar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10390142_ko_sp_01_10260_play",
       "english": "An honorable foe, sadly misguided.",
       "turkish": "Ne yazık ki yanlışa düşmüş fakat onurlu bir düşman.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10390602_interact_03_10590_a_play",
       "english": "Ah! Lady Bloodstone! How have you been? Have you managed to continue mapping your fallen world?",
       "turkish": "Ah! Lady Bloodstone! Nasılsın? Düşmüş dünyanı haritalamaya devam edebildin mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10390466_interact_01_10550_d_play",
       "english": "As it does in mine. Now, listen well as Mjolnir sentences our foes to their fate!",
       "turkish": "Benim dünyamda da öyle. Şimdi iyi dinle, Mjolnir düşmanlarımızı kaderlerine mahkûm ediyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10390233_ko_q_03_play",
       "english": "Cower before Asgard's lightning!",
       "turkish": "Asgard’ın şimşeği karşısında titreyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10390340_easter_egg_asgardc_12_play",
       "english": "Rest well, All-Father. I shall deal with your mischievous child while you slumber.",
       "turkish": "İyi uykular Yüce Baba. Sen dinlenirken yaramaz evladınla ben ilgileneceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10390314_signal_no_02_play",
       "english": "I fear not.",
       "turkish": "Korkarım hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10390044_interact_01_10330_c_play",
       "english": "You are she? Time is a trickster.",
       "turkish": "Aynı kadın mısın? Zaman, hepimize numara çekiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10390188_sp_interact_asgard_02_10240_b_play",
       "english": "Loki lies, even to himself. And if you believe him, you are lying to yourself.",
       "turkish": "Loki yalan söylüyor. Kendisine bile. Ona inanıyorsan sen de kendine yalan söylüyorsun demektir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10390329_building_destroy_octopus_03_play",
       "english": "The oceanic onslaught is over at last!",
       "turkish": "Okyanusun taarruzu nihayet son buldu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10390249_ko_terrain_01_play",
       "english": "Canst thou fly? I think not!",
       "turkish": "Uçabiliyor musun? Sanmam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10390444_sp_interact_kunlun_01_10520_a_play",
       "english": "Your city is known across all realms for the skill of its warriors. I would speak to their trainer.",
       "turkish": "Şehriniz, savaşçılarının yetenekleriyle tüm diyarlar arasında tanınır. Onların eğitmeniyle konuşmak isterim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10390093_debuff_control_01_play",
       "english": "I am not myself…",
       "turkish": "Kendimde değilim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10390484_easter_egg_kunlunh_02_play",
       "english": "I should have protected you, Laussa. I will not fail you again!",
       "turkish": "Seni korumalıydım, Laussa. Bir daha sana ihanet etmeyeceğim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10390210_building_destroy_beacon_01_play",
       "english": "I have smashed Rocket's beacon!",
       "turkish": "Rocket'ın fenerini parçaladım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10390294_signal_wheel_attack_01_play",
       "english": "Attack this place at once!",
       "turkish": "Derhâl buraya saldırın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10390611_interact_03_10640_c_play",
       "english": "And when he does, I will have my axe Jarnbjorn ready! I am certain he remembers it well.",
       "turkish": "Ve o gün geldiğinde baltam Jarnbjorn hazır olacak! Eminim onu çok iyi hatırlıyordur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10390109_buff_shield_01_play",
       "english": "A strong defense!",
       "turkish": "Güçlü bir savunma!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10390119_occupied_hint_defend_01_play",
       "english": "Mount a stalwart defense!",
       "turkish": "Sağlam savunma yapın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10390256_escorting_payload_asgarde_02_play",
       "english": "Long has Yggdrasill protected Asgard. Now we must save the World-Tree.",
       "turkish": "Yggdrasill nicedir Asgard’ı korumuştur. Şimdi de biz Dünya Ağacı’nı kurtarmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10390284_quick_confirm_02_play",
       "english": "Verily.",
       "turkish": "Kesinlikle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10390608_interact_03_10220_a_play",
       "english": "Should I fall in battle, Captain, I bequeath mighty Mjolnir to you.",
       "turkish": "Eğer savaşta düşersem, Kaptan, kudretli Mjolnir’i sana vasiyet ediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10390134_ko_normal_04_play",
       "english": "Thus I smite thee!",
       "turkish": "Böylece çarptım seni!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10390566_entrance_01_10240_play",
       "english": "I shall fight to the death… and beyond!",
       "turkish": "Ölene dek… ve ötesine kadar savaşacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10390174_interact_01_10150_b_play",
       "english": "Milady, I could never.Twould crush your spirits.",
       "turkish": "Katiyen olmaz leydim. Hevesini kırmak istemem.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10390406_escorting_remind_newyorkh_03_play",
       "english": "Come! We must remove the vampire plague from this blessed realm!",
       "turkish": "Hadi! Bu kutsal diyarı vampir vebasından arındırmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10390019_interact_04_10160_c_play",
       "english": "This changes nothing about the reckoning you must face for what you have done to Asgard.",
       "turkish": "Asgard’a yaptıkların için vereceğin hesap hususunda hiçbir şey değişmiş değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10390526_sp_emote_10470_1047001217_05_play",
       "english": "Come, dine with me in Valhalla!",
       "turkish": "Gelin, birlikte Valhalla’ya gidelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10390552_ko_sp_01_10560_play",
       "english": "I send thee back to Heven, sister. Be wise and do not return.",
       "turkish": "Seni cennete geri gönderiyorum, kız kardeşim. Akıllı ol ve bir daha dönme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10390241_ko_five_02_play",
       "english": "Five, friends! Five!",
       "turkish": "Beş etti dostlar! Beş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10390026_interact_01_10340_e_play",
       "english": "Good to know.",
       "turkish": "Bunu bildiğime sevindim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10390047_interact_01_10470_c_play",
       "english": "Strange allies this war has brought together.",
       "turkish": "Bu savaş, beklenmedik müttefikleri bir araya getirmiş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10390610_interact_03_10640_a_play",
       "english": "You serve Apocalypse? Tell me, where is your accursed master now?",
       "turkish": "APOCALYPSE'e mi hizmet ediyorsun? Söyle bana, lanetli efendin şimdi nerede?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10390322_sp_ability_10150_02_play",
       "english": "Embrace Mjolnir’s Might!",
       "turkish": "Mjölnir’in kudretini benimse!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10390246_revenge_01_play",
       "english": "Vengeance is mine!",
       "turkish": "İntikam benimdir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10390501_escorting_payload_newyorkh02_01_play",
       "english": "Only we can ensure this sacred tablet reaches its destination!",
       "turkish": "Sadece biz bu kutsal tabletin hedefine ulaşmasını sağlayabiliriz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10390230_ko_normal_08_play",
       "english": "My hammer fell…and so did you, ha!",
       "turkish": "Bir çekicim vurdu… Bir de yer vurdu, hah!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10390360_interact_01_10300_a_play",
       "english": "You are the avatar of a divine being, are you not?",
       "turkish": "İlahi bir varlığın avatarısın sen, öyle değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10390245_ko_ace_03_play",
       "english": "Strike harder, comrades! You're falling behind!",
       "turkish": "Daha sert vurun yoldaşlarım! Geride kaldınız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10390510_interact_02_10640_a_play",
       "english": "Your master is dust. Who do you serve now, Horseman of Nothing?",
       "turkish": "Efendin artık toz oldu. Şimdi kime hizmet ediyorsun, Hiçliğin Atlısı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10390440_sp_interact_krakoac_01_10370_a_play",
       "english": "I was told this was to be a day of revelry! Yet chaos has reared its head once more.",
       "turkish": "Bana bugün cümbüş olacak denmişti! Oysa kaos yeniden baş gösterdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10390443_sp_interact_newyorke_01_10500_c_play",
       "english": "Then perhaps you can enlighten me as to the meaning behind his perplexing words…",
       "turkish": "O hâlde belki bana onun kafa karıştıran sözlerini açıklayıp beni aydınlatabilirsin…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10390393_sp_single_museume_02_play",
       "english": "This is a place of amusements? You mortals never fail to confound me…",
       "turkish": "Burası bir eğlence yeri mi? Siz ölümlüler beni her zaman şaşırtmayı başarıyorsunuz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10390017_single_08_play",
       "english": "Doom must answer for what he has done to Asgard, and all other worlds.",
       "turkish": "Doom, Asgard’a ve diğer dünyalara yaptıklarının hesabını vermeli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10390264_escorting_remind_asgarde_02_play",
       "english": "The World-Tree is dying. We must hurry!",
       "turkish": "Dünya Ağacı ölüyor. Acele etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10390232_ko_q_02_play",
       "english": "None can withstand my lightning!",
       "turkish": "Şimşeğime dayanabilen yoktur!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10390259_escorting_payload_tokyoh_01_play",
       "english": "We must escort Spider Zero to the Budokan.",
       "turkish": "Spider-Zero’ya Budokan’a kadar eşlik etmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10390350_sp_interact_asgard_01_10170_d_play",
       "english": "I fear that role is filled as well, my friend. You gaze upon him now.",
       "turkish": "Ne yazık ki o da kapıldı dostum. Kendisi karşında duruyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10390287_signal_open_spot_02_play",
       "english": "Be wary of this location, friends…",
       "turkish": "Buraya dikkat edin dostlarım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10390217_building_destroy_turret_02_play",
       "english": "The turret lies broken.",
       "turkish": "Taret kırık hâlde.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10390312_signal_vehicle_as_defend_02_play",
       "english": "Their chariot must go no further.",
       "turkish": "Bu taşıt daha ileriye gitmemeli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10390289_signal_broken_02_play",
       "english": "Let us do glorious damage to this place!",
       "turkish": "Tüm görkemimizle buraya hasar verelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10390569_entrance_02_10560_play",
       "english": "Come, sister. Let us show these mortals how it's done!",
       "turkish": "Gel, kız kardeşim. Şu fanilere bunun nasıl yapıldığını gösterelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10390028_interact_02_10150_a_play",
       "english": "You have held Mjölnir, you control lightning…mayhap you are Odin's long-lost daughter?",
       "turkish": "Mjölnir’i taşıdın ve şimşeklere hükmediyorsun… Acaba Odin’in nicedir kayıp olan kızı olabilir misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10390464_sp_ability_10560_03_play",
       "english": "What glorious metal!",
       "turkish": "Ne muhteşem bir metal!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10390076_sp_interact_asgard_01_10240_a_play",
       "english": "Now we fight to save what you would destroy.",
       "turkish": "Şimdi senin yok etmek istediklerini kurtarmak için savaşacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10390482_interact_01_10630_c_play",
       "english": "Remove it then, good sir, so that I may see proof of your claim for myself.",
       "turkish": "Öyleyse çıkarın, efendim; iddianızın kanıtını bizzat göreyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10390335_easter_egg_asgardc_07_play",
       "english": "Brother or not, I shall remove the usurper from Yggsgard's throne!",
       "turkish": "Kardeşim de olsa Yggsgard’ın tahtını gasp edeni yerinden ederim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10390202_building_spotted_turret_02_play",
       "english": "Beware the Punisher's turret!",
       "turkish": "Punisher’ın taretine dikkat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10390092_ability_r_03_play",
       "english": "Battle fury burns!",
       "turkish": "Savaşın hiddeti içimde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10390037_interact_02_10180_a_play",
       "english": "Stephen, old friend, be mindful that the barrier between Realms is most fragile.",
       "turkish": "Eski dostum Stephen. Diyarlar arasındaki bariyer en kırılgan hâlinde. Bunu aklında tut.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10390288_signal_broken_01_play",
       "english": "Leave nothing here standing!",
       "turkish": "Burada taş üstünde taş kalmasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10390064_sp_single_wakanda_01_play",
       "english": "I have heard tales of Wakanda's glory. The storytellers did not lie.",
       "turkish": "Wakanda’nın görkemini hikâyelerde duymuştum. Anlatanlar yalan söylememiş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10390320_sp_ability_10240_03_play",
       "english": "Ragnarok Revives Me!",
       "turkish": "Ragnarok diriltti beni!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10390337_easter_egg_asgardc_09_play",
       "english": "My brother's lies know no bounds. And he himself knows no shame!",
       "turkish": "Kardeşimin yalanları sınır tanımıyor. Utanması da yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10390285_quick_thanks_02_play",
       "english": "My deepest gratitude.",
       "turkish": "Sana derinden minnet duyuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10390100_debuff_weak_02_play",
       "english": "What magic weakens me?",
       "turkish": "Beni güçsüz kılan bu büyü nedir?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10390292_signal_wheel_enemy_spot_01_play",
       "english": "This is where they can be found.",
       "turkish": "Onları işte burada bulabiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10390470_interact_01_10650_c_play",
       "english": "A warrior through and through, just like the shield maidens of Asgard!",
       "turkish": "Baştan sona bir savaşçı, tıpkı Asgard'ın kalkan taşıyan kadın savaşçıları gibi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10390386_sp_single_newyorke_02_play",
       "english": "The sun shall rise again on this fair city! So swears Thor!",
       "turkish": "Bu güzel şehirde güneş yeniden doğacak! Thor'un andı olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10390031_interact_01_10430_a_play",
       "english": "I know many lords on many worlds, Peter Quill. None of them mention you. What are you lord of, precisely?",
       "turkish": "Nice dünyada nice lort tanıyorum Peter Quill. Hiçbirinin senden haberi yok. Tam olarak neyin lordusun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10390535_single_13_play",
       "english": "Relinquish the Norn Stone at once, Fisk!",
       "turkish": "Norn Taşı’nı derhâl bırak, Fisk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10390022_interact_01_10240_a_play",
       "english": "Whatever bargain you think you struck with Loki, he will betray you.",
       "turkish": "Loki’yle nasıl bir pazarlık etmiş olursan ol, sana ihanet edecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10390166_quick_q_charge_90_higher_01_play",
       "english": "My power is nearly ready to unleash.",
       "turkish": "Gücümü serbest bırakmaya neredeyse hazırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10390107_buff_endure_01_play",
       "english": "No power can harm me!",
       "turkish": "Hiçbir güç bana zarar veremez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10390463_sp_ability_10560_02_play",
       "english": "Thank you, sister!",
       "turkish": "Sağ ol ablacım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10390504_escorting_remind_newyorkh02_02_play",
       "english": "No more! This ancient tablet must be delivered without delay!",
       "turkish": "Yeter artık! Bu kadim tablet gecikmeden teslim edilmeli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10390222_ko_sniper_01_play",
       "english": "No more will the sniper strike!",
       "turkish": "Keskin nişancı bir daha nişan alamayacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10390150_saw_death_01_10240_play",
       "english": "No! Though she be my sworn enemy, we have need of her today.",
       "turkish": "Olamaz! Ezelî düşmanım olsa da bugün ona muhtacız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10390139_ko_sp_01_10340_play",
       "english": "Stark. Always led by his pride.",
       "turkish": "Stark. Kibrinin önüne hiçbir şey geçemez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10390082_switch_01_play_p2",
       "english": "Verily, Thor Odinson is eager for battle.",
       "turkish": "Thor Odinson savaşmaya can atıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10390450_sp_single_kunlunh_01_play",
       "english": "A realm of true warriors! It reminds me of home…",
       "turkish": "Gerçek savaşçıların diyarı! Bana yuvamı hatırlatıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10390184_sp_interact_asgard_01_10140_b_play",
       "english": "Asgard is not a place to be taken. It is a people to be led.",
       "turkish": "Asgard alınacak bir yer değil, öncülük edilecek bir halktır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10390318_sp_ability_10240_01_play",
       "english": "The Odinson Reborn!",
       "turkish": "Odinson yeniden doğdu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10390160_respawn_02_play",
       "english": "I am Thor Odinson, god of thunder!",
       "turkish": "Gök gürültüsü tanrısı Thor Odinson derler bana!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10390321_sp_ability_10150_01_play",
       "english": "The God Tempest Unleashed!",
       "turkish": "İlahi fırtına açığa çıktı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10390567_entrance_02_10240_play",
       "english": "Hela. How kind of you to grace me with your presence…",
       "turkish": "Hela. Varlığınla beni şereflendirmek ne kadar da nazik…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10390396_escorting_payload_newyorke_03_play",
       "english": "Little man of metal, you shall be our champion this day!",
       "turkish": "Küçük metal adam, bugün şampiyonumuz sen olacaksın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10390392_sp_single_kunlun_02_play",
       "english": "Let my thunder echo through this sacred city! For Thor has come to fight!",
       "turkish": "Gök gürültüm bu kutsal şehirde yankılansın! Çünkü Thor savaşmaya geldi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10390078_sp_interact_asgarde_01_10160_a_play",
       "english": "You would tap the very roots of Yggdrasill? For what?",
       "turkish": "Ne diye Yggdrasill’in öz suyunu çıkarıyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10390469_interact_01_10650_a_play",
       "english": "How strange! You do not tremble at the sound of my thunder?",
       "turkish": "Ne garip! Gök gürültümün sesinden titremiyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10390306_signal_area_unoccupied_02_play",
       "english": "Claiming this site will ensure our victory.",
       "turkish": "Burayı alırsak zaferimiz kesindir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10390319_sp_ability_10240_02_play",
       "english": "Hela does her duty!",
       "turkish": "Hela üstüne düşeni yaptı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10390462_sp_ability_10560_01_play",
       "english": "Ichors of Heven!",
       "turkish": "Heven'in Kanları!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10390247_revenge_02_play",
       "english": "I am avenged!",
       "turkish": "İntikamımı aldım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10390570_sp_ability_10240_02_play",
       "english": "My soul persists!",
       "turkish": "Ruhum hâlâ ayakta!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10390071_sp_interact_hydra_01_10410_c_play",
       "english": "Perhaps new ownership is called for.",
       "turkish": "Belki de sahip değiştirmesinin vakti gelmiştir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10390568_entrance_01_10560_play",
       "english": "I have my sister's blessing, if not her company…",
       "turkish": "Yanımda olmasa da kız kardeşimin kutsaması benimle…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10390511_interact_02_10640_c_play",
       "english": "You devoted yourself to a false god, and he brought you only pain and suffering.",
       "turkish": "Kendini sahte bir tanrıya adadın ve o da sana yalnızca acı ile ıstırap getirdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10390192_saw_sniper_01_play",
       "english": "We face a deadly enemy from afar.",
       "turkish": "Uzaktaki ölümcül bir düşmanla karşı karşıyayız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10390006_single_21_play",
       "english": "I was exiled from Asgard as a youth. Now I would lay down my life to save it.",
       "turkish": "Gençliğimde Asgard’dan sürgün edilmiştim. Şimdi kurtarmak için canımı feda ederim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10390219_building_destroy_nest_01_play",
       "english": "The spiders are no more!",
       "turkish": "Artık örümceklerden kurtulduk!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10390214_building_destroy_amplifier_02_play",
       "english": "Rocket's yarn machine met Mjölnir.",
       "turkish": "Rocket’ın iplik makinesi, Mjölnir’le tanıştı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10390534_single_12_play",
       "english": "The Lord of the Vampires holds a power he cannot comprehend!",
       "turkish": "Vampirlerin Lordu, asla kavrayamayacağı bir güce sahip!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10390097_debuff_purple_01_play",
       "english": "Heal others, not me.",
       "turkish": "Bana değil, başkalarına şifa verin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10390476_interact_01_10610_d_play",
       "english": "Ha! I have resisted the Enchantress, mortal! You'll have to be more beguiling than that!",
       "turkish": "Ha! Ben Enchantress'e direndim, ölümlü! Bundan daha etkileyici olman gerekecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10390295_signal_wheel_attack_02_play",
       "english": "This shall be our field of battle!",
       "turkish": "Savaş alanımız burası olacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10390058_interact_03_10160_b_play",
       "english": "If you will curb your cynical tongue.",
       "turkish": "Sen de alaycı dilini dizginlersen kabul.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10390133_ko_normal_03_play",
       "english": "Mjölnir strikes a heavy blow, ha!",
       "turkish": "Mjölnir sert vurdu, ha!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10390453_sp_single_newyorkh02_01_play",
       "english": "Fisk thinks himself a king? Let us show him how heavy the crown can be!",
       "turkish": "Fisk kendini bir kral mı sanıyor? Ona tacın ne kadar ağır olabileceğini gösterelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10390356_sp_interact_asgard_01_10520_a_play",
       "english": "They say you plunged your fist into the heart of a dragon, child.",
       "turkish": "Söylediklerine göre bir ejderhanın kalbine yumruğunu geçirmişsin evlat.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10390213_building_destroy_amplifier_01_play",
       "english": "Whatever this device did, it will do no more.",
       "turkish": "Bu cihaz her ne işe yarıyorduysa artık yaramıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10390137_ko_sp_01_10240_play",
       "english": "Now she tastes what she has served to so many others.",
       "turkish": "Nicesine tattırdığını şimdi kendisi de tatmış oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10390333_easter_egg_asgarde_05_play",
       "english": "It seems the throne has not humbled my brother in the slightest…",
       "turkish": "Görünen o ki kardeşim tahta geçince iyice havaya girmiş...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10390426_interact_01_10320_a_play",
       "english": "You are Midgard's goddess of squirrels, are you not?",
       "turkish": "Midgard’ın sincap tanrıçasısın, öyle değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10390441_sp_interact_krakoac_01_10370_c_play",
       "english": "You have changed much since first we met, Magneto. From righteous villain to selfless protector.",
       "turkish": "İlk tanıştığımızdan bu yana çok değiştin Magneto. Kendini haklı gören bir caniden özverili bir koruyucuya döndün.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10390403_escorting_remind_klyntarh_04_play",
       "english": "We must move swiftly, before Knull rises once more!",
       "turkish": "Hızlı hareket etmeliyiz, Knull yeniden yükselmemeli!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10390474_interact_01_10590_c_play",
       "english": "Ah! My family has been known to slay a Frost Giant or two… hundred…",
       "turkish": "Ah! Ailem bir ya da iki… yüz… Buz Devi öldürmesiyle tanınır…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10390455_escorting_payload_kunlunh_02_play",
       "english": "And you all thought my goats were strange…",
       "turkish": "Ve hepiniz benim keçilerimin garip olduğunu düşünüyordunuz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10390070_sp_interact_hydra_01_10410_a_play",
       "english": "This is where you were kept?",
       "turkish": "Seni buraya mı hapsetmişlerdi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10390310_signal_vehicle_as_attack_02_play",
       "english": "We must forge ahead with haste!",
       "turkish": "Hızla yolumuza devam etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10390226_ko_assist_02_play",
       "english": "We fight well together.",
       "turkish": "Birlikte iyi savaşıyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10390129_saw_flank_01_play_p2",
       "english": "They are upon you, beware!",
       "turkish": "Ensenizdeler, dikkat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10390152_saw_death_01_10260_play",
       "english": "A great and generous king struck down. Avenge him!",
       "turkish": "Yüce ve cömert bir kralın canını aldılar. İntikamını alın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10390302_signal_wheel_backup_01_play",
       "english": "Your assistance would be a blessing…",
       "turkish": "Yardımınız benim için nimet olur…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10390309_signal_vehicle_as_attack_01_play",
       "english": "We must move this vessel ever forward!",
       "turkish": "Bu taşıtın ilerlemesini sağlamalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10390053_interact_02_10210_a_play",
       "english": "Hawkeye! We go into battle together!",
       "turkish": "Hawkeye! Savaşa birlikte giriyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10390533_single_11_play",
       "english": "We must not underestimate the power of the Norn Stones!",
       "turkish": "Norn Taşları’nın gücünü asla küçümsememeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10390399_escorting_payload_newyorkh_04_play",
       "english": "We shall have words with the lord of the vampires. Strong words.",
       "turkish": "Vampirlerin efendisine bir çift sözümüz olacak. Biraz nahoş olacağı kesin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10390336_easter_egg_asgardc_08_play",
       "english": "We were family once. Perhaps, one day, we can mend our wounds…",
       "turkish": "Bir zamanlar biz bir aileydik. Belki bir gün yaralarımızı sarabiliriz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10390273_easter_egg_asgarde_03_play",
       "english": "Much has been lost in Asgard…but much might yet be reclaimed.",
       "turkish": "Asgard büyük kayıplar verdi… Ancak pek çoğunu geri alabiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10390252_enemy_advanced_01_play",
       "english": "We are too few.",
       "turkish": "Sayımız çok az.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10390243_ko_ace_01_play",
       "english": "Sit back and watch the Odinson at work!",
       "turkish": "Arkanıza yaslanın da Odinson’ı iş başında görün!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10390457_escorting_payload_museume_02_play",
       "english": "We will deliver these creatures to safety! So swears Thor!",
       "turkish": "Bu yaratıkları güvenliğe ulaştıracağız! Thor böyle yemin eder!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10390387_sp_single_newyorkh_02_play",
       "english": "What cruel fate has befallen my beloved Midgard?",
       "turkish": "Canım Midgardımın başına ne acı bir kader gelmiş böyle?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10390452_sp_single_museume_01_play",
       "english": "Once again, the Elders of the Universe cannot resist meddling with mortal lives…",
       "turkish": "Bir kez daha, Evrenin Yaşlıları ölümlülerin hayatlarına karışmaktan kendilerini alıkoyamıyorlar...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10390276_quick_hi_02_play",
       "english": "Greetings, friend!",
       "turkish": "Merhabalar dostum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10390266_escorting_remind_tokyoe_02_play",
       "english": "The shrine approaches…but are we too late?",
       "turkish": "Mabede az kaldı… Peki çok mu geç kaldık?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10390609_interact_03_10220_c_play",
       "english": "You may know not, but the Steven Rogers I knew was one of the few mortals worthy of lifting my sacred hammer.",
       "turkish": "Belki bilmiyorsundur ama tanıdığım Steven Rogers, kutsal çekicimi kaldırmaya layık sayılı ölümlülerden biriydi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10390603_interact_03_10590_c_play",
       "english": "I am flattered! And concur, one of the few mortals I with whom I can enjoy company without fear of outliving them.",
       "turkish": "Gururum okşandı! Ve katılıyorum; onlardan uzun yaşayacağım korkusu olmadan birlikte vakit geçirmekten keyif alabileceğim az sayıdaki ölümlüden birisin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10390349_sp_interact_asgard_01_10170_b_play",
       "english": "The flames of Surtur are more than enough to warm this realm.",
       "turkish": "Surtur’un alevleri, bu diyarı ısıtmaya yeter de artar bile.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10390128_saw_enemy_02_play",
       "english": "The enemy is here!",
       "turkish": "Düşman burada!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10390114_buff_purge_02_play",
       "english": "My strength is restored!",
       "turkish": "Kuvvetime kavuştum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10390193_saw_sniper_02_play",
       "english": "An enemy strikes from great distance!",
       "turkish": "Bir düşmanımız çok uzaktan saldırıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10390323_sp_ability_10150_03_play",
       "english": "Mjolnir’s Gift Upon You!",
       "turkish": "Mjölnir’in Lütfu Seninle Olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10390181_sp_interact_asgard_01_10110_d_play",
       "english": "Yes! Haha! Put them to good use.",
       "turkish": "Evet! Haha! Kullanmaktan çekinme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10390355_sp_interact_asgard_02_10220_a_play",
       "english": "Captain. You honor Yggsgard with your presence.",
       "turkish": "Kaptan. Varlığınla Yggsgard'a şeref veriyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10390445_sp_interact_kunlun_01_10520_c_play",
       "english": "Ha! He has named himself boldly! But there is only one true Thunderer!",
       "turkish": "Ha! Kendine cesurca bir isim vermiş! Ama gerçek Yıldırımcı sadece bir tanedir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10390525_sp_emote_10470_1047001217_04_play",
       "english": "Battle fury burns!",
       "turkish": "Savaşın hiddeti içimde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10390341_easter_egg_asgardc_13_play",
       "english": "Mighty Gungnir is but a relic collecting dust. Odin would be ashamed.",
       "turkish": "Ulu yadigâr Gungnir toz tutmuş. Odin görse yüzü kızarırdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10390136_ko_sp_01_10160_play",
       "english": "Maybe defeat will humble him…someday.",
       "turkish": "Yenilince belki bir gün burnu sürtülür…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10390282_quick_hp_normal_02_play",
       "english": "I fare quite well.",
       "turkish": "Gayet iyi hâldeyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10390059_interact_02_10240_b_play",
       "english": "I will preserve it…and then you and I will have our reckoning.",
       "turkish": "Kurtaracağım… Sonra da ikimiz hesaplaşacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10390220_building_destroy_nest_02_play",
       "english": "I have destroyed the spider nest.",
       "turkish": "Örümcek yuvasını yok ettim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10390060_interact_01_10260_b_play",
       "english": "You cannot forsake the people of your own kingdom. I understand that struggle all too well.",
       "turkish": "Kendi krallığının halkını da terk edemezsin. Bunun zorluğunu çok iyi biliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10390063_sp_single_asgard_01_play",
       "english": "Though battles take me across the stars, my heart is here, and always will be.",
       "turkish": "Savaşlar beni yıldızların ötesine taşısa da kalbim burada, hep de öyle olacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10390361_interact_01_10300_c_play",
       "english": "Ah, of the Ennead. The Egyptian pantheon. I was never fond of him. Taweret, however…",
       "turkish": "Ah, Mısır panteonu Ennead’dan. Khonshu’dan hiç hazzetmezdim. Öte yandan Taweret…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10390530_enter_10_play",
       "english": "Leave these fearsome foes to mighty Mjolnir!",
       "turkish": "Bu dehşet verici düşmanları kudretli Mjolnir’e bırakın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10390265_escorting_remind_tokyoe_01_play",
       "english": "We are not close! Hurry to the master weaver!",
       "turkish": "Yaklaşamadık! Bir an öönce Usta Dokumacı’ya ulaşalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10390480_interact_01_10620_c_play",
       "english": "Fear not, Devil. Not even I can break your bond with the child called Moon Girl!",
       "turkish": "Korkma, Şeytan. Ay Kızı denen çocukla arandaki bağı, ben bile koparamam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10390012_single_03_play",
       "english": "I was born to battle, but I have learned to love peace as well.",
       "turkish": "Savaşmak için doğsam da gönlümü barışa kaptırdım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10390127_saw_enemy_01_play",
       "english": "Our adversaries gather!",
       "turkish": "Düşmanlarımız toplanıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10390390_sp_single_klyntarc_02_play",
       "english": "Few beings have the power to best a Celestial in combat. This does not bode well…",
       "turkish": "Çok az varlık bir Celestial'ı dövüşte alt edebilecek güce sahiptir. Bu hiç iyiye işaret değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10390472_interact_01_10570_d_play",
       "english": "Perhaps I will let you feel Mjolnir's might… as she knocks some sense into you!",
       "turkish": "Belki de Mjolnir'in gücünü hissetmene izin veririm... sana biraz akıl öğretirken!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10390077_sp_interact_asgard_01_10240_c_play",
       "english": "Look well on Asgard's beauty, Queen of Hel, for you will never possess it.",
       "turkish": "Asgard’ın güzelliğini aklına kazı Hel’in Kraliçesi. Burası asla senin eline geçmeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10390271_easter_egg_asgardc_01_play",
       "english": "Asgard's heritage, swept up and hidden away by my brother's greed.",
       "turkish": "Kardeşimin açgözlülüğü, Asgard’ın mirasını alıp saklamış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10390052_interact_02_10220_c_play",
       "english": "You were a great leader, and an example to all warriors. I would be proud to fight with you.",
       "turkish": "Büyük bir lider ve tüm savaşçılar için örnektin. Seninle omuz omuza savaşmaktan gurur duyarım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10390055_interact_01_10160_a_play",
       "english": "We were inseparable as children, you and I.",
       "turkish": "Çocukken ikimizi kimse ayıramazdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10390389_sp_single_arakkoe_02_play",
       "english": "Arakko lies beyond the Ten Realms, but I shall protect it nonetheless!",
       "turkish": "Arakko, On Diyar’ın ötesinde olsa da onu koruyacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10390165_quick_q_charge_90_under_01_play",
       "english": "The thunder builds but slowly.",
       "turkish": "Gök gürültüsü, yavaş yavaş güçlenir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10390477_interact_01_10600_a_play",
       "english": "I recognize those tails! You are not the first Kumiho I have encountered, milady.",
       "turkish": "O kuyrukları tanıyorum! Karşılaştığım ilk Kumiho sen değilsin, hanımefendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10390327_building_destroy_octopus_01_play",
       "english": "Namor's beasts have been vanquished!",
       "turkish": "Namor’un yaratıkları defedildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10390429_interact_01_10450_c_play",
       "english": "Yggsgard's warriors currently answer to my brother, Loki… but that is soon to change…",
       "turkish": "Yggsgard savaşçıları şu an kardeşim Loki’ye hizmet etmekte… Ancak bu durum yakında değişecek…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10390034_interact_02_10430_c_play",
       "english": "I knew numerous princes and marquises from Nordic Midgard…Harald Fairhair, Eric Bloodaxe. Your father must be a great king.",
       "turkish": "Midgard’ın kuzeyinden pek çok prens ve markiyle tanıştım… Mesela Sarışın Harald ve Kanlıbalta Erik. Baban ulu bir kral olmalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10390324_building_spotted_octopus_01_play",
       "english": "What foul creature has Namor summoned now?",
       "turkish": "Namor şimdi ne gibi iğrenç bir yaratık çağırmış?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10390130_saw_flank_02_play_p2",
       "english": "Behind you, my friend!",
       "turkish": "Arkana bak dostum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10390096_debuff_exhaust_02_play",
       "english": "I am easily wounded.",
       "turkish": "Kolay yaralanıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10390061_interact_01_10230_b_play",
       "english": "No.",
       "turkish": "Hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10390004_single_19_play",
       "english": "Though I be a god, I would rather inspire mortals than be worshiped.",
       "turkish": "Tanrı olsam da bana tapılmasından ziyade ölümlülere ilham vermeyi yeğlerim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10390303_signal_wheel_backup_02_play",
       "english": "I require aid… and perhaps mead…",
       "turkish": "Yardıma ihtiyacım var… Belki bir de bal likörüne…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10390069_sp_interact_wakanda_01_10260_c_play",
       "english": "And my pride will be fighting on your side this day.",
       "turkish": "Benim gururumun kaynağı da bugün seninle omuz omuza savaşmak olacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10390116_occupied_celebrate_02_play",
       "english": "Raise a toast in celebration!",
       "turkish": "Kadeh kaldırıp kutlayalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10390186_sp_interact_asgard_01_10400_a_play",
       "english": "You are one of Midgard's most brilliant minds, Reed Richards. Surely, if any knows how to save the Realm Eternal, 'tis you.",
       "turkish": "Midgard’ın en zeki insanlarından birisin Reed Richards. Ebedî Diyar'ı nasıl kurtarabileceğimizi bilen biri varsa sensindir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10390339_easter_egg_asgardc_11_play",
       "english": "If Loki must fall to return this Golden Realm to its proper glory, so be it!",
       "turkish": "Bu Altın Diyarın eski görkemine kavuşması için Loki’nin devrilmesi şartsa varsın öyle olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10390190_sp_interact_asgard_02_10410_c_play",
       "english": "Together, perhaps we will be strong enough to knock my accursed brother from the throne he usurped.",
       "turkish": "Belki de birlikte kahrolası kardeşimi gasp ettiği tahtından devirmeye yetecek kadar güçlü oluruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10390175_interact_01_10150_d_play",
       "english": "If any of them can yet speak when we have done!",
       "turkish": "İşimiz bitince bir şey diyecek hâlleri kalırsa tabii!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10390559_saw_ko_01_10640_play",
       "english": "Impressive. I underestimated you, Jubilation.",
       "turkish": "Etkileyici. Seni hafife almışım, Jubilation.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10390564_saw_death_01_10650_play",
       "english": "Both beauty and brawn. You shall be missed, Rogue…",
       "turkish": "Hem güzellik hem güç. Özleneceksin, Rogue…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10390007_single_22_play",
       "english": "My brother Loki imperils not just Asgard, but all the Realms.",
       "turkish": "Kardeşim Loki sadece Asgard’ı değil, tüm Diyarları tehlikeye attı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10390269_escorting_remind_wakandah_01_play",
       "english": "Faster! We cannot fail!",
       "turkish": "Daha hızlı! Başarmak zorundayız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10390036_interact_01_10180_c_play",
       "english": "That's what I said in the Tower of Solitude.",
       "turkish": "Yalnızlık Kulesi’nde ben de aynısını dedim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10390297_signal_wheel_defend_02_play",
       "english": "Do not dare to surrender this site.",
       "turkish": "Sakın burayı teslim etmeyin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10390553_ko_sp_01_10570_play",
       "english": "Mjolnir chose you after all, Deadpool… as a perfect target!",
       "turkish": "Mjolnir sonunda seni seçti, Deadpool… mükemmel bir hedef olarak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10390283_quick_hp_low_02_play",
       "english": "Prayers would be most welcome.",
       "turkish": "Dualarınız pek makbule geçer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10390153_saw_death_01_10270_play",
       "english": "Preserve but a splinter, and he will regrow!",
       "turkish": "Tek bir kıymık kurtarsanız yeter, geri çıkacaktır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10390354_sp_interact_asgard_01_10440_c_play",
       "english": "They have slain immortals? Then perhaps they will prove worthy after all…",
       "turkish": "Ölümsüzleri mi öldürdüler? O zaman belki de sonunda değerli olduklarını kanıtlayabilirler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10390479_interact_01_10620_a_play",
       "english": "A thunder lizard and a Thunder God! What a fine pair we shall make!",
       "turkish": "Bir gök gürültüsü kertenkele ve bir Gök Gürültüsü Tanrısı! Ne muhteşem bir ikili olacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10390439_sp_interact_newyorkh_01_80620_a_play",
       "english": "Tell me, noble beast… Who has been protecting this sacred forest while I was banished far beyond this realm?",
       "turkish": "Anlat bana ey soylu yaratık… Ben bu diyarın çok ötesine sürgün edildiğimden bu yana bu kutsal ormanı kim koruyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10390558_saw_ko_01_10610_play",
       "english": "Fortune has favored you, my feline friend!",
       "turkish": "Talih senden yana, kedi dostum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10390338_easter_egg_asgardc_10_play",
       "english": "Loki's deceptions are but a thin veil. Truth always triumphs in the end.",
       "turkish": "Loki’nin aldatmacaları, ince bir perdeden ibaret. Hakikat nihayetinde daima kazanır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10390079_sp_interact_asgarde_01_10160_c_play",
       "english": "And when the World-Tree is drained, and perishes? What of your plan then?",
       "turkish": "Peki ya Dünya Ağacı tükenip öldüğünde? O zamanki planın nedir?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10390560_saw_ko_01_10630_play",
       "english": "'Tis no wonder why you lead your people, Cyclops.",
       "turkish": "Halkına neden liderlik ettiğine şaşmamalı, Cyclops.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10390262_escorting_payload_wakandah_02_play",
       "english": "Through the Hall of Bast we go!",
       "turkish": "Bast Salonu’ndan geçelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10390087_ability_e_01_play",
       "english": "Slow down!",
       "turkish": "Yavaşlayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10390001_single_16_play",
       "english": "I am Asgardian, but I feel a deep kinship with the mortals of Earth.",
       "turkish": "Asgardlı olsam da Dünyalı ölümlülerle aramda derin bir bağ var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10390531_enter_09_play",
       "english": "Onward! The creatures of the night await…",
       "turkish": "İleri! Şövalyenin Yaratıkları bizi bekliyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10390075_sp_interact_tokyo_01_10360_c_play",
       "english": "Ah, yes. More akin to the Norns than a true god. Spider-Norns!",
       "turkish": "Hımm, evet. Gerçek bir tanrıdan ziyade Nornlara benziyor. Örümcek Nornlara!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10390277_quick_q_charge_90_under_02_play",
       "english": "My thunder is still distant.",
       "turkish": "Gök gürültüsü hâlâ uzaklarda.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10390267_escorting_remind_tokyoh_01_play",
       "english": "We have less time than I had hoped. Onward, quickly!",
       "turkish": "Vaktimiz umduğumdan daha az. Çabuk ilerleyelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10390080_sp_interact_asgardc_02_10160_a_play",
       "english": "You have ensorcelled our father, and painted lies in the palace he built.",
       "turkish": "Babamızı efsunladın ve onun inşa ettiği sarayı yalanlara boyadın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10390523_sp_emote_10470_1047001217_02_play",
       "english": "I am Asgard's might!",
       "turkish": "Ben Asgard’ın kudretlisiyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5203,7 +5203,7 @@
       "internalName": "vo_10390255_escorting_payload_asgarde_01_play",
       "english": "On, Toothgnasher! On, Toothgrinder! We ride with you!",
       "turkish": "Yürü Toothgnasher! Yürü Toothgrinder! Birlikte yola çıkalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5215,7 +5215,7 @@
       "internalName": "vo_10390113_buff_purge_01_play",
       "english": "All my afflictions purged!",
       "turkish": "Tüm dertlerimden arındım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5227,7 +5227,7 @@
       "internalName": "vo_10390045_interact_01_10330_e_play",
       "english": "Up to his usual betrayals. After this we must smite him.",
       "turkish": "Her zamanki gibi ihanet peşinde. Bu kez ona haddini bildirmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5239,7 +5239,7 @@
       "internalName": "vo_10390485_interact_04_10161_a_play",
       "english": "Sister.",
       "turkish": "Bir kız kardeş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5251,7 +5251,7 @@
       "internalName": "vo_10390348_sp_interact_asgard_01_10340_b_play",
       "english": "I will gather my own board and take them over! Hostilely!",
       "turkish": "Ben de kendime kurul toplayıp düşmanca devralacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5263,7 +5263,7 @@
       "internalName": "vo_10390239_ko_three_03_play",
       "english": "Threefold victory!",
       "turkish": "Üç kat zafer!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5275,7 +5275,7 @@
       "internalName": "vo_10390057_interact_02_10160_c_play",
       "english": "Now it is happening!",
       "turkish": "Şimdi gerçekleşiyor işte!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5287,7 +5287,7 @@
       "internalName": "vo_10390487_interact_05_10161_a_play",
       "english": "Sister, remember that time you -haha- picked Munin's feathers clean and Father was FURIOUS!?",
       "turkish": "Kız kardeşim, hatırlıyor musun -haha- bir keresinde Munin’in tüm tüylerini yolmuştun, Babamız da CELALLENMİŞTİ?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5299,7 +5299,7 @@
       "internalName": "vo_10390039_interact_01_10460_a_play",
       "english": "So you are the perfect human?",
       "turkish": "Yani kusursuz bir insan olman için mi yaratıldın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5311,7 +5311,7 @@
       "internalName": "vo_10390326_building_spotted_octopus_03_play",
       "english": "What terrors have you called forth, Namor?",
       "turkish": "Nasıl bir dehşet çağırdın Namor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5323,7 +5323,7 @@
       "internalName": "vo_10390274_easter_egg_tokyoh_04_play",
       "english": "Hoho, Stark. Even your riches are not eternal.",
       "turkish": "Haha Stark. Senin servetinin bile sonu varmış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5335,7 +5335,7 @@
       "internalName": "vo_10390409_escorting_remind_arakkoe_04_play",
       "english": "Make haste, before Ultron's corruption spreads further.",
       "turkish": "Acele et, Ultron'un yozlaşması daha fazla yayılmasın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5347,7 +5347,7 @@
       "internalName": "vo_10390305_signal_area_unoccupied_01_play",
       "english": "This domain must be ours!",
       "turkish": "Burası bizim olmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5359,7 +5359,7 @@
       "internalName": "vo_10390563_saw_death_01_10580_play",
       "english": "One cannot cheat the fates forever, Gambit.",
       "turkish": "Kaderi sonsuza dek kandıramazsın, Gambit.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5371,7 +5371,7 @@
       "internalName": "vo_10390308_signal_area_occupied_02_play",
       "english": "They shall not take this land from us!",
       "turkish": "Bu toprakları bizden alamayacaklar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5383,7 +5383,7 @@
       "internalName": "vo_10390015_single_06_play",
       "english": "Come, dine with me in Valhalla!",
       "turkish": "Gelin, birlikte Valhalla’ya gidelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5395,7 +5395,7 @@
       "internalName": "vo_10390311_signal_vehicle_as_defend_01_play",
       "english": "This vessel shall not pass.",
       "turkish": "Bu taşıt burayı geçmeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5407,7 +5407,7 @@
       "internalName": "vo_10390235_ko_ability_r_02_play",
       "english": "Laid low by lightning!",
       "turkish": "Şimşek yere serdi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5419,7 +5419,7 @@
       "internalName": "vo_10390420_interact_02_10360_a_play",
       "english": "All who oppose us shall fall before the might of Mjolnir!",
       "turkish": "Karşımıza çıkan herkes, Mjölnir’in kudreti karşısında yere serilecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5431,7 +5431,7 @@
       "internalName": "vo_10390102_buff_heal_noncritical_02_play",
       "english": "Twas but a scratch!",
       "turkish": "Küçük bir çizik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5443,7 +5443,7 @@
       "internalName": "vo_10390051_interact_02_10220_a_play",
       "english": "I knew you in…another time.",
       "turkish": "Bir başka zamanda seni tanıyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5455,7 +5455,7 @@
       "internalName": "vo_10390449_interact_01_10560_c_play",
       "english": "Odin sired quite the family… then he left us all to fend for ourselves…",
       "turkish": "Odin ne bir aile kurmuş… sonra da hepimizi kendi başımıza bırakmış…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5467,7 +5467,7 @@
       "internalName": "vo_10390528_sp_emote_10470_1047001217_07_play",
       "english": "I wield the power of Asgard!",
       "turkish": "Asgard’ın gücü elimde!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5479,7 +5479,7 @@
       "internalName": "vo_10390388_sp_single_krakoac_02_play",
       "english": "The time for pageantry has come to an end already? A shame…",
       "turkish": "Gösteriş zamanı çoktan sona mı erdi? Ne yazık...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5491,7 +5491,7 @@
       "internalName": "vo_10390046_interact_01_10470_a_play",
       "english": "What manner of creature are you?",
       "turkish": "Ne biçim bir yaratıksın sen?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5503,7 +5503,7 @@
       "internalName": "vo_10390194_saw_sniper_03_play",
       "english": "Beware! We are in the sights of a sniper.",
       "turkish": "Dikkat! Keskin nişancı bizi hedef almış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5515,7 +5515,7 @@
       "internalName": "vo_10390148_saw_ko_01_10420_play",
       "english": "The spider-robot is powerful!",
       "turkish": "Robot örümcek ne güçlüymüş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5527,7 +5527,7 @@
       "internalName": "vo_10390428_interact_01_10450_a_play",
       "english": "Ah, Namor! 'Tis a joy to have a fellow monarch fighting by my side!",
       "turkish": "Ah, Namor! İki hükümdar olarak omuz omuza savaşmak beni neşelendirdi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5539,7 +5539,7 @@
       "internalName": "vo_10390351_sp_interact_asgard_01_10300_b_play",
       "english": "Mjolnir can only be lifted by those deemed worthy.",
       "turkish": "Mjölnir’i sadece layık olanlar kaldırabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5551,7 +5551,7 @@
       "internalName": "vo_10390237_ko_three_01_play",
       "english": "A triumvirate of triumph!",
       "turkish": "Üçlü galibiyet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5563,7 +5563,7 @@
       "internalName": "vo_10390395_escorting_payload_klyntarh_04_play",
       "english": "This world's dark king shall not reign again! We shall make sure of it!",
       "turkish": "Bu dünyanın karanlık kralı bir daha hüküm sürmeyecek! Buna engel olacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5575,7 +5575,7 @@
       "internalName": "vo_10390084_switch_03_play_p2",
       "english": "What group of heroes would not be strengthened by Thor?",
       "turkish": "Thor’un gelişiyle güç kazanmayacak kahraman grubu mu var?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5587,7 +5587,7 @@
       "internalName": "vo_10390253_enemy_advanced_02_play",
       "english": "We need all our allies.",
       "turkish": "Tüm müttefiklerimize ihtiyacımız var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5599,7 +5599,7 @@
       "internalName": "vo_10390347_interact_01_10260_d_play",
       "english": "Perhaps the only thing heavier than my hammer, old friend.",
       "turkish": "Belki de çekicimden ağır tek şey budur eski dostum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5611,7 +5611,7 @@
       "internalName": "vo_10390212_building_destroy_beacon_03_play",
       "english": "This beacon has produced its last armor.",
       "turkish": "Bu fenerden başka zırh çıkmayacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5623,7 +5623,7 @@
       "internalName": "vo_10390123_countdown_at_01_play",
       "english": "There is little time. Strike!",
       "turkish": "Çok az vaktimiz kaldı. Hücum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5635,7 +5635,7 @@
       "internalName": "vo_10390178_sp_interact_asgard_01_10310_b_play",
       "english": "It is my home. We must save it.",
       "turkish": "Burası benim yurdum. Burayı kurtarmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5647,7 +5647,7 @@
       "internalName": "vo_10390199_building_spotted_portal_02_play",
       "english": "Here is Strange's magical doorway!",
       "turkish": "Strange’in büyülü geçidi burada!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5659,7 +5659,7 @@
       "internalName": "vo_10390291_signal_enemy_02_play",
       "english": "I have spotted an enemy.",
       "turkish": "Bir düşman gördüm.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5671,7 +5671,7 @@
       "internalName": "vo_10390008_single_23_play",
       "english": "Asgardians NEVER shrink from battles or feasts.",
       "turkish": "Asgardlılar ne savaştan kaçar ne de ziyafetten!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5683,7 +5683,7 @@
       "internalName": "vo_10390456_escorting_payload_museume_01_play",
       "english": "These mortal beings deserve their freedom.",
       "turkish": "Bu ölümlü varlıklar özgürlüklerini hak ediyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5695,7 +5695,7 @@
       "internalName": "vo_10390438_sp_interact_newyorkm_01_80630_a_play",
       "english": "I too have a trusty hound. He is called Thori, and he is as ferocious as he is loyal!",
       "turkish": "Benim de sadık bir tazım vardır. Adı Thori. Vahşi olduğu kadar güvenilirdir de!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5707,7 +5707,7 @@
       "internalName": "vo_10390073_sp_interact_asgard_01_10220_d_play",
       "english": "If Mjölnir should fall from my hand, I know someone worthy will pick it up and go on.",
       "turkish": "Mjölnir elimde düşecek olursa ona layık birisinin alıp savaşa devam edeceğini biliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5719,7 +5719,7 @@
       "internalName": "vo_10390032_interact_01_10430_c_play",
       "english": "Asgard?",
       "turkish": "Peki Asgard?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5731,7 +5731,7 @@
       "internalName": "vo_10390083_switch_02_play_p2",
       "english": "I am Thor, son of Odin! No watcher, but a warrior!",
       "turkish": "Odin'in oğlu Thor’um ben! Seyretmem, savaşırım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5743,7 +5743,7 @@
       "internalName": "vo_10390011_single_02_play",
       "english": "When all seems lost, just listen for the sound of thunder.",
       "turkish": "Her şey kaybedilmiş gibi duruyorsa gök gürültüsünün sesine kulak ver.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5755,7 +5755,7 @@
       "internalName": "vo_10390118_occupied_hint_engage_02_play",
       "english": "Our enemy is ready. Are we?",
       "turkish": "Düşmanımız hazır. Ya biz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5767,7 +5767,7 @@
       "internalName": "vo_10390231_ko_q_01_play",
       "english": "I came, I saw, I smote!",
       "turkish": "Geldim, gördüm, çarptım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5779,7 +5779,7 @@
       "internalName": "vo_10390048_interact_01_10360_a_play",
       "english": "Does anyone wish to find out if they're worthy? Come on, it'd be fun ;D",
       "turkish": "Mjölnir’e layık olup olmadığını öğrenmek isteyen var mı? Haydi, eğleniriz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5791,7 +5791,7 @@
       "internalName": "vo_10390481_interact_01_10630_a_play",
       "english": "I fought a cyclops centuries ago. A nasty creature. I vowed to smite all of its kin.",
       "turkish": "Yüzyıllar önce bir tepegözle dövüşmüştüm. Pek de uğursuz bir mahlûktu. Soyundan gelenlerin hepsine yıldırım indirmeye yemin ettim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5803,7 +5803,7 @@
       "internalName": "vo_10390179_sp_interact_asgard_01_10310_d_play",
       "english": "Doom is no threat to Asgard…but Loki is.",
       "turkish": "Doom, Asgard için tehdit değil… Ama Loki öyle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5815,7 +5815,7 @@
       "internalName": "vo_10390170_quick_hp_normal_01_play",
       "english": "I am well, and strong.",
       "turkish": "Sağlığım ve gücüm yerinde.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5827,7 +5827,7 @@
       "internalName": "vo_10390090_ability_r_01_play",
       "english": "Awaken the rage of battle!",
       "turkish": "Savaşın hiddeti uyansın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5839,7 +5839,7 @@
       "internalName": "vo_10390200_building_spotted_portal_03_play",
       "english": "Let us ambush our enemies as they emerge!",
       "turkish": "Düşmanlarımız çıkarken onlara pusu kuralım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5851,7 +5851,7 @@
       "internalName": "vo_10390334_easter_egg_asgarde_06_play",
       "english": "I should have expected. Loki and Hela do make the perfect pair.",
       "turkish": "Şaşırmadım. Loki ve Hela gerçekten de mükemmel bir ikili.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
@@ -5863,12 +5863,12 @@
       "internalName": "vo_10390091_ability_r_02_play",
       "english": "The wrath of Asgard!",
       "turkish": "Asgard’ın gazabı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "İsak İskenderov",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "e7301a02f3ae9d06",
-  "generatedAt": "2026-08-26T19:04:14.863476Z"
+  "dataRevision": "4884a149fa0ae764",
+  "generatedAt": "2026-08-26T19:52:56.328149Z"
 }
