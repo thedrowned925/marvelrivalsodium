@@ -1,13 +1,5 @@
-/* ODIUM Marvel Rivals first-visit cast notice */
+/* ODIUM Marvel Rivals every-visit cast notice */
 (()=>{
-  const STORAGE_KEY='odium-mr-cast-notice-v1';
-  const params=new URLSearchParams(location.search);
-  const testMode=params.get('popup-test')==='1';
-
-  let alreadySeen=false;
-  try{alreadySeen=localStorage.getItem(STORAGE_KEY)==='seen';}catch(_){/* localStorage unavailable */}
-  if(alreadySeen&&!testMode)return;
-
   const backdrop=document.createElement('div');
   backdrop.className='mr-notice-backdrop';
   backdrop.setAttribute('role','presentation');
@@ -25,7 +17,7 @@
         </div>
         <p class="mr-notice-signature"><strong>Odium Stüdyo</strong> // Türkçe Dublaj Ekibi</p>
         <div class="mr-notice-actions">
-          <span class="mr-notice-tag"><i aria-hidden="true"></i>${testMode?'Önizleme modu · Her yenilemede görünür':'Bu duyuru ilk ziyaretinizde gösterilir'}</span>
+          <span class="mr-notice-tag"><i aria-hidden="true"></i>Bu duyuru site her açıldığında gösterilir</span>
           <button class="mr-notice-accept" type="button">Anladım <span aria-hidden="true">↘</span></button>
         </div>
       </div>
@@ -36,7 +28,6 @@
   const button=backdrop.querySelector('.mr-notice-accept');
 
   const close=()=>{
-    if(!testMode){try{localStorage.setItem(STORAGE_KEY,'seen');}catch(_){}}
     backdrop.classList.remove('is-open');
     document.body.classList.remove('mr-notice-lock');
     window.setTimeout(()=>backdrop.remove(),320);
