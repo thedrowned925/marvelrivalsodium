@@ -54,7 +54,7 @@ def build(book:Path,details:Path,existing=None):
         name=str(r[0]);line_rows=rows_for(wb,name);total=len(line_rows) or int(r[1] or 0)
         fb={"waiting":int(r[2] or 0),"recorded":int(r[3] or 0),"checked":int(r[4] or 0),"added":int(r[5] or 0)};c=counts(line_rows,fb)
         worked=c['recorded']+c['checked']+c['added'];progress=round(worked/total*100,2) if total else 0
-        status='Tamamlandi' if total and c['added']==total else ('Baslamadi' if total and c['waiting']==total else 'Devam Ediyor')
+        status='Tamamlandi' if total and worked>=total else ('Baslamadi' if total and c['waiting']==total else 'Devam Ediyor')
         actor=r[8] if r[8] else None;s=slug(name);path=f'data/characters/{s}.json'
         char={"name":name,"slug":s,"detailPath":path,"total":total,**c,"worked":worked,"progress":progress,"status":status,"voiceActor":actor};chars.append(char)
         detail={"character":name,"voiceActor":actor,"summary":{"total":total,**c,"worked":worked,"progress":progress,"status":status},"columns":COLUMNS,"rows":line_rows};target=details/f'{s}.json';expected.add(target);payloads.append((target,detail));revision.append({"character":char,"rows":line_rows})
