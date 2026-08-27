@@ -9,7 +9,10 @@ STATUS={"Bekliyor":"waiting","Kayit Alindi":"recorded","Kayıt Alındı":"record
 COLUMNS=["Sıra","WAV Dosya Adı","WEM ID","Internal Name","English","Türkçe","Durum","Seslendiren","Tarih","Not"]
 
 def download(url:str,target:Path):
-    with requests.get(url,stream=True,timeout=60,allow_redirects=True) as r:
+    sep='&' if '?' in url else '?'
+    fresh_url=f"{url}{sep}_={int(dt.datetime.now(dt.timezone.utc).timestamp()*1000)}"
+    headers={"Cache-Control":"no-cache, no-store, max-age=0","Pragma":"no-cache"}
+    with requests.get(fresh_url,headers=headers,stream=True,timeout=60,allow_redirects=True) as r:
         r.raise_for_status()
         with target.open('wb') as f:
             for chunk in r.iter_content(262144):
