@@ -5,8 +5,8 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "b6a6c976462c0c79",
-  "generatedAt": "2026-08-27T20:38:08.465545Z",
+  "dataRevision": "ecd59437bb1b58da",
+  "generatedAt": "2026-08-27T20:41:02.274045Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
@@ -17,9 +17,9 @@
     "worked": 4707,
     "progress": 19.86,
     "statusCounts": {
-      "Devam Ediyor": 14,
+      "Devam Ediyor": 10,
       "Baslamadi": 36,
-      "Tamamlandi": 4
+      "Tamamlandi": 8
     },
     "assigned": 39
   },
@@ -483,7 +483,7 @@
       "added": 0,
       "worked": 474,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Ali Fuat Adak"
     },
     {
@@ -595,7 +595,7 @@
       "added": 0,
       "worked": 487,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "İsak İskenderov"
     },
     {
@@ -651,7 +651,7 @@
       "added": 0,
       "worked": 413,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Bedirhan Kartal"
     },
     {
@@ -749,7 +749,7 @@
       "added": 0,
       "worked": 443,
       "progress": 100.0,
-      "status": "Devam Ediyor",
+      "status": "Tamamlandi",
       "voiceActor": "Mehmet Akif Zımba"
     },
     {
