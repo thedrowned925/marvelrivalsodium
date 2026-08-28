@@ -3,13 +3,13 @@
   "voiceActor": "Efe Karatepe",
   "summary": {
     "total": 444,
-    "waiting": 444,
-    "recorded": 0,
+    "waiting": 415,
+    "recorded": 29,
     "checked": 0,
     "added": 0,
-    "worked": 0,
-    "progress": 0.0,
-    "status": "Baslamadi"
+    "worked": 29,
+    "progress": 6.53,
+    "status": "Devam Ediyor"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10350013_single_04_play",
       "english": "Doom is nothing. Knull is the true threat, to this universe and all others.",
       "turkish": "Doom ne ki? Bu evren ve ötekiler için asıl tehlike Knull.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10350125_building_destroy_nest_01_play",
       "english": "At last. No more spiders.",
       "turkish": "Nihayet. Başka örümcek kalmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10350459_sp_interact_klyntarec_01_10230_b_play",
       "english": "I take no pride in the world I were spawned on, rodent. Do you?",
       "turkish": "Doğduğum dünyayla gurur duymuyorum, kemirgen. Sen duyuyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10350222_signal_area_unoccupied_02_play",
       "english": "We shall claim this place!",
       "turkish": "Burayı alacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10350458_sp_interact_klyntarec_01_10520_c_play",
       "english": "Perhaps… but we have come to learn that we are all connected in mysterious ways…",
       "turkish": "Belki... ama hepimizin gizemli yollarla birbirimize bağlı olduğunu öğrenmiş bulunuyoruz...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10350307_escorting_remind_klyntarh_02_play",
       "english": "If we do not succeed, Knull will consume us all!",
       "turkish": "Başaramazsak Knull hepimizi tüketecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10350418_interact_03_10570_d_play",
       "english": "There is no way we would bond with you. But devouring you…? That we would consider…",
       "turkish": "Seninle bağ kurmamız mümkün değil. Ama seni yememiz…? İşte bunu düşünebiliriz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10350004_single_08_play",
       "english": "Finally, a chance to show them all who you were meant to be, Eddie.",
       "turkish": "Nihayet onlara gerçek seni gösterme fırsatı geldi Eddie.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10350109_building_spotted_turret_03_play",
       "english": "That turret looks dangerous. And delicious.",
       "turkish": "Şu taret hem tehlikeli hem de leziz duruyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10350287_sp_interact_klyntar_02_10410_c_play",
       "english": "Yes… but it will require soldiers. Ones capable of doing the unspeakable…",
       "turkish": "Evet… Ama asker gerekecek. Ağza alınmayacak şeyler yapmaya hazır askerler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10350053_occupied_celebrate_01_play",
       "english": "We have succeeded… so far…",
       "turkish": "Şimdilik başarılı olduk…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10350384_easter_egg_klyntarh_01_play",
       "english": "Every cell in a Celestial's body holds unfathomable power. If we can tap into that, maybe we can lock Knull up for good.",
       "turkish": "Bir Semavi’nin vücudundaki her hücre içinde akıl ermez güç barındırır. Bundan faydalanabilirsek belki Knull’u kalıcı olarak hapsedebiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10350233_interact_01_10111_a_play",
       "english": "So powerful… You would make a fine host.",
       "turkish": "Ne güçlüsün… Senden iyi konakçı olurdu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10350476_entrance_01_10540_play",
       "english": "We no longer fear the fire…",
       "turkish": "Artık ateşten korkmuyoruz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10350010_single_01_play",
       "english": "This fight is our destiny. It is why we were bonded together.",
       "turkish": "Bu savaş kaderimizde var. Biz bu yüzden bağ kurduk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10350288_sp_ability_10360_01_play",
       "english": "Do not fear. We brought help.",
       "turkish": "Korkma. Yardım getirdik.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10350041_buff_heal_noncritical_01_play",
       "english": "Back to full strength.",
       "turkish": "Tüm gücümüze geri kavuştuk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10350015_sp_single_hydra_01_play",
       "english": "Darkness has tainted this place. Unlike Knull's, but just as evil…",
       "turkish": "Buraya karanlığın lekesi sürülmüş. Knull’a ait değil ama onun kadar uğursuz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10350339_sp_interact_kunlun_01_10520_b_play",
       "english": "We can handle ourselves in any realm, child.",
       "turkish": "Herhangi bir alemde kendimizi savunabiliriz, çocuk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10350096_respawn_03_play",
       "english": "You thought we were done?",
       "turkish": "İşimiz bitti mi sandın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10350490_sp_single_newyorkh02_01_play",
       "english": "We swore to protect this city. Even from those who run it, if we must.",
       "turkish": "Bu şehri koruyacağımıza yemin ettik. Gerekirse onu yönetenlerden bile.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10350469_sp_emote_10470_1047001217_03_play",
       "english": "The symbiote hungers…",
       "turkish": "Sembiyot acıktı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10350270_sp_interact_klyntar_01_10360_b_play",
       "english": "If you weren't under our protection, anything here would laugh while they killed you, Spider-Meat.",
       "turkish": "Bizim korumamız altında olmasaydın buradaki her şey seni güle oynaya öldürürdü Minik Örümcek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10350319_escorting_payload_arakkoe_02_play",
       "english": "It seems Krakoa is Arakko's only hope…",
       "turkish": "Görünen o ki Arakko’nun tek umudu Krakoa…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10350335_sp_interact_klyntar_01_10530_c_play",
       "english": "Then you will help us end his reign before it begins anew?",
       "turkish": "O zaman hükümdarlığı yeniden başlamadan sonlandırmamıza yardım edecek misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10350229_signal_no_01_play",
       "english": "No.",
       "turkish": "Hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10350104_building_spotted_portal_01_play",
       "english": "Strange has summoned a portal.",
       "turkish": "Strange bir portal çağırmış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10350192_quick_group_up_01_play",
       "english": "Gather together.",
       "turkish": "Toplanın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10350299_escorting_payload_klyntarh_02_play",
       "english": "Only this essence can stop the King in Black's return!",
       "turkish": "Karalar Bürünen Kral’ın dönüşünü durdurabilecek tek şey bu öz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Efe Karatepe",
       "date": null,
       "note": null
@@ -5353,6 +5353,6 @@
       "note": null
     }
   ],
-  "dataRevision": "ecd59437bb1b58da",
-  "generatedAt": "2026-08-27T20:41:02.274045Z"
+  "dataRevision": "465fb270897a0094",
+  "generatedAt": "2026-08-28T21:54:24.828291Z"
 }
