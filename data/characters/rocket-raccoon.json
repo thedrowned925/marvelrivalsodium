@@ -5,8 +5,8 @@
     "total": 474,
     "waiting": 0,
     "recorded": 0,
-    "checked": 474,
-    "added": 0,
+    "checked": 473,
+    "added": 1,
     "worked": 474,
     "progress": 100.0,
     "status": "Tamamlandi"
@@ -31,7 +31,7 @@
       "internalName": "vo_10230300_signal_wheel_attack_02_play",
       "english": "We should light em up here.",
       "turkish": "Burayı ateşe vermeliyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5713,6 +5713,6 @@
       "note": null
     }
   ],
-  "dataRevision": "6087f16af7df603c",
-  "generatedAt": "2026-08-29T17:29:23.733109Z"
+  "dataRevision": "26703e37a438a433",
+  "generatedAt": "2026-08-29T20:22:56.125849Z"
 }
