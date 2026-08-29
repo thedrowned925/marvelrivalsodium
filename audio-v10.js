@@ -2,6 +2,10 @@
 (()=>{
   const RAW='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/assets/audio/';
   const TRACKS={
+    'blade':{
+      hover:'hover/intikam.wav',
+      detail:'detail/BİN kesik ulti.wav'
+    },
     'groot':{
       hover:'hover/Groot_ulti1_ADIM_GROOOOT.wav',
       detail:'detail/Groot_ulti2_Adimiz_Groot.wav'
