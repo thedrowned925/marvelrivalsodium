@@ -5,8 +5,8 @@
     "total": 474,
     "waiting": 0,
     "recorded": 0,
-    "checked": 473,
-    "added": 1,
+    "checked": 0,
+    "added": 474,
     "worked": 474,
     "progress": 100.0,
     "status": "Tamamlandi"
@@ -43,7 +43,7 @@
       "internalName": "vo_10230095_ko_sp_01_10250_play",
       "english": "Is that two for one? Did I get both of them?",
       "turkish": "İki miydi tek miydi? Kaç kişi indirdim ben?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10230379_interact_02_10170_a_play",
       "english": "Grimm was right about you. If you were a star, you'd be a total Class M.",
       "turkish": "Grimm’in hakkında dedikleri doğruymuş. Yıldız olsaydın M sınıfından olurdun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10230312_signal_area_occupied_01_play",
       "english": "Gotta hold this spot.",
       "turkish": "Bu bölgeyi korumalıyız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10230083_occupied_hint_attack_02_play",
       "english": "Let's go and blow up some dummies!",
       "turkish": "Haydi gidip birkaç cansız mankeni havaya uçuralım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10230506_interact_01_10640_c_play",
       "english": "You should! We could sell a LOT of merch.",
       "turkish": "Yapmalısın! TONLA ürün satabiliriz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10230481_ko_sp_01_10140_play",
       "english": "My guns are bigger, Castle!",
       "turkish": "Benim silahlarım daha büyük, Castle!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10230042_switch_01_play_p2",
       "english": "Call me Rocket. Just Rocket.",
       "turkish": "Bana Rocket de. Sadece Rocket.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10230236_ko_assist_03_play",
       "english": "My good deed for the day.",
       "turkish": "Bugünlük iyiliğim bu olsun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10230062_buff_heal_critical_02_play",
       "english": "That put a pep in my step.",
       "turkish": "Cesaretlendim işte şimdi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10230200_saw_sniper_03_play",
       "english": "Hey, sniper! Rocket's coming for you!",
       "turkish": "Hey keskin nişancı! Rocket seni bulmaya geliyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10230425_interact_01_10550_c_play",
       "english": "Annoyin' the hell outta me. That's more than enough.",
       "turkish": "Beni deli ediyorsun. Bu fazlasıyla yeterli.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10230349_sp_interact_klyntar_01_10480_d_play",
       "english": "Already better than any plan Quill ever had!",
       "turkish": "Şimdiden Quill'in bütün planlarından iyi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10230126_respawn_02_play",
       "english": "I'm baa-aack.",
       "turkish": "Döndüm ben!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10230368_escorting_remind_klyntarh_02_play",
       "english": "No way can we risk Knull makin' a comeback!",
       "turkish": "Knull'un dönmesini asla göze alamayız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10230207_building_spotted_turret_01_play",
       "english": "Turret mode? How come I don't have a turret mode?",
       "turkish": "Taret modu mu? Neden benim taret modum yok peki?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10230046_q_p2_play_p2",
       "english": "Hey team, enjoy the amplifier!",
       "turkish": "Hey takım, kuvvetlendiricinin keyfini sürün!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10230458_sp_single_newyorkh02_01_play",
       "english": "Urban jungle! My kind of hunt.",
       "turkish": "Beton orman! Benim avım tam da burada olur.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10230082_occupied_hint_attack_01_play",
       "english": "We're gonna need a battle cry!",
       "turkish": "Savaş narasına ihtiyacımız olacak!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10230502_interact_02_10580_c_play",
       "english": "No wonder we get along so well.",
       "turkish": "O yüzden bu kadar iyi anlaşıyoruz demek.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10230064_buff_dmg_02_play",
       "english": "I'm extra lethal!",
       "turkish": "Ekstra ölümcülüm!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10230264_escorting_payload_tokyoe_02_play",
       "english": "The Web of Life and Destiny! Bring it on!",
       "turkish": "Yaşam ve Kader Ağı! Elinizden geleni yapın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10230248_ko_five_03_play",
       "english": "Five! I'm on a roll!",
       "turkish": "Beş! Şanslı günündeyim",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10230366_escorting_payload_arakkoe_02_play",
       "english": "Time to wipe Ultron from the face of Arakko!",
       "turkish": "Arakko'yu Ultron'dan kurtarma zamanı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10230444_sp_emote_10470_1047001217_05_play",
       "english": "I'll patch you up.",
       "turkish": "Sana yama lazım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10230148_interact_03_10140_a_play",
       "english": "Hey, I saw that turret thing you do. How much you want for it?",
       "turkish": "Hey, icat ettiğin şu taret denen şeyi gördüm. Kaça satıyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10230260_enemy_advanced_03_play",
       "english": "Whoa, we need some backup here.",
       "turkish": "Burada biraz desteğe ihtiyacımız var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10230449_entrance_01_10320_play",
       "english": "Gotta admit, I'm feelin' a little squirrely…",
       "turkish": "İtiraf etmeliyim, biraz sincaplaştım…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10230360_escorting_payload_klyntarh_02_play",
       "english": "You guys ready to overthrow a king? Let's do this!",
       "turkish": "Kralı devirmeye hazır mısınız? Haydi yapalım şu işi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10230155_interact_02_10270_b_play",
       "english": "No, I don't know what the Timestream Entanglement is.",
       "turkish": "Hayır, Zaman Akışı Karışıklığı'nın ne olduğunu bilmiyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10230292_signal_open_spot_02_play",
       "english": "Be careful here.",
       "turkish": "Dikkatli olun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10230185_sp_ability_10270_01_play",
       "english": "Hey! Nice view from up here!",
       "turkish": "Hop! Buradan manzara iyiymiş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10230164_interact_01_10350_c_play",
       "english": "Fine… but try not to drip any protoplasm on me. I just washed my fur!",
       "turkish": "Tamam ama üzerime protoplazma dökmemeye çalış. Kürkümü yeni yıkadım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10230397_sp_single_klyntarc_03_play",
       "english": "Wow. This thing sure looks a lot more impressive when you're this close to it…",
       "turkish": "Vay canına. Bu şey, bu kadar yakından bakınca çok daha etkileyici görünüyor…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10230340_building_destroy_octopus_01_play",
       "english": "Namor's eight-armed pals are officially fish food.",
       "turkish": "Namor'un sekiz kollu arkadaşları artık balık yemi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10230273_escorting_remind_tokyoh_01_play",
       "english": "What's the holdup?",
       "turkish": "Sorun nedir?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10230281_quick_hi_02_play",
       "english": "Hello.",
       "turkish": "Merhaba.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10230178_sp_interact_klyntar_01_10430_c_play",
       "english": "Right where you crashed it! Admit it!",
       "turkish": "Tam oraya çarptın! Kabul et!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10230396_sp_single_klyntarc_02_play",
       "english": "This Celestial may have come crashin' down, but at least it got the Milano flyin' again!",
       "turkish": "Bu SEMAVİ yere çakılmış olabilir, ama en azından Milano'yu tekrar uçurmayı başardı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10230111_saw_ko_01_10440_play",
       "english": "Blade. That guy wins with style.",
       "turkish": "Blade. Bu adamın tarzı konuşuyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10230026_interact_03_10200_a_play",
       "english": "Mantis, what's a 'raccoon'?",
       "turkish": "Mantis, \"rakun\" nedir?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10230420_interact_01_10440_a_play",
       "english": "You as glad as I am that all that nonsense with Dracula is over?",
       "turkish": "Drakula ile olan o saçmalığın bittiğine benim kadar sevindin mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10230027_interact_03_10200_c_play",
       "english": "Really? Then how come everyone keep calling me a raccoon? I'm a badass!",
       "turkish": "Gerçekten mi? Peki nasıl oluyor da herkes bana serseri diyor! Sert çocuğum ben!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10230051_ability_e_02_play",
       "english": "Relay deployed. It ain't cheap.",
       "turkish": "Biraz pahalıya patladı ama röle konuşlandırıldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10230314_signal_vehicle_as_attack_01_play",
       "english": "We gotta move this jalopy along!",
       "turkish": "Bu işe yaramazı birlikte hareket ettirmeliyiz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10230228_building_broken_beacon_01_play",
       "english": "Aw, man, I gotta make another beacon?",
       "turkish": "Ah adamım, başka bir fener mi yapacağım şimdi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10230402_escorting_remind_kunlunh_01_play",
       "english": "What're we waitin' for? This tablet ain't gonna move itself!",
       "turkish": "Ne bekliyoruz? Bu tablet kendi kendine hareket etmeyecek!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10230002_single_10_play",
       "english": "You can count on me, I got a plan.",
       "turkish": "Bana güvenebilirsin, bir planım var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10230388_sp_interact_klyntarc_01_10340_c_play",
       "english": "So what are we gonna do with this one when we're done? Turn it into a vacation rental?",
       "turkish": "Peki işimiz bittiğinde bununla ne yapacağız? Tatil kiralığına mı çevireceğiz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10230183_sp_interact_klyntar_01_10310_b_play",
       "english": "Not yet.",
       "turkish": "Henüz değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10230310_signal_area_unoccupied_01_play",
       "english": "This spot is ours to take.",
       "turkish": "Bu bölgeyi ele geçirelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10230442_sp_emote_10470_1047001217_03_play",
       "english": "Who are you calling a raccoon, huh?",
       "turkish": "Sen kime rakun diyorsun bakalım?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10230435_sp_interact_klyntarec_01_10350_c_play",
       "english": "Nah. Halfworld is a mess, too. Guess we can’t choose where we came from, eh?",
       "turkish": "Hayır. Halfworld de bir karmaşa. Sanırım nereden geldiğimizi seçemiyoruz, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10230311_signal_area_unoccupied_02_play",
       "english": "Here's job one: Capture this area.",
       "turkish": "İşte birinci görevimiz: Bölgeyi ele geçirin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10230092_ko_normal_03_play",
       "english": "This is way more fun than it should be.",
       "turkish": "Bu olması gerekenden çok daha eğlenceli.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10230154_interact_02_10320_d_play",
       "english": "Don't make it weird.",
       "turkish": "İşleri tuhaflaştırma.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10230213_building_destroy_ankh_01_play",
       "english": "The keyholes break real nice.",
       "turkish": "Anahtarlıklar gerçekten de güzel kırılıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10230013_interact_03_10270_a_play",
       "english": "Groot!",
       "turkish": "Groot!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10230242_ko_q_03_play",
       "english": "Earth-shattering kaboom!",
       "turkish": "Sarsarım dünyanızı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10230417_interact_01_10330_c_play",
       "english": "It's not so much that I get seen. It's that folks hear me comin' from a mile away.",
       "turkish": "Görülmekten çok, insanlar beni bir mil öteden duyuyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10230165_interact_02_10430_b_play",
       "english": "Never a dull moment for our crew, eh, Quill?",
       "turkish": "Ekibimiz hiç sıkılmasın, değil mi Quill?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10230031_interact_01_10540_c_play",
       "english": "Whoa. When?",
       "turkish": "Vay. Ne zaman?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10230464_escorting_payload_newyorkh02_02_play",
       "english": "An Earth vehicle. How… quaint…",
       "turkish": "Dünya’ya ait bir araç. Ne… acayip…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10230445_sp_emote_10470_1047001217_06_play",
       "english": "Call me Jeff. Just Jeff.",
       "turkish": "Bana Jeff de. Sadece Jeff.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10230177_sp_interact_klyntar_01_10430_a_play",
       "english": "See the Milano?",
       "turkish": "Milano'yu gördün mü?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10230355_sp_single_klyntarc_01_play",
       "english": "It ain't Knowhere, but I've visited worse…",
       "turkish": "Burası Knowhere değil, ama daha kötü yerler gördüm…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10230267_escorting_payload_wakandah_01_play",
       "english": "The king wants his cat figurine? Okay, whatever.",
       "turkish": "Kral kedi heykelciğini mi istiyormuş? Adı her ne ise işte.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10230323_signal_teammate_hp_02_play",
       "english": "Doc Rocket is in the office.",
       "turkish": "Doktor Rocket emrinize hazır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10230147_single_09_play",
       "english": "Friends have saved my life far more times than weapons.. Even so, it's always nice to have a couple of weapons.",
       "turkish": "Hayatımı silahlardan çok arkadaşlarım kurtardı. Öyle olsa da birkaç silahının olması her zaman iyidir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10230338_building_spotted_octopus_02_play",
       "english": "Squids? Namor wasn't bad enough on his own?!",
       "turkish": "Kalamarlar mı? Tek başına Namor yeterince kötü değil miydi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10230259_enemy_advanced_02_play",
       "english": "Even I can see we're outnumbered.",
       "turkish": "Sayımızın az olduğunu ben bile görebiliyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10230322_signal_teammate_hp_01_play",
       "english": "I can heal, you know.",
       "turkish": "İyileştirebilirim, biliyorsun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10230320_signal_summon_01_play",
       "english": "Beacon's here!",
       "turkish": "Fener burada!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10230037_interact_02_10220_b_play",
       "english": "What, don't got a raccoon joke like everyone else?",
       "turkish": "Ne yani, herkes gibi senin de bir rakun şakan yok mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10230137_quick_hp_low_01_play",
       "english": "Ahhh…I'm feeling sick…",
       "turkish": "Ahhh… Kendimi kötü hissediyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10230472_easter_egg_klyntarc_04_play",
       "english": "If the Milano and the Celestial are close enough together, this doohickey makes 'em do a switcheroo!",
       "turkish": "Milano’yla SEMAVİ yeterince yakın olursa, bu zımbırtı ikisini yer değiştirtiyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10230493_saw_death_01_10470_play",
       "english": "We lost our little guy!",
       "turkish": "Küçük adamımızı kaybettik!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10230477_ko_sp_01_10430_play",
       "english": "Stick to dancin', Star-Lord!",
       "turkish": "Dans etmeye devam et, Star-Lord!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10230163_interact_01_10350_a_play",
       "english": "A symbiote? Ugh. I hate these flarkin' things.",
       "turkish": "Bir sembiyot mu? Iyy. Bu iğrenç şeylerden nefret ediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10230019_interact_01_10220_a_play",
       "english": "Steve Rogers, Pete said you VOLUNTEERED to be experimented on, that true?",
       "turkish": "Steve Rogers, Pete üzerinde deney yapılması için GÖNÜLLÜ OLDUĞUNU söyledi, bu doğru mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10230346_interact_01_10460_c_play",
       "english": "Did I? Huh. I guess sarcasm is my default setting. You are gonna save the universe, though, right?",
       "turkish": "Öyle mi? Alaycılık sanırım genlerimde var. Yine de evreni kurtaracaksın, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10230194_ko_normal_08_play",
       "english": "That must be really humiliating.",
       "turkish": "Bu gerçekten aşağılayıcı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10230018_interact_01_10140_c_play",
       "english": "Let's see… Ion turret, photon reaction chaingun, mini black hole",
       "turkish": "Görelim bakalım… İyon tareti, foton reaksiyonlu zincir silahı, mini kara delik…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10230015_interact_01_10430_b_play",
       "english": "Quill, you got your ship? Cause if you do, let's get out of here.",
       "turkish": "Quill, gemine kavuştun mu? Kavuştuysan haydi gidelim buradan.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10230068_buff_shield_02_play",
       "english": "Armored up!",
       "turkish": "Zırhlandım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10230488_saw_ko_01_10320_play",
       "english": "Squirrels win again!",
       "turkish": "Sincaplar yine kazandı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10230332_sp_ability_10140_02_play",
       "english": "Ready for a boost, boys?",
       "turkish": "Takviyeye hazır mısınız çocuklar?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10230333_sp_ability_10140_03_play",
       "english": "Get ready to lock and overload!",
       "turkish": "Şarjörlerinizi bol bol doldurmaya hazır olun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10230087_saw_enemy_02_play",
       "english": "Those guys are about to shoot at us.",
       "turkish": "Bu adamlar bize ateş etmek üzere!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10230272_escorting_remind_tokyoe_02_play",
       "english": "Hit it, we got a shrine to get to!",
       "turkish": "Bas gaza, gitmemiz gereken bir mabet var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10230209_building_spotted_turret_03_play",
       "english": "Wonder if I can steal that turret thing.",
       "turkish": "Bu taret denen şeyi çalıp çalamayacağımı merak ediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10230316_signal_vehicle_as_defend_01_play",
       "english": "Get this vehicle!",
       "turkish": "Bu taşıtı durdurun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10230375_easter_egg_klyntarh_04_play",
       "english": "With my skills, I'll have our ship flyin' again in no time! Just you wait and see! There ain't nothin' I can't fix!",
       "turkish": "Bendeki yetenekler boru değil ya, şipşak gemimizi uçar duruma getiririm! Bekle de gör! Onaramayacağım hiçbir şey yoktur!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10230287_quick_hp_normal_02_play",
       "english": "I'm good.",
       "turkish": "İyiyim ben.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10230060_debuff_weak_02_play",
       "english": "C'mere and see if I'm weak.",
       "turkish": "Gel bakalım da görelim kimmiş zayıf!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10230168_interact_01_10410_d_play",
       "english": "Yikes. I mean, technically I ain't a raccoon… but somethin' tells me I shouldn't push my luck.",
       "turkish": "Yani teknik olarak rakun değilim ama içimden bir ses şansımı zorlamamam gerektiğini söylüyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10230492_saw_death_01_10320_play",
       "english": "Squirrel Girl! That one hurt!",
       "turkish": "Sincap Kız! Bu can yaktı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10230430_interact_02_10570_b_play",
       "english": "Back off, or I'll blast your face so hard they'll find your teeth in another dimension.",
       "turkish": "Geri çekil, yoksa yüzüne öyle bir patlatırım ki dişlerini başka bir boyutta bulurlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10230043_switch_02_play_p2",
       "english": "Who am I? I'm Rocket!",
       "turkish": "Ben kim miyim? Adım Rocket!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10230319_signal_no_02_play",
       "english": "Flark no.",
       "turkish": "Katiyen hayır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10230118_saw_death_01_10400_play",
       "english": "Wait. Isn't he the guy who was supposed to solve all this?",
       "turkish": "Bir saniye. Tüm bunları çözmesi gereken adam o değil miydi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10230226_building_destroy_nest_02_play",
       "english": "Spider nest is no longer a problem.",
       "turkish": "Örümcek yuvası artık dert değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10230189_buff_heal_noncritical_02_play",
       "english": "Back from the brink, baby!",
       "turkish": "Uçurumun kenarından döndük bebeğim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10230225_building_destroy_nest_01_play",
       "english": "I took care of the creepy-crawlies.",
       "turkish": "Korkunç örümceklerin hakkından geldim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10230447_entrance_01_10270_play",
       "english": "Groot's always with me. You'll see what I mean…",
       "turkish": "Groot her zaman benimle. Ne demek istediğimi göreceksin…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10230495_interact_02_10340_a_play",
       "english": "Your tech's clean… too clean. Where's the chaos?",
       "turkish": "Teknolojin tertemiz… fazla tertemiz. Kaos nerede?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10230240_ko_q_01_play",
       "english": "That one's my favorite.",
       "turkish": "İşte en sevdiğim bu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10230404_emote_1023500206_01_play",
       "english": "Easy, buddy! We're s'posed to be partners!",
       "turkish": "Sakin ol, dostum! Ortak olmamız gerekiyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10230081_occupied_hint_defend_02_play",
       "english": "Whoa, whoa, whoa! Hold up, team!",
       "turkish": "Vay, vay, vay! Bekle takım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10230283_quick_q_charge_90_higher_02_play",
       "english": "It's almost built.",
       "turkish": "Neredeyse bitti.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10230097_ko_sp_01_10320_play",
       "english": "I want your tail!",
       "turkish": "Kuyruğunu istiyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10230253_revenge_02_play",
       "english": "Revenge is what gets me up in the morning.",
       "turkish": "İntikâm, sabahları uyanmamı sağlayan şeydir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10230220_building_destroy_amplifier_02_play",
       "english": "Where's the other Rocket so I can mock him?",
       "turkish": "Kendisiyle dalga geçebileceğim diğer Rocket nerede?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10230497_interact_04_10320_a_play",
       "english": "So… you control an army of squirrels. Ever think bigger?",
       "turkish": "Yani… bir sincap ordusunu kontrol ediyorsun. Hiç daha büyüğünü düşündün mü?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10230406_interact_03_10320_a_play",
       "english": "What kinda wildlife do ya think they've got on Krakoa, anyway?",
       "turkish": "Krakoa'da ne tür vahşi yaşam olduğunu düşünüyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10230474_easter_egg_newyorkh02_01_play",
       "english": "Hey, that statue looks familiar!",
       "turkish": "Hey, şu heykel tanıdık geliyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10230093_ko_normal_04_play",
       "english": "Are we winning? I know I'm having a great time.",
       "turkish": "Kazanıyor muyuz? Harika zaman geçiriyorum çünkü.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10230206_building_spotted_portal_03_play",
       "english": "Portal! Strange musta found us!",
       "turkish": "Portal! Strange bizi bulmuş olmalı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10230076_occupied_celebrate_01_play",
       "english": "Done! What's next? Do we even have a plan?",
       "turkish": "Aldık burayı! Sırada ne var? Bir planımız var mıydı ki?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10230041_sp_single_hydra_01_play",
       "english": "What the -- Hey, nobody told me they're experimenting on living beings?!",
       "turkish": "Hay aksi. Kimse bana onların canlılar üzerinde deney yaptığını söylemedi?!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10230127_respawn_03_play",
       "english": "Oh I'm not gonna make it easy.",
       "turkish": "Şimdi işleri zorlaştırmaya geliyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10230403_escorting_remind_kunlunh_02_play",
       "english": "Come on! We're movin' slower than the flarkin' turtle!",
       "turkish": "Hadi ama! Kaplumbağadan daha yavaş hareket ediyoruz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10230385_sp_interact_newyorkh_01_10320_a_play",
       "english": "So, you really talk to these little tree rats, huh? How's that goin' for ya?",
       "turkish": "Ee, şu küçük ağaç sıçanlarıyla konuşuyor musun gerçekten? Nasıl gidiyor o iş?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10230072_buff_purge_02_play",
       "english": "Hehehe it tickles!",
       "turkish": "Hehe, gıdıklandım sanki!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10230461_escorting_payload_museume_01_play",
       "english": "Nice and easy. We don't wanna catch the Collector's attention…",
       "turkish": "Güzel ve sakin. Koleksiyoncu’nun dikkatini çekmek istemiyoruz…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10230405_emote_1023500206_02_play",
       "english": "Whoa! Hey! Bite them! Not me!",
       "turkish": "Vay! Hey! Onları ısır! Beni değil!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10230144_single_06_play",
       "english": "From what I hear about this Doom character, I don't think I'm gonna like him very much.",
       "turkish": "Şu Doom denen eleman hakkında duyduklarıma bakılırsa onu pek seveceğimi sanmıyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10230205_building_spotted_portal_02_play",
       "english": "Hey, heads up! Portal!",
       "turkish": "Hey, dikkat edin! Portal var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10230268_escorting_payload_wakandah_02_play",
       "english": "Doesn't the king have servants to move his tacky statues?",
       "turkish": "Kralın bu gösterişsiz heykellerini taşıyacak hizmetkârları yok mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10230054_debuff_control_02_play",
       "english": "Someone's in my head!",
       "turkish": "Kafamda biri var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10230250_ko_ace_02_play",
       "english": "Somebody else coulda stepped up.",
       "turkish": "Birileri daha olsaydı bari.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10230298_signal_wheel_enemy_spot_02_play",
       "english": "Got bad guys here!",
       "turkish": "Kötü adamlar dibimizde!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10230339_building_spotted_octopus_03_play",
       "english": "Yikes! What the flark are these things, Namor?",
       "turkish": "Iyy! Bu saçma şeyler ne Namor?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10230108_saw_ko_01_10210_play",
       "english": "You did that with your weak human eyes?",
       "turkish": "O zayıf insan gözlerinle mi yaptın bunu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10230471_easter_egg_klyntarc_03_play",
       "english": "Glad to see the Milano's still sailin' the spaceways… just in case we need to hot tail it outta here…",
       "turkish": "Milano’nun hâlâ uzay yollarında süzülüyor olmasına sevindim… hani buradan tabanları yağlayıp kaçmamız gerekirse…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10230353_sp_single_krakoac_01_play",
       "english": "If I'd known there was gonna be a party, I would've gotten groomed first!",
       "turkish": "Parti olacağını bilseydim üstüm başım temiz gelirdim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10230391_sp_ability_10420_01_play",
       "english": "What an upgrade!",
       "turkish": "Ne yükseltme ama!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10230216_building_destroy_beacon_01_play",
       "english": "Only one Rocket gets to make beacons: me!",
       "turkish": "Yalnızca tek bir Rocket size fener yapabilir: Ben!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10230438_sp_interact_newyorke_01_10400_b_play",
       "english": "Finally! Someone who recognizes and appreciates my technological genius!",
       "turkish": "Nihayet! Teknolojik dehamı tanıyan ve takdir eden biri!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10230270_escorting_remind_asgarde_02_play",
       "english": "We better speed up or that tree's gonna be all dried up.",
       "turkish": "Hızlansak iyi olur yoksa o ağaç tamamen kuruyacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10230198_saw_sniper_01_play",
       "english": "That sniper's gonna be sorry if I ever get close.",
       "turkish": "Bir yaklaşırsam o keskin nişancı pişman olacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10230047_ability_right_01_play",
       "english": "I'll patch you up.",
       "turkish": "Sana yama lazım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10230021_interact_01_10210_a_play",
       "english": "Hey Hawkeye, why you bring a bow and arrows to a gun fight?",
       "turkish": "Hey Hawkeye, neden bir silahlı kavgaya yay ve okla geliyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10230389_sp_interact_museume_01_10360_a_play",
       "english": "What's the deal with this place? The Collector built some sorta cosmic carnival?",
       "turkish": "Bu yerle ilgili mesele ne? Toplayıcı bir tür kozmik karnaval mı inşa etmiş?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10230025_interact_02_10200_c_play",
       "english": "Hmmm… I DO miss the jailbreaks. I'll call Drax. You're a sweetheart, Mantis.",
       "turkish": "Hmmm… Kodesi ÖZLEDİM. Drax'ı çağıracağım. Canımsın Mantis.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10230182_sp_interact_klyntar_01_10200_d_play",
       "english": "(grumpy noise)",
       "turkish": "(homurdanma)",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10230456_sp_ability_10320_03_play",
       "english": "Eat up, folks!",
       "turkish": "Buyurun millet, afiyet olsun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10230107_saw_ko_01_10280_play",
       "english": "Whoa, imagine what you can do with more arms!",
       "turkish": "Vay canına, daha fazla kolla yapabileceklerinizi bir hayal edin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10230010_single_05_play",
       "english": "Call me a raccoon, we're gonna have a problem.",
       "turkish": "Bana rakun dersen aramız bozulur.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10230381_interact_02_10390_b_play",
       "english": "Same as you, pal. I'm worthy. Wanna trade?",
       "turkish": "Aynı senin gibi ahbap. Layığım. Takas edelim mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10230337_building_spotted_octopus_01_play",
       "english": "Namor called in backup. And boy are they ugly!",
       "turkish": "Namor destek çağırdı. Adamım, onlar çok çirkin be!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10230171_interact_01_10390_e_play",
       "english": "Come on!",
       "turkish": "Haydi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10230359_escorting_payload_klyntarh_01_play",
       "english": "We deliver this to Knull, he's done for!",
       "turkish": "Şunu Knull'a götürünce işi bitti demektir!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10230261_escorting_payload_asgarde_01_play",
       "english": "Aim for the big tree!",
       "turkish": "Büyük ağaca nişan alın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10230204_building_spotted_portal_01_play",
       "english": "Where there's a portal, pretty soon there are bad guys.",
       "turkish": "Nerede bir portal varsa orada kötü adam vardır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10230070_buff_dr_02_play",
       "english": "Can't beat a thick coat of fur.",
       "turkish": "Kalın bir kürkten iyisi yok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10230232_ko_sniper_02_play",
       "english": "I got the sniper before the sniper got me! HAHA!",
       "turkish": "Keskin nişancı beni indirmeden ben onu indirdim! HAHA!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10230145_single_07_play",
       "english": "So there are two Dooms, huh? Sounds like overpopulation.",
       "turkish": "Yani iki Doom var, öyle mi? Nüfusu gereksiz yere artırıyorlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10230052_ability_e_03_play",
       "english": "Armor packs here! Pay up!",
       "turkish": "Zırh paketleri karşınızda! Hakkını verin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10230113_saw_death_01_10430_play",
       "english": "Quill's gone? That's…well, I guess it'll be a lot quieter.",
       "turkish": "Quill gitti mi? Bu iyi oldu, ortalık daha sessiz olacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10230153_interact_02_10320_b_play",
       "english": "Oh yeah, what's not to love?",
       "turkish": "Evet, nasıl sevmeyesin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10230296_signal_enemy_02_play",
       "english": "Follow the enemy!",
       "turkish": "Düşmanı takip edin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10230256_ko_terrain_02_play",
       "english": "Hahaha, look at that fall!",
       "turkish": "Hahaha, şu düşüşe bir bakın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10230498_interact_04_10320_c_play",
       "english": "I was thinkin' after this battle, we could mount lasers on your squirrels.",
       "turkish": "Şu savaştan sonra, sincaplarına lazer takabileceğimizi düşünüyordum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10230436_sp_interact_klyntarec_01_10380_a_play",
       "english": "Any clue how we're supposed to take out a literal god on his home turf?",
       "turkish": "Bir tanrıyı kendi bölgesinde nasıl alt edeceğimiz hakkında bir fikrin var mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10230277_easter_egg_wakanda_01_play",
       "english": "See that? Missing.' Look what Quill did.",
       "turkish": "Şunu gördün mü? “Kayıp”. İşte Quill’in suçu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10230167_interact_01_10410_b_play",
       "english": "I'll make it worth your while, Bucky. Go on. Name your price.",
       "turkish": "Ayırdığın zamana değecek Bucky. Devam et. Fiyatın nedir?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10230414_interact_01_10150_b_play",
       "english": "I know what we gotta do, lady. And I'm gonna do it as far away from you as possible.",
       "turkish": "Ne yapmamız gerektiğini biliyorum, hanımefendi. Ve bunu senden olabildiğince uzakta yapacağım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10230293_signal_broken_01_play",
       "english": "Cool. Lots to destroy here.",
       "turkish": "Harika. Burada yok edilecek çok şey var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10230282_quick_q_charge_90_under_02_play",
       "english": "I'm spinning, I'm spinning!",
       "turkish": "Döndürüyorum, döndürüyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10230302_signal_wheel_defend_02_play",
       "english": "Good spot to defend.",
       "turkish": "Savunmak için iyi bir yer.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10230370_escorting_remind_newyorke_02_play",
       "english": "Come on! Let's get this bolt-head in gear!",
       "turkish": "Haydi! Şu cıvata kafanın işini görelim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10230024_interact_02_10200_a_play",
       "english": "Mantis, people keep calling me grumpy, am I grumpy?",
       "turkish": "Mantis, insanlar bana huysuz diyor, huysuz muyum ben?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10230006_single_01_play",
       "english": "We can pull it off, I've been in worse gangs",
       "turkish": "Bunu başarabiliriz. Daha kötü çetelerde yer almıştım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10230453_sp_ability_10270_03_play",
       "english": "I am Groot!",
       "turkish": "Adım Groot!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10230069_buff_dr_01_play",
       "english": "Shoot me! Go on, try it!",
       "turkish": "Vur bana! Haydi! Dene bakalım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10230285_quick_need_heal_02_play",
       "english": "Ahhh… Hurtin' unit here.",
       "turkish": "Ahhh… Canım acıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10230201_building_spotted_ankh_01_play",
       "english": "What are these weird keyhole things, anyway?",
       "turkish": "Bu tuhaf anahtarlıklar da ne böyle?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10230063_buff_dmg_01_play",
       "english": "I just got more dangerous?",
       "turkish": "Şimdi çok daha tehlikeliyim, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10230166_interact_02_10430_d_play",
       "english": "You… made a plan? Huh. Guess there's a first time for everything!",
       "turkish": "Bir plan yapmış mıydın? Her şeyin bir ilki vardır sanırım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10230369_escorting_remind_newyorke_01_play",
       "english": "We gotta get to that tower! Now!",
       "turkish": "Şu kuleye ulaşmalıyız! Hemen!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10230217_building_destroy_beacon_02_play",
       "english": "This other Rocket's beacons are so flimsy!",
       "turkish": "Bu diğer Rocket'ın fenerleri ne kadar dayanıksızmış!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10230084_countdown_at_01_play",
       "english": "Seriously, time is not on our side here.",
       "turkish": "Toparlanın, zaman bizden yana değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10230393_sp_ability_10420_03_play",
       "english": "Nice workin' with ya, kid!",
       "turkish": "Seninle çalışmak güzeldi, çocuk!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10230125_respawn_01_play",
       "english": "Oh ho ho, I'm gonna get some revenge.",
       "turkish": "Ho ho ho, şimdi gidip biraz intikam alayım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10230230_building_broken_beacon_03_play",
       "english": "Okay, hold your horses, I'll deploy another beacon.",
       "turkish": "Tamam, tamam, sabredin. Bir fener daha kuracağım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10230124_healthpack_02_play",
       "english": "That was tasty.",
       "turkish": "Lezzetliydi",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10230483_ko_sp_01_10620_play",
       "english": "Ha! I took out a flarkin' DINOSAUR!",
       "turkish": "Ha! Flarkin' bir DİNOZORU indirdim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10230454_sp_ability_10320_01_play",
       "english": "Rodents, unite!",
       "turkish": "Kemirgenler, birleşin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10230274_escorting_remind_tokyoh_02_play",
       "english": "I feel like we should have been there already.",
       "turkish": "Şimdiden orada olmamız gerektiğini hissediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10230412_interact_02_10210_a_play",
       "english": "A bow? Really? Ain't that a bit outdated, pal?",
       "turkish": "Bir yay mı? Gerçekten mi? Dostum, bu biraz modası geçmiş değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10230265_escorting_payload_tokyoh_01_play",
       "english": "Headed for trouble, I hope.",
       "turkish": "Anlaşılan bela arıyoruz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10230410_interact_02_10420_a_play",
       "english": "I'm impressed, kid. That's some serious tech you're wearin' there.",
       "turkish": "Etkilendim, çocuk. Üzerindeki teknoloji gerçekten etkileyici.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10230376_easter_egg_klyntarh_05_play",
       "english": "Nobody better put a hand on my equipment! This stuff is for professionals only… and that don't mean you!",
       "turkish": "Kimse ekipmanlarımı ellemesin! Profesyonellere göre şeyler bunlar… Buradaki tek profesyonel de benim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10230151_interact_01_10320_b_play",
       "english": "A love of things that explode?",
       "turkish": "Patlayan şeylere olan aşkımız mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10230280_quick_fallback_02_play",
       "english": "Get outta here!",
       "turkish": "Buradan toz oluyoruz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10230066_buff_endure_02_play",
       "english": "Oh yeah, oh yeah!",
       "turkish": "İşte bu!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10230440_sp_emote_10470_1047001217_01_play",
       "english": "THIS is real fire power!",
       "turkish": "İşte sana GERÇEK ateş gücü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10230390_sp_interact_museume_01_10360_c_play",
       "english": "Sounds like a massive waste of time to me, kid. We've got a universe to save!",
       "turkish": "Bana göre bu tam bir zaman kaybı, evlat. Kurtaracak bir evrenimiz var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10230408_interact_01_10470_a_play",
       "english": "Okay, Jeff, I've got a plan, but it's gonna take expert timing and perfect precision…",
       "turkish": "Tamam Jeff, bir planım var ama uzman zamanlama ve kusursuz hassasiyet gerekecek...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10230487_saw_ko_01_10460_play",
       "english": "Cosmic action!",
       "turkish": "Kozmik aksiyon!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10230373_escorting_remind_arakkoe_01_play",
       "english": "That virus is gonna spread if we don't do somethin'…",
       "turkish": "Bir şeyler yapmazsak bu virüs etrafa yayılacak…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10230275_escorting_remind_wakandah_01_play",
       "english": "We're on a mission for the king! Hit the gas!",
       "turkish": "Kral için görevdeyiz! Basın gaza!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10230215_building_destroy_ankh_03_play",
       "english": "I blew up a keyhole!",
       "turkish": "Bir anahtar deliğini havaya uçurdum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10230301_signal_wheel_defend_01_play",
       "english": "We'll stop em dead here.",
       "turkish": "Onları burada çat diye durduracağız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10230307_signal_wheel_backup_01_play",
       "english": "Help me out, willya?",
       "turkish": "Bana yardım edecek misiniz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10230211_building_spotted_nest_02_play",
       "english": "What kind of person makes nests of explosive spiders?",
       "turkish": "Ne tür bir insan patlayıcı örümcek yuvaları yapar ki?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10230150_interact_02_10140_b_play",
       "english": "There's no shooter like me, buddy.",
       "turkish": "Benim gibi bir nişancı yok adamım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10230195_respawn_05_play",
       "english": "Rocket's launching again!",
       "turkish": "Rocket tekrar ateşlemeye hazır!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10230297_signal_wheel_enemy_spot_01_play",
       "english": "Enemy's here!",
       "turkish": "Düşman burada!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10230413_interact_02_10210_c_play",
       "english": "I've got a chronometric field generator that might make ya change your mind!",
       "turkish": "Fikrini değiştirebilecek bir kronometrik alan jeneratörüm var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10230129_quick_fallback_01_play",
       "english": "Get out of here! What are ya'll waiting for?",
       "turkish": "Çıkın buradan! Neyi bekliyorsunuz siz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10230143_single_16_play",
       "english": "We guard the galaxy, sure, but sometimes we take stuff other people are guarding.",
       "turkish": "Evet, galaksiyi koruyoruz ama bazen başkalarının koruduklarını çalıyoruz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10230012_interact_01_10510_c_play",
       "english": "We're gonna fight.",
       "turkish": "Savaşacağız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10230255_ko_terrain_01_play",
       "english": "What a klutz.",
       "turkish": "Ne sakarca.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10230455_sp_ability_10320_02_play",
       "english": "This is nuts!",
       "turkish": "Bu tam bir çılgınlık!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10230036_interact_01_10270_b_play",
       "english": "What, humans? They don't understand anything because they never listen.",
       "turkish": "Ne, insanlar mı? Hiç dinlemedikleri için hiç anlamıyorlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10230238_ko_v_02_play",
       "english": "Didn't even need my gun!",
       "turkish": "Silahıma bile ihtiyaç duymadım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10230003_single_11_play",
       "english": "Just say it, there's nothin' I can't fix.",
       "turkish": "Söyleyin yeter, tamir edemeyeceğim hiç bir şey yok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10230191_countdown_dt_02_play",
       "english": "They're up against it. We just gotta hold on.",
       "turkish": "Duvara tosladılar. Dayanmaya çalışalım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10230202_building_spotted_ankh_02_play",
       "english": "Whoa, these keyhole things are dangerous!",
       "turkish": "Vay canına, bu anahtarlıklar tehlikeliymiş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10230008_single_03_play",
       "english": "I like hanging around Groot because he gets me.",
       "turkish": "Groot'un yanında takılmayı seviyorum çünkü o beni anlıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10230139_quick_confirm_01_play",
       "english": "Gotcha.",
       "turkish": "Anlaşıldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10230014_interact_03_10270_c_play",
       "english": "I know, how do we keep ending up in these situations?",
       "turkish": "Biliyorum ama neden kendimizi bu tür durumların içinde buluyoruz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10230243_ko_three_01_play",
       "english": "Three? Already?",
       "turkish": "Üç mü? Şimdiden mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10230352_sp_single_newyorkh_01_play",
       "english": "Gather 'round, Earth rodents! Rocket's gonna show ya how it's done!",
       "turkish": "Toplanın Dünya kemirgenleri! Rocket size bu işin nasıl yapıldığını gösterecek!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10230290_quick_thanks_02_play",
       "english": "Preciate it.",
       "turkish": "Teşekkür ettim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10230418_interact_02_10540_a_play",
       "english": "So you're the almighty Phoenix, eh? Not as big as I expected…",
       "turkish": "Demek sen o kudretli Phoenix'sin, ha? Beklediğim kadar büyük değilsin...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10230102_saw_ko_01_10150_play",
       "english": "Not too many things impress me, but Storm? Pretty flarkin' impressive.",
       "turkish": "Beni etkileyebilecek çok fazla şey yoktur. Ama Storm oldukça etkileyici.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10230362_escorting_payload_newyorke_02_play",
       "english": "I'll get ya to Avengers Tower in no time!",
       "turkish": "Hemen seni Yenilmezler Kulesi’ne yetiştireyim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10230115_saw_death_01_10210_play",
       "english": "Hawkeye's down, dibs on the boomerang arrow!",
       "turkish": "Hawkeye düştü, bumerang oku benimdir!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10230485_saw_ko_01_10640_play",
       "english": "You know I love explosions!",
       "turkish": "Biliyorsun, patlamalara bayılırım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10230001_select_01_play",
       "english": "Who are you calling a raccoon, huh?",
       "turkish": "Sen kime rakun diyorsun bakalım?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10230180_sp_interact_asgard_01_10470_d_play",
       "english": "Yeah, none of us like Loki. So let's go save Asgard, okay?",
       "turkish": "Evet, Loki'yi hiçbirimiz sevmiyoruz. O zaman haydi gidip Asgard'ı kurtaralım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10230156_interact_02_10270_d_play",
       "english": "Yeah, as soon as the brain trust builds the other gizmo, we'll all get to go back home.",
       "turkish": "Evet, bizim dâhiler diğer aleti yaptığı an hepimiz eve dönebileceğiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10230384_sp_interact_museume_01_10430_d_play",
       "english": "Oh, sure! That was definitely next on my list, Quill! Or at least a close third…",
       "turkish": "Ah, tabii! Bu kesinlikle listemde bir sonraki sıradaydı, Quill! Ya da en azından yakın bir üçüncü sıradaydı…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10230181_sp_interact_klyntar_01_10200_b_play",
       "english": "He said that!? I'm gonna —",
       "turkish": "O böyle mi dedi!? Gidip ona...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10230467_escorting_remind_newyorkh02_01_play",
       "english": "MOVE this S.H.I.E.L.D.-mobile! NOW!",
       "turkish": "Şu S.H.I.E.L.D.-mobilini HAREKET ETTİR! HEMEN!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10230466_escorting_remind_museume_02_play",
       "english": "Mission: Breakout ain't goin' as smooth as planned…",
       "turkish": "Görev: Kaçış, planladığımız kadar pürüzsüz gitmiyor…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10230448_entrance_02_10270_play",
       "english": "You and me, old pal. The best team in the galaxy!",
       "turkish": "Sen ve ben, eski dostum. Galaksideki en iyi TAKIM!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10230175_sp_interact_tokyo_01_10420_a_play",
       "english": "You live here? What's it like having the giant spiderweb over your head all the time?",
       "turkish": "Burada mı yaşıyorsun? Başının üstünde sürekli dev bir örümcek ağının olması nasıl bir şey?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10230061_buff_heal_critical_01_play",
       "english": "Oh yeah. Feeling good.",
       "turkish": "Ah, evet. İyi hissediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10230056_debuff_exhaust_02_play",
       "english": "You can't hurt me!",
       "turkish": "Canımı yakamazsın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10230077_occupied_celebrate_02_play",
       "english": "That's right, EVERTHING is mine!",
       "turkish": "Bu doğru, HER ŞEY benim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10230160_interact_01_10420_c_play",
       "english": "How 'bout just one arm? No? Aww, come on! You're killin' me, kid!",
       "turkish": "Sadece bir kola ne dersin? HAYIR? Haydi ama! Beni öldürüyorsun evlat!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10230284_quick_q_charge_100_02_play",
       "english": "Ready to get your Yarn on?",
       "turkish": "İpliğini takmaya hazır mısınız?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10230227_building_destroy_nest_03_play",
       "english": "Okay, the spider nest is gone.",
       "turkish": "Güzel, örümcek yuvası yok edildi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10230040_interact_01_10170_d_play",
       "english": "What's a 'phone'?",
       "turkish": "\"Telefon\" da ne?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10230105_saw_ko_01_10290_play",
       "english": "Ohhh I really like her armor!",
       "turkish": "Ah, zırhını gerçekten beğendim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10230451_sp_ability_10270_01_play",
       "english": "Eat spores, jerks!",
       "turkish": "Spor yiyin, pislikler!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10230496_interact_02_10340_c_play",
       "english": "When I improve it, you mean.",
       "turkish": "Yani ben geliştirdiğimde.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10230443_sp_emote_10470_1047001217_04_play",
       "english": "Who am I? I'm Jeff!",
       "turkish": "Ben kim miyim? Adım Jeff!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10230473_easter_egg_klyntarc_05_play",
       "english": "I wanna report all the weird crap I saw on this planet, but it'd take me a whole flarkin' year!",
       "turkish": "Bu gezegende gördüğüm tüm saçmalıkları raporlamak istiyorum ama lanet olası bir flarkin’ yılımı alır!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10230136_quick_hp_normal_01_play",
       "english": "Yeeeeaaahhhhh! Rocket is full of energy!",
       "turkish": "Yihuuuuuuuu! Rocket enerji dolu!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10230101_ko_sp_01_10570_play",
       "english": "Who was that guy? It's like he never stopped talking even when he was down for the count.",
       "turkish": "O adam kimdi? Sanki yere serilmişken bile konuşmayı hiç bırakmadı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10230055_debuff_exhaust_01_play",
       "english": "Feels like I'm naked.",
       "turkish": "Çıplağım sanki.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10230279_easter_egg_hydra_03_play",
       "english": "Those tanks give me the willies. Too much like a bad memory.",
       "turkish": "Bu tanklar beni sinirlendiriyor. Nedense kötü bir anım geliyor aklıma.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10230071_buff_purge_01_play",
       "english": "Bright-eyed and bushy-tailed!",
       "turkish": "Parlak gözlü ve dik kuyruklu!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10230269_escorting_remind_asgarde_01_play",
       "english": "Get to the flarkin' tree already!",
       "turkish": "Şu ağaca ulaşalım artık yahu!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10230004_single_12_play",
       "english": "Some of my best friends are crooks and villains.",
       "turkish": "En iyi arkadaşlarımdan bazıları dolandırıcı ve kötü adamlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10230289_quick_confirm_02_play",
       "english": "Yep.",
       "turkish": "Evet.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10230437_sp_interact_klyntarec_01_10380_c_play",
       "english": "You gotta be kiddin', lady! Knull is older than the universe itself!",
       "turkish": "Dalga mı geçiyorsun, hanımefendi! Knull evrenin kendisinden bile daha eski!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10230159_interact_01_10420_a_play",
       "english": "That's some nice armor you got there, sweetheart. How much you want for it?",
       "turkish": "Ne güzel bir zırhın varmış tatlım. Ne kadar istiyorsun onun için?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10230479_ko_sp_02_10320_play",
       "english": "Party's over, Doreen.",
       "turkish": "Eğlence bitti, Doreen.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10230193_ko_normal_07_play",
       "english": "You lost! To me!",
       "turkish": "Kaybettin! Hem de bana!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10230091_ko_normal_02_play",
       "english": "Long as I got bullets, I win.",
       "turkish": "Kurşunlarım olduğu sürece kazanırım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10230361_escorting_payload_newyorke_01_play",
       "english": "Don't worry, H.E.R.B.I.E. I look out for the little guys.",
       "turkish": "Hiç endişelenme H.E.R.B.I.E. Küçüklerimi her zaman kollarım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10230132_quick_q_charge_90_higher_01_play",
       "english": "Amplifier in preparation, show some patience!",
       "turkish": "Kuvvetlendirici hazırlanıyor, biraz sabredin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10230424_interact_01_10550_a_play",
       "english": "You ready to go bust some skulls out there, hornhead?",
       "turkish": "Dışarıda kafa kırmaya hazır mısın, boynuz kafa?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10230038_interact_02_10220_d_play",
       "english": "He… said that?",
       "turkish": "O… Böyle mi dedi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10230439_sp_interact_newyorke_01_10400_d_play",
       "english": "Fine… but only if you tell Quill it's because of the whole genius thing…",
       "turkish": "Peki… ama sadece Quill'e bunun tamamen deha meselesi olduğunu söylersen...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10230210_building_spotted_nest_01_play",
       "english": "Explosive spiders? Cool idea. Stop 'em!",
       "turkish": "Patlayan örümcekler mi? Harika fikir. Durdurun onları!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10230427_interact_01_10580_d_play",
       "english": "Let's talk more when this battle is over. I might have the perfect job for you…",
       "turkish": "Bu savaş bittiğinde daha fazla konuşalım. Sana tam uygun bir işim olabilir...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10230245_ko_three_03_play",
       "english": "Anybody else got three?",
       "turkish": "Başka üçleyen?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10230295_signal_enemy_01_play",
       "english": "Pinged a bad guy!",
       "turkish": "Düşman tespit ettim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10230103_saw_ko_01_10111_play",
       "english": "Whoa did you see that green ape? I want one!",
       "turkish": "Yeşil maymunu gördün mü! Ondan bir tane de ben istiyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10230356_sp_single_klyntarec_01_play",
       "english": "Gonna need a long shower after this to get all the symbiote outta my fur…",
       "turkish": "Bu işten sonra kürkümden tüm sembiyotları temizlemek için uzun bir duş almam gerekecek…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10230112_saw_death_01_10270_play",
       "english": "Aw, no, Groot…now I gotta grow you from a twig. Again!",
       "turkish": "Ah, hayır. Groot… Şimdi seni dalından çoğaltmam gerekiyor. Tekrar!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10230007_single_02_play",
       "english": "Y'all buncha dead weights, I can do this myself.",
       "turkish": "Ölmüşsünüz siz. Bunu kendim yaparım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10230172_sp_single_tokyo_01_play",
       "english": "You couldn't pay me to go up in that web.",
       "turkish": "Para verseler bile o ağa çıkmam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10230174_sp_single_asgard_01_play",
       "english": "Magnificent, shmagnificent. Let's do the job and get out of here.",
       "turkish": "Muhteşem. Haydi işimizi görüp buradan çıkalım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10230035_interact_01_10340_c_play",
       "english": "Flark you do, I know that Earther tone! Uhh what's it called…",
       "turkish": "Hadi canım oradan, Dünyalıların o ses tonunu biliyorum! Adı neydi, unuttum şimdi…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10230104_saw_ko_01_10270_play",
       "english": "Aww the twig's all grown up!",
       "turkish": "Ah, dal tamamen büyümüş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10230221_building_destroy_amplifier_03_play",
       "english": "My amplifiers are so much better than these.",
       "turkish": "Kuvvetlendiricilerim bunlardan çok daha iyi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10230415_interact_01_10150_d_play",
       "english": "Cuz last time we teamed up, your lightnin' zapped off half of my fur! That's why!",
       "turkish": "Çünkü geçen sefer birlikte çalıştığımızda, yıldırımın kürkümün yarısını uçurdu! İşte bu yüzden!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10230351_sp_single_newyorke_01_play",
       "english": "I'll never understand what Quill sees in this lousy planet…",
       "turkish": "Quill’in bu rezil gezegende ne gördüğünü asla anlayamıyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10230020_interact_01_10220_c_play",
       "english": "Definitely against my will! I don't wanna go back there, too much buried history buried.",
       "turkish": "İsteklerimle tam tezat! Oraya geri dönmek istemiyorum, geçmişe gömdüğüm çok şey var orada.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10230426_interact_01_10580_b_play",
       "english": "A thief, eh? Ever stolen an Infinity Stone from an Elder of the Universe?",
       "turkish": "Hırsız ha? Hiç Evrenin Yaşlılarından birinden Sonsuzluk Taşı çaldın mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10230039_interact_01_10170_b_play",
       "english": "What's a 'selfie'?",
       "turkish": "\"Selfie\" ne demek?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10230313_signal_area_occupied_02_play",
       "english": "It's ours! Now hang onto it.",
       "turkish": "Aldık burayı! Şimdiyse koruyalım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10230315_signal_vehicle_as_attack_02_play",
       "english": "Move this thing down the road!",
       "turkish": "Bu şeyi yoldan aşağı ittirelim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10230469_easter_egg_klyntarc_01_play",
       "english": "This thing looked enormous after it fell…Yowza!",
       "turkish": "Düştükten sonra bu şey devasa görünüyordu… Vay canına!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10230318_signal_no_01_play",
       "english": "Are you kidding?",
       "turkish": "Dalga mı geçiyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10230094_ko_normal_05_play",
       "english": "In your face!",
       "turkish": "Tam yüzüne!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10230421_interact_01_10440_c_play",
       "english": "I'm sure there'll be plenty of other lunatics you can use those swords of yours on.",
       "turkish": "Eminim o kılıçlarını kullanabileceğin başka bir sürü çılgın bulacaksın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10230162_interact_01_10240_d_play",
       "english": "I'm never coming anywhere near your flarkin'realm. You can count on that.",
       "turkish": "Senin iğrenç diyarının yakınlarına asla adım atmayacağım. Bundan emin olabilirsin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10230053_debuff_control_01_play",
       "english": "Who did that? Let go!",
       "turkish": "Kim yaptı onu? Sal beni!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10230203_building_spotted_ankh_03_play",
       "english": "The keyholes are more dangerous if there's more than one.",
       "turkish": "Kilit sayısı arttıkça tehlike de artar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10230022_interact_01_10200_a_play",
       "english": "Hey! What am I thinking?",
       "turkish": "Hey! Ne düşünüyordum biliyor musun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10230219_building_destroy_amplifier_01_play",
       "english": "Hahahaha, that other Rocket is gonna be so angry about his amplifier!",
       "turkish": "Hahahaha, diğer Rocket kuvvetlendiricisi yüzünden çok sinirlenecek!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10230354_sp_single_arakkoe_01_play",
       "english": "As living planets go, at least Arakko's one step up from Ego…",
       "turkish": "Yaşayan gezegenler arasında Arakko en azından Ego'dan bir adım önde…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10230422_interact_01_10560_a_play",
       "english": "Angela! It's been ages! Where the flark have you been?",
       "turkish": "Angela! Ne zamandır görüşmüyoruz! Nerelerdeydin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10230257_ko_terrain_03_play",
       "english": "Look out below!",
       "turkish": "Aşağıya dikkat!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10230078_occupied_hint_engage_01_play",
       "english": "I'm gonna take their flarking home!",
       "turkish": "O iğrenç evlerini alacağım onlardan!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10230110_saw_ko_01_10350_play",
       "english": "Flarking NASTY!",
       "turkish": "İĞRENÇ!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10230231_ko_sniper_01_play",
       "english": "Ha! You call yourself a sniper?",
       "turkish": "Kendine keskin nişancı mı diyorsun sen?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10230140_quick_thanks_01_play",
       "english": "You rock.",
       "turkish": "Harikasın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10230431_interact_02_10570_d_play",
       "english": "I ain't a dog. And I sure as flark ain't nobody's pet. Got it, freak?",
       "turkish": "Ben bir köpek değilim. Ve kesinlikle kimsenin evcil hayvanı da değilim. Anladın mı, ucube?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10230411_interact_02_10420_c_play",
       "english": "That \"tree\" is a Flora colossus. And his name is Groot.",
       "turkish": "O \"ağaç\" bir DEV ÇİÇEK. Ve adı Groot.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10230291_signal_open_spot_01_play",
       "english": "Watch this spot.",
       "turkish": "Bu bölgeyi izleyin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10230208_building_spotted_turret_02_play",
       "english": "The skull guy made himself into a turret!",
       "turkish": "Kurukafalı o adam kendini tarete dönüştürdü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10230169_interact_01_10390_a_play",
       "english": "Hey. Thor. Lemme see the hammer.",
       "turkish": "Hey Thor. Çekicine bakayım mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10230187_sp_ability_10270_03_play",
       "english": "Hey! Mind if I join ya, pal?",
       "turkish": "Hey! Sana katılabilir miyim dostum?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10230116_saw_death_01_10280_play",
       "english": "Ultron's wasted. I want the thruster!",
       "turkish": "Ultron harcandı. İticisini ben istiyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10230131_quick_q_charge_90_under_01_play",
       "english": "Collecting cosmic energy!",
       "turkish": "Kozmik enerji toplanıyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10230229_building_broken_beacon_02_play",
       "english": "Crap. Those beacons don't grow on trees, you know.",
       "turkish": "Kahretsin. Bu fenerler ağaçta yetişmiyor, farkında mısınız?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10230079_occupied_hint_engage_02_play",
       "english": "Grrrr ya think ya can take from ME?",
       "turkish": "Grrrr, bölgeyi BENDEN alabileceğini mi düşündün?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10230308_signal_wheel_backup_02_play",
       "english": "Use some help here!",
       "turkish": "Biraz yardım işimi görür!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10230478_ko_sp_01_10360_play",
       "english": "You talk too much, kid.",
       "turkish": "Çok konuşuyorsun, çocuk.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10230106_saw_ko_01_10430_play",
       "english": "Quill, you got one! I can't believe it!",
       "turkish": "Quill, birini indirdin! Buna inanamıyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10230262_escorting_payload_asgarde_02_play",
       "english": "Welcome to Rocket's Tree Service.",
       "turkish": "Rocket Ağaç Bakım Hizmetleri ŞTİ hizmetinizde.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10230378_interact_01_10570_c_play",
       "english": "Are you outta your flarkin' mind?! Go on. Call me a \"pet\" again, pal. I dare ya…",
       "turkish": "Aklını mı kaçırdın?! Hadi bakalım. Bana bir daha \"evcil hayvan\" de, dostum. Hadi, cesaretin varsa…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10230128_respawn_04_play",
       "english": "Things are gonna be different this time!",
       "turkish": "İşler bu sefer değişecek!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10230342_building_destroy_octopus_03_play",
       "english": "Done. Remind me never to go swimmin' again…",
       "turkish": "Görev tamam. Yüzmeye gidersem bana gitmememi hatırlat…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10230090_ko_normal_01_play",
       "english": "Rackin' em up!",
       "turkish": "Acı yaşattım az önce!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10230050_ability_e_01_play",
       "english": "THIS is a nice spot.",
       "turkish": "BURASI güzel bir nokta.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10230331_sp_ability_10140_01_play",
       "english": "Who needs a power up?",
       "turkish": "Kimin güçlendirmeye ihtiyacı var?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10230505_interact_01_10640_a_play",
       "english": "So, fireworks AND fangs? You and me got some serious brand synergy, lady!",
       "turkish": "Yani, havai fişekler VE dişler mi? Seninle benim aramızda ciddi bir marka sinerjisi var, hanımefendi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10230249_ko_ace_01_play",
       "english": "You had your chances.",
       "turkish": "Şansınız vardı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10230294_signal_broken_02_play",
       "english": "I wanna watch all this stuff fly around.",
       "turkish": "Tüm bu şeylerin etrafta uçuşmasını izlemek istiyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10230016_interact_01_10430_d_play",
       "english": "Ugh. Fine. We'll save the world.",
       "turkish": "Haydi bakalım. Dünyayı kurtaracağız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10230173_sp_single_klyntar_01_play",
       "english": "This is where the black blobby things come from? Pft,  figures.",
       "turkish": "Siyah kabarcıklı şeyler buradan mı geliyor yani? Poff.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10230049_ability_right_03_play",
       "english": "You're ready for action.",
       "turkish": "Aksiyona hazırsın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10230224_building_destroy_turret_03_play",
       "english": "Hey, Skull Boy! How much for the turret?",
       "turkish": "Hey, Kurukafalı Çocuk! Taret için ne istiyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10230158_interact_01_10360_d_play",
       "english": "Ha! My totem is a gun. Also, what's a raccoon?",
       "turkish": "Benim totemim bir silah. Bu arada, rakun ne demek?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10230387_sp_interact_klyntarc_01_10340_a_play",
       "english": "You know, I used to hang out in the hollowed out head of one of these giant jerks.",
       "turkish": "Biliyor musun, bu dev pisliklerden birinin oyulmuş kafasında takılırdım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10230142_single_15_play",
       "english": "When the chips are down, you want your heroes a little roguish and scruffy. Like me.",
       "turkish": "İşler kötüye sardığında kahramanlarınızın biraz asi ve dağınık olmasını istersin. Aynı benim gibi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10230365_escorting_payload_arakkoe_01_play",
       "english": "This core should end our little Ultron problem.",
       "turkish": "Bu çekirdek sayesinde Ultron sorunumuzu çözebiliriz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10230401_escorting_payload_kunlunh_02_play",
       "english": "Let's find Shou-Lao… and hope we don't end up dragon food…",
       "turkish": "Hadi Shou-Lao'yu bulalım… ve umarım ejderha yemeği olmayız…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10230476_ko_sp_01_10600_play",
       "english": "I only needed one tail to kick all of yours!",
       "turkish": "Hepinize haddini bildirmek için tek kuyruğum yetti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10230345_interact_01_10460_a_play",
       "english": "Well, well. Look who's back to save the entire flarkin' universe.",
       "turkish": "Vay vay. Tüm evreni kurtarmak için bakın kim var burada.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10230176_sp_interact_tokyo_01_10420_c_play",
       "english": "It would really get on my nerves.",
       "turkish": "Gerçekten sinirlerimi bozardı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10230099_ko_sp_01_10210_play",
       "english": "I'm taking an arrow for a souvenir!",
       "turkish": "Hatıra olarak bir ok alıyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10230239_ko_v_03_play",
       "english": "Down they go.",
       "turkish": "İşte gidiyorlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10230480_ko_sp_01_10340_play",
       "english": "The Tin Can's offline for good.",
       "turkish": "Teneke Kutu temelli devre dışı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10230463_escorting_payload_newyorkh02_01_play",
       "english": "The sooner we get to the Vault, the sooner we get offa this lousy mudball…",
       "turkish": "Kasa’ya ne kadar çabuk varırsak, şu berbat çamur topundan da o kadar çabuk sıvışırız…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10230468_escorting_remind_newyorkh02_02_play",
       "english": "Knew I shoulda souped up this stupid Earth car…",
       "turkish": "Bu aptal Dünya arabasını modifiye etmem gerektiğini biliyordum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10230045_q_p13_play",
       "english": "THIS is real fire power!",
       "turkish": "İşte sana GERÇEK ateş gücü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10230048_ability_right_02_play",
       "english": "You're welcome.",
       "turkish": "Rica ederim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10230135_quick_group_up_01_play",
       "english": "Get over here, hurry up!",
       "turkish": "Buraya gelin, haydi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10230011_interact_01_10510_a_play",
       "english": "Are you actually made out of orange rocks?",
       "turkish": "Gerçekten de turuncu kayalardan mı yapıldınız?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10230423_interact_01_10560_c_play",
       "english": "Family, am I right? Even the one we choose is usually more trouble than its worth.",
       "turkish": "Aile, değil mi? Hatta seçtiğimiz bile genellikle değerinden daha fazla sorun çıkarır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10230190_countdown_dt_01_play",
       "english": "Hold em off! We almost got this.",
       "turkish": "Püskürtün onları! Kazanmak üzereyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10230030_interact_01_10540_a_play",
       "english": "Hey, I'm looking for a giant tree and some humanoid morons. Seen em? They're kinda my only friends.",
       "turkish": "Hey, dev bir ağaç ve birkaç insansı moron arıyorum. Gördünüz mü? Onlar benim tek ARKADAŞLARIM.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10230005_single_13_play",
       "english": "I do the right thing unless the wrong thing is more fun.",
       "turkish": "Yanlış şey daha eğlenceli olmadığı sürece doğru olanı yaparım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10230386_sp_interact_newyorkh_01_10320_c_play",
       "english": "Yeah? How about the local raccoons? I bet they've been up to something awesome too, right?",
       "turkish": "Öyle mi? Ya şehrin rakunları? Kesin onlar da müthiş bir şeyler çeviriyordur, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10230258_enemy_advanced_01_play",
       "english": "We can't take that many of em.",
       "turkish": "Bu kadarıyla baş edemeyiz",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10230371_escorting_remind_newyorkh_01_play",
       "english": "Never trust a squirrel to do a raccoon's job…",
       "turkish": "Rakun işini sincaba vermeyeceksin…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10230133_quick_q_charge_100_01_play",
       "english": "Cosmic Yarn Amplifier, ready to be deployed!",
       "turkish": "Kozmik İplik Kuvvetlendirici konuşlandırılmaya hazır!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10230334_sp_ability_10320_01_play",
       "english": "Rodents united!",
       "turkish": "Kemirgenler birleşti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10230223_building_destroy_turret_02_play",
       "english": "If I don't get a turret, nobody gets a turret!",
       "turkish": "Benim taretim yoksa başkasının da olmasın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10230457_sp_single_museume_01_play",
       "english": "I survived this place once… I can get through it again.",
       "turkish": "Bu yeri bir kez atlattım… Bir daha da atlatabilirim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10230017_interact_01_10140_a_play",
       "english": "Hey, I like your firearms. Never thought I'd find someone with the same taste on this backward planet.",
       "turkish": "Hey, ateşli silahlarını beğendim. Geri kalmış gezegende benle aynı zevke sahip birilerini bulabileceğim aklıma gelmezdi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10230134_quick_need_heal_01_play",
       "english": "Yo! Rocket needs some healing here!",
       "turkish": "Hey! Rocket'ın biraz iyileştirmeye ihtiyacı var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10230419_interact_02_10540_c_play",
       "english": "Speakin' of which, if you're lookin' for planets to burn, I know a few that deserve it.",
       "turkish": "Bu arada, eğer yakacak gezegenler arıyorsan, hak eden birkaç tane biliyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10230130_quick_hi_01_play",
       "english": "Sup?",
       "turkish": "Merhabalar",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10230392_sp_ability_10420_02_play",
       "english": "Spider-Beacon in service!",
       "turkish": "Örümcek-Fener hizmette!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10230251_ko_ace_03_play",
       "english": "Yeah, that's right. I got em all!",
       "turkish": "Evet, bu doğru. Hepsini indirdim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10230080_occupied_hint_defend_01_play",
       "english": "-sigh- Seriously, stay away from my scutt!",
       "turkish": "-iç çeker- Bölgemden cidden uzak durun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10230088_saw_flank_01_play_p2",
       "english": "You better get a look behind you!",
       "turkish": "Arkana baksan iyi edersin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10230462_escorting_payload_museume_02_play",
       "english": "Huh. We might actually pull this cosmic heist off!",
       "turkish": "Hah. Bu kozmik soygunu gerçekten başarabiliriz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10230218_building_destroy_beacon_03_play",
       "english": "I make the beacons around here. Nobody else!",
       "turkish": "Buradaki fenerleri ben yaparım. Başka kimse değil!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10230074_damaged_02_play",
       "english": "Don't mind me, I'm just dying.",
       "turkish": "Bana aldırmayın. Sadece ölüyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10230336_sp_ability_10320_03_play",
       "english": "Small, furry… and deadly!",
       "turkish": "Küçük, tüylü… ve ölümcül!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10230252_revenge_01_play",
       "english": "I like revenge. A lot.",
       "turkish": "İntikâmı severim. Hem de çok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10230271_escorting_remind_tokyoe_01_play",
       "english": "Step on it, we got a web to save or something.",
       "turkish": "Hızlanalım, kurtarmamız gereken bir ağ mı ne var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10230465_escorting_remind_museume_01_play",
       "english": "Hurry up! I ain't about to end up in the Collector's zoo!",
       "turkish": "Acele et! Koleksiyoncu’nun hayvanat bahçesine düşmeye hiç niyetim yok!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10230446_sp_emote_10470_1047001217_07_play",
       "english": "Who needs a power up?",
       "turkish": "Kimin güçlendirmeye ihtiyacı var?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10230009_single_04_play",
       "english": "THIS looks like a gig for the Guardians of the Galaxy.",
       "turkish": "BU Galaksinin Koruyucuları konserine benziyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10230192_ko_normal_06_play",
       "english": "Put em down so they stay down.",
       "turkish": "Öyle bir yere serin ki tekrar kalkamasınlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10230398_sp_single_klyntarc_04_play",
       "english": "Good thing the Milano and the Celestial were so close. Not sure those hackjob Nega-Bands woulda worked otherwise…",
       "turkish": "İyi ki Milano ve SEMAVİ bu kadar yakındı. Yoksa o uyduruk Nega-Bantları işe yaramazdı herhalde…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10230058_debuff_purple_02_play",
       "english": "Ooh, you're scarin' me!",
       "turkish": "Ah, beni korkutuyorsun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10230029_interact_04_10200_c_play",
       "english": "Fer what he did to ya? I'll MAKE that flarking Elder of the Universe regret even being born!",
       "turkish": "Peki ne yaptı sana o? Evrenin Büyüğü'nü doğduğuna pişman edeceğim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10230023_interact_01_10200_c_play",
       "english": "Bingo! Where do I find one?",
       "turkish": "Bingo! Silah bulabileceğim bir yer var mıydı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10230470_easter_egg_klyntarc_02_play",
       "english": "The Celestial may have come crashin' down, but at least the Milano's back in the skies again!",
       "turkish": "Bu SEMAVİ yere çakılmış olabilir, ama en azından Milano yine göklerde!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10230278_easter_egg_wakanda_02_play",
       "english": "Wonder what I could get for these plants on the black market at Knowhere…",
       "turkish": "Knowhere'de bu bitkiler için karaborsadan ne alabileceğimi merak ediyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10230059_debuff_weak_01_play",
       "english": "That's not funny!",
       "turkish": "Hiç komik değil!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10230348_sp_interact_klyntar_01_10480_b_play",
       "english": "Nah. I'm just here to blast some symbiotes into puddles of plasm!",
       "turkish": "Yok. Sadece sembiyotları vurup plazmaya çevirmeye geldim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10230241_ko_q_02_play",
       "english": "Did you see that? Whoohoohoo!",
       "turkish": "Gördün mü? Vay be!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10230197_respawn_07_play",
       "english": "Here comes Rocket again!",
       "turkish": "Rocket tekrar karşınızda!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10230034_interact_01_10340_a_play",
       "english": "What have you done to your armor, Stark?! Didn't know you could make it any uglier!",
       "turkish": "Zırhına ne yaptın Stark? Bunu daha da çirkinleşebileceğini bilmiyordum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10230407_interact_03_10320_c_play",
       "english": "That would be. Absolutely. Terrifying.",
       "turkish": "Bu kesinlikle korkunç olurdu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10230276_escorting_remind_wakandah_02_play",
       "english": "Does this thing even have a gas pedal?",
       "turkish": "Bu şeyde bir gaz pedalı var mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10230395_sp_single_klyntarec_01_play",
       "english": "Let's finish Knull already so I can wash this alien goop outta my fur…",
       "turkish": "Hadi Knull'u bitirelim de bu uzaylı sümüğünü kürkümden temizleyeyim…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10230347_sp_interact_klyntar_01_10510_b_play",
       "english": "Hey, at least it ain't caked into your fur, Grimm!",
       "turkish": "En azından kürküne yapışmıyor ya Grimm!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10230233_ko_sniper_03_play",
       "english": "No more sniper, if you were wondering.",
       "turkish": "Merak ediyorsan başka keskin nişancı kalmadı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10230364_escorting_payload_newyorkh_02_play",
       "english": "Us rodents gotta look out for each other!",
       "turkish": "Biz kemirgenler birbirimize göz kulak olmalıyız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10230067_buff_shield_01_play",
       "english": "A shield? Well, okay.",
       "turkish": "Kalkan mı? Şey, olur tabii.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10230450_entrance_02_10320_play",
       "english": "Always a pleasure to work with ya, Tippy-Toe. You too, Doreen…",
       "turkish": "Seninle çalışmak her zaman keyif, Tippy-Toe. Seninle de, Doreen…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10230075_damaged_03_play",
       "english": "Someone scratch my back!",
       "turkish": "Biri sırtımı kaşısın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10230486_saw_ko_02_10430_play",
       "english": "Not bad, Quill!",
       "turkish": "Fena değil, Quill!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10230363_escorting_payload_newyorkh_01_play",
       "english": "Leave this one to the rodents, okay?",
       "turkish": "Bu işi kemirgenlere bırakın, tamam mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10230409_interact_01_10470_c_play",
       "english": "Aww, I'm just messin' with ya! All you gotta do is swallow everybody whole! Got it?!",
       "turkish": "Ayy, seninle sadece dalga geçiyorum! Tek yapman gereken herkesi bir çırpıda yutmak! Anladın mı?!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10230100_ko_sp_01_10220_play",
       "english": "Super Soldier my fur!",
       "turkish": "Süper Asker yeni kürküm!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10230199_saw_sniper_02_play",
       "english": "Sniper? Just what this day needed.",
       "turkish": "Keskin nişancı mı? Başımıza gelmeyen bir bu kalmıştı bugün.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10230028_interact_04_10200_a_play",
       "english": "Mantis, Pete just put Klyntar on top of the list. How you holdin' up?",
       "turkish": "Mantis, Pete az önce Klyntar'ı listenin başına koydu. Sende durumlar nasıl?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10230188_buff_heal_noncritical_01_play",
       "english": "I was a little messed up there, thanks.",
       "turkish": "Orada başım biraz beladaydı, teşekkürler",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10230372_escorting_remind_newyorkh_02_play",
       "english": "No givin' up! We still got some bite left in us!",
       "turkish": "Pes etmek yok! Hâlâ savaşmaya gücümüz var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10230089_saw_flank_02_play_p2",
       "english": "Hey, idiots! Turn around!",
       "turkish": "Hey ahmaklar! Arkanızı dönün!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10230358_sp_single_museume_01_play",
       "english": "The Collector can't build a gallery that can hold me, baby!",
       "turkish": "Koleksiyoncu, beni tutabilecek bir galeri inşa edemez, bebeğim!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10230394_sp_single_klyntarc_01_play",
       "english": "It's kinda like bein' on Knowhere… but without any of the good parts…",
       "turkish": "Knowhere'de olmak gibi… ama iyi kısımlar olmadan…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10230196_respawn_06_play",
       "english": "Haha, you ain't got rid of me yet!",
       "turkish": "Haha, henüz benden kurtulamadınız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10230212_building_spotted_nest_03_play",
       "english": "I found more boom-spiders!",
       "turkish": "Patlayan daha fazla örümcek buldum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10230377_interact_01_10570_a_play",
       "english": "I ain't sure I like the way you're lookin' at me, fella…",
       "turkish": "Sana nasıl baktığından pek hoşlandığımı sanmıyorum, dostum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10230434_sp_interact_klyntarec_01_10350_a_play",
       "english": "Next time you invite me over to your place, Venom, remind me not to say yes…",
       "turkish": "Bir dahaki sefere beni evine davet ettiğinde, Venom, bana evet demememi hatırlat...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10230491_saw_death_02_10210_play",
       "english": "Should've taken my upgrade, arrow man!",
       "turkish": "Yükseltmemi almalıydın, okçu adam!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10230429_interact_01_10650_c_play",
       "english": "Better refrain from pettin' me then. I may be cute, but my past is pretty ugly.",
       "turkish": "Beni sevmekten kaçınsan iyi olur. Sevimli olabilirim, ama geçmişim pek güzel değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10230317_signal_vehicle_as_defend_02_play",
       "english": "Stop this thing in its tracks!",
       "turkish": "Bu hareket eden şeyi durdurun!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10230341_building_destroy_octopus_02_play",
       "english": "Well, at least the grossest part of the battle is over…",
       "turkish": "En azından savaşın en büyük kısmı bitti…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10230428_interact_01_10650_a_play",
       "english": "Is it true you can absorb people's memories?",
       "turkish": "Gerçekten insanların anılarını emebildiğin doğru mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10230288_quick_hp_low_02_play",
       "english": "Ahh, not so good.",
       "turkish": "Ahh, pek iyi değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10230098_ko_sp_01_10160_play",
       "english": "Asgardian phony!",
       "turkish": "Asgardlı şarlatan!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10230500_interact_01_10620_c_play",
       "english": "Oh, of course Moon Girl's already done it. That kid's got great taste in tech!",
       "turkish": "Ah, tabii ya, Moon Girl zaten yapmış bile. O çocuğun teknoloji zevki müthiş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10230263_escorting_payload_tokyoe_01_play",
       "english": "People usually don't let me into shrines.",
       "turkish": "İnsanlar genelde mabetlere girmeme izin vermezler.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10230400_escorting_payload_kunlunh_01_play",
       "english": "If Shou-Lao wants this tablet, it's up to us to deliver.",
       "turkish": "Eğer Shou-Lao bu tableti istiyorsa, onu teslim etmek bize düşer.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10230416_interact_01_10330_a_play",
       "english": "I like your style, lady. Stealth has never really been my strong suit.",
       "turkish": "Tarzını beğendim, hanımefendi. Gizlilik hiç benim güçlü yanım olmadı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10230266_escorting_payload_tokyoh_02_play",
       "english": "Just a little pleasure cruise, right?",
       "turkish": "Sadece keyif amaçlı küçük bir gezi, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10230152_interact_01_10320_d_play",
       "english": "Yeah. I guess that too.",
       "turkish": "Evet. Ben de öyle tahmin ediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10230244_ko_three_02_play",
       "english": "That's three!",
       "turkish": "Üç etti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10230186_sp_ability_10270_02_play",
       "english": "It's you and me again, old buddy!",
       "turkish": "Sen ve ben tekrar yan yanayız eski dostum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10230246_ko_five_01_play",
       "english": "Oh yeah, five!",
       "turkish": "İşte bu! Beş etti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5203,7 +5203,7 @@
       "internalName": "vo_10230383_sp_interact_museume_01_10430_b_play",
       "english": "That we could make millions stealin' the Collector's stuff while these idiots are busy fightin'?",
       "turkish": "Koleksiyoncu'nun eşyalarını çalıp bu aptallar kavga ederken milyonlar kazanabileceğimizi mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5215,7 +5215,7 @@
       "internalName": "vo_10230235_ko_assist_02_play",
       "english": "Team player, that's me.",
       "turkish": "Tam bir takım oyuncusuyum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5227,7 +5227,7 @@
       "internalName": "vo_10230073_damaged_01_play",
       "english": "Awwo, that flarking hurt!",
       "turkish": "Ayy, bu acıttı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5239,7 +5239,7 @@
       "internalName": "vo_10230117_saw_death_01_10200_play",
       "english": "I made fun of her, but she was a good friend.",
       "turkish": "Onunla dalga geçmiş olabilirim fakat iyi bir arkadaştı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5251,7 +5251,7 @@
       "internalName": "vo_10230432_sp_interact_klyntarec_01_10540_b_play",
       "english": "Well, whaddaya say, lady? Are we burnin' this slimeball to cosmic ash or not?",
       "turkish": "Ne diyorsun, hanımefendi? Bu sümüklü yaratığı kozmik küle mi çeviriyoruz, yoksa ne?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5263,7 +5263,7 @@
       "internalName": "vo_10230489_saw_ko_01_10470_play",
       "english": "Keep chompin', Jeff!",
       "turkish": "Çiğnemeye devam et, Jeff!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5275,7 +5275,7 @@
       "internalName": "vo_10230247_ko_five_02_play",
       "english": "Five straight!",
       "turkish": "Art arda beş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5287,7 +5287,7 @@
       "internalName": "vo_10230382_interact_02_10390_d_play",
       "english": "Eh. It was worth a try.",
       "turkish": "Eh. Denemeye değerdi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5299,7 +5299,7 @@
       "internalName": "vo_10230286_quick_group_up_02_play",
       "english": "On me!",
       "turkish": "Bende toplanın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5311,7 +5311,7 @@
       "internalName": "vo_10230157_interact_01_10360_b_play",
       "english": "Yeah?",
       "turkish": "Öyle mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5323,7 +5323,7 @@
       "internalName": "vo_10230179_sp_interact_asgard_01_10470_b_play",
       "english": "Your name is Jeff? Okay, Jeff.",
       "turkish": "Adın Jeff mi? Tamam Jeff.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5335,7 +5335,7 @@
       "internalName": "vo_10230237_ko_v_01_play",
       "english": "Bang bang bang, I win.",
       "turkish": "Bam, bam, bam. Ben kazandım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5347,7 +5347,7 @@
       "internalName": "vo_10230452_sp_ability_10270_02_play",
       "english": "I'm goin' green!",
       "turkish": "Yeşile dönüyorum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5359,7 +5359,7 @@
       "internalName": "vo_10230299_signal_wheel_attack_01_play",
       "english": "Firepower here, people!",
       "turkish": "Atışlar buraya millet!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5371,7 +5371,7 @@
       "internalName": "vo_10230161_interact_01_10240_b_play",
       "english": "None of your business.",
       "turkish": "Sizi ilgilendirmez.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5383,7 +5383,7 @@
       "internalName": "vo_10230065_buff_endure_01_play",
       "english": "Invincible? Oh, yeah, I like that.",
       "turkish": "Yenilmezlik mi? Ah evet, sevdim bunu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5395,7 +5395,7 @@
       "internalName": "vo_10230114_saw_death_01_10350_play",
       "english": "Hey the human host is down!",
       "turkish": "Hey, insan konakçının işi bitti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5407,7 +5407,7 @@
       "internalName": "vo_10230149_interact_03_10140_c_play",
       "english": "What, are you kidding? Everything's for sale!",
       "turkish": "Ne, şaka mı yapıyorsun? Her şey satılıktır!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5419,7 +5419,7 @@
       "internalName": "vo_10230109_saw_ko_01_10200_play",
       "english": "That's my girl!",
       "turkish": "Aferin benim kızıma!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5431,7 +5431,7 @@
       "internalName": "vo_10230380_interact_02_10170_c_play",
       "english": "Plenty hot on the surface, but not exactly the brightest…",
       "turkish": "Yüzeyi sıcak ama pek de parlak sayılmaz…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5443,7 +5443,7 @@
       "internalName": "vo_10230184_sp_interact_klyntar_01_10310_d_play",
       "english": "Long story. Mostly it's Quill's fault.",
       "turkish": "Uzun hikâye. Çoğunlukla Quill'in hatası ama.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5455,7 +5455,7 @@
       "internalName": "vo_10230170_interact_01_10390_c_play",
       "english": "I just wanna see if it'll charge up my gun. C'mon. I'll give it back.",
       "turkish": "Sadece silahıma güç verip vermeyeceğini görmek istiyorum. Haydi ama. Geri vereceğim onu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5467,7 +5467,7 @@
       "internalName": "vo_10230357_sp_single_kunlun_01_play",
       "english": "These jerks are about to learn the Way of the Raccoon!",
       "turkish": "Bu serseriler Rakun Yolu'nu öğrenmek üzere!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5479,7 +5479,7 @@
       "internalName": "vo_10230374_escorting_remind_arakkoe_02_play",
       "english": "Arakko's in big trouble if we don't get this done!",
       "turkish": "Bu işi hâlletmezsek Arakko’nun başı dertte!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5491,7 +5491,7 @@
       "internalName": "vo_10230335_sp_ability_10320_02_play",
       "english": "We make quite the pair!",
       "turkish": "Efsane bir ikiliyiz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5503,7 +5503,7 @@
       "internalName": "vo_10230146_single_08_play",
       "english": "Once we get this timeline thing sorted out, I'm taking a long vacation somewhere with lots of stuff to steal.",
       "turkish": "Bu zaman tüneli sorununu çözdükten sonra çalacak çok şeyin olduğu bir yerde uzun bir tatile çıkacağım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5515,7 +5515,7 @@
       "internalName": "vo_10230441_sp_emote_10470_1047001217_02_play",
       "english": "Hey team, enjoy the amplifier!",
       "turkish": "Hey takım, kuvvetlendiricinin keyfini sürün!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5527,7 +5527,7 @@
       "internalName": "vo_10230214_building_destroy_ankh_02_play",
       "english": "Little pieces of keyholes everywhere.",
       "turkish": "Her yerde küçük anahtarlık parçaları var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5539,7 +5539,7 @@
       "internalName": "vo_10230433_sp_interact_klyntarec_01_10540_d_play",
       "english": "Then spread those wings and set yer flames to high! We're roastin' some symbiotes!",
       "turkish": "O zaman kanatlarını aç ve alevlerini yükselt! Birkaç simbiyotu kızartıyoruz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5551,7 +5551,7 @@
       "internalName": "vo_10230085_countdown_at_02_play",
       "english": "Shoot faster! We're outta time!",
       "turkish": "Daha hızlı ateş edin! Zamanımız azalıyor!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5563,7 +5563,7 @@
       "internalName": "vo_10230367_escorting_remind_klyntarh_01_play",
       "english": "Gotta get this thing under the surface, quick!",
       "turkish": "Şu şeyi hızlıca yer altına götürmeliyiz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5575,7 +5575,7 @@
       "internalName": "vo_10230499_interact_01_10620_a_play",
       "english": "You've got potential. Ever considered armor plating? Maybe a cannon saddle?",
       "turkish": "Potansiyelin var. Hiç zırh kaplamasını düşündün mü? Belki bir top eyeri?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5587,7 +5587,7 @@
       "internalName": "vo_10230086_saw_enemy_01_play",
       "english": "More bad guys. Just what we need.",
       "turkish": "Daha fazla kötü adam. Tam ihtiyacımız olan şey.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5599,7 +5599,7 @@
       "internalName": "vo_10230222_building_destroy_turret_01_play",
       "english": "Ah crap, I destroyed the turret. Now I can't steal it.",
       "turkish": "Lanet olsun, tareti yok ettim. Şimdi onu çalabilirim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5611,7 +5611,7 @@
       "internalName": "vo_10230321_signal_summon_02_play",
       "english": "Check out the BRB!",
       "turkish": "Yeniden Doğuş Fenerine göz atın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5623,7 +5623,7 @@
       "internalName": "vo_10230141_single_14_play",
       "english": "I'm a good guy who occasionally takes stuff that doesn't belong to him.",
       "turkish": "Bazen başkalarının malını ceplesem de iyi birisiyimdir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5635,7 +5635,7 @@
       "internalName": "vo_10230057_debuff_purple_01_play",
       "english": "Who says I need healing anyway?",
       "turkish": "Zaten iyileşmeye ihtiyaç duyduğumu kim söyledi ki?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5647,7 +5647,7 @@
       "internalName": "vo_10230501_interact_02_10580_a_play",
       "english": "So, you steal stuff, charge it up, and then make it explode?",
       "turkish": "Yani, bir şeyleri çalıyorsun, şarj ediyorsun, sonra da patlatıyorsun?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5659,7 +5659,7 @@
       "internalName": "vo_10230234_ko_assist_01_play",
       "english": "See? I'm flarkin' helpful.",
       "turkish": "Gördün mü? Acayip faydalıyım yahu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5671,7 +5671,7 @@
       "internalName": "vo_10230254_revenge_03_play",
       "english": "Are there seriously people who don't like revenge?",
       "turkish": "Gerçekten de intikâm almayı sevmeyen insanlar var mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5683,7 +5683,7 @@
       "internalName": "vo_10230123_healthpack_01_play",
       "english": "Mm, mm, good.",
       "turkish": "Hmm, lezzetliymiş bu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5695,7 +5695,7 @@
       "internalName": "vo_10230399_sp_single_klyntarec_02_play",
       "english": "Yeesh. I thought this planet was nasty when we crashed on its surface. I had no idea!",
       "turkish": "Off. Bu gezegenin yüzeyine çarptığımızda iğrenç olduğunu düşünmüştüm. Hiçbir fikrim yoktu!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
@@ -5707,12 +5707,12 @@
       "internalName": "vo_10230044_switch_03_play_p2",
       "english": "Rocket here. Who needs shooting?",
       "turkish": "Rocket geldi. Kim kafasına nişan almamı ister?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ali Fuat Adak",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "26703e37a438a433",
-  "generatedAt": "2026-08-29T20:22:56.125849Z"
+  "dataRevision": "edb91faa59131fbf",
+  "generatedAt": "2026-08-29T20:29:42.880773Z"
 }
