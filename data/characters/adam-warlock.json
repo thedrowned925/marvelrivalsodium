@@ -3,12 +3,12 @@
   "voiceActor": "Berke Aydoğan Sancar",
   "summary": {
     "total": 428,
-    "waiting": 359,
-    "recorded": 69,
+    "waiting": 268,
+    "recorded": 160,
     "checked": 0,
     "added": 0,
-    "worked": 69,
-    "progress": 16.12,
+    "worked": 160,
+    "progress": 37.38,
     "status": "Devam Ediyor"
   },
   "columns": [
@@ -859,7 +859,7 @@
       "internalName": "vo_10460156_ko_terrain_02_play",
       "english": "The world itself comes to my aid.",
       "turkish": "Dünya bana yardıma geliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10460398_escorting_remind_kunlunh_01_play",
       "english": "No more delay. Shou-Lao awaits our delivery.",
       "turkish": "Daha fazla gecikme yok. Shou-Lao teslimatımızı bekliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10460240_interact_01_10220_b_play",
       "english": "My soul is not as pure as most may believe.",
       "turkish": "Ruhum çoğunun inandığı gibi saf değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10460270_sp_ability_10430_03_play",
       "english": "The soul cannot truly be extinguished.",
       "turkish": "Ruh tamamen söndürülemez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10460085_saw_ko_01_10430_play",
       "english": "Good to see you can back up all that bravado, Quill.",
       "turkish": "Tüm bu külhanbeyliğinin boşa olmadığını gördüğüme sevindim Quill.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10460072_ko_normal_04_play",
       "english": "Your time has passed.",
       "turkish": "Senin zamanın geçti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10460200_quick_thanks_01_play",
       "english": "Thank you.",
       "turkish": "Teşekkürler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10460075_ko_normal_07_play",
       "english": "Cosmic justice!",
       "turkish": "Kozmik adalet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10460134_ko_assist_01_play",
       "english": "I am at your service.",
       "turkish": "Hizmetinizdeyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10460101_saw_sniper_01_play",
       "english": "They are shooting at us from afar.",
       "turkish": "Uzaktan bize ateş ediyorlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10460367_sp_interact_klyntarec_01_10440_a_play",
       "english": "You may be the key to winning this battle, Blade.",
       "turkish": "Bu savaşı kazanmamızın anahtarı sen olabilirsin, Blade.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10460340_interact_03_10430_c_play",
       "english": "I have never been one to hide from matters of great cosmic importance, Peter Quill.",
       "turkish": "Hiçbir zaman kozmik öneme sahip konulardan kaçınan biri olmadım Peter Quill.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10460305_sp_interact_newyork_01_10400_a_play",
       "english": "I have never seen the Earth shrouded in such darkness…",
       "turkish": "Dünyanın daha önce hiç bu kadar karanlıkla kaplandığını görmemiştim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10460064_countdown_dt_02_play",
       "english": "Hold fast, my friends.",
       "turkish": "Sıkı durun dostlarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10460020_switch_02_play_p2",
       "english": "Warlock remains prepared.",
       "turkish": "Warlock hazır ve nazır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10460244_interact_01_10230_d_play",
       "english": "No. We will save it. Together.",
       "turkish": "Hayır. Kurtaracağız onu. Birlikte.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10460312_sp_interact_museume_01_10200_c_play",
       "english": "Yes. Negative energy permeates every aspect of this plane.",
       "turkish": "Evet. Negatif enerji bu düzlemin her yönüne nüfuz etmiş durumda.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10460147_ko_five_02_play",
       "english": "Five? Not bad…",
       "turkish": "Beş mi? Fena değil...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10460192_quick_group_up_01_play",
       "english": "Gather close.",
       "turkish": "Yakınımda toplanın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10460409_interact_01_10620_d_play",
       "english": "Then again, it might be best to keep your anger for now, at least until this battle is over…",
       "turkish": "Gerçi şimdi öfkeni yanında tutman daha iyi olabilir; en azından bu savaş bitene kadar…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10460403_escorting_remind_newyorkh02_02_play",
       "english": "Fisk will not tolerate rebellion for long. We need to move faster!",
       "turkish": "Fisk isyana uzun süre tahammül etmeyecek. Daha hızlı hareket etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10460359_sp_interact_klyntar_01_10111_b_play",
       "english": "The rage within you… It's almost as strong as Knull's…",
       "turkish": "İçindeki öfke… Neredeyse Knull’unki kadar güçlü…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10460472_interact_03_10640_b_play",
       "english": "I am… describing what I observe. But I do admit, relaxation often eludes me.",
       "turkish": "Ben… gözlemlediklerimi tarif ediyorum. Ama itiraf etmeliyim ki, rahatlamak çoğu zaman bana uğramaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10460215_signal_wheel_backup_02_play",
       "english": "Help would be appreciated.",
       "turkish": "Biraz yardım fena olmaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10460149_ko_ace_01_play",
       "english": "Another battle ended.",
       "turkish": "Bir savaş daha sona erdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10460070_ko_normal_02_play",
       "english": "Destiny was not kind to you.",
       "turkish": "Kader sana nazik davranmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10460001_select_01_play",
       "english": "I will bring peace to this universe, no matter the cost.",
       "turkish": "Bedeli ne olursa olsun bu evrene huzur getireceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10460460_saw_death_01_10610_play",
       "english": "Sadly, luck does not last forever, Felicia…",
       "turkish": "Ne yazık ki şans sonsuza dek sürmez, Felicia…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10460469_interact_01_10560_d_play",
       "english": "You might be surprised. Death whispers in the ear of every fighter. If only they listened…",
       "turkish": "Şaşırabilirsin. Ölüm her savaşçının kulağına fısıldar. Keşke dinleseler…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10460074_ko_normal_06_play",
       "english": "This ends now.",
       "turkish": "Buna şu an son veriyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10460406_interact_01_10600_a_play",
       "english": "You are doing admirable work, White Fox. The world needs more protectors like you.",
       "turkish": "Harika bir iş çıkarıyorsun, White Fox. Dünya senin gibi daha fazla koruyucuya ihtiyaç duyuyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10460342_interact_01_10530_c_play",
       "english": "If we aren't strong within, even the toughest surface begins to show its cracks.",
       "turkish": "İçimizdeki gücü korumazsak en sert yüzey bile çatlaklarını göstermeye başlar",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10460236_interact_01_10430_d_play",
       "english": "Perhaps I should focus my cosmic power on more important matters…",
       "turkish": "Belki de kozmik gücümü daha önemli meselelere yöneltmeliyim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10460079_ko_sp_01_10200_play",
       "english": "I feel your pain, Mantis. But this was my only choice.",
       "turkish": "Acını hissediyorum Mantis. Ama tek seçeneğim buydu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10460102_saw_sniper_02_play",
       "english": "We are being targeted.",
       "turkish": "Bizi hedef alıyorlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10460341_interact_01_10530_a_play",
       "english": "You shine like a diamond, but your soul is so… empty…",
       "turkish": "Elmas gibi parlıyorsun ancak ruhun… Öylesine boş ki…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10460062_countdown_at_02_play",
       "english": "Time is not on our side.",
       "turkish": "Zaman bizden yana.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10460170_escorting_remind_asgarde_02_play",
       "english": "We must get to the World Tree at once!",
       "turkish": "Bir an önce Dünya Ağacı'na ulaşmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10460237_interact_01_10160_b_play",
       "english": "I never called myself that.",
       "turkish": "Kendime asla böyle demedim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10460408_interact_01_10620_b_play",
       "english": "I would be glad to siphon off some of that rage and bring your restless soul some peace, my friend.",
       "turkish": "Şu öfkenin birazını üstünden çekip almak ve huzursuz ruhuna biraz olsun sükûn getirmekten memnuniyet duyarım, dostum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10460377_sp_emote_10470_1047001217_02_play",
       "english": "Rise, my friends!",
       "turkish": "Yükselin dostlarım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10460462_interact_01_10260_b_play",
       "english": "I would never presume, Your Highness, considering Wakanda thrives while much of the galaxy struggles.",
       "turkish": "Majesteleri, galaksinin büyük kısmı sıkıntı çekerken Wakanda’nın serpilip geliştiği düşünülürse, asla böyle bir varsayımda bulunmam.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10460430_interact_02_10300_c_play",
       "english": "I could help you unify the fragments. Heal your consciousness. Silence the voices.",
       "turkish": "Parçaları birleştirmene yardım edebilirim. Bilincini iyileştirebilirim. Sesleri susturabilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10460128_building_destroy_nest_01_play",
       "english": "No more spiders to worry about.",
       "turkish": "Artık örümcekleri dert etmeye gerek yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10460026_ability_e_02_play",
       "english": "The cosmos heals you!",
       "turkish": "Evren seni iyileştiriyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10460213_signal_wheel_defend_02_play",
       "english": "Do not yield. We must protect this site!",
       "turkish": "Pes etmeyin. Bu alanı korumalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10460093_saw_death_01_10270_play",
       "english": "One tree falls, but another shall grow to take its place.",
       "turkish": "Bir ağaç devrilir ama yerini yenisi alır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10460257_sp_interact_wakanda_01_10380_b_play",
       "english": "Take it from a man who was created to be perfect: There's no such thing.",
       "turkish": "Mükemmel olmak için yaratılmış bir adamdan alıntı: Böyle bir şey yoktur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10460242_interact_02_10430_b_play",
       "english": "I have learned all I need to know, Peter Quill. You need not regale me with your tales of personal glory.",
       "turkish": "Bilmem gereken her şeyi öğrendim Peter Quill. Kişisel başarı masallarını anlatmaya hiç zahmet etme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10460307_interact_01_10520_b_play",
       "english": "It takes great effort to keep my cosmic energy in balance.",
       "turkish": "Kozmik enerjimi dengede tutmak sağlam çaba gerektiriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10460104_building_spotted_ankh_01_play",
       "english": "An object of great mystic power…",
       "turkish": "Büyük mistik güce sahip bir nesne...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10460002_single_06_play",
       "english": "Perfection is unattainable. But that should not stop us from trying to achieve it.",
       "turkish": "Mükemmellik ulaşılmazdır. Ama bu bizi ona ulaşmaya çalışmaktan alıkoyamaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10460382_sp_emote_10470_1047001217_07_play",
       "english": "Destiny awaits.",
       "turkish": "Kader bizi bekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10460030_ability_shift_03_play",
       "english": "Your souls, united!",
       "turkish": "Ruhların birleşti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10460003_single_07_play",
       "english": "I was born to change humanity for the better. That time has come.",
       "turkish": "İnsanlığı daha iyiye doğru değiştirmek için doğdum. Zamanı geldi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10460189_quick_q_charge_100_02_play",
       "english": "I can contain my power no longer!",
       "turkish": "Artık gücümü tutamıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10460397_escorting_payload_newyorkh02_02_play",
       "english": "There are things within this Vault that humans can not begin to comprehend…",
       "turkish": "Bu Hazine Odası'nda insanların anlamaya bile başlayamayacağı şeyler var…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10460056_occupied_hint_engage_02_play",
       "english": "Our mission is paramount.",
       "turkish": "Görevimiz çok önemli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10460045_buff_endure_01_play",
       "english": "I am invulnerable!",
       "turkish": "Ben yenilmezim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10460232_interact_01_10180_d_play",
       "english": "I like Adam Warlock. But maybe I'll start calling myself Sorcerer Supreme.",
       "turkish": "Adam Warlock adını sevdim. Ama belki kendime Yüce Büyücü demeye başlarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10460052_buff_purge_02_play",
       "english": "My soul is cleansed.",
       "turkish": "Ruhum arındı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10460330_easter_egg_klyntarh_04_play",
       "english": "The other symbiotes I have encountered are not nearly this domestic… nor are their tastes quite so refined…",
       "turkish": "Karşılaştığım diğer sembiyotlar bu kadar evcil değil… Zevkleri de bu kadar rafine değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10460283_damaged_03_play",
       "english": "This time, I need healing.",
       "turkish": "Bu kez şifaya ihtiyacım var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10460296_escorting_payload_newyorkh_02_play",
       "english": "The throne of Dracula awaits us.",
       "turkish": "Drakula’nın tahtı bizi bekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10460013_single_05_play",
       "english": "It is my destiny to lead you to victory. Do not stand in my way.",
       "turkish": "Sizi zafere taşımak benim kaderim. Yoluma çıkmayın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10460222_signal_vehicle_as_defend_01_play",
       "english": "Do not let their vehicle pass at any cost.",
       "turkish": "Ne pahasına olursa olsun taşıtın geçmesine izin vermeyin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10460372_sp_interact_kunlun_01_10570_d_play",
       "english": "Whatever it may be, we still have a long way to go before we can hope to celebrate a victory.",
       "turkish": "Her ne olursa olsun, zaferi kutlama umuduna sahip olmadan önce hala uzun bir yolumuz var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10460218_signal_area_occupied_01_play",
       "english": "Do not let them steal control of this place.",
       "turkish": "Burasının kontrolünü ele geçirmelerine izin vermeyelim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10460073_ko_normal_05_play",
       "english": "Flawless.",
       "turkish": "Kusursuz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10460220_signal_vehicle_as_attack_01_play",
       "english": "Move this craft ever onward!",
       "turkish": "Bu aracı ileri taşıyın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10460320_sp_single_newyorkh_01_play",
       "english": "This curse feeds on more than just the light. It feeds on the soul…",
       "turkish": "Bu lânet sırf ışıkla beslenmiyor. Ruhla besleniyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10460025_ability_e_01_play",
       "english": "Quantum magic!",
       "turkish": "Kuantum büyüsü!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10460201_quick_thanks_02_play",
       "english": "I cannot thank you enough.",
       "turkish": "Sana ne kadar teşekkür etsem az.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10460010_single_02_play",
       "english": "Even my cosmic might may not be enough to save this universe.",
       "turkish": "Kozmik gücüm bile bu evreni kurtarmaya yetmeyebilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10460011_single_03_play",
       "english": "Perhaps I should have stayed in my cocoon a bit longer…",
       "turkish": "Belki de kozamda biraz daha kalmalıydım...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10460249_interact_01_10240_a_play",
       "english": "What a strange alliance. We should be at odds, you and I.",
       "turkish": "Ne garip bir ittifak. Seninle kavgalı olmamız gerekiyordu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10460364_sp_interact_klyntar_01_10480_c_play",
       "english": "A single symbiote is one thing. But a whole planet is another matter entirely.",
       "turkish": "Tek bir sembiyot ayrı, koskoca bir gezegense apayrı bir mesele.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10460441_sp_ability_10150_01_play",
       "english": "Let the thunder flow!",
       "turkish": "Gök gürültüsü çağlasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10460357_sp_interact_museume_01_10110_a_play",
       "english": "Many innocent creatures are being held in this wretched place.",
       "turkish": "Bu sefil yerde birçok masum yaratık tutuluyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10460317_sp_interact_krakoac_01_10530_a_play",
       "english": "I am not usually one to attend such lavish celebrations…",
       "turkish": "Pek bu denli gösterişli kutlamalara katılan biri değilimdir…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10460414_interact_02_10640_a_play",
       "english": "You are quite the paradox, Jubilation. Your powers are so bright, yet you hold such darkness within.",
       "turkish": "Tam bir paradokssun, Jubilation. Güçlerin ışıl ışıl, ama içinde böylesine bir karanlık taşıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10460121_building_destroy_beacon_03_play",
       "english": "Let's see how they fare without their beacon…",
       "turkish": "Fenerleri olmayınca ne yapacaklar bakalım...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10460065_saw_enemy_01_play",
       "english": "I have found more lost souls…",
       "turkish": "Yeni kayıp ruhlar buldum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10460302_sp_interact_klyntar_02_10350_d_play",
       "english": "And this is where the fate of the universe will be decided.",
       "turkish": "Ve evrenin kaderinin belirleneceği yer burası.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10460401_escorting_remind_museume_02_play",
       "english": "Onward! The Collector will not take kindly to our actions here!",
       "turkish": "İleri! Koleksiyoncu burada yaptıklarımıza iyi gözle bakmayacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10460169_escorting_remind_asgarde_01_play",
       "english": "Should we fail, the fates will not be kind.",
       "turkish": "Başaramazsak kader bize nazik davranmayacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10460321_sp_single_krakoac_01_play",
       "english": "So much life in this place. Let's fight to keep it that way.",
       "turkish": "Burada ne çok yaşam var öyle. Bunu korumak uğruna savaşalım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10460027_ability_e_03_play",
       "english": "Healing power!",
       "turkish": "İyileştirici güç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10460233_interact_01_10210_b_play",
       "english": "You were already doing that before I arrived…",
       "turkish": "Ben gelmeden önce zaten bunu yapıyordun...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10460210_signal_wheel_attack_01_play",
       "english": "Come to this spot and attack!",
       "turkish": "Bu noktaya gelip saldırın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10460032_debuff_control_02_play",
       "english": "I have lost myself…",
       "turkish": "Kendimi kaybettim...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5161,6 +5161,6 @@
       "note": null
     }
   ],
-  "dataRevision": "edb91faa59131fbf",
-  "generatedAt": "2026-08-29T20:29:42.880773Z"
+  "dataRevision": "89d93250b1e16640",
+  "generatedAt": "2026-08-30T00:12:18.514185Z"
 }
