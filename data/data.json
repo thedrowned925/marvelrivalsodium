@@ -5,8 +5,8 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: 2026-08-14 17:38",
-  "dataRevision": "89d93250b1e16640",
-  "generatedAt": "2026-08-30T00:12:18.514185Z",
+  "dataRevision": "f19200621ddbd07c",
+  "generatedAt": "2026-08-30T00:19:20.187214Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
@@ -21,7 +21,7 @@
       "Baslamadi": 34,
       "Tamamlandi": 9
     },
-    "assigned": 39
+    "assigned": 40
   },
   "characters": [
     {
@@ -344,7 +344,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Sina Işıl Sönmez"
     },
     {
       "name": "Luna Snow",
