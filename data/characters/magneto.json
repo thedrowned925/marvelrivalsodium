@@ -3,13 +3,13 @@
   "voiceActor": "Orhan Gazi",
   "summary": {
     "total": 435,
-    "waiting": 435,
-    "recorded": 0,
+    "waiting": 434,
+    "recorded": 1,
     "checked": 0,
     "added": 0,
-    "worked": 0,
-    "progress": 0.0,
-    "status": "Baslamadi"
+    "worked": 1,
+    "progress": 0.23,
+    "status": "Devam Ediyor"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "noname",
       "english": "*HUAH* (Throwing his Ultimate)",
       "turkish": "!! CEVIRI YOK - internal isim eksik, elle cevrilmeli !!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Burçin Direnci",
       "date": null,
       "note": null
@@ -5245,6 +5245,6 @@
       "note": null
     }
   ],
-  "dataRevision": "8d9679d631899849",
-  "generatedAt": "2026-08-30T21:31:45.449877Z"
+  "dataRevision": "b4de21f4d974c6f3",
+  "generatedAt": "2026-08-31T17:15:00.349285Z"
 }
