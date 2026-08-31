@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "8d9679d631899849",
-  "generatedAt": "2026-08-30T21:31:45.449877Z",
+  "dataRevision": "b4de21f4d974c6f3",
+  "generatedAt": "2026-08-31T17:15:00.349285Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 17804,
-    "recorded": 3506,
+    "waiting": 17803,
+    "recorded": 3507,
     "checked": 0,
     "added": 2388,
-    "worked": 5894,
-    "progress": 24.87,
+    "worked": 5895,
+    "progress": 24.88,
     "statusCounts": {
-      "Devam Ediyor": 11,
-      "Baslamadi": 34,
+      "Devam Ediyor": 12,
+      "Baslamadi": 33,
       "Tamamlandi": 9
     },
     "assigned": 40
@@ -365,13 +365,13 @@
       "slug": "magneto",
       "detailPath": "data/characters/magneto.json",
       "total": 435,
-      "waiting": 435,
-      "recorded": 0,
+      "waiting": 434,
+      "recorded": 1,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 1,
+      "progress": 0.23,
+      "status": "Devam Ediyor",
       "voiceActor": "Orhan Gazi"
     },
     {
