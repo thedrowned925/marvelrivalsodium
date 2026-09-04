@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "ae5bcd554c39e986",
-  "generatedAt": "2026-09-02T14:45:27.966434Z",
+  "dataRevision": "6fc4ff2fbdb2b9d7",
+  "generatedAt": "2026-09-04T19:18:19.574904Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 17555,
-    "recorded": 3755,
+    "waiting": 17462,
+    "recorded": 3848,
     "checked": 0,
     "added": 2388,
-    "worked": 6143,
-    "progress": 25.92,
+    "worked": 6236,
+    "progress": 26.31,
     "statusCounts": {
-      "Devam Ediyor": 12,
+      "Devam Ediyor": 11,
       "Baslamadi": 33,
-      "Tamamlandi": 9
+      "Tamamlandi": 10
     },
     "assigned": 40
   },
@@ -183,13 +183,13 @@
       "slug": "emma-frost",
       "detailPath": "data/characters/emma-frost.json",
       "total": 423,
-      "waiting": 93,
-      "recorded": 330,
+      "waiting": 0,
+      "recorded": 423,
       "checked": 0,
       "added": 0,
-      "worked": 330,
-      "progress": 78.01,
-      "status": "Devam Ediyor",
+      "worked": 423,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Doğa Ece Aydoğdu"
     },
     {
