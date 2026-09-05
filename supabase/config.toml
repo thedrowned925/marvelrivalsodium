@@ -1,0 +1,5 @@
+project_id = "odium-rivals-admin"
+[functions.rivals-audio-admin]
+verify_jwt = false
+# The function implements setup-code authentication for bootstrap, Supabase Auth
+# for login, and getUser + owner allowlist + live-session validation for every write.

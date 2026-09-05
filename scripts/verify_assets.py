@@ -43,7 +43,7 @@ for logical,item in runtime.items():
  try:
   source=(ROOT/logical).read_bytes();published=(ROOT/item['url']).read_bytes()
   assert source==published and hashlib.sha256(published).hexdigest()==item['sha256']
-  assert '"'+item['url']+'"' in page
+  assert all('"'+r['url']+'"' in (ROOT/r['page']).read_text() for r in item.get('references',[{'page':'index.html','url':item['url']}]))
  except Exception as e:errors.append(f'{logical}: stale runtime snapshot; run scripts/version_runtime.py ({e})')
 if errors:raise SystemExit('\n'.join(errors))
 print(f"PASS: {len(data['characters'])} characters, {2*len(data['characters'])} local artwork references, character datasets, all voice tracks.")

@@ -1,0 +1,1 @@
+{"name":"odium-rivals-site","version":"1.0.0","private":true,"scripts":{"build:vendor":"node scripts/build_supabase_vendor.cjs"},"dependencies":{"@supabase/supabase-js":"2.115.0"},"devDependencies":{"esbuild":"0.28.2"}}
