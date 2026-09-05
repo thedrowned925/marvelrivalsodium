@@ -1,0 +1,8 @@
+{
+  "characters": {
+    "thor": {
+      "hover": "assets/audio/managed/thor/hover-f412f31c069fd7df2d4f226906c2a5edbd584450c62834d369ed4a3c504ca59b.wav",
+      "detail": "assets/audio/managed/thor/detail-0e8e3ec51f9b312858f0f182240c42e03d8fb09d49d7d7c9fe8cc662aba3f086.wav"
+    }
+  }
+}
