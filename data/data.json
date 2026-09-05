@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "db7e1c087a0073b1",
-  "generatedAt": "2026-09-05T09:35:42.913612Z",
+  "dataRevision": "d434b814f5580f78",
+  "generatedAt": "2026-09-05T09:50:22.753001Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16519,
-    "recorded": 3936,
+    "waiting": 16518,
+    "recorded": 3937,
     "checked": 420,
     "added": 2823,
-    "worked": 7179,
-    "progress": 30.29,
+    "worked": 7180,
+    "progress": 30.3,
     "statusCounts": {
-      "Devam Ediyor": 8,
-      "Baslamadi": 33,
+      "Devam Ediyor": 9,
+      "Baslamadi": 32,
       "Tamamlandi": 13
     },
     "assigned": 40
@@ -505,13 +505,13 @@
       "slug": "scarlet-witch",
       "detailPath": "data/characters/scarlet-witch.json",
       "total": 402,
-      "waiting": 402,
-      "recorded": 0,
+      "waiting": 401,
+      "recorded": 1,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 1,
+      "progress": 0.25,
+      "status": "Devam Ediyor",
       "voiceActor": "Ayça Cengiz"
     },
     {
