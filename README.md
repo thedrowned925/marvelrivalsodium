@@ -48,3 +48,35 @@ The existing art workflow now validates committed assets and restores missing
 files from verified manifest sources. New characters need a verified manifest
 entry before the asset validation gate passes. `--refresh` explicitly refreshes
 registered art; valid cached images are otherwise preserved.
+
+## Character dossiers — second independent design
+
+Branch: `ui/rivals-character-dossiers`. This is an alternative to the first
+preview, with its own Sites project. Neither preview is merged into `main`.
+
+- All 54 characters have their own portrait and associated color. 48 profiles
+  have a verified emblem; the others intentionally omit it.
+- Home includes a browsable character dossier. The same composition appears
+  above the complete searchable/paginated line list in every character modal.
+- Panels show real voice actor, progress, counts and four production stages.
+- **Afişi indir** exports a 1920×1080 PNG from current character data, using
+  same-origin images and fonts. No external rendering service is involved.
+- `assets/design/hero-design.json` and its JS companion define the visuals.
+  `dossier.js` composes them; `poster-renderer.js` draws downloadable posters.
+- Turkish text uses local Bebas Neue and Barlow fonts, with checked glyphs.
+
+Visual composition inspired by Sean Onamade's
+[Marvel Rivals character concept app](https://github.com/SeanOnamade/marvel-rivals-character-concept-app),
+especially its Doctor Strange ability page. Emblems and the shared scene are
+sourced from reference commit `8a0b68eaa32f7102ef72ea6221083e3f0379f513`;
+individual source paths are recorded in `assets/design/sources.json`.
+Hero artwork attribution remains in `assets/characters/README.md` and the art
+manifest. Marvel Rivals imagery and characters belong to Marvel / NetEase.
+Bebas Neue and Barlow are from Google Fonts; their OFL licenses are included.
+The reference's original fonts were not retained because some Turkish glyphs
+were missing or blank.
+
+Validation for this variant: local asset verification, JavaScript syntax,
+DOM checks of original controls plus dossier navigation and PNG export wiring,
+audio checks, and rendered poster inspection. Full browser visual QA remains
+outstanding; inspect the independent preview before approving a merge.

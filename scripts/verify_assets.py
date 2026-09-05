@@ -25,5 +25,17 @@ for c in data['characters']:
   except Exception as e:errors.append(f"{c['name']} data: {e}")
 for audio in re.findall(r"(?:hover|detail):'([^']+\.wav)'",(ROOT/'audio-v10.js').read_text()):
  if not (ROOT/'assets/audio'/audio).is_file():errors.append('Missing audio '+audio)
+design=json.loads((ROOT/'assets/design/hero-design.json').read_text())
+if set(design)!=set(c['name'] for c in data['characters']):errors.append('Hero design roster mismatch')
+for name,profile in design.items():
+ for kind in ['portrait','card','emblem']:
+  path=profile.get(kind)
+  if kind=='emblem' and not path:continue
+  try:
+   assert path and (ROOT/path).resolve().is_relative_to(ROOT/'assets')
+   with Image.open(ROOT/path) as image:image.verify()
+  except Exception as e:errors.append(f'{name} design {kind}: {e}')
+for font in ['BebasNeue-Regular.ttf','Barlow-Regular.ttf']:
+ if not (ROOT/'assets/design/fonts'/font).is_file():errors.append('Missing local font '+font)
 if errors:raise SystemExit('\n'.join(errors))
 print(f"PASS: {len(data['characters'])} characters, {2*len(data['characters'])} local artwork references, character datasets, all voice tracks.")

@@ -82,6 +82,8 @@
     });
   }
 
+  window.OdiumAudio={playName:name=>playDetail({dataset:{name}})};
+
   function scan(){
     document.querySelectorAll('#characterGrid .char-card').forEach(bind);
   }

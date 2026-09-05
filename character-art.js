@@ -22,5 +22,5 @@
     card.addEventListener('mouseenter',hover,{once:true});card.addEventListener('focus',hover,{once:true});
   }
   function detail(head,name){const img=new Image();img.className='vault-art';img.alt='';img.width=650;img.height=650;head.append(img);bind(img,name,'detail');}
-  window.CharacterArt={cardMarkup,mount,detail};
+  window.CharacterArt={cardMarkup,mount,detail,bind};
 })();
