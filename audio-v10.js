@@ -1,6 +1,6 @@
 /* ODIUM Marvel Rivals — hover/detail voice playback v11 */
 (()=>{
-  const RAW='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/assets/audio/';
+  const RAW=new URL('./assets/audio/',document.baseURI).href;
   const TRACKS={
     'blade':{
       hover:'hover/intikam.wav',
