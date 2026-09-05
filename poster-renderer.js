@@ -28,7 +28,7 @@
   text(ctx,'SESLENDİRME DOSYASI',748,75,35);line(ctx,748,130,433);
   text(ctx,'TÜRKÇE SESİ',748,174,22,'#ffda29',body);
   const voice=fit(ctx,actor,440,42,26,heading,2);voice.lines.forEach((v,i)=>text(ctx,v,748,220+i*voice.size*1.14,voice.size));
-  text(ctx,'ODIUM Studios',748,338,22,'#aab7ca',body);
+  text(ctx,'ODIUM Stüdyo',748,338,22,'#aab7ca',body);
   line(ctx,748,398,433);text(ctx,'ÜRETİM İLERLEMESİ',748,432,26,'#e1e3df');text(ctx,'%'+progress.toLocaleString('tr-TR',{maximumFractionDigits:1}),748,489,100,'#ffda29');
   ctx.fillStyle='#ffffff23';ctx.fillRect(748,606,433,10);ctx.fillStyle='#ffda29';ctx.fillRect(748,606,433*Math.min(100,Math.max(0,progress))/100,10);
   text(ctx,fmt(worked)+' / '+fmt(total)+' replik işlendi',748,640,25,'#c0cad8',body);line(ctx,748,704,433);

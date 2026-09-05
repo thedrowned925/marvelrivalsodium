@@ -2,12 +2,11 @@ name: Sync Marvel Rivals character art
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/10 * * * *'
   push:
     branches: [main]
     paths:
       - 'scripts/sync_fandom_hero_art.py'
+      - 'assets/characters/art-manifest.json'
       - '.github/workflows/sync-fandom-hero-art.yml'
 
 permissions:
@@ -30,7 +29,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: pip
       - name: Install image sync dependencies
         run: pip install requests==2.32.5 pillow==11.3.0
       - name: Cache roster cards and detail artwork

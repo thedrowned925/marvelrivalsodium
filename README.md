@@ -1,6 +1,6 @@
 # ODIUM // Marvel Rivals Türkçe Dublaj Tracker
 
-Ultra-animated static tracker for the ODIUM Studios **Marvel Rivals Türkçe Dublaj Projesi**.
+Ultra-animated static tracker for the ODIUM Stüdyo **Marvel Rivals Türkçe Dublaj Projesi**.
 
 ## Live data architecture
 
@@ -80,3 +80,27 @@ Validation for this variant: local asset verification, JavaScript syntax,
 DOM checks of original controls plus dossier navigation and PNG export wiring,
 audio checks, and rendered poster inspection. Full browser visual QA remains
 outstanding; inspect the independent preview before approving a merge.
+
+## Main release: tour, branding and data refresh
+
+The approved dossier design is released to `main` and the public GitHub Pages
+site. First-preview branch and private preview remain available as backups.
+All runtime branding is **ODIUM Stüdyo**, including downloadable posters.
+
+`feature-tour.js` includes the release devlog and existing project notice. It
+opens on every page load unless the visitor explicitly selects **Bir daha
+gösterme**. Completion, × and Escape do not save an opt-out. The device-local
+preference is permanent across tour versions until browser/site storage is
+cleared. The footer can reopen the tour manually. If storage is blocked, the
+tour explains that the preference could not be saved.
+
+`live-sync.js` checks a lightweight revision marker every 10 seconds in visible
+tabs and immediately on focus/reconnection. Matching revisions preserve the
+page. Updated open character data preserves search, status filter, page size,
+page and scroll position. Summary and details must have matching revisions.
+
+Source-side instant update is **not yet connected**: the XLSX upload/edit system
+must notify the implemented repository-dispatch hook. The five-minute scheduled
+job remains a recovery fallback. See `scripts/LIVE_DATA.md` for the concrete
+integration hook and latency limits. The tour does not claim zero-delay Excel
+updates. Only one scheduled data workflow remains.

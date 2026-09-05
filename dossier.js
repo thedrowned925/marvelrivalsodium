@@ -16,7 +16,7 @@
     <div class="dossier-name"><span>MARVEL RIVALS / TÜRKÇE DUBLAJ</span><${tag}>${esc(p.name)}</${tag}><div class="dossier-status">${status(s.status||c.status)}</div></div>
    </div>
    <div class="dossier-production"><div class="dossier-label">SESLENDİRME DOSYASI <span></span></div>
-    <div class="voice-panel"><span class="diamond">${icon('mic')}</span><div><small>TÜRKÇE SESİ</small><strong>${esc(actor)}</strong><span>ODIUM Studios</span></div></div>
+    <div class="voice-panel"><span class="diamond">${icon('mic')}</span><div><small>TÜRKÇE SESİ</small><strong>${esc(actor)}</strong><span>ODIUM Stüdyo</span></div></div>
     <div class="dossier-progress"><div><small>ÜRETİM İLERLEMESİ</small><strong>%${percent(progress)}</strong></div><div class="dossier-progressbar"><i style="width:${Math.min(100,Math.max(0,progress))}%"></i></div><p><b>${num(worked)}</b> / ${num(total)} replik işlendi</p></div>
     <div class="dossier-totals"><div><span>TOPLAM REPLİK</span><b>${num(total)}</b></div><div><span>İŞLENEN REPLİK</span><b>${num(worked)}</b></div></div>
     <p class="dossier-note">İşlenen replikler; kaydı alınan, kontrol edilen ve oyuna eklenen satırların toplamıdır.</p>

@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'dist'
 OUT.mkdir(exist_ok=True)
-files=['index.html','styles.css','details.css','rivals-ui.css','dossier.css','dossier.js','poster-renderer.js','popup-v1.css','app.js','character-art.js','audio-v10.js','device-mode-v1.js','popup-v1.js','favicon.svg','.nojekyll']
+files=['index.html','styles.css','details.css','rivals-ui.css','dossier.css','dossier.js','poster-renderer.js','live-sync.js','feature-tour.js','feature-tour.css','popup-v1.css','app.js','character-art.js','audio-v10.js','device-mode-v1.js','popup-v1.js','favicon.svg','.nojekyll']
 for name in files:shutil.copy2(ROOT/name,OUT/name)
 for name in ['assets','data']:shutil.copytree(ROOT/name,OUT/name,dirs_exist_ok=True)
 print('Staged preview assets in dist/')

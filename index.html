@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="odium-release" content="dossiers-tour-20260905" />
   <meta name="theme-color" content="#0b111c" />
-  <meta name="description" content="ODIUM Studios Marvel Rivals Türkçe Dublaj projesi canlı ilerleme takip paneli." />
+  <meta name="description" content="ODIUM Stüdyo Marvel Rivals Türkçe Dublaj projesi canlı ilerleme takip paneli." />
   <title>ODIUM // Marvel Rivals Türkçe Dublaj Takip</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,7 +15,8 @@
   <link rel="stylesheet" href="details.css" />
   <link rel="stylesheet" href="rivals-ui.css?v=20260905" />
   <link rel="stylesheet" href="popup-v1.css?v=20260826-2" />
-  <link rel="stylesheet" href="dossier.css?v=1" />
+  <link rel="stylesheet" href="dossier.css?v=2" />
+  <link rel="stylesheet" href="feature-tour.css" />
 </head>
 <body class="rivals-preview dossier-theme">
   <a class="skip-link" href="#characters">Karakterlere geç</a>
@@ -26,7 +28,7 @@
   <header class="topbar glass"><a class="brand" href="#top" aria-label="ODIUM ana sayfa"><span class="brand-mark"><img src="assets/odium-logo.webp" width="44" height="44" alt="" /></span><span class="brand-copy"><b>ODIUM</b><small>RIVALS / TÜRKÇE DUBLAJ</small></span></a><nav class="nav-links" aria-label="Sayfa bölümleri"><a href="#overview">Genel</a><a href="#guide">Nasıl Okunur?</a><a href="#pipeline">Aşamalar</a><a href="#characters">Karakterler</a></nav><div class="sync-pill" id="syncPill" title="Veri durumu"><span class="live-dot"></span><span id="syncText">VERİ BAĞLANIYOR</span></div></header>
   <main id="top">
     <section class="command-overview shell" id="overview">
-      <div class="command-heading"><div><span class="kicker">ODIUM STUDIOS / MARVEL RIVALS</span><h1>KAHRAMANLARIN <em>TÜRKÇE SESİ.</em></h1></div><div class="project-readout" id="progressOrbit"><span>GENEL İLERLEME</span><strong id="heroProgress">—</strong><small id="heroWorked">Veriler hazırlanıyor</small></div></div>
+      <div class="command-heading"><div><span class="kicker">ODIUM Stüdyo / MARVEL RIVALS</span><h1>KAHRAMANLARIN <em>TÜRKÇE SESİ.</em></h1></div><div class="project-readout" id="progressOrbit"><span>GENEL İLERLEME</span><strong id="heroProgress">—</strong><small id="heroWorked">Veriler hazırlanıyor</small></div></div>
       <div id="spotlight" class="spotlight" aria-live="polite"><div class="stage-loading">Karakter dosyaları hazırlanıyor…</div></div>
       <div class="spotlight-footer"><span id="sourceUpdate">Kaynak bekleniyor…</span><a href="#characters">TÜM KARAKTERLER <b>↓</b></a></div>
     </section>
@@ -36,7 +38,7 @@
     <section class="ticker" aria-label="Proje özeti"><div class="ticker-track" id="tickerTrack"><span>ODIUM // LIVE TRACKER</span><b>✦</b><span>MARVEL RIVALS TÜRKÇE DUBLAJ</span><b>✦</b><span>VERİLER YÜKLENİYOR</span><b>✦</b></div></section>
 
   </main>
-  <footer class="footer shell"><div class="footer-mark">ODIUM</div><div><b>Marvel Rivals Türkçe Dublaj Projesi</b><span>Proje Yönetmenleri: Efe Karatepe · Hasan Çağın Yıldırım</span></div><div class="footer-right"><span>DATA SYNC</span><b id="footerSync">—</b></div></footer>
+  <footer class="footer shell"><div class="footer-mark">ODIUM</div><div><b>Marvel Rivals Türkçe Dublaj Projesi</b><span>Proje Yönetmenleri: Efe Karatepe · Hasan Çağın Yıldırım</span></div><div class="footer-right"><button type="button" class="tour-launch" id="tourLaunch">Yenilikler · Site turu</button><span>DATA SYNC</span><b id="footerSync">—</b></div></footer>
   <dialog class="character-modal" id="characterModal"><button class="modal-close" id="modalClose" aria-label="Kapat">×</button><div id="modalContent"></div></dialog>
   <script src="assets/characters/art-manifest.js" defer></script>
   <script src="character-art.js" defer></script>
@@ -46,6 +48,7 @@
   <script src="app.js" defer></script>
   <script src="audio-v10.js?v=20260905" defer></script>
   <script src="device-mode-v1.js" defer></script>
-  <script src="popup-v1.js?v=20260826-2" defer></script>
+  <script src="live-sync.js" defer></script>
+  <script src="feature-tour.js" defer></script>
 </body>
 </html>
