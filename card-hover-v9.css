@@ -39,6 +39,7 @@ body.rivals-theme .char-card[data-hover-art="missing"]:focus-visible .mr-hero-ar
 }
 body.rivals-theme .char-card:before{z-index:2!important}
 body.rivals-theme .char-card>.mr-card-ui{z-index:12!important}
+
 body.rivals-theme .voice-credit{
   display:inline-flex!important;
   align-items:center!important;
@@ -64,11 +65,33 @@ body.rivals-theme .voice-credit-star{
   clip-path:polygon(50% 0,63% 35%,100% 50%,63% 65%,50% 100%,37% 65%,0 50%,37% 35%)!important;
 }
 body.rivals-theme .voice-credit>span:last-child{display:grid!important;gap:2px!important;min-width:0!important}
-body.rivals-theme .voice-credit small{color:#59edff!important;font:800 clamp(8px,2.4cqw,10px)/1 'Barlow Condensed',sans-serif!important;letter-spacing:.16em!important}
-body.rivals-theme .voice-credit strong{color:#fff!important;font:800 clamp(13px,4cqw,16px)/1 'Barlow Condensed',sans-serif!important;letter-spacing:.015em!important;white-space:normal!important;text-wrap:balance!important}
-body.rivals-theme .char-card:hover .voice-credit,body.rivals-theme .char-card:focus-visible .voice-credit{transform:translateX(3px)!important;border-left-color:#ffd82e!important;box-shadow:inset 0 0 0 1px #ffd82e44,7px 7px 0 #ff4cac66!important}
+body.rivals-theme .voice-credit small{
+  color:#59edff!important;
+  font:800 clamp(8px,2.4cqw,10px)/1 'Barlow Condensed',sans-serif!important;
+  letter-spacing:.16em!important;
+}
+body.rivals-theme .voice-credit strong{
+  color:#fff!important;
+  font:800 clamp(13px,4cqw,16px)/1 'Barlow Condensed',sans-serif!important;
+  letter-spacing:.015em!important;
+  white-space:normal!important;
+  text-wrap:balance!important;
+}
+body.rivals-theme .char-card:hover .voice-credit,
+body.rivals-theme .char-card:focus-visible .voice-credit{
+  transform:translateX(3px)!important;
+  border-left-color:#ffd82e!important;
+  box-shadow:inset 0 0 0 1px #ffd82e44,7px 7px 0 #ff4cac66!important;
+}
 body.rivals-theme .char-meta{grid-template-columns:1fr!important}
 body.rivals-theme .char-meta span:first-child{display:none!important}
 body.rivals-theme .char-meta span:last-child{text-align:left!important}
-@container (max-width:330px){body.rivals-theme .voice-credit{padding:6px 8px!important;gap:6px!important}body.rivals-theme .voice-credit-star{width:20px!important;height:20px!important;flex-basis:20px!important;font-size:11px!important}}
-@media(pointer:coarse){body.rivals-theme .char-card .mr-hero-art-base{opacity:.78!important;filter:saturate(.6) contrast(1.06) brightness(.82)!important}body.rivals-theme .char-card .mr-hero-art-hover{display:none!important}}
+
+@container (max-width:330px){
+  body.rivals-theme .voice-credit{padding:6px 8px!important;gap:6px!important}
+  body.rivals-theme .voice-credit-star{width:20px!important;height:20px!important;flex-basis:20px!important;font-size:11px!important}
+}
+@media(pointer:coarse){
+  body.rivals-theme .char-card .mr-hero-art-base{opacity:.78!important;filter:saturate(.6) contrast(1.06) brightness(.82)!important}
+  body.rivals-theme .char-card .mr-hero-art-hover{display:none!important}
+}

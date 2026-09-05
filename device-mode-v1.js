@@ -81,8 +81,11 @@
 
   function optimizeMotion(){
     const reduced=matchMedia('(prefers-reduced-motion:reduce)').matches;
-    if(current==='mobile'||reduced)body.classList.add('reduced-mobile-motion');
-    else body.classList.remove('reduced-mobile-motion');
+    if(current==='mobile'||reduced){
+      body.classList.add('reduced-mobile-motion');
+    }else{
+      body.classList.remove('reduced-mobile-motion');
+    }
   }
 
   function refresh(){

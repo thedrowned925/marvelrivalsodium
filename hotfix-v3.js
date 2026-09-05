@@ -1,64 +1,16 @@
-/* ODIUM Marvel Rivals comic runtime v11.6 — persistent live art + isolated device UI */
-(async()=>{
-  document.body.classList.add('rivals-theme');
-
-  const uaMobile=()=>{
-    if(navigator.userAgentData&&typeof navigator.userAgentData.mobile==='boolean')return navigator.userAgentData.mobile;
-    return /Android|iPhone|iPod|Windows Phone|webOS|BlackBerry|Opera Mini|IEMobile/i.test(navigator.userAgent||'');
-  };
-  const ipad=/iPad/i.test(navigator.userAgent||'')||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
-  const coarse=matchMedia('(pointer:coarse)').matches;
-  const touch=(navigator.maxTouchPoints||0)>0||'ontouchstart' in window;
-  const vw=Math.min(window.innerWidth||9999,window.screen?.width||9999);
-  const initialMode=(uaMobile()||(coarse&&touch&&vw<=767))?'mobile':(ipad||(coarse&&touch&&vw<=1180))?'tablet':'desktop';
-  document.body.classList.add(`device-${initialMode}`);
-  document.documentElement.dataset.device=initialMode;
-
-  const style=document.createElement('style');
-  style.textContent=`
-    .rivals-theme #cosmos{background:radial-gradient(circle at 73% 17%,#153c55 0,#10152e 28%,#090a13 56%,#05060b 100%)!important}
-    .rivals-theme .aurora-a{background:#59edff!important;opacity:.11!important;filter:blur(110px)!important}
-    .rivals-theme .aurora-b{background:#ff4cac!important;opacity:.12!important;filter:blur(105px)!important}
-    .rivals-theme .scanlines{opacity:.055!important;background:repeating-linear-gradient(0deg,#fff2 0 1px,transparent 1px 4px),radial-gradient(circle,#ffd82e22 0 1px,transparent 1.5px) 0 0/18px 18px!important}
-    .rivals-theme ::selection{background:#ffd82e;color:#0a0c13}
-    .rivals-theme *{scrollbar-color:#59edff #0d0f1d}
-  `;
-  document.head.appendChild(style);
-
-  for(const href of [
-    './responsive-v6.css?v=6.2.1',
-    './detail-art-v6.css?v=6.6.2',
-    './card-art-v7.css?v=7.0.1',
-    './card-fix-v10.css?v=10.0.1',
-    './card-art-v11.css?v=11.3.1',
-    './card-recovery-v11.css?v=11.4.0',
-    './hero-v10.css?v=10.0.1',
-    './mobile-v1.css?v=1.0.0'
-  ]){
-    const css=document.createElement('link');css.rel='stylesheet';css.href=href;document.head.appendChild(css);
-  }
-
-  try{
-    const url='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/hotfix-v3.js?v=5.0&ts='+Date.now();
-    const response=await fetch(url,{cache:'no-store'});
-    if(!response.ok)throw new Error('Runtime fetch failed: '+response.status);
-    (0,eval)(await response.text());
-  }catch(error){console.error('[ODIUM] base runtime could not load',error);}
-
-  for(const src of [
-    './card-art-v11.js?v=11.3.1',
-    './card-recovery-v11.js?v=11.4.0',
-    './art-persistence-v1.js?v=1.0.0',
-    './detail-art-v10.js?v=10.0.1',
-    './hero-v10.js?v=10.0.1',
-    './device-mode-v1.js?v=1.0.0',
-    './live-refresh-v1.js?v=1.0.0'
-  ]){
-    const script=document.createElement('script');script.src=src;script.async=false;document.head.appendChild(script);
-  }
-
-  try{
-    const response=await fetch('https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/audio-v10.js?v=10.0.1&ts='+Date.now(),{cache:'no-store'});
-    if(response.ok)(0,eval)(await response.text());
-  }catch(error){console.warn('[ODIUM] character audio module unavailable',error);}
+/* ODIUM Marvel Rivals comic runtime v5 */
+(()=>{
+const V='5.0',LOGO="data:image/webp;base64,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",F={"Adam Warlock":"Hero Card Adam Warlock","Angela":"Angela Hero Card","Black Cat":"Hero Card Black Cat","Black Panther":"Hero Card Black Panther","Black Widow":"Hero Card Black Widow","Blade":"Blade Hero Card","Hulk":"Hulk Hero Card","Capt. America":"Hero Card Captain America","Cloak":"Hero Card Cloak & Dagger","Dagger":"Hero Card Cloak & Dagger","Cyclops":"Hero Card Cyclops","Dare Devil":"Daredevil Hero Card","Deadpool":"Hero Card Deadpool","Devil Dinosaur":"Hero Card Devil Dinosaur","Dr.Strange":"Hero Card Doctor Strange","Elsa Bloodstone":"Hero Card Elsa Bloodstone","Emma Frost":"Hero Card Emma Frost","Gambit":"Gambit Hero Card","Groot":"Hero Card Groot","Hawkeye":"Hero Card Hawkeye","Hela":"Hela Prestige Artwork","Human Torch":"Hero Card Human Torch","Invisible Woman":"Hero Card Invisible Woman","Iron Fist":"Prestigeironfist","Iron Man":"Iron man prestige","Jeff":"Hero Card Jeff","Loki":"Hero Card Loki","Luna Snow":"Hero Card Luna Snow","Magik":"Magik marvel rivals prestige art","Magneto":"Magneto prestige","Mantis":"Hero Card Mantis","Mr.Fantastic":"Hero Card Mister Fantastic","Moon Knight":"Moonknight prestige","Namor":"Namor prestige","Peni Parker":"Peni Parker Prestige Artwork","Phoenix":"Phoenix prestige","Psylocke":"Hero Card Psylocke","Rocket Raccoon":"Hero Card Rocket Raccoon","Rogue":"Rogue Hero Card","Scarlet Witch":"Hero Card Scarlet Witch","Spider-Man":"Hero Card Spider-Man","Squirrel Girl":"Prestige squirellgirl","Star Lord":"Hero Card Star-Lord","Storm":"Hero Card Storm","The Punisher":"Punisher prestige","The Thing":"The Thing Prestige art","Thor":"Hero Card Thor","Ultron":"Hero Card Ultron","Venom":"Hero Card Venom","White Fox":"Hero Card White Fox","Winter Soldier":"Winter soldier prestige","Wolverine":"Hero Card Wolverine","Galacta":"Galacta"},O={"Capt. America":"captain-america","Dr.Strange":"doctor-strange","Mr.Fantastic":"mister-fantastic","Dare Devil":"daredevil","Jeff":"jeff-the-land-shark","Star Lord":"star-lord","Cloak":"cloak-and-dagger","Dagger":"cloak-and-dagger"},C=new Map();
+const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
+const slug=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const canon=n=>({'Capt. America':'Captain America','Dr.Strange':'Doctor Strange','Mr.Fantastic':'Mister Fantastic','Dare Devil':'Daredevil','Jeff':'Jeff the Land Shark','Star Lord':'Star-Lord','Cloak':'Cloak & Dagger','Dagger':'Cloak & Dagger'}[n]||n);
+const fan=(b,e='png')=>`https://marvelrivals.fandom.com/wiki/Special:Redirect/file/${encodeURIComponent(b+'.'+e)}`;
+function sources(n){let c=canon(n),b=F[n]||F[c],a=[];if(b)a.push(fan(b),fan(b,'jpg'));else a.push(fan('Hero Card '+c),fan(c+' Hero Card'));let os=O[n]||O[c]||slug(c);a.push(`https://marvelrivals.net/static/heroes/official/${os}.png`,`./assets/characters/${slug(n)}.webp`);return [...new Set(a)]}
+function load(img,n,done){let a=sources(n),i=0,next=()=>{if(i>=a.length){img.remove();done&&done(null,true);return}let u=a[i++];img.onload=()=>{C.set(n,u);img.dataset.source=u.includes('fandom.com')?'fandom':u.includes('marvelrivals.net')?'official':'local';done&&done(u,img.dataset.source!=='fandom')};img.onerror=next;img.src=u};let u=C.get(n);if(u){img.onload=()=>done&&done(u,!u.includes('fandom.com'));img.onerror=next;img.src=u}else next()}
+function brand(){let m=$('.brand-mark');if(m){m.textContent='';m.style.backgroundImage=`url("${LOGO}")`}let c=$('.brand-copy');if(c)c.innerHTML='<b>ODIUM TAKİP SİTESİ</b><small>STUDIOS // MARVEL RIVALS TRACKER</small>';let f=$('.footer-mark');if(f)f.textContent='ODIUM // RIVALS'}
+function card(el){if(!el||el.dataset.rivalsDecorated===V)return;el.dataset.rivalsDecorated=V;let n=el.dataset.name||$('.char-name',el)?.textContent?.trim();if(!n)return;el.classList.toggle('art-cloak',n==='Cloak');el.classList.toggle('art-dagger',n==='Dagger');let im=document.createElement('img');im.className='mr-hero-art';im.alt='';im.loading='lazy';im.decoding='async';el.prepend(im);load(im,n,(_,fb)=>el.dataset.artState=fb?'fallback':'fandom')}
+function cards(){$$('#characterGrid .char-card').forEach(card)}
+function vault(){let root=$('#modalContent'),h=$('.vault-head',root);if(!h||$('.mr-vault-art',h))return;let n=$('.vault-head h3',root)?.textContent?.trim()||$('.vault>h3',root)?.textContent?.trim();if(!n)return;let im=document.createElement('img');im.className='mr-vault-art';im.alt='';im.decoding='async';h.appendChild(im);load(im,n)}
+function boot(){document.body.classList.add('rivals-theme');brand();if(!$('.mr-page-accent')){let a=document.createElement('i');a.className='mr-page-accent';a.style.cssText='position:fixed;left:0;top:0;width:8px;height:100vh;background:linear-gradient(#ffd82e 0 28%,#ff4cac 28% 60%,#59edff 60%);z-index:120;pointer-events:none;box-shadow:0 0 22px #59edff44';document.body.appendChild(a)}cards();vault();let g=$('#characterGrid'),m=$('#modalContent');if(g)new MutationObserver(()=>requestAnimationFrame(cards)).observe(g,{childList:true});if(m)new MutationObserver(()=>requestAnimationFrame(vault)).observe(m,{childList:true,subtree:true});setTimeout(cards,300);setTimeout(cards,1100)}
+document.readyState==='loading'?document.addEventListener('DOMContentLoaded',boot,{once:true}):boot();
 })();

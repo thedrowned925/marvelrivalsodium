@@ -1,0 +1,434 @@
+{
+  "Adam Warlock": {
+    "name": "Adam Warlock",
+    "color": "#b58a31",
+    "emblem": "assets/design/emblems/adam-warlock.webp",
+    "portrait": "assets/characters/details/adam-warlock.webp",
+    "card": "assets/characters/cards/adam-warlock.webp",
+    "focus": "50% 10%"
+  },
+  "Angela": {
+    "name": "Angela",
+    "color": "#be522b",
+    "emblem": "assets/design/emblems/angela.webp",
+    "portrait": "assets/characters/details/angela.webp",
+    "card": "assets/characters/cards/angela.webp",
+    "focus": "50% 10%"
+  },
+  "Black Cat": {
+    "name": "Black Cat",
+    "color": "#544f72",
+    "emblem": null,
+    "portrait": "assets/characters/details/black-cat.webp",
+    "card": "assets/characters/cards/black-cat.webp",
+    "focus": "50% 10%"
+  },
+  "Black Panther": {
+    "name": "Black Panther",
+    "color": "#6041a6",
+    "emblem": "assets/design/emblems/black-panther.webp",
+    "portrait": "assets/characters/details/black-panther.webp",
+    "card": "assets/characters/cards/black-panther.webp",
+    "focus": "50% 10%"
+  },
+  "Black Widow": {
+    "name": "Black Widow",
+    "color": "#9e2c40",
+    "emblem": "assets/design/emblems/black-widow.webp",
+    "portrait": "assets/characters/details/black-widow.webp",
+    "card": "assets/characters/cards/black-widow.webp",
+    "focus": "50% 10%"
+  },
+  "Blade": {
+    "name": "Blade",
+    "color": "#a82735",
+    "emblem": "assets/design/emblems/blade.webp",
+    "portrait": "assets/characters/details/blade.webp",
+    "card": "assets/characters/cards/blade.webp",
+    "focus": "50% 10%"
+  },
+  "Cyclops": {
+    "name": "Cyclops",
+    "color": "#215eb0",
+    "emblem": null,
+    "portrait": "assets/characters/details/cyclops.webp",
+    "card": "assets/characters/cards/cyclops.webp",
+    "focus": "50% 10%"
+  },
+  "Dare Devil": {
+    "name": "Daredevil",
+    "color": "#b32b33",
+    "emblem": "assets/design/emblems/dare-devil.webp",
+    "portrait": "assets/characters/details/dare-devil.webp",
+    "card": "assets/characters/cards/dare-devil.webp",
+    "focus": "50% 10%"
+  },
+  "Deadpool": {
+    "name": "Deadpool",
+    "color": "#bd3037",
+    "emblem": "assets/design/emblems/deadpool.webp",
+    "portrait": "assets/characters/details/deadpool.webp",
+    "card": "assets/characters/cards/deadpool.webp",
+    "focus": "50% 10%"
+  },
+  "Devil Dinosaur": {
+    "name": "Devil Dinosaur",
+    "color": "#bb383a",
+    "emblem": null,
+    "portrait": "assets/characters/details/devil-dinosaur.webp",
+    "card": "assets/characters/cards/devil-dinosaur.webp",
+    "focus": "50% 10%"
+  },
+  "Elsa Bloodstone": {
+    "name": "Elsa Bloodstone",
+    "color": "#b36a27",
+    "emblem": "assets/design/emblems/elsa-bloodstone.webp",
+    "portrait": "assets/characters/details/elsa-bloodstone.webp",
+    "card": "assets/characters/cards/elsa-bloodstone.webp",
+    "focus": "50% 10%"
+  },
+  "Emma Frost": {
+    "name": "Emma Frost",
+    "color": "#558898",
+    "emblem": "assets/design/emblems/emma-frost.webp",
+    "portrait": "assets/characters/details/emma-frost.webp",
+    "card": "assets/characters/cards/emma-frost.webp",
+    "focus": "50% 10%"
+  },
+  "Galacta": {
+    "name": "Galacta",
+    "color": "#7746af",
+    "emblem": null,
+    "portrait": "assets/characters/details/galacta.webp",
+    "card": "assets/characters/cards/galacta.webp",
+    "focus": "50% 10%"
+  },
+  "Gambit": {
+    "name": "Gambit",
+    "color": "#973d7e",
+    "emblem": "assets/design/emblems/gambit.webp",
+    "portrait": "assets/characters/details/gambit.webp",
+    "card": "assets/characters/cards/gambit.webp",
+    "focus": "50% 10%"
+  },
+  "Groot": {
+    "name": "Groot",
+    "color": "#65814a",
+    "emblem": "assets/design/emblems/groot.webp",
+    "portrait": "assets/characters/details/groot.webp",
+    "card": "assets/characters/cards/groot.webp",
+    "focus": "50% 10%"
+  },
+  "Hawkeye": {
+    "name": "Hawkeye",
+    "color": "#704392",
+    "emblem": "assets/design/emblems/hawkeye.webp",
+    "portrait": "assets/characters/details/hawkeye.webp",
+    "card": "assets/characters/cards/hawkeye.webp",
+    "focus": "50% 10%"
+  },
+  "Hela": {
+    "name": "Hela",
+    "color": "#1e756a",
+    "emblem": "assets/design/emblems/hela.webp",
+    "portrait": "assets/characters/details/hela.webp",
+    "card": "assets/characters/cards/hela.webp",
+    "focus": "50% 10%"
+  },
+  "Human Torch": {
+    "name": "Human Torch",
+    "color": "#d55b2d",
+    "emblem": "assets/design/emblems/human-torch.webp",
+    "portrait": "assets/characters/details/human-torch.webp",
+    "card": "assets/characters/cards/human-torch.webp",
+    "focus": "50% 10%"
+  },
+  "Invisible Woman": {
+    "name": "Invisible Woman",
+    "color": "#367bc1",
+    "emblem": "assets/design/emblems/invisible-woman.webp",
+    "portrait": "assets/characters/details/invisible-woman.webp",
+    "card": "assets/characters/cards/invisible-woman.webp",
+    "focus": "50% 10%"
+  },
+  "Iron Fist": {
+    "name": "Iron Fist",
+    "color": "#3e8660",
+    "emblem": "assets/design/emblems/iron-fist.webp",
+    "portrait": "assets/characters/details/iron-fist.webp",
+    "card": "assets/characters/cards/iron-fist.webp",
+    "focus": "50% 10%"
+  },
+  "Iron Man": {
+    "name": "Iron Man",
+    "color": "#af3c32",
+    "emblem": "assets/design/emblems/iron-man.webp",
+    "portrait": "assets/characters/details/iron-man.webp",
+    "card": "assets/characters/cards/iron-man.webp",
+    "focus": "50% 10%"
+  },
+  "Jeff": {
+    "name": "Jeff the Land Shark",
+    "color": "#378d9e",
+    "emblem": "assets/design/emblems/jeff.webp",
+    "portrait": "assets/characters/details/jeff.webp",
+    "card": "assets/characters/cards/jeff.webp",
+    "focus": "50% 10%"
+  },
+  "Jubilee": {
+    "name": "Jubilee",
+    "color": "#b68c27",
+    "emblem": null,
+    "portrait": "assets/characters/details/jubilee.webp",
+    "card": "assets/characters/cards/jubilee.webp",
+    "focus": "50% 10%"
+  },
+  "Luna Snow": {
+    "name": "Luna Snow",
+    "color": "#3f7d9e",
+    "emblem": "assets/design/emblems/luna-snow.webp",
+    "portrait": "assets/characters/details/luna-snow.webp",
+    "card": "assets/characters/cards/luna-snow.webp",
+    "focus": "50% 10%"
+  },
+  "Magneto": {
+    "name": "Magneto",
+    "color": "#983845",
+    "emblem": "assets/design/emblems/magneto.webp",
+    "portrait": "assets/characters/details/magneto.webp",
+    "card": "assets/characters/cards/magneto.webp",
+    "focus": "50% 10%"
+  },
+  "Mantis": {
+    "name": "Mantis",
+    "color": "#51884c",
+    "emblem": "assets/design/emblems/mantis.webp",
+    "portrait": "assets/characters/details/mantis.webp",
+    "card": "assets/characters/cards/mantis.webp",
+    "focus": "50% 10%"
+  },
+  "Moon Knight": {
+    "name": "Moon Knight",
+    "color": "#677b93",
+    "emblem": "assets/design/emblems/moon-knight.webp",
+    "portrait": "assets/characters/details/moon-knight.webp",
+    "card": "assets/characters/cards/moon-knight.webp",
+    "focus": "50% 10%"
+  },
+  "Mr.Fantastic": {
+    "name": "Mister Fantastic",
+    "color": "#246aad",
+    "emblem": "assets/design/emblems/mr-fantastic.webp",
+    "portrait": "assets/characters/details/mr-fantastic.webp",
+    "card": "assets/characters/cards/mr-fantastic.webp",
+    "focus": "50% 10%"
+  },
+  "Namor": {
+    "name": "Namor",
+    "color": "#35867c",
+    "emblem": "assets/design/emblems/namor.webp",
+    "portrait": "assets/characters/details/namor.webp",
+    "card": "assets/characters/cards/namor.webp",
+    "focus": "50% 10%"
+  },
+  "Peni Parker": {
+    "name": "Peni Parker",
+    "color": "#ad4276",
+    "emblem": "assets/design/emblems/peni-parker.webp",
+    "portrait": "assets/characters/details/peni-parker.webp",
+    "card": "assets/characters/cards/peni-parker.webp",
+    "focus": "50% 10%"
+  },
+  "Phoenix": {
+    "name": "Phoenix",
+    "color": "#c46b27",
+    "emblem": "assets/design/emblems/phoenix.webp",
+    "portrait": "assets/characters/details/phoenix.webp",
+    "card": "assets/characters/cards/phoenix.webp",
+    "focus": "50% 10%"
+  },
+  "Psylocke": {
+    "name": "Psylocke",
+    "color": "#7751aa",
+    "emblem": "assets/design/emblems/psylocke.webp",
+    "portrait": "assets/characters/details/psylocke.webp",
+    "card": "assets/characters/cards/psylocke.webp",
+    "focus": "50% 10%"
+  },
+  "Rocket Raccoon": {
+    "name": "Rocket Raccoon",
+    "color": "#b2743f",
+    "emblem": "assets/design/emblems/rocket-raccoon.webp",
+    "portrait": "assets/characters/details/rocket-raccoon.webp",
+    "card": "assets/characters/cards/rocket-raccoon.webp",
+    "focus": "50% 10%"
+  },
+  "Rogue": {
+    "name": "Rogue",
+    "color": "#619244",
+    "emblem": "assets/design/emblems/rogue.webp",
+    "portrait": "assets/characters/details/rogue.webp",
+    "card": "assets/characters/cards/rogue.webp",
+    "focus": "50% 10%"
+  },
+  "Scarlet Witch": {
+    "name": "Scarlet Witch",
+    "color": "#b53046",
+    "emblem": "assets/design/emblems/scarlet-witch.webp",
+    "portrait": "assets/characters/details/scarlet-witch.webp",
+    "card": "assets/characters/cards/scarlet-witch.webp",
+    "focus": "50% 10%"
+  },
+  "Spider-Man": {
+    "name": "Spider-Man",
+    "color": "#c33d3d",
+    "emblem": "assets/design/emblems/spider-man.webp",
+    "portrait": "assets/characters/details/spider-man.webp",
+    "card": "assets/characters/cards/spider-man.webp",
+    "focus": "50% 10%"
+  },
+  "Squirrel Girl": {
+    "name": "Squirrel Girl",
+    "color": "#a9683c",
+    "emblem": "assets/design/emblems/squirrel-girl.webp",
+    "portrait": "assets/characters/details/squirrel-girl.webp",
+    "card": "assets/characters/cards/squirrel-girl.webp",
+    "focus": "50% 10%"
+  },
+  "Storm": {
+    "name": "Storm",
+    "color": "#477da2",
+    "emblem": "assets/design/emblems/storm.webp",
+    "portrait": "assets/characters/details/storm.webp",
+    "card": "assets/characters/cards/storm.webp",
+    "focus": "50% 10%"
+  },
+  "The Punisher": {
+    "name": "The Punisher",
+    "color": "#526075",
+    "emblem": "assets/design/emblems/the-punisher.webp",
+    "portrait": "assets/characters/details/the-punisher.webp",
+    "card": "assets/characters/cards/the-punisher.webp",
+    "focus": "50% 10%"
+  },
+  "The Thing": {
+    "name": "The Thing",
+    "color": "#c77b39",
+    "emblem": "assets/design/emblems/the-thing.webp",
+    "portrait": "assets/characters/details/the-thing.webp",
+    "card": "assets/characters/cards/the-thing.webp",
+    "focus": "50% 10%"
+  },
+  "Thor": {
+    "name": "Thor",
+    "color": "#6a82a5",
+    "emblem": "assets/design/emblems/thor.webp",
+    "portrait": "assets/characters/details/thor.webp",
+    "card": "assets/characters/cards/thor.webp",
+    "focus": "50% 10%"
+  },
+  "Ultron": {
+    "name": "Ultron",
+    "color": "#687d91",
+    "emblem": "assets/design/emblems/ultron.webp",
+    "portrait": "assets/characters/details/ultron.webp",
+    "card": "assets/characters/cards/ultron.webp",
+    "focus": "50% 10%"
+  },
+  "Venom": {
+    "name": "Venom",
+    "color": "#485880",
+    "emblem": "assets/design/emblems/venom.webp",
+    "portrait": "assets/characters/details/venom.webp",
+    "card": "assets/characters/cards/venom.webp",
+    "focus": "50% 10%"
+  },
+  "White Fox": {
+    "name": "White Fox",
+    "color": "#51877d",
+    "emblem": null,
+    "portrait": "assets/characters/details/white-fox.webp",
+    "card": "assets/characters/cards/white-fox.webp",
+    "focus": "50% 10%"
+  },
+  "Winter Soldier": {
+    "name": "Winter Soldier",
+    "color": "#647885",
+    "emblem": "assets/design/emblems/winter-soldier.webp",
+    "portrait": "assets/characters/details/winter-soldier.webp",
+    "card": "assets/characters/cards/winter-soldier.webp",
+    "focus": "50% 10%"
+  },
+  "Wolverine": {
+    "name": "Wolverine",
+    "color": "#b7972c",
+    "emblem": "assets/design/emblems/wolverine.webp",
+    "portrait": "assets/characters/details/wolverine.webp",
+    "card": "assets/characters/cards/wolverine.webp",
+    "focus": "50% 10%"
+  },
+  "Capt. America": {
+    "name": "Captain America",
+    "color": "#255b9b",
+    "emblem": "assets/design/emblems/capt-america.webp",
+    "portrait": "assets/characters/details/capt-america.webp",
+    "card": "assets/characters/cards/capt-america.webp",
+    "focus": "50% 10%"
+  },
+  "Dr.Strange": {
+    "name": "Doctor Strange",
+    "color": "#ce3c35",
+    "emblem": "assets/design/emblems/dr-strange.webp",
+    "portrait": "assets/characters/details/dr-strange.webp",
+    "card": "assets/characters/cards/dr-strange.webp",
+    "focus": "50% 10%"
+  },
+  "Hulk": {
+    "name": "Hulk",
+    "color": "#55933f",
+    "emblem": "assets/design/emblems/hulk.webp",
+    "portrait": "assets/characters/details/hulk.webp",
+    "card": "assets/characters/cards/hulk.webp",
+    "focus": "50% 10%"
+  },
+  "Loki": {
+    "name": "Loki",
+    "color": "#377951",
+    "emblem": "assets/design/emblems/loki.webp",
+    "portrait": "assets/characters/details/loki.webp",
+    "card": "assets/characters/cards/loki.webp",
+    "focus": "50% 10%"
+  },
+  "Magik": {
+    "name": "Magik",
+    "color": "#8666bc",
+    "emblem": "assets/design/emblems/magik.webp",
+    "portrait": "assets/characters/details/magik.webp",
+    "card": "assets/characters/cards/magik.webp",
+    "focus": "50% 10%"
+  },
+  "Star Lord": {
+    "name": "Star-Lord",
+    "color": "#a33d43",
+    "emblem": "assets/design/emblems/star-lord.webp",
+    "portrait": "assets/characters/details/star-lord.webp",
+    "card": "assets/characters/cards/star-lord.webp",
+    "focus": "50% 10%"
+  },
+  "Cloak": {
+    "name": "Cloak",
+    "color": "#544098",
+    "emblem": "assets/design/emblems/cloak.webp",
+    "portrait": "assets/characters/details/cloak.webp",
+    "card": "assets/characters/cards/cloak.webp",
+    "focus": "50% 10%"
+  },
+  "Dagger": {
+    "name": "Dagger",
+    "color": "#a98b40",
+    "emblem": "assets/design/emblems/dagger.webp",
+    "portrait": "assets/characters/details/dagger.webp",
+    "card": "assets/characters/cards/dagger.webp",
+    "focus": "50% 10%"
+  }
+}

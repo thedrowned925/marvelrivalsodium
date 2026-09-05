@@ -1,6 +1,6 @@
 /* ODIUM Marvel Rivals — hover/detail voice playback v11 */
 (()=>{
-  const RAW='https://raw.githubusercontent.com/thedrowned925/marvelrivalsodium/main/assets/audio/';
+  const RAW=new URL('./assets/audio/',document.baseURI).href;
   const TRACKS={
     'blade':{
       hover:'hover/intikam.wav',
@@ -82,11 +82,15 @@
     });
   }
 
+  window.OdiumAudio={playName:name=>playDetail({dataset:{name}})};
+
   function scan(){
     document.querySelectorAll('#characterGrid .char-card').forEach(bind);
   }
 
   function warmAudio(){
+    // Browsers may block audible hover playback until the page receives a user gesture.
+    // A first pointer/key interaction unlocks subsequent hover playback where required.
     [hoverAudio,detailAudio].forEach(a=>{
       a.muted=true;
       const p=a.play();

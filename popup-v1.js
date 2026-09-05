@@ -28,15 +28,19 @@
   const button=backdrop.querySelector('.mr-notice-accept');
 
   const close=()=>{
+    document.removeEventListener('keydown',onKey);
     backdrop.classList.remove('is-open');
     document.body.classList.remove('mr-notice-lock');
     window.setTimeout(()=>backdrop.remove(),320);
   };
 
   button.addEventListener('click',close);
-  document.addEventListener('keydown',event=>{
-    if(event.key==='Escape'&&backdrop.isConnected)close();
-  },{once:true});
+  function onKey(event){
+    if(!backdrop.isConnected)return;
+    if(event.key==='Escape')close();
+    if(event.key==='Tab'){event.preventDefault();button.focus();}
+  }
+  document.addEventListener('keydown',onKey);
 
   requestAnimationFrame(()=>{
     backdrop.classList.add('is-open');

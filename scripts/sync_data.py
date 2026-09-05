@@ -9,7 +9,10 @@ STATUS={"Bekliyor":"waiting","Kayit Alindi":"recorded","Kayıt Alındı":"record
 COLUMNS=["Sıra","WAV Dosya Adı","WEM ID","Internal Name","English","Türkçe","Durum","Seslendiren","Tarih","Not"]
 
 def download(url:str,target:Path):
-    with requests.get(url,stream=True,timeout=60,allow_redirects=True) as r:
+    sep='&' if '?' in url else '?'
+    fresh_url=f"{url}{sep}_={int(dt.datetime.now(dt.timezone.utc).timestamp()*1000)}"
+    headers={"Cache-Control":"no-cache, no-store, max-age=0","Pragma":"no-cache"}
+    with requests.get(fresh_url,headers=headers,stream=True,timeout=60,allow_redirects=True) as r:
         r.raise_for_status()
         with target.open('wb') as f:
             for chunk in r.iter_content(262144):
@@ -51,7 +54,7 @@ def build(book:Path,details:Path,existing=None):
         name=str(r[0]);line_rows=rows_for(wb,name);total=len(line_rows) or int(r[1] or 0)
         fb={"waiting":int(r[2] or 0),"recorded":int(r[3] or 0),"checked":int(r[4] or 0),"added":int(r[5] or 0)};c=counts(line_rows,fb)
         worked=c['recorded']+c['checked']+c['added'];progress=round(worked/total*100,2) if total else 0
-        status='Tamamlandi' if total and c['added']==total else ('Baslamadi' if total and c['waiting']==total else 'Devam Ediyor')
+        status='Tamamlandi' if total and worked>=total else ('Baslamadi' if total and c['waiting']==total else 'Devam Ediyor')
         actor=r[8] if r[8] else None;s=slug(name);path=f'data/characters/{s}.json'
         char={"name":name,"slug":s,"detailPath":path,"total":total,**c,"worked":worked,"progress":progress,"status":status,"voiceActor":actor};chars.append(char)
         detail={"character":name,"voiceActor":actor,"summary":{"total":total,**c,"worked":worked,"progress":progress,"status":status},"columns":COLUMNS,"rows":line_rows};target=details/f'{s}.json';expected.add(target);payloads.append((target,detail));revision.append({"character":char,"rows":line_rows})
@@ -75,5 +78,5 @@ def main():
         except Exception:pass
     with tempfile.TemporaryDirectory() as td:
         x=Path(td)/'source.xlsx';download(a.url,x);data=build(x,Path(a.details_dir),existing)
-    out.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');print(f"{data['stats']['characters']} characters / {data['stats']['totalLines']} lines / revision {data['dataRevision']}")
+    out.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');(out.parent/'revision.json').write_text(json.dumps({k:data[k] for k in ('dataRevision','generatedAt')},ensure_ascii=False)+'\n',encoding='utf-8');print(f"{data['stats']['characters']} characters / {data['stats']['totalLines']} lines / revision {data['dataRevision']}")
 if __name__=='__main__':main()
