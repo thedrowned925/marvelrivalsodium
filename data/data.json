@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "db7e1c087a0073b1",
-  "generatedAt": "2026-09-05T09:57:21.045054Z",
+  "dataRevision": "f83da68e056ecf74",
+  "generatedAt": "2026-09-05T18:54:45.096422Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16519,
-    "recorded": 3936,
+    "waiting": 16346,
+    "recorded": 4109,
     "checked": 420,
     "added": 2823,
-    "worked": 7179,
-    "progress": 30.29,
+    "worked": 7352,
+    "progress": 31.02,
     "statusCounts": {
-      "Devam Ediyor": 8,
+      "Devam Ediyor": 7,
       "Baslamadi": 33,
-      "Tamamlandi": 13
+      "Tamamlandi": 14
     },
     "assigned": 40
   },
@@ -197,13 +197,13 @@
       "slug": "galacta",
       "detailPath": "data/characters/galacta.json",
       "total": 405,
-      "waiting": 173,
-      "recorded": 232,
+      "waiting": 0,
+      "recorded": 405,
       "checked": 0,
       "added": 0,
-      "worked": 232,
-      "progress": 57.28,
-      "status": "Devam Ediyor",
+      "worked": 405,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Öykü Kocaöz"
     },
     {
