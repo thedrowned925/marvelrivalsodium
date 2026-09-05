@@ -116,3 +116,13 @@ directory as their original files so CSS image/font URLs remain valid.
 
 Before publishing: `python scripts/verify_assets.py` and
 `python scripts/stage_preview.py`. Publish the matching main tree to gh-pages.
+
+## Audio management panel
+
+`admin/` provides single-owner setup/login, character search, hover/detail audio
+previews and uploads, GitHub connection, account settings and pending publication
+recovery. The dedicated Supabase project handles authorization, encrypted GitHub
+credentials, storage and realtime publication. See `supabase/README.md` for
+setup, security boundaries and deployment. Existing sounds remain the fallback.
+The owner must configure their own repository-scoped GitHub token in the panel;
+no ChatGPT connector credentials are embedded in the application.

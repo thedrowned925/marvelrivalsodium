@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
-"""Publish content-addressed scripts/styles so cached releases cannot mix.
-Run after runtime edits and before committing/publishing index.html.
-Snapshots stay beside the originals, preserving relative CSS asset URLs.
-"""
-import hashlib,json,re
+"""Content-address page scripts/styles, preserving relative CSS asset URLs."""
+import hashlib,json,re,os
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 HASHED=re.compile(r'\.[a-f0-9]{12}(?=\.(?:js|css)$)')
 def version():
-    page=ROOT/'index.html';html=page.read_text();manifest={};keep=set()
-    def replace(match):
-        prefix,url,suffix=match.groups()
-        if re.match(r'(?:https?:)?//',url):return match.group(0)
-        logical=HASHED.sub('',url.split('?')[0])
-        if not logical.endswith(('.js','.css')):return match.group(0)
-        path=ROOT/logical
-        if not path.resolve().is_relative_to(ROOT):raise ValueError('Nonlocal runtime path')
-        data=path.read_bytes();sha=hashlib.sha256(data).hexdigest()
-        target=path.with_name(path.stem+'.'+sha[:12]+path.suffix)
-        target.write_bytes(data);keep.add(target)
-        published=target.relative_to(ROOT).as_posix();manifest[logical]={'url':published,'sha256':sha}
-        return prefix+published+suffix
-    html=re.sub(r'((?:src|href)=")([^"<>]+)(")',replace,html)
-    page.write_text(html)
-    # Only generated files beside the canonical files in this page are eligible.
+    manifest={};keep=set()
+    for page in [ROOT/'index.html',ROOT/'admin/index.html']:
+        if not page.exists():continue
+        def replace(match):
+            prefix,url,suffix=match.groups()
+            if re.match(r'(?:https?:)?//',url):return match.group(0)
+            logical=HASHED.sub('',url.split('?')[0])
+            if not logical.endswith(('.js','.css')):return match.group(0)
+            path=(page.parent/logical).resolve()
+            if not path.is_relative_to(ROOT):raise ValueError('Nonlocal runtime path')
+            data=path.read_bytes();sha=hashlib.sha256(data).hexdigest()
+            target=path.with_name(path.stem+'.'+sha[:12]+path.suffix)
+            target.write_bytes(data);keep.add(target)
+            published=target.relative_to(ROOT).as_posix();href=os.path.relpath(target,page.parent)
+            key=path.relative_to(ROOT).as_posix()
+            item=manifest.setdefault(key,{'url':published,'sha256':sha,'references':[]})
+            item['references'].append({'page':page.relative_to(ROOT).as_posix(),'url':href})
+            return prefix+href+suffix
+        page.write_text(re.sub(r'((?:src|href)=")([^"<>]+)(")',replace,page.read_text()))
     for logical in manifest:
         p=ROOT/logical
         for old in p.parent.glob(p.stem+'.*'+p.suffix):

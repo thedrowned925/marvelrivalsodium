@@ -33,7 +33,8 @@
     .toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 
   const getName=card=>card?.dataset?.name||card?.querySelector('.char-name')?.textContent?.trim()||'';
-  const getTracks=card=>TRACKS[slug(getName(card))]||null;
+  let managed={};
+  const getTracks=card=>{const key=slug(getName(card)),base=TRACKS[key]||{},extra=managed[key]||{};const tracks={hover:extra.hover||base.hover,detail:extra.detail||base.detail};return tracks.hover||tracks.detail?tracks:null};
 
   const hoverAudio=new Audio();
   const detailAudio=new Audio();
@@ -50,11 +51,11 @@
   }
   function stopHover(){reset(hoverAudio);hoverCard=null;}
   function stopDetail(){reset(detailAudio);}
-  function src(path){return `${RAW}${path}?v=11`;}
+  function src(path){return path.startsWith('https://')?path:`${RAW}${path}?v=11`;}
 
   function playHover(card){
     const tracks=getTracks(card);
-    if(!tracks)return;
+    if(!tracks?.hover)return;
     stopHover();
     stopDetail();
     hoverCard=card;
@@ -64,7 +65,7 @@
 
   function playDetail(card){
     const tracks=getTracks(card);
-    if(!tracks)return;
+    if(!tracks?.detail)return;
     stopHover();
     stopDetail();
     detailAudio.src=src(tracks.detail);
@@ -82,7 +83,7 @@
     });
   }
 
-  window.OdiumAudio={playName:name=>playDetail({dataset:{name}})};
+  window.OdiumAudio={playName:name=>playDetail({dataset:{name}}),setTracks:tracks=>{managed=tracks;scan()}};
 
   function scan(){
     document.querySelectorAll('#characterGrid .char-card').forEach(bind);

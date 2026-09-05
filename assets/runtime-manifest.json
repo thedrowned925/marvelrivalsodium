@@ -1,66 +1,224 @@
 {
   "styles.css": {
     "url": "styles.f03eedc4425e.css",
-    "sha256": "f03eedc4425ed9c130c1a0c7f706c917e36f519b0040b7026c1965c460b0cd7d"
+    "sha256": "f03eedc4425ed9c130c1a0c7f706c917e36f519b0040b7026c1965c460b0cd7d",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "styles.f03eedc4425e.css"
+      }
+    ]
   },
   "details.css": {
     "url": "details.9db1ea4e035d.css",
-    "sha256": "9db1ea4e035de46b5dae50502ab7825c444380b4fe3b383b8f3ab0b065f9ae7f"
+    "sha256": "9db1ea4e035de46b5dae50502ab7825c444380b4fe3b383b8f3ab0b065f9ae7f",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "details.9db1ea4e035d.css"
+      }
+    ]
   },
   "rivals-ui.css": {
     "url": "rivals-ui.89133e1b3a41.css",
-    "sha256": "89133e1b3a4123d9e1ae85cad192281593edcddc2be5beafde43a17a91407e79"
+    "sha256": "89133e1b3a4123d9e1ae85cad192281593edcddc2be5beafde43a17a91407e79",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "rivals-ui.89133e1b3a41.css"
+      }
+    ]
   },
   "popup-v1.css": {
     "url": "popup-v1.8ece570e877f.css",
-    "sha256": "8ece570e877fc4f32215f59a24b1685988c157654ee7e5c162be6c5d3f0db82c"
+    "sha256": "8ece570e877fc4f32215f59a24b1685988c157654ee7e5c162be6c5d3f0db82c",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "popup-v1.8ece570e877f.css"
+      }
+    ]
   },
   "dossier.css": {
-    "url": "dossier.5d047c078294.css",
-    "sha256": "5d047c07829420b48c88f848d250189aa0d4cfa6948a2a8fc04c8108e99c57d9"
+    "url": "dossier.72695461e35d.css",
+    "sha256": "72695461e35d2b14c9efde575c8eb51f024042150fd44403522377d0c5417dbb",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "dossier.72695461e35d.css"
+      }
+    ]
   },
   "feature-tour.css": {
     "url": "feature-tour.eabc0dfadb1f.css",
-    "sha256": "eabc0dfadb1ff97ebc3fd4962965722f14fab2c62efb189b1628b7cb133f5a15"
+    "sha256": "eabc0dfadb1ff97ebc3fd4962965722f14fab2c62efb189b1628b7cb133f5a15",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "feature-tour.eabc0dfadb1f.css"
+      }
+    ]
   },
   "assets/characters/art-manifest.js": {
     "url": "assets/characters/art-manifest.1faec6d63d1c.js",
-    "sha256": "1faec6d63d1c8069ee353b2cfc5e89aa5447d5791b63acf18e86c8bb98626d2f"
+    "sha256": "1faec6d63d1c8069ee353b2cfc5e89aa5447d5791b63acf18e86c8bb98626d2f",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "assets/characters/art-manifest.1faec6d63d1c.js"
+      }
+    ]
   },
   "character-art.js": {
     "url": "character-art.b1b2f3b74a71.js",
-    "sha256": "b1b2f3b74a71c880a0541f7578a71435fbb9f6e727d39957e7849641ffda4799"
+    "sha256": "b1b2f3b74a71c880a0541f7578a71435fbb9f6e727d39957e7849641ffda4799",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "character-art.b1b2f3b74a71.js"
+      }
+    ]
   },
   "assets/design/hero-design.js": {
     "url": "assets/design/hero-design.151a2e410848.js",
-    "sha256": "151a2e4108489e5fdefa42c0d84d1657ce70b12c973dc23af8e99b61b886a9d6"
+    "sha256": "151a2e4108489e5fdefa42c0d84d1657ce70b12c973dc23af8e99b61b886a9d6",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "assets/design/hero-design.151a2e410848.js"
+      },
+      {
+        "page": "admin/index.html",
+        "url": "../assets/design/hero-design.151a2e410848.js"
+      }
+    ]
   },
   "poster-renderer.js": {
     "url": "poster-renderer.19b9075c3e9f.js",
-    "sha256": "19b9075c3e9fe06b4a926f53a58887989e68407235dd82edba9cb103cb0e5cac"
+    "sha256": "19b9075c3e9fe06b4a926f53a58887989e68407235dd82edba9cb103cb0e5cac",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "poster-renderer.19b9075c3e9f.js"
+      }
+    ]
   },
   "dossier.js": {
     "url": "dossier.a1a0fe7f4924.js",
-    "sha256": "a1a0fe7f492406e89640b351251fe8d2a5d4ed606c2276df9f9de8431c51ccdd"
+    "sha256": "a1a0fe7f492406e89640b351251fe8d2a5d4ed606c2276df9f9de8431c51ccdd",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "dossier.a1a0fe7f4924.js"
+      }
+    ]
   },
   "app.js": {
     "url": "app.5411d2cd90e3.js",
-    "sha256": "5411d2cd90e33b616e5f8507a0d648e20ef96677f737cf64507155abf011052b"
+    "sha256": "5411d2cd90e33b616e5f8507a0d648e20ef96677f737cf64507155abf011052b",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "app.5411d2cd90e3.js"
+      }
+    ]
   },
   "audio-v10.js": {
-    "url": "audio-v10.7754a7bb5d35.js",
-    "sha256": "7754a7bb5d3504c3a160a6b4526ee3cf690f44985acf14f85a809b1b1774346c"
+    "url": "audio-v10.83c7ec570f8e.js",
+    "sha256": "83c7ec570f8e93d24c060bf5c338b87f9f3c4058547bab79d485e0f83c15ea10",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "audio-v10.83c7ec570f8e.js"
+      }
+    ]
   },
   "device-mode-v1.js": {
     "url": "device-mode-v1.8210e73ce5e1.js",
-    "sha256": "8210e73ce5e1e2f79a71aa451c9185e46fea3d988a2dbf9059e09c18c68b4131"
+    "sha256": "8210e73ce5e1e2f79a71aa451c9185e46fea3d988a2dbf9059e09c18c68b4131",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "device-mode-v1.8210e73ce5e1.js"
+      }
+    ]
   },
   "live-sync.js": {
     "url": "live-sync.d0ab145424f5.js",
-    "sha256": "d0ab145424f5b80a0951091a34cc952971a1b31fd442a58f37b2c83d242c32cb"
+    "sha256": "d0ab145424f5b80a0951091a34cc952971a1b31fd442a58f37b2c83d242c32cb",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "live-sync.d0ab145424f5.js"
+      }
+    ]
   },
   "feature-tour.js": {
     "url": "feature-tour.66e68f7b757e.js",
-    "sha256": "66e68f7b757ed3354c3ab4899b5f3f555611fdb8c8b547239b32aaa34c9fbf39"
+    "sha256": "66e68f7b757ed3354c3ab4899b5f3f555611fdb8c8b547239b32aaa34c9fbf39",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "feature-tour.66e68f7b757e.js"
+      }
+    ]
+  },
+  "assets/vendor/supabase-2.115.0.js": {
+    "url": "assets/vendor/supabase-2.115.0.d2637c3f06c1.js",
+    "sha256": "d2637c3f06c157b00381b4c37c585f5c71e621cd137f4832923a401577a59732",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "assets/vendor/supabase-2.115.0.d2637c3f06c1.js"
+      },
+      {
+        "page": "admin/index.html",
+        "url": "../assets/vendor/supabase-2.115.0.d2637c3f06c1.js"
+      }
+    ]
+  },
+  "assets/admin-config.js": {
+    "url": "assets/admin-config.54139975363e.js",
+    "sha256": "54139975363eedeab8897a66d369959053f19d75572a54550d071d095291c240",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "assets/admin-config.54139975363e.js"
+      },
+      {
+        "page": "admin/index.html",
+        "url": "../assets/admin-config.54139975363e.js"
+      }
+    ]
+  },
+  "audio-live.js": {
+    "url": "audio-live.f180613c77ae.js",
+    "sha256": "f180613c77aebe87830a69d122e925570c958538c352483f9044dab13e8d820a",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "audio-live.f180613c77ae.js"
+      }
+    ]
+  },
+  "admin/admin.css": {
+    "url": "admin/admin.ea2383f837cc.css",
+    "sha256": "ea2383f837cc7d8ad061b7d6f26ee58c9f8bb66a06c3fedb7a3c3d9f78c689ee",
+    "references": [
+      {
+        "page": "admin/index.html",
+        "url": "admin.ea2383f837cc.css"
+      }
+    ]
+  },
+  "admin/admin.js": {
+    "url": "admin/admin.485ffaa367cc.js",
+    "sha256": "485ffaa367cc25541f8ae2eb5c113f999ed7b9fb334781afb1ec68240ddf72e6",
+    "references": [
+      {
+        "page": "admin/index.html",
+        "url": "admin.485ffaa367cc.js"
+      }
+    ]
   }
 }
