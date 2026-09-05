@@ -1,0 +1,762 @@
+{
+  "characters": {
+    "Adam Warlock": {
+      "card": {
+        "file": "assets/characters/cards/adam-warlock.webp",
+        "width": 650,
+        "height": 487,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_AdamWarlock_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/adam-warlock.webp",
+        "width": 484,
+        "height": 906,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_AdamWarlock_0.png"
+      }
+    },
+    "Angela": {
+      "card": {
+        "file": "assets/characters/cards/angela.webp",
+        "width": 650,
+        "height": 381,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Angela_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/angela.webp",
+        "width": 498,
+        "height": 1034,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Angela_0.png"
+      }
+    },
+    "Black Cat": {
+      "card": {
+        "file": "assets/characters/cards/black-cat.webp",
+        "width": 650,
+        "height": 486,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Cat_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/black-cat.webp",
+        "width": 444,
+        "height": 1050,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Cat_0.png"
+      }
+    },
+    "Black Panther": {
+      "card": {
+        "file": "assets/characters/cards/black-panther.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_BlackPanther_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/black-panther.webp",
+        "width": 385,
+        "height": 855,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_BlackPanther_0.png"
+      }
+    },
+    "Black Widow": {
+      "card": {
+        "file": "assets/characters/cards/black-widow.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_BlackWidow_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/black-widow.webp",
+        "width": 326,
+        "height": 905,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_BlackWidow_0.png"
+      }
+    },
+    "Blade": {
+      "card": {
+        "file": "assets/characters/cards/blade.webp",
+        "width": 650,
+        "height": 463,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Blade_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/blade.webp",
+        "width": 574,
+        "height": 1034,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Blade_0.png"
+      }
+    },
+    "Cyclops": {
+      "card": {
+        "file": "assets/characters/cards/cyclops.webp",
+        "width": 266,
+        "height": 650,
+        "source": "https://r.res.easebar.com/pic/20260611/8d40cf2c-6dd6-4b79-bff9-bb85105588b0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/cyclops.webp",
+        "width": 430,
+        "height": 1050,
+        "source": "https://r.res.easebar.com/pic/20260611/8d40cf2c-6dd6-4b79-bff9-bb85105588b0.png"
+      }
+    },
+    "Dare Devil": {
+      "card": {
+        "file": "assets/characters/cards/dare-devil.webp",
+        "width": 650,
+        "height": 459,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Daredevil_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/dare-devil.webp",
+        "width": 502,
+        "height": 1040,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Daredevil_0.png"
+      }
+    },
+    "Deadpool": {
+      "card": {
+        "file": "assets/characters/cards/deadpool.webp",
+        "width": 650,
+        "height": 431,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Deadpool_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/deadpool.webp",
+        "width": 522,
+        "height": 1015,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Deadpool_0.png"
+      }
+    },
+    "Devil Dinosaur": {
+      "card": {
+        "file": "assets/characters/cards/devil-dinosaur.webp",
+        "width": 650,
+        "height": 649,
+        "source": "https://r.res.easebar.com/pic/20260514/2a9b489e-d2a6-4e41-8be3-d1b949a27d8b.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/devil-dinosaur.webp",
+        "width": 936,
+        "height": 934,
+        "source": "https://r.res.easebar.com/pic/20260514/2a9b489e-d2a6-4e41-8be3-d1b949a27d8b.png"
+      }
+    },
+    "Elsa Bloodstone": {
+      "card": {
+        "file": "assets/characters/cards/elsa-bloodstone.webp",
+        "width": 650,
+        "height": 430,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Elsa_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/elsa-bloodstone.webp",
+        "width": 574,
+        "height": 1050,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Elsa_0.png"
+      }
+    },
+    "Emma Frost": {
+      "card": {
+        "file": "assets/characters/cards/emma-frost.webp",
+        "width": 650,
+        "height": 483,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Emma_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/emma-frost.webp",
+        "width": 360,
+        "height": 923,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Emma_0.png"
+      }
+    },
+    "Galacta": {
+      "card": {
+        "file": "assets/characters/cards/galacta.webp",
+        "width": 650,
+        "height": 366,
+        "source": "https://cdn2.unrealengine.com/12-marvelrivals-galacta1-3840x2160-82ba52de61fe.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/galacta.webp",
+        "width": 1050,
+        "height": 591,
+        "source": "https://cdn2.unrealengine.com/12-marvelrivals-galacta1-3840x2160-82ba52de61fe.png"
+      }
+    },
+    "Gambit": {
+      "card": {
+        "file": "assets/characters/cards/gambit.webp",
+        "width": 650,
+        "height": 466,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Gambit_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/gambit.webp",
+        "width": 836,
+        "height": 1005,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Gambit_0.png"
+      }
+    },
+    "Groot": {
+      "card": {
+        "file": "assets/characters/cards/groot.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Groot_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/groot.webp",
+        "width": 637,
+        "height": 1050,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Groot_0.png"
+      }
+    },
+    "Hawkeye": {
+      "card": {
+        "file": "assets/characters/cards/hawkeye.webp",
+        "width": 650,
+        "height": 471,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Hawkeye_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/hawkeye.webp",
+        "width": 741,
+        "height": 948,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Hawkeye_0.png"
+      }
+    },
+    "Hela": {
+      "card": {
+        "file": "assets/characters/cards/hela.webp",
+        "width": 650,
+        "height": 460,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Hela_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/hela.webp",
+        "width": 1050,
+        "height": 1035,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Hela_0.png"
+      }
+    },
+    "Human Torch": {
+      "card": {
+        "file": "assets/characters/cards/human-torch.webp",
+        "width": 650,
+        "height": 485,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Johnny_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/human-torch.webp",
+        "width": 466,
+        "height": 1007,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Johnny_0.png"
+      }
+    },
+    "Invisible Woman": {
+      "card": {
+        "file": "assets/characters/cards/invisible-woman.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_InvWoman_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/invisible-woman.webp",
+        "width": 276,
+        "height": 983,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_InvWoman_0.png"
+      }
+    },
+    "Iron Fist": {
+      "card": {
+        "file": "assets/characters/cards/iron-fist.webp",
+        "width": 650,
+        "height": 490,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_IronFist_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/iron-fist.webp",
+        "width": 438,
+        "height": 918,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_IronFist_0.png"
+      }
+    },
+    "Iron Man": {
+      "card": {
+        "file": "assets/characters/cards/iron-man.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_IronMan_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/iron-man.webp",
+        "width": 468,
+        "height": 944,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_IronMan_0.png"
+      }
+    },
+    "Jeff": {
+      "card": {
+        "file": "assets/characters/cards/jeff.webp",
+        "width": 650,
+        "height": 471,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_JefftheLandShark_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/jeff.webp",
+        "width": 959,
+        "height": 690,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_JefftheLandShark_0.png"
+      }
+    },
+    "Jubilee": {
+      "card": {
+        "file": "assets/characters/cards/jubilee.webp",
+        "width": 575,
+        "height": 650,
+        "source": "https://r.res.easebar.com/pic/20260707/802f69c7-51ce-4b30-b698-ed914603b9ae.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/jubilee.webp",
+        "width": 750,
+        "height": 848,
+        "source": "https://r.res.easebar.com/pic/20260707/802f69c7-51ce-4b30-b698-ed914603b9ae.png"
+      }
+    },
+    "Luna Snow": {
+      "card": {
+        "file": "assets/characters/cards/luna-snow.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_LunaSnow_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/luna-snow.webp",
+        "width": 330,
+        "height": 862,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_LunaSnow_0.png"
+      }
+    },
+    "Magneto": {
+      "card": {
+        "file": "assets/characters/cards/magneto.webp",
+        "width": 650,
+        "height": 471,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Magneto_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/magneto.webp",
+        "width": 773,
+        "height": 919,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Magneto_0.png"
+      }
+    },
+    "Mantis": {
+      "card": {
+        "file": "assets/characters/cards/mantis.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Mantis_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/mantis.webp",
+        "width": 331,
+        "height": 884,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Mantis_0.png"
+      }
+    },
+    "Moon Knight": {
+      "card": {
+        "file": "assets/characters/cards/moon-knight.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_MoonKnight_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/moon-knight.webp",
+        "width": 826,
+        "height": 927,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_MoonKnight_0.png"
+      }
+    },
+    "Mr.Fantastic": {
+      "card": {
+        "file": "assets/characters/cards/mr-fantastic.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_MFantastic_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/mr-fantastic.webp",
+        "width": 403,
+        "height": 982,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_MFantastic_0.png"
+      }
+    },
+    "Namor": {
+      "card": {
+        "file": "assets/characters/cards/namor.webp",
+        "width": 650,
+        "height": 426,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Namor_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/namor.webp",
+        "width": 534,
+        "height": 967,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Namor_0.png"
+      }
+    },
+    "Peni Parker": {
+      "card": {
+        "file": "assets/characters/cards/peni-parker.webp",
+        "width": 650,
+        "height": 485,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_PeniParker_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/peni-parker.webp",
+        "width": 723,
+        "height": 962,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_PeniParker_0.png"
+      }
+    },
+    "Phoenix": {
+      "card": {
+        "file": "assets/characters/cards/phoenix.webp",
+        "width": 650,
+        "height": 407,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Phoenix_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/phoenix.webp",
+        "width": 606,
+        "height": 1044,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Phoenix_0.png"
+      }
+    },
+    "Psylocke": {
+      "card": {
+        "file": "assets/characters/cards/psylocke.webp",
+        "width": 650,
+        "height": 471,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Psylocke_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/psylocke.webp",
+        "width": 595,
+        "height": 925,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Psylocke_0.png"
+      }
+    },
+    "Rocket Raccoon": {
+      "card": {
+        "file": "assets/characters/cards/rocket-raccoon.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_RocketRaccoon_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/rocket-raccoon.webp",
+        "width": 600,
+        "height": 814,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_RocketRaccoon_0.png"
+      }
+    },
+    "Rogue": {
+      "card": {
+        "file": "assets/characters/cards/rogue.webp",
+        "width": 650,
+        "height": 486,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Rogue_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/rogue.webp",
+        "width": 370,
+        "height": 1050,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Rogue_0.png"
+      }
+    },
+    "Scarlet Witch": {
+      "card": {
+        "file": "assets/characters/cards/scarlet-witch.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_ScarletWitch_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/scarlet-witch.webp",
+        "width": 355,
+        "height": 876,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_ScarletWitch_0.png"
+      }
+    },
+    "Spider-Man": {
+      "card": {
+        "file": "assets/characters/cards/spider-man.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_SpiderMan_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/spider-man.webp",
+        "width": 350,
+        "height": 857,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_SpiderMan_0.png"
+      }
+    },
+    "Squirrel Girl": {
+      "card": {
+        "file": "assets/characters/cards/squirrel-girl.webp",
+        "width": 650,
+        "height": 406,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_SquirrelGirl_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/squirrel-girl.webp",
+        "width": 705,
+        "height": 947,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_SquirrelGirl_0.png"
+      }
+    },
+    "Storm": {
+      "card": {
+        "file": "assets/characters/cards/storm.webp",
+        "width": 650,
+        "height": 401,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Storm_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/storm.webp",
+        "width": 891,
+        "height": 926,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Storm_0.png"
+      }
+    },
+    "The Punisher": {
+      "card": {
+        "file": "assets/characters/cards/the-punisher.webp",
+        "width": 650,
+        "height": 432,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Punisher_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/the-punisher.webp",
+        "width": 646,
+        "height": 932,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Punisher_0.png"
+      }
+    },
+    "The Thing": {
+      "card": {
+        "file": "assets/characters/cards/the-thing.webp",
+        "width": 650,
+        "height": 450,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Thing_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/the-thing.webp",
+        "width": 748,
+        "height": 957,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Thing_0.png"
+      }
+    },
+    "Thor": {
+      "card": {
+        "file": "assets/characters/cards/thor.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Thor_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/thor.webp",
+        "width": 510,
+        "height": 988,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Thor_0.png"
+      }
+    },
+    "Ultron": {
+      "card": {
+        "file": "assets/characters/cards/ultron.webp",
+        "width": 650,
+        "height": 492,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Ultron_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/ultron.webp",
+        "width": 397,
+        "height": 967,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Ultron_0.png"
+      }
+    },
+    "Venom": {
+      "card": {
+        "file": "assets/characters/cards/venom.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Venom_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/venom.webp",
+        "width": 607,
+        "height": 1014,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Venom_0.png"
+      }
+    },
+    "White Fox": {
+      "card": {
+        "file": "assets/characters/cards/white-fox.webp",
+        "width": 650,
+        "height": 473,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_WhiteFox_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/white-fox.webp",
+        "width": 496,
+        "height": 1050,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_WhiteFox_0.png"
+      }
+    },
+    "Winter Soldier": {
+      "card": {
+        "file": "assets/characters/cards/winter-soldier.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_WinterSoldier_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/winter-soldier.webp",
+        "width": 416,
+        "height": 906,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_WinterSoldier_0.png"
+      }
+    },
+    "Wolverine": {
+      "card": {
+        "file": "assets/characters/cards/wolverine.webp",
+        "width": 650,
+        "height": 471,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Wolverine_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/wolverine.webp",
+        "width": 412,
+        "height": 936,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Wolverine_0.png"
+      }
+    },
+    "Capt. America": {
+      "card": {
+        "file": "assets/characters/cards/capt-america.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_CaptainAmerica_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/capt-america.webp",
+        "width": 425,
+        "height": 954,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_CaptainAmerica_0.png"
+      }
+    },
+    "Dr.Strange": {
+      "card": {
+        "file": "assets/characters/cards/dr-strange.webp",
+        "width": 650,
+        "height": 489,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_DoctorStrange_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/dr-strange.webp",
+        "width": 572,
+        "height": 939,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_DoctorStrange_0.png"
+      }
+    },
+    "Hulk": {
+      "card": {
+        "file": "assets/characters/cards/hulk.webp",
+        "width": 650,
+        "height": 445,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Hulk_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/hulk.webp",
+        "width": 654,
+        "height": 1046,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Hulk_0.png"
+      }
+    },
+    "Loki": {
+      "card": {
+        "file": "assets/characters/cards/loki.webp",
+        "width": 650,
+        "height": 469,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Loki_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/loki.webp",
+        "width": 509,
+        "height": 1031,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Loki_0.png"
+      }
+    },
+    "Magik": {
+      "card": {
+        "file": "assets/characters/cards/magik.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_Magik_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/magik.webp",
+        "width": 812,
+        "height": 948,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_Magik_0.png"
+      }
+    },
+    "Star Lord": {
+      "card": {
+        "file": "assets/characters/cards/star-lord.webp",
+        "width": 650,
+        "height": 488,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_StarLord_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/star-lord.webp",
+        "width": 470,
+        "height": 1048,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_StarLord_0.png"
+      }
+    },
+    "Cloak": {
+      "card": {
+        "file": "assets/characters/cards/cloak.webp",
+        "width": 650,
+        "height": 390,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_CloakDagger_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/cloak.webp",
+        "width": 1050,
+        "height": 846,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_CloakDagger_0.png"
+      }
+    },
+    "Dagger": {
+      "card": {
+        "file": "assets/characters/cards/dagger.webp",
+        "width": 650,
+        "height": 390,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/base_files/icon/file_CloakDagger_0.png"
+      },
+      "detail": {
+        "file": "assets/characters/details/dagger.webp",
+        "width": 1050,
+        "height": 846,
+        "source": "https://github.com/joaorb64/StreamHelperAssets/blob/ca478493cff1575a1db2a46edc950c30945ae5e3/games/mriv/full/file_CloakDagger_0.png"
+      }
+    }
+  },
+  "missing": [],
+  "credits": "Marvel / NetEase game artwork; distributed by StreamHelperAssets, source: https://www.marvelrivals.com/heroes/index.html"
+}

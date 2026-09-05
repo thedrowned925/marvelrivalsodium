@@ -1,48 +1,29 @@
-# ODIUM Marvel Rivals — Yerel Karakter Görselleri
+# Verified local character artwork
 
-Bu klasörler site tarafından doğrudan okunur. Dış CDN/Fandom görseli kullanılmaz.
+All 54 tracked characters have committed card and detail WebP assets. The browser
+loads these files from the site's own origin and never probes Fandom/CDNs.
+`art-manifest.json` records the exact source URL and decoded dimensions for every
+asset. `art-manifest.js` is its browser-facing map; regenerate both together.
 
-## Klasörler
+Credits: Marvel / NetEase. Most artwork is from the official Marvel Rivals hero
+site, distributed by [StreamHelperAssets](https://github.com/joaorb64/StreamHelperAssets)
+at revision `ca478493cff1575a1db2a46edc950c30945ae5e3`. That repository explicitly
+allows other projects to use the assets with pack credits retained. This does not
+transfer ownership of Marvel or NetEase artwork.
 
-- `normal/` — kartın normal, solgun görünen ilk artwork'i.
-- `hover/` — masaüstünde karta mouse gelince görünen güçlü/renkli ikinci artwork.
-- `detail/` — karakter detay ekranının sağındaki büyük artwork. Bu dosya yoksa `hover/`, o da yoksa `normal/` kullanılır.
+Additional verified sources:
 
-## Dosya adı kuralı
+- Cyclops: https://www.marvelrivals.com/20260611/41360_1303977.html
+- Devil Dinosaur: https://www.marvelrivals.com/20260514/41360_1300391.html
+- Jubilee: official NetEase image URL already registered in this project; exact URL in the manifest.
+- Galacta: Epic Games CDN image already registered in this project; exact URL in the manifest.
 
-Dosya adı karakter slug'ı ile birebir aynı olmalıdır. Örnek:
+Cloak and Dagger intentionally share the game's joint character illustration.
+Characters without a distinct second illustration reuse their own artwork at
+a larger resolution. No unrelated character is used as a fallback.
 
-- `normal/groot.webp`
-- `hover/groot.webp`
-- `detail/groot.webp`
-- `normal/the-punisher.webp`
-- `hover/the-punisher.webp`
-- `detail/the-punisher.webp`
-
-Desteklenen uzantılar: `.webp`, `.png`, `.jpg`, `.jpeg`.
-Öncelik: WebP → PNG → JPG → JPEG.
-
-## Tavsiye edilen görsel ölçüleri
-
-### normal
-- 3:4 dikey
-- 1200×1600 ideal
-- Karakter ortada, baş ve gövde kart içinde kalmalı
-
-### hover
-- 3:4 veya 4:5
-- 1200×1600 / 1400×1750 ideal
-- Fandom Heroes sayfasındaki sarı çerçeveli/güçlü kart artwork'leri için uygun
-
-### detail
-- Şeffaf PNG/WebP tavsiye edilir
-- 1600×1600 veya daha büyük
-- Tam/yarım karakter, mümkün olduğunca güçlü splash artwork
-
-## Fallback
-
-- `normal` yok ama `hover` varsa: hover görseli normal kartta solgun gösterilir.
-- `hover` yok ama `normal` varsa: normal görsel hover'da renklenir.
-- `detail` yoksa: hover, o da yoksa normal kullanılır.
-
-`FILENAMES.txt` dosyasında 54 karakterin tam dosya isimleri vardır.
+`python scripts/verify_assets.py` rejects missing or corrupt artwork before preview
+packaging. The legacy-named sync entrypoint preserves valid images and restores
+missing files from exact recorded sources. New characters must receive a verified
+manifest entry; the UI still displays their data and an explicit image-unavailable
+state until that entry is added.

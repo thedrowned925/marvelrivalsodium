@@ -1,6 +1,6 @@
 name: Sync Marvel Rivals live data v2
 
-# Manual trigger: 2026-08-29 20:35 TRT
+# A source-side notification skips the scheduled wait. Schedule remains a recovery fallback.
 on:
   push:
     branches: [main]
@@ -9,14 +9,17 @@ on:
       - '.github/workflows/sync-data-v2.yml'
   schedule:
     - cron: '*/5 * * * *'
+  repository_dispatch:
+    types: [workbook-updated]
+  workflow_call:
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: odium-marvel-rivals-data-v2
-  cancel-in-progress: true
+  group: odium-marvel-rivals-data-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -48,13 +51,13 @@ jobs:
 
       - name: Commit synchronized data
         run: |
-          if git diff --quiet -- data/data.json data/characters; then
+          if git diff --quiet -- data/data.json data/revision.json data/characters; then
             echo 'Workbook data is already current on main.'
             exit 0
           fi
           git config user.name 'odium-data-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- data/data.json data/characters
+          git add -- data/data.json data/revision.json data/characters
           git commit -m 'data: publish full character details [skip ci]'
 
           # main may have advanced while the workbook was being processed.
@@ -63,25 +66,5 @@ jobs:
           git rebase origin/main
           git push origin HEAD:main
 
-      - name: Publish synchronized data to gh-pages
-        run: |
-          publish_dir="$(mktemp -d)"
-          cp -a data/. "$publish_dir/"
-
-          git fetch origin gh-pages
-          git switch --detach origin/gh-pages
-
-          rm -rf data
-          mkdir -p data
-          cp -a "$publish_dir"/. data/
-
-          if git diff --quiet -- data; then
-            echo 'Published gh-pages data is already current.'
-            exit 0
-          fi
-
-          git config user.name 'odium-data-bot'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- data
-          git commit -m 'data: publish tracker data to gh-pages'
-          git push origin HEAD:gh-pages
+      # Browsers read revision/summary/details from main. The page itself does not
+      # need another deployment for each workbook edit.

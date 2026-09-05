@@ -78,5 +78,5 @@ def main():
         except Exception:pass
     with tempfile.TemporaryDirectory() as td:
         x=Path(td)/'source.xlsx';download(a.url,x);data=build(x,Path(a.details_dir),existing)
-    out.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');print(f"{data['stats']['characters']} characters / {data['stats']['totalLines']} lines / revision {data['dataRevision']}")
+    out.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');(out.parent/'revision.json').write_text(json.dumps({k:data[k] for k in ('dataRevision','generatedAt')},ensure_ascii=False)+'\n',encoding='utf-8');print(f"{data['stats']['characters']} characters / {data['stats']['totalLines']} lines / revision {data['dataRevision']}")
 if __name__=='__main__':main()
