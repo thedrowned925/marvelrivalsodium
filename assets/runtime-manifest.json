@@ -1,0 +1,66 @@
+{
+  "styles.css": {
+    "url": "styles.f03eedc4425e.css",
+    "sha256": "f03eedc4425ed9c130c1a0c7f706c917e36f519b0040b7026c1965c460b0cd7d"
+  },
+  "details.css": {
+    "url": "details.9db1ea4e035d.css",
+    "sha256": "9db1ea4e035de46b5dae50502ab7825c444380b4fe3b383b8f3ab0b065f9ae7f"
+  },
+  "rivals-ui.css": {
+    "url": "rivals-ui.89133e1b3a41.css",
+    "sha256": "89133e1b3a4123d9e1ae85cad192281593edcddc2be5beafde43a17a91407e79"
+  },
+  "popup-v1.css": {
+    "url": "popup-v1.8ece570e877f.css",
+    "sha256": "8ece570e877fc4f32215f59a24b1685988c157654ee7e5c162be6c5d3f0db82c"
+  },
+  "dossier.css": {
+    "url": "dossier.5d047c078294.css",
+    "sha256": "5d047c07829420b48c88f848d250189aa0d4cfa6948a2a8fc04c8108e99c57d9"
+  },
+  "feature-tour.css": {
+    "url": "feature-tour.eabc0dfadb1f.css",
+    "sha256": "eabc0dfadb1ff97ebc3fd4962965722f14fab2c62efb189b1628b7cb133f5a15"
+  },
+  "assets/characters/art-manifest.js": {
+    "url": "assets/characters/art-manifest.1faec6d63d1c.js",
+    "sha256": "1faec6d63d1c8069ee353b2cfc5e89aa5447d5791b63acf18e86c8bb98626d2f"
+  },
+  "character-art.js": {
+    "url": "character-art.b1b2f3b74a71.js",
+    "sha256": "b1b2f3b74a71c880a0541f7578a71435fbb9f6e727d39957e7849641ffda4799"
+  },
+  "assets/design/hero-design.js": {
+    "url": "assets/design/hero-design.151a2e410848.js",
+    "sha256": "151a2e4108489e5fdefa42c0d84d1657ce70b12c973dc23af8e99b61b886a9d6"
+  },
+  "poster-renderer.js": {
+    "url": "poster-renderer.19b9075c3e9f.js",
+    "sha256": "19b9075c3e9fe06b4a926f53a58887989e68407235dd82edba9cb103cb0e5cac"
+  },
+  "dossier.js": {
+    "url": "dossier.a1a0fe7f4924.js",
+    "sha256": "a1a0fe7f492406e89640b351251fe8d2a5d4ed606c2276df9f9de8431c51ccdd"
+  },
+  "app.js": {
+    "url": "app.5411d2cd90e3.js",
+    "sha256": "5411d2cd90e33b616e5f8507a0d648e20ef96677f737cf64507155abf011052b"
+  },
+  "audio-v10.js": {
+    "url": "audio-v10.7754a7bb5d35.js",
+    "sha256": "7754a7bb5d3504c3a160a6b4526ee3cf690f44985acf14f85a809b1b1774346c"
+  },
+  "device-mode-v1.js": {
+    "url": "device-mode-v1.8210e73ce5e1.js",
+    "sha256": "8210e73ce5e1e2f79a71aa451c9185e46fea3d988a2dbf9059e09c18c68b4131"
+  },
+  "live-sync.js": {
+    "url": "live-sync.d0ab145424f5.js",
+    "sha256": "d0ab145424f5b80a0951091a34cc952971a1b31fd442a58f37b2c83d242c32cb"
+  },
+  "feature-tour.js": {
+    "url": "feature-tour.66e68f7b757e.js",
+    "sha256": "66e68f7b757ed3354c3ab4899b5f3f555611fdb8c8b547239b32aaa34c9fbf39"
+  }
+}

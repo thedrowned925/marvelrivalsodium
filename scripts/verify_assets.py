@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Fail before publishing if any roster artwork, JSON detail or audio is missing."""
-import json, re
+import json, re, hashlib
 from pathlib import Path
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
@@ -37,5 +37,13 @@ for name,profile in design.items():
   except Exception as e:errors.append(f'{name} design {kind}: {e}')
 for font in ['BebasNeue-Regular.ttf','Barlow-Regular.ttf']:
  if not (ROOT/'assets/design/fonts'/font).is_file():errors.append('Missing local font '+font)
+runtime=json.loads((ROOT/'assets/runtime-manifest.json').read_text())
+page=(ROOT/'index.html').read_text()
+for logical,item in runtime.items():
+ try:
+  source=(ROOT/logical).read_bytes();published=(ROOT/item['url']).read_bytes()
+  assert source==published and hashlib.sha256(published).hexdigest()==item['sha256']
+  assert '"'+item['url']+'"' in page
+ except Exception as e:errors.append(f'{logical}: stale runtime snapshot; run scripts/version_runtime.py ({e})')
 if errors:raise SystemExit('\n'.join(errors))
 print(f"PASS: {len(data['characters'])} characters, {2*len(data['characters'])} local artwork references, character datasets, all voice tracks.")
