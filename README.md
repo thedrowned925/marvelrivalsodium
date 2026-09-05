@@ -104,3 +104,15 @@ must notify the implemented repository-dispatch hook. The five-minute scheduled
 job remains a recovery fallback. See `scripts/LIVE_DATA.md` for the concrete
 integration hook and latency limits. The tour does not claim zero-delay Excel
 updates. Only one scheduled data workflow remains.
+
+## Runtime release integrity
+
+Run `python scripts/version_runtime.py` after changing any page script or style,
+then commit its generated snapshots and index together. The page loads files
+with content hashes in their names; a cached legacy `app.js` or stylesheet can
+no longer be combined with a new HTML release. Snapshots stay in the same
+directory as their original files so CSS image/font URLs remain valid.
+`assets/runtime-manifest.json` records the exact expected hashes.
+
+Before publishing: `python scripts/verify_assets.py` and
+`python scripts/stage_preview.py`. Publish the matching main tree to gh-pages.
