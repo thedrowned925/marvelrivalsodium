@@ -3,13 +3,13 @@
   "voiceActor": "Göksu Neva Gürbüz",
   "summary": {
     "total": 426,
-    "waiting": 119,
-    "recorded": 307,
+    "waiting": 0,
+    "recorded": 426,
     "checked": 0,
     "added": 0,
-    "worked": 307,
-    "progress": 72.07,
-    "status": "Devam Ediyor"
+    "worked": 426,
+    "progress": 100.0,
+    "status": "Tamamlandi"
   },
   "columns": [
     "Sıra",
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10310448_escorting_remind_museume_01_play",
       "english": "Monsters or not, they deserve to be free, too!",
       "turkish": "Canavar olmaları ya da olmamaları fark etmez, onların da özgür olmayı hak ettiklerini düşünüyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10310015_single_06_play",
       "english": "Honestly? I didn't like snow growing up.  Halmoni always tried to throw snowballs with me though.",
       "turkish": "Doğrusunu istersen büyürken kardan hoşlanmazdım. Buna rağmen Halmoni her zaman bana kartopu atmaya çalışırdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10310406_interact_02_10520_a_play",
       "english": "I know you, Lin Lie. Something's bothering you. What's up?",
       "turkish": "Seni tanıyorum, Lin Lie. Bir şey seni rahatsız ediyor. Ne oldu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10310065_ability_e_02_play",
       "english": "Be your best self!",
       "turkish": "Elinizden gelenin en iyisini yapın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10310339_sp_single_klyntarec_02_play",
       "english": "King in Black? Performing for royalty isn't really my style…",
       "turkish": "Karalar Bürünen Kral mı? Kraliyet için performans sergilemek pek benim tarzım değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10310170_building_spotted_portal_01_play",
       "english": "Doctor Strange has opened a portal!",
       "turkish": "Doctor Strange bir portal açmış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10310234_escorting_remind_tokyoe_01_play",
       "english": "We have little time. Spider-Zero must reach the Web!",
       "turkish": "Az zamanımız kaldı. Spider-Zero, Ağ'a ulaşmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10310429_sp_interact_tokyoh_01_10600_b_play",
       "english": "What can I say? Neon suits me!",
       "turkish": "Ne diyebilirim ki? Neon bana yakışıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10310271_signal_wheel_backup_02_play",
       "english": "Help a girl out!",
       "turkish": "Bu kıza yardım edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10310246_quick_q_charge_90_higher_02_play",
       "english": "Almost warmed up!",
       "turkish": "Neredeyse ısındım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10310074_debuff_purple_01_play",
       "english": "진짜(Jin-jja)? No healing?",
       "turkish": "진짜(Jin-jja)? İyileşemiyor muyum?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10310167_building_spotted_ankh_01_play",
       "english": "It's one of Moon Knight's ankhs!",
       "turkish": "Moon Knight'ın yaşam çarmıhlarından biri!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10310050_sp_interact_klyntar_01_10350_a_play",
       "english": "Were you…born here?",
       "turkish": "Sen… burada mı doğdun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10310180_building_destroy_ankh_02_play",
       "english": "Ankh smashed!",
       "turkish": "Yaşam çarmıhını parçalandı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10310104_countdown_at_02_play",
       "english": "Time for the big finish!",
       "turkish": "Muhteşem bir son olsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10310094_buff_purge_02_play",
       "english": "Mmm, like a spa day.",
       "turkish": "Mmm, hamamdan çıkmış gibiyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10310346_escorting_payload_newyorke_04_play",
       "english": "Aww! Aren't you the cutest little robot! Of course we'll help you!",
       "turkish": "Yaa! Sen ne sevimli, ne minik bir robotsun öyle! Elbette sana yardım ederiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10310009_single_15_play",
       "english": "It's easier being a super hero when you already have the fame part figured out.",
       "turkish": "İşin şöhret kısmını çözdükten sonra süper kahraman olmak daha kolaydır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10310389_interact_01_10490_a_play",
       "english": "Do you mind if I sing a little during battle? It helps me get in the right rhythm.",
       "turkish": "Savaş sırasında biraz şarkı söylememin sakıncası var mı? Doğru ritmi yakalamama yardımcı oluyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10310302_interact_01_10520_d_play",
       "english": "Maybe… but I've always preferred the cold!",
       "turkish": "Belki… Ama hep soğuğu tercih etmişimdir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10310173_building_spotted_turret_01_play",
       "english": "The Punisher is in turret mode!",
       "turkish": "Punisher taret modunda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10310166_saw_sniper_03_play",
       "english": "Josimhae, sniper!",
       "turkish": "Josimhae, keskin nişancı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10310053_sp_interact_klyntar_01_10230_c_play",
       "english": "So how did you end up here?",
       "turkish": "Peki nasıl oldu da buraya geldin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10310172_building_spotted_portal_03_play",
       "english": "An open portal! The enemy will be coming!",
       "turkish": "Açık bir portal! İçinden düşman gelecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10310487_ko_sp_01_10640_play",
       "english": "Fireworks always fade, Jubilee!",
       "turkish": "Havai fişekler eninde sonunda söner, JUBILEE!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10310030_interact_01_10470_c_play",
       "english": "Okay! I'll let you show me.",
       "turkish": "Peki! Göster bakalım hünerlerini.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10310501_interact_03_10600_a_play",
       "english": "Whew! I'm so glad we're on the same side of this battle, Ami.",
       "turkish": "Of! Ami, bu savaşta aynı tarafta olduğumuza o kadar sevindim ki.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10310419_interact_02_10570_d_play",
       "english": "I…don't know what that means, but everything should be chill… I hope.",
       "turkish": "Ben… bunun ne anlama geldiğini bilmiyorum, ama her şey sakin olmalı… Umarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10310486_ko_sp_01_10630_play",
       "english": "Sorry, Cyke! I really am a big fan! I swear!",
       "turkish": "Affet, Cyke! Gerçekten de büyük bir hayranınım! Yemin ederim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10310177_building_spotted_nest_02_play",
       "english": "Stay away from the nest.",
       "turkish": "Yuvadan uzak durun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10310113_ko_normal_03_play",
       "english": "You seeing stars?",
       "turkish": "Yıldızları görüyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10310430_sp_interact_tokyoh_01_10600_d_play",
       "english": "Relax, Unnie. I can multitask.",
       "turkish": "Rahat ol, Unnie. Aynı anda birden fazla işi yapabilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10310394_sp_ability_10460_02_play",
       "english": "What a remix!",
       "turkish": "Ne harika bir remix!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10310202_ko_v_03_play",
       "english": "Get down, stay down!",
       "turkish": "Yat bakayım, kal oralarda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10310449_escorting_remind_museume_02_play",
       "english": "Keep going or we all end up in the Collector's Hall of Fame!",
       "turkish": "Devam edin yoksa hepimiz Koleksiyoncu'nun Şöhret Salonu'nda son buluruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10310035_interact_01_10140_e_play",
       "english": "…Well, we are in the right place for that. Let's go!",
       "turkish": "…Bunun için doğru yerdeyiz. Haydi gidelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10310055_sp_interact_hydra_01_10330_c_play",
       "english": "Oh, I won't.",
       "turkish": "Peki.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10310005_single_11_play",
       "english": "Music makes people happy. Heroes make them safe. Maybe I can do both!",
       "turkish": "Müzik insanı mutlu eder, kahramanlar ise onları güvende tutar. Ben belki ikisini de yapabilirim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10310434_sp_interact_newyorke_01_10600_d_play",
       "english": "And you always act like you don't appreciate it.",
       "turkish": "Ve her zaman bunu takdir etmiyormuş gibi davranıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10310452_interact_01_10610_b_play",
       "english": "Really? I didn't know you were a musician.",
       "turkish": "Gerçekten mi? Müzisyen olduğunu bilmiyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10310343_escorting_payload_klyntarh_03_play",
       "english": "I usually like the underground scene… but now I'm not so sure…",
       "turkish": "Genelde yeraltı camiasına bayılırım… Ama emin olamadım şimdi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10310331_sp_ability_10520_04_play",
       "english": "Immortal chill!",
       "turkish": "Ölümsüz buz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10310099_occupied_hint_defend_01_play",
       "english": "We'll defend what's ours.",
       "turkish": "Bölgemizi savunacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10310292_building_spotted_octopus_02_play",
       "english": "That's one ugly back-up band, Namor…",
       "turkish": "Şu arka grubun da amma fenaymış Namor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10310231_escorting_payload_wakandah_02_play",
       "english": "Let's go! This place makes my heart sing. So magnificent!",
       "turkish": "Haydi gidelim! Burası kalbime şarkı söyletiyor. Çok muhteşem!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10310187_building_destroy_amplifier_03_play",
       "english": "I shut down the amp.",
       "turkish": "Kuvvetlendiriciyi kapattım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10310480_entrance_02_10460_play",
       "english": "I'm ready for this duet to go gold, Adam!",
       "turkish": "Bu düetin altın plak almasına hazırım, Adam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10310336_sp_single_krakoac_02_play",
       "english": "The entertainment has arrived! Let's get this party started!",
       "turkish": "Sizi eğlendirmeye geldik! Parti başlasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10310366_interact_01_10570_d_play",
       "english": "Sounds fun, but I have an image to maintain… and you don't fit it!",
       "turkish": "Eğlenceli geliyor, ama korumam gereken bir imajım var… ve sen buna uymuyorsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10310054_sp_interact_hydra_01_10330_a_play",
       "english": "This place is spooky.",
       "turkish": "Burası ürkütücü bir yer.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10310396_sp_single_kunlunec_01_play",
       "english": "I'm used to playing for big crowds, but this is something else…",
       "turkish": "Büyük kalabalıklara oynamaya alışığım, ama bu bambaşka…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10310168_building_spotted_ankh_02_play",
       "english": "Moon Knight placed an ankh!",
       "turkish": "Moon Knight bir yaşam çarmıhı yerleştirdi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10310102_occupied_hint_attack_02_play",
       "english": "We can't just stand around. Let's attack!",
       "turkish": "Öylece duramayız. Haydi saldıralım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10310370_interact_03_10430_d_play",
       "english": "I have a strange feeling my music didn't make it onto your mixtapes.",
       "turkish": "Müziğimin senin mixtape'lerine girmediğine dair garip bir his var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10310341_sp_single_museume_02_play",
       "english": "I like a captive audience… but this is too much…",
       "turkish": "Esir bir izleyici kitlesini severim… ama bu biraz fazla olmuş…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10310161_interact_02_10430_d_play",
       "english": "Sigh.",
       "turkish": "İç çeker.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10310422_sp_emote_10470_1047001217_03_play",
       "english": "Glow up!",
       "turkish": "Yıldızın parlasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10310037_interact_01_10290_c_play",
       "english": "That's too awesome.",
       "turkish": "Bu çok harika.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10310347_escorting_payload_newyorkh_03_play",
       "english": "Dracula's Castle is my next tour stop? I need to fire my agent…",
       "turkish": "Drakula'nın Kalesi bir sonraki tur durağım mı? Menajerimi kovmam gerekiyor...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10310478_entrance_02_10600_play",
       "english": "We make a legendary team, don't we Ami?",
       "turkish": "Efsane bir takım oluyoruz, değil mi Ami?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10310158_interact_02_10420_d_play",
       "english": "Wow. For a girl with ice powers, I suddenly feel pretty uncool.",
       "turkish": "Vay canına. Buz güçlerim var ama biraz ter bastı nedense.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10310042_sp_single_wakanda_01_play",
       "english": "So this is the future…or one future, anyway.",
       "turkish": "Demek gelecek bu… Ya da geleceklerden biri. Her neyse.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10310146_quick_q_charge_90_higher_01_play",
       "english": "Get the crowd hyped…",
       "turkish": "Kalabalığı coşturalım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10310215_revenge_01_play",
       "english": "Sweet revenge!",
       "turkish": "Tatlı intikam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10310210_ko_five_02_play",
       "english": "You know I'm a star!",
       "turkish": "Bir yıldız olduğumu biliyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10310410_interact_01_10560_a_play",
       "english": "Omona! That outfit is amazing! You have to hook me up with your stylist, Angela!",
       "turkish": "Vay canına! O kıyafet harika! Beni stilistinle tanıştırmalısın, Angela!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10310451_escorting_remind_newyorkh02_02_play",
       "english": "Come on! My contract said a five-star hotel. Not a prison cell!",
       "turkish": "Hadi ama! Sözleşmemde beş yıldızlı bir otel yazıyordu. Hapishane hücresi değil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10310399_escorting_payload_kunlunh_02_play",
       "english": "Never thought I'd get to collab with an ancient turtle spirit!",
       "turkish": "Eski bir kaplumbağa ruhuyla iş birliği yapacağımı hiç düşünmezdim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10310033_interact_01_10140_a_play",
       "english": "Wow, you look tough.",
       "turkish": "Vay canına, sert görünüyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10310197_ko_assist_01_play",
       "english": "We're finding our groove.",
       "turkish": "Ritmimizi buluyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10310280_signal_vehicle_as_defend_02_play",
       "english": "Don't let them drive any further!",
       "turkish": "Daha fazla ilerlemelerine izin vermeyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10310409_interact_01_10440_d_play",
       "english": "People have told me that was a killer track… but I didn't take it literally!",
       "turkish": "İnsanlar bana bunun harika bir parça olduğunu söylediler… ama bunu kelimenin tam anlamıyla almadım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10310189_building_destroy_turret_02_play",
       "english": "The turret is gone!",
       "turkish": "Taret yok edildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10310002_single_08_play",
       "english": "All I ever wanted to do was sing, really.",
       "turkish": "Tek istediğim şarkı söylemekti, gerçekten.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10310510_interact_03_10640_d_play",
       "english": "Either way, I wouldn't have the time. I'm way too busy singing at sold out stadiums! But thanks!",
       "turkish": "Her hâlükârda vaktim olmazdı. Tıklım tıklım dolu stadyumlarda şarkı söylemekle fazlasıyla meşgulüm! Ama teşekkürler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10310282_signal_no_02_play",
       "english": "Not a chance.",
       "turkish": "Asla olmaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10310080_damaged_03_play",
       "english": "Oof, that one hurt.",
       "turkish": "Uf, bu acıttı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10310401_escorting_remind_kunlunh_02_play",
       "english": "Talk about moving at a glacial pace. Let's go already!",
       "turkish": "Buzul hızında hareket etmekten bahsediyoruz. Hadi ama, artık gidelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10310494_saw_ko_01_10590_play",
       "english": "Looks like Elsa's aiming for the win!",
       "turkish": "Görünüşe göre Elsa zafere kilitlenmiş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10310036_interact_01_10290_a_play",
       "english": "Love your sword, but don't melt my ice!",
       "turkish": "Kılıcını sevdim ama buzumu eritme!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10310433_sp_interact_newyorke_01_10600_b_play",
       "english": "I don't mind the cold. And I brought my own light.",
       "turkish": "Soğuğu umursamıyorum. Ve kendi ışığımı getirdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10310444_escorting_payload_museume_01_play",
       "english": "All aboard! Anyone want a ride to safety?",
       "turkish": "Herkes biniyor! Güvenliğe bir yolculuk isteyen var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10310039_interact_01_10430_d_play",
       "english": "Sounds like you need to talk to my manager.",
       "turkish": "Menajerimle konuşman gerekecek sanırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10310400_escorting_remind_kunlunh_01_play",
       "english": "We're not gonna make it to Shou-Lao at this rate! Ottoke?",
       "turkish": "Bu hızla Shou-Lao'ya asla yetişemeyeceğiz! Ne yapacağız?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10310270_signal_wheel_backup_01_play",
       "english": "I need backup… and I don't mean dancers!",
       "turkish": "Desteğe ihtiyacım var… Dansçıları kastetmiyorum ama!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10310078_damaged_01_play",
       "english": "Ahh! I'm hurt!",
       "turkish": "Ahh! Yaralandım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10310138_healthpack_02_play",
       "english": "Oh, healing!",
       "turkish": "İyileşmek güzel!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10310273_signal_area_unoccupied_01_play",
       "english": "We can totally take this place.",
       "turkish": "Burayı tamamen ele geçirebiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10310073_debuff_exhaust_02_play",
       "english": "I'm made of glass!",
       "turkish": "Ben camdan yapılmışım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10310255_signal_open_spot_02_play",
       "english": "Keep an eye on this spot.",
       "turkish": "Bu noktadan gözünüzü ayırmayın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10310105_countdown_dt_01_play",
       "english": "We're so close…hang on!",
       "turkish": "Yaklaştık… Az daha dayanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10310174_building_spotted_turret_02_play",
       "english": "Danger! The Punisher's Culling Turret is active!",
       "turkish": "Tehlike! Punisher'ın İtlaf Tareti aktif!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10310344_escorting_payload_klyntarh_04_play",
       "english": "Let's deliver Knull's essence below the surface.",
       "turkish": "Knull’un özünü yerin altına teslim edelim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10310001_select_01_play",
       "english": "I'm Luna Snow. Like the moon, I shine in darkness.",
       "turkish": "Ben Luna Snow'um. Karanlıkta ay gibi parlıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10310071_debuff_control_02_play",
       "english": "Gotta get free…",
       "turkish": "Özgür olmak lazım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10310038_interact_01_10430_b_play",
       "english": "I am? Amazing! I didn't think aliens listened to K-Pop.",
       "turkish": "Ben mi? Bu inanılmaz! Uzaylıların K-Pop dinleyeceği aklıma gelmezdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10310457_interact_01_10620_c_play",
       "english": "Think that I could ever make it onto one of her playlists?",
       "turkish": "Sence beni hiç onun çalma listelerinden birine alır mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10310017_interact_01_10340_a_play",
       "english": "Tony Stark! I'm totally fangirling.",
       "turkish": "Tony Stark! Tamamen hayran kadın gibi takılıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10310391_interact_01_10540_a_play",
       "english": "Whoa… What's that sound…? Like a melodic wind blowing across time and space…",
       "turkish": "Vay… Bu ses de ne…? Sanki zaman ve mekân boyunca esen melodik bir rüzgar gibi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10310377_sp_interact_krakoac_01_10530_b_play",
       "english": "Look who's talking, Frost. Apparently, money can't buy a fashion sense.",
       "turkish": "Bunu sen mi diyorsun Frost? Parayla şık olunmuyormuş, orası kesin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10310284_signal_teammate_hp_02_play",
       "english": "Come here and let me help.",
       "turkish": "Buraya gel de yardımcı olayım sana.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10310154_interact_01_10150_a_play",
       "english": "Okay, confession time. Around you I feel kind of inferior. I mean, you can do everything I can do, and so much more.",
       "turkish": "Peki, itiraf ediyorum. Senin yanında kendimi değersiz hissediyorum. Demek istediğim, sen benim yapabileceğim her şeyi ve çok daha fazlasını yapabiliyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10310257_signal_broken_02_play",
       "english": "Hit this place hard and watch the show!",
       "turkish": "Buraya sert bir darbe indirin ve gösteriyi izleyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10310411_interact_01_10560_c_play",
       "english": "Then it should hold up fine for a few hours on stage, right?",
       "turkish": "O zaman sahnede birkaç saat dayanır, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10310061_ability_right_01_play",
       "english": "Snowball fight!",
       "turkish": "Kartopu savaşı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10310250_quick_hp_normal_02_play",
       "english": "Don't worry. I'm cool.",
       "turkish": "Endişelenmeyin. İyiyim ben.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10310297_interact_01_10170_b_play",
       "english": "Hold on. Are you actually hitting on me as the world ends around us?",
       "turkish": "Hoppala. Kıyamet kopmak üzereyken bana asılıyor musun gerçekten?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10310179_building_destroy_ankh_01_play",
       "english": "I put the ankh on ice.",
       "turkish": "Yaşam çarmıhını dondurdum",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10310275_signal_area_occupied_01_play",
       "english": "Don't let them take this spot.",
       "turkish": "Bu noktayı almalarına izin vermeyin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10310340_sp_single_kunlun_02_play",
       "english": "Everyone here looks so serious! A little music will change that!",
       "turkish": "Buradaki herkes çok ciddi görünüyor! Biraz müzik bunu değiştirebilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10310103_countdown_at_01_play",
       "english": "We have to break through now!",
       "turkish": "Düşman hattını yarmalıyız şimdi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10310013_single_04_play",
       "english": "따스한 하얀 눈으로 널 감싸 안아（Warm snow surrounds you.）",
       "turkish": "따스한 하얀 눈으로 널 감싸 안아（Sıcak karlar sarmış etrafını.）",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10310413_interact_01_10550_d_play",
       "english": "Ouch! Not cool, man!",
       "turkish": "Ah! Hiç hoş değil, dostum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10310108_saw_enemy_02_play",
       "english": "There they are.",
       "turkish": "İşte geldiler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10310505_interact_03_10620_b_play",
       "english": "I didn't know dinosaurs had bedrooms… or posters… or voices that sounded like pre-teen girls…",
       "turkish": "Dinozorların yatak odaları olduğunu… ya da posterleri… ya da ergenlik öncesi kızlar gibi çıkan sesleri… olduğunu bilmiyordum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10310195_ko_sniper_02_play",
       "english": "Sniper's snowed under.",
       "turkish": "Keskin nişancı buz kesildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10310204_ko_ability_right_02_play",
       "english": "You're a little underdressed, aren't you?",
       "turkish": "Kıyafet seçimin iyi değil sanki, ne dersin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10310153_quick_thanks_01_play",
       "english": "Gomawoyo!",
       "turkish": "Gomawoyo!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
@@ -5131,12 +5131,12 @@
       "internalName": "vo_10310056_switch_01_play_p2",
       "english": "Luna Snow could bring a little star power to your group!",
       "turkish": "Luna Snow, takımınıza küçük bir yıldız gücü katabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Göksu Neva Gürbüz",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "f83da68e056ecf74",
-  "generatedAt": "2026-09-05T18:54:45.096422Z"
+  "dataRevision": "27c1db425ee3a84f",
+  "generatedAt": "2026-09-05T19:02:04.317393Z"
 }

@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "f83da68e056ecf74",
-  "generatedAt": "2026-09-05T18:54:45.096422Z",
+  "dataRevision": "27c1db425ee3a84f",
+  "generatedAt": "2026-09-05T19:02:04.317393Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16346,
-    "recorded": 4109,
+    "waiting": 16227,
+    "recorded": 4228,
     "checked": 420,
     "added": 2823,
-    "worked": 7352,
-    "progress": 31.02,
+    "worked": 7471,
+    "progress": 31.53,
     "statusCounts": {
-      "Devam Ediyor": 7,
+      "Devam Ediyor": 6,
       "Baslamadi": 33,
-      "Tamamlandi": 14
+      "Tamamlandi": 15
     },
     "assigned": 40
   },
@@ -351,13 +351,13 @@
       "slug": "luna-snow",
       "detailPath": "data/characters/luna-snow.json",
       "total": 426,
-      "waiting": 119,
-      "recorded": 307,
+      "waiting": 0,
+      "recorded": 426,
       "checked": 0,
       "added": 0,
-      "worked": 307,
-      "progress": 72.07,
-      "status": "Devam Ediyor",
+      "worked": 426,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Göksu Neva Gürbüz"
     },
     {
