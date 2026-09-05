@@ -3,13 +3,13 @@
   "voiceActor": "Ayça Cengiz",
   "summary": {
     "total": 402,
-    "waiting": 401,
-    "recorded": 1,
+    "waiting": 402,
+    "recorded": 0,
     "checked": 0,
     "added": 0,
-    "worked": 1,
-    "progress": 0.25,
-    "status": "Devam Ediyor"
+    "worked": 0,
+    "progress": 0.0,
+    "status": "Baslamadi"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10380388_sp_interact_klyntarc_01_10540_d_play",
       "english": "I feel it too. Like some sort of universal \"Yin\" and \"Yang\". How curious…",
       "turkish": "Ben de hissediyorum. Evrensel bir “Yin” ve “Yang” gibi. Ne ilginç…",
-      "status": "Kayit Alindi",
+      "status": "Bekliyor",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4849,6 +4849,6 @@
       "note": null
     }
   ],
-  "dataRevision": "d434b814f5580f78",
-  "generatedAt": "2026-09-05T09:50:22.753001Z"
+  "dataRevision": "db7e1c087a0073b1",
+  "generatedAt": "2026-09-05T09:57:21.045054Z"
 }
