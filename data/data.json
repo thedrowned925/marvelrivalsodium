@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "bd48b563c044b633",
-  "generatedAt": "2026-09-06T12:41:05.450276Z",
+  "dataRevision": "20a29188ea771ab6",
+  "generatedAt": "2026-09-06T13:22:17.512272Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16748,
-    "recorded": 3284,
+    "waiting": 16689,
+    "recorded": 3343,
     "checked": 420,
     "added": 3246,
-    "worked": 6950,
-    "progress": 29.33,
+    "worked": 7009,
+    "progress": 29.58,
     "statusCounts": {
-      "Devam Ediyor": 8,
-      "Baslamadi": 33,
+      "Devam Ediyor": 9,
+      "Baslamadi": 32,
       "Tamamlandi": 13
     },
     "assigned": 40
@@ -281,13 +281,13 @@
       "slug": "invisible-woman",
       "detailPath": "data/characters/invisible-woman.json",
       "total": 391,
-      "waiting": 391,
-      "recorded": 0,
+      "waiting": 332,
+      "recorded": 59,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 59,
+      "progress": 15.09,
+      "status": "Devam Ediyor",
       "voiceActor": "Öykü Pancar"
     },
     {
