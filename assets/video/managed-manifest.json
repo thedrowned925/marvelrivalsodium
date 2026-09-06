@@ -199,6 +199,10 @@
     "white-fox": {
       "path": "assets/video/managed/white-fox/fc89d4b7-ef88-4ca7-a9ae-01c335b4d9c2.mp4",
       "duration": 10.304
+    },
+    "wolverine": {
+      "path": "assets/video/managed/wolverine/df0b8b74-d02b-41f6-ac40-778ba8537f3a.mp4",
+      "duration": 10.261333333333333
     }
   }
 }
