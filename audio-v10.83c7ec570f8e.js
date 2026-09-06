@@ -1,4 +1,4 @@
-/* ODIUM Marvel Rivals — hover/detail voice playback v11 */
+/* ODIUM Marvel Rivals — hover/detail voice playback v12 */
 (()=>{
   const RAW=new URL('./assets/audio/',document.baseURI).href;
   const TRACKS={
@@ -32,7 +32,7 @@
     .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
     .toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 
-  const getName=card=>card?.dataset?.name||card?.querySelector('.char-name')?.textContent?.trim()||'';
+  const getName=card=>card?.dataset?.name||card?.querySelector?.('.char-name')?.textContent?.trim()||'';
   let managed={};
   const getTracks=card=>{const key=slug(getName(card)),base=TRACKS[key]||{},extra=managed[key]||{};const tracks={hover:extra.hover||base.hover,detail:extra.detail||base.detail};return tracks.hover||tracks.detail?tracks:null};
 
@@ -51,7 +51,7 @@
   }
   function stopHover(){reset(hoverAudio);hoverCard=null;}
   function stopDetail(){reset(detailAudio);}
-  function src(path){return path.startsWith('https://')?path:`${RAW}${path}?v=11`;}
+  function src(path){return path.startsWith('https://')?path:`${RAW}${path}?v=12`;}
 
   function playHover(card){
     const tracks=getTracks(card);
@@ -63,7 +63,7 @@
     hoverAudio.play().catch(()=>{});
   }
 
-  function playDetail(card){
+  function playDetailNow(card){
     const tracks=getTracks(card);
     if(!tracks?.detail)return;
     stopHover();
@@ -72,9 +72,19 @@
     detailAudio.play().catch(()=>{});
   }
 
+  function playDetail(card){
+    const tracks=getTracks(card);
+    if(!tracks?.detail)return;
+    stopHover();
+    stopDetail();
+    const name=getName(card);
+    if(name&&window.DossierVideo?.queueDetailAudio?.(name))return;
+    playDetailNow(card);
+  }
+
   function bind(card){
-    if(!card||card.dataset.audioV11==='1'||!getTracks(card))return;
-    card.dataset.audioV11='1';
+    if(!card||card.dataset.audioV12==='1'||!getTracks(card))return;
+    card.dataset.audioV12='1';
     card.addEventListener('mouseenter',()=>playHover(card));
     card.addEventListener('mouseleave',()=>{if(hoverCard===card)stopHover();});
     card.addEventListener('click',()=>playDetail(card),{capture:true});
@@ -83,15 +93,18 @@
     });
   }
 
-  window.OdiumAudio={playName:name=>playDetail({dataset:{name}}),setTracks:tracks=>{managed=tracks;scan()}};
+  window.OdiumAudio={
+    playName:name=>playDetail({dataset:{name}}),
+    playNow:name=>playDetailNow({dataset:{name}}),
+    stopDetail,
+    setTracks:tracks=>{managed=tracks;scan()}
+  };
 
   function scan(){
     document.querySelectorAll('#characterGrid .char-card').forEach(bind);
   }
 
   function warmAudio(){
-    // Browsers may block audible hover playback until the page receives a user gesture.
-    // A first pointer/key interaction unlocks subsequent hover playback where required.
     [hoverAudio,detailAudio].forEach(a=>{
       a.muted=true;
       const p=a.play();
