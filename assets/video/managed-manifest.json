@@ -98,7 +98,11 @@
     },
     "dagger": {
       "path": "assets/video/managed/dagger/605a3318-5c51-4577-857d-cff0d641b822.mp4",
-      "duration": 8.213333333333333
+      "duration": 8.21333333333333
+    },
+    "deadpool": {
+      "path": "assets/video/managed/deadpool/7b96a356-c0f6-4ca0-8ec1-16e97139eb2f.mp4",
+      "duration": 10.688
     }
   }
 }
