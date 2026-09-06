@@ -62,7 +62,11 @@
     },
     "cyclops": {
       "path": "assets/video/managed/cyclops/343b1f68-9ae5-46ef-b261-af5c673c40f5.mp4",
-      "duration": 8.917333333333334
+      "duration": 8.91733333333333
+    },
+    "adam-warlock": {
+      "path": "assets/video/managed/adam-warlock/92eae5c7-02c6-472a-89a7-deb13f9032c5.mp4",
+      "duration": 7.552
     }
   }
 }
