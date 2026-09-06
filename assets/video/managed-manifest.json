@@ -171,6 +171,10 @@
     "psylocke": {
       "path": "assets/video/managed/psylocke/52320972-42e9-4a3f-b5b5-ee8b4305e9f9.mp4",
       "duration": 8.448
+    },
+    "rogue": {
+      "path": "assets/video/managed/rogue/45112adc-d881-4dc0-908f-de2b95c9c569.mp4",
+      "duration": 10.048
     }
   }
 }
