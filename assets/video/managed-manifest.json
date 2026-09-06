@@ -167,6 +167,10 @@
     "namor": {
       "path": "assets/video/managed/namor/ff8ce86c-8b70-4c7e-b966-3338206e06fa.mp4",
       "duration": 8.384
+    },
+    "psylocke": {
+      "path": "assets/video/managed/psylocke/52320972-42e9-4a3f-b5b5-ee8b4305e9f9.mp4",
+      "duration": 8.448
     }
   }
 }
