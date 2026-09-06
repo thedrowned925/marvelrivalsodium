@@ -70,7 +70,11 @@
     },
     "venom": {
       "path": "assets/video/managed/venom/bc1f313a-522a-4819-bf9f-488e33be0177.mp4",
-      "duration": 7.722666666666667
+      "duration": 7.72266666666667
+    },
+    "angela": {
+      "path": "assets/video/managed/angela/89089daf-b4ae-4f62-890a-80514c77988c.mp4",
+      "duration": 10.581333333333333
     }
   }
 }
