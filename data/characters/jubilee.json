@@ -3,13 +3,13 @@
   "voiceActor": "Mina Çakılkaya",
   "summary": {
     "total": 466,
-    "waiting": 466,
-    "recorded": 0,
+    "waiting": 465,
+    "recorded": 1,
     "checked": 0,
     "added": 0,
-    "worked": 0,
-    "progress": 0.0,
-    "status": "Baslamadi"
+    "worked": 1,
+    "progress": 0.21,
+    "status": "Devam Ediyor"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10640115_escorting_remind_museume_01_play",
       "english": "We've got innocent creatures to rescue. No stopping 'til they're safe!",
       "turkish": "Kurtarmamız gereken masum yaratıklar var. Onlar güvende olana kadar durmak yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5617,6 +5617,6 @@
       "note": null
     }
   ],
-  "dataRevision": "e922da3924434660",
-  "generatedAt": "2026-09-06T18:52:33.363590Z"
+  "dataRevision": "e6584c416448fd27",
+  "generatedAt": "2026-09-06T19:28:12.812584Z"
 }
