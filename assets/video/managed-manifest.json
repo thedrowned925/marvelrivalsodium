@@ -2,7 +2,11 @@
   "characters": {
     "black-panther": {
       "path": "assets/video/managed/black-panther/fbce3738-931e-4f9c-b019-fe6c6bf733b2.mp4",
-      "duration": 7.765333333333333
+      "duration": 7.76533333333333
+    },
+    "blade": {
+      "path": "assets/video/managed/blade/7de71ac2-14d3-46f1-8ce5-2c73560c2017.mp4",
+      "duration": 7.872
     }
   }
 }
