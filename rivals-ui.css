@@ -18,4 +18,5 @@ body{background:var(--bg);font-size:16px}body:before{content:"";position:fixed;i
 @media(prefers-reduced-motion:reduce){.char-card{animation:none}.char-art img{transition:none}html{scroll-behavior:auto}}
 /* Reset inherited dimensions from the original theme at every breakpoint. */
 .hero-visual{min-height:0;display:block}.portal-wrap{aspect-ratio:auto;display:block;transform-style:flat}.orbit-core{text-align:left}.orbit-core strong{background:none;-webkit-background-clip:initial;margin:2px 0}.char-name{max-width:none}.stats{padding:0}.filter-tabs{border-radius:2px}.search-box input::placeholder{color:#91a0b3}.brand-copy small,.sync-pill span:last-child{display:block}.char-card{transform-style:flat}
-.char-card[data-name="Galacta"] .char-art img{object-fit:cover;object-position:50% 35%}
+/* Frame the tall Galacta render from the helmet down, only inside roster cards. */
+.char-card[data-name="Galacta"] .char-art :is(.art-base,.art-hover){height:185%;object-fit:contain;object-position:50% 0;scale:1;transform-origin:50% 0}

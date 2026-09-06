@@ -20,12 +20,12 @@
     ]
   },
   "rivals-ui.css": {
-    "url": "rivals-ui.89133e1b3a41.css",
-    "sha256": "89133e1b3a4123d9e1ae85cad192281593edcddc2be5beafde43a17a91407e79",
+    "url": "rivals-ui.d2dd777b2030.css",
+    "sha256": "d2dd777b203088207d565461a88ec8a2cb9a99c8cc61b67b5c594aeb09fd6af7",
     "references": [
       {
         "page": "index.html",
-        "url": "rivals-ui.89133e1b3a41.css"
+        "url": "rivals-ui.d2dd777b2030.css"
       }
     ]
   },
