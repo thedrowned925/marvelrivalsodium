@@ -59,6 +59,10 @@
     "magneto": {
       "path": "assets/video/managed/magneto/3de3e87c-dec2-44f3-8036-ab3da8df2dd5.mp4",
       "duration": 7.616
+    },
+    "cyclops": {
+      "path": "assets/video/managed/cyclops/343b1f68-9ae5-46ef-b261-af5c673c40f5.mp4",
+      "duration": 8.917333333333334
     }
   }
 }
