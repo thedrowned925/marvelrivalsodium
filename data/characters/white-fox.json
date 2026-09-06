@@ -3,13 +3,13 @@
   "voiceActor": "Arya Alphan",
   "summary": {
     "total": 487,
-    "waiting": 487,
-    "recorded": 0,
+    "waiting": 322,
+    "recorded": 165,
     "checked": 0,
     "added": 0,
-    "worked": 0,
-    "progress": 0.0,
-    "status": "Baslamadi"
+    "worked": 165,
+    "progress": 33.88,
+    "status": "Devam Ediyor"
   },
   "columns": [
     "Sıra",
@@ -31,7 +31,7 @@
       "internalName": "vo_10600306_interact_01_10390_d_play",
       "english": "If we don't win this fight, it might not have any creatures left at all!",
       "turkish": "Eğer bu savaşı kazanamazsak, geriye hiçbir yaratık kalmayabilir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10600467_interact_02_10340_b_play",
       "english": "Upgrade? Our systems are bleeding edge. We phased out Stark Tech years ago. You're obsolete, Tony.",
       "turkish": "Yükseltme mi? Sistemlerimiz son teknolojinin de ötesinde. Stark Tech'i yıllar önce kullanımdan kaldırdık. Senin devrin geçti, Tony.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10600397_sp_interact_wakanda_01_10630_b_play",
       "english": "Neither do your X-Men, Cyclops.",
       "turkish": "Senin X-Men’in de değil, Cyclops.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10600090_easter_egg_newyorkh02_01_play",
       "english": "So much paper. All to avoid talking to one's neighbors.",
       "turkish": "Bu kadar çok kağıt... Sırf komşularıyla konuşmaktan kaçınmak için.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10600156_debuff_weak_01_play",
       "english": "A fox adapts.",
       "turkish": "Bir tilki uyum sağlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10600445_quick_q_charge_90_higher_02_play",
       "english": "Nearly ready to unleash my full powers!",
       "turkish": "Tam gücümü açığa çıkarmaya neredeyse hazırım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10600302_interact_01_10550_d_play",
       "english": "We should talk when this is done. I could use someone like you…",
       "turkish": "Bu iş bittiğinde konuşmalıyız. Senin gibi birine ihtiyacım olabilir…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10600331_interact_01_10530_a_play",
       "english": "I've got huge gaps in my intel when it comes to Krakoa. Care to fill them in, Ms. Frost?",
       "turkish": "Krakoa hakkında istihbaratımda büyük boşluklar var. Bunları doldurmak ister misiniz, Bayan Frost?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10600085_escorting_remind_museume_02_play",
       "english": "Do not stop! Or we'll end up in these cages!",
       "turkish": "Durmayın! Yoksa bu kafeslerde son buluruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10600125_saw_ko_01_10450_play",
       "english": "A king's blow. Effective, Namor.",
       "turkish": "Bir kralın darbesi. Etkili, Namor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10600108_ko_sp_01_10470_play",
       "english": "Sleep It off, little land shark.",
       "turkish": "Uyu ve dinlen, küçük karasal köpek balığı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10600158_buff_heal_noncritical_01_play",
       "english": "My spirit steadies!",
       "turkish": "Ruhum dengede!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10600019_single_11_play",
       "english": "Yes, I’m a fox spirit. No, you can’t touch my tails.",
       "turkish": "Evet, bir tilki ruhuyum. Hayır, kuyruklarıma dokunamazsınız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10600121_saw_ko_01_10140_play",
       "english": "Eomeona! Classic Castle antics.",
       "turkish": "Eomeona! Klasik Kale oyunları.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10600104_ko_sp_01_10270_play",
       "english": "I'm sorry, Groot. The forest will remember you.",
       "turkish": "Üzgünüm, Groot. Orman seni hatırlayacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10600131_saw_ko_01_10420_play",
       "english": "Well calibrated, Peni.",
       "turkish": "İyi ayarlanmış, Peni.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10600015_single_07_play",
       "english": "I may look young, but trust me… I’ve lived through more than most.",
       "turkish": "Genç görünebilirim, ama bana güvenin… Çoğundan daha fazlasını yaşadım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10600168_buff_dr_01_play",
       "english": "Less damage. For a bit.",
       "turkish": "Daha az hasar. Bir süreliğine.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10600402_sp_interact_newyorkh02_01_10310_c_play",
       "english": "Didn't I have to break you out?",
       "turkish": "Seni kurtarmak zorunda kalmamış mıydım?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10600346_interact_01_10510_d_play",
       "english": "Flattery won't win us this fight. But a little morale boost in the heat of battle never hurt anyone.",
       "turkish": "İltifatlar bu savaşı kazanmamızı sağlamaz. Ama savaşın ortasında biraz moral desteği kimseye zarar vermez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10600063_escorting_payload_museume_02_play",
       "english": "If only we could fit all these creatures.",
       "turkish": "Keşke tüm bu yaratıkları sığdırabilseydik.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10600151_debuff_control_02_play",
       "english": "A cage can't hold a Kumiho!",
       "turkish": "Bir kafes bir Kumiho'yu tutamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10600506_interact_02_10330_a_play",
       "english": "Your resistance efforts in your timeline have caught my attention, Ms. Romanoff.",
       "turkish": "Kendi zaman tünelinizdeki direniş çabalarınız dikkatimi çekti, Bayan Romanoff.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10600240_ko_assist_01_play",
       "english": "Team strike. Efficient.",
       "turkish": "TAKIM saldırısı. Verimli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10600370_interact_02_10490_c_play",
       "english": "My approach means fewer corpses.",
       "turkish": "Benim yaklaşımım daha az ceset demek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10600202_saw_sniper_02_play",
       "english": "We need to take out that sharpshooter.",
       "turkish": "O keskin nişancıyı etkisiz hale getirmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10600500_interact_01_10500_a_play",
       "english": "Dr. Storm Richards. I'm glad to have you on our side. I didn't expect to see you here.",
       "turkish": "Dr. Storm Richards. Sizi yanımızda görmek güzel. Sizi burada görmeyi beklemiyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10600079_escorting_remind_newyorkh_02_play",
       "english": "Keep steady, Ratatoskr. We must perservere!",
       "turkish": "Sakin ol, Ratatoskr. Dayanmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10600060_escorting_payload_kunlunh_01_play",
       "english": "The turtle is slow. But as long as its steady!",
       "turkish": "Kaplumbağa yavaş. Ama sabit olduğu sürece sorun yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10600067_escorting_remind_asgarde_02_play",
       "english": "Do not fail! Yggdrasill is watching!",
       "turkish": "Başarısız olmayın! Yggdrasill sizi izliyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10600175_occupied_hint_engage_02_play",
       "english": "A quick fight. Don't let them breathe.",
       "turkish": "Kısa bir savaş. Onlara nefes aldırmayın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10600044_escorting_payload_asgarde_01_play",
       "english": "Easy, team! I'd prefer not to piss off interdimensional goats today.",
       "turkish": "Sakin olun, TAKIM! Bugün boyutlar arası keçileri kızdırmamayı tercih ederim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10600289_signal_wheel_backup_01_play",
       "english": "Reinforcements--now!",
       "turkish": "Takviye lazım--hemen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10600004_single_14_play",
       "english": "My senses are sharp, and my claws are ready.",
       "turkish": "Duyularım keskin, pençelerim hazır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10600428_ability_shift_02_play",
       "english": "Target locked.",
       "turkish": "Hedefe kilitlendim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10600508_interact_01_10410_b_play",
       "english": "We don’t pretend the betrayal didn’t happen. But we do care why it happened—and what they do after.",
       "turkish": "İhanet hiç yaşanmamış gibi davranmayız. Ama neden yaşandığını ve sonrasında ne yaptıklarını önemseriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10600493_interact_01_10430_d_play",
       "english": "The galaxy is a much larger picture than my agents are ready to handle. At least for now…",
       "turkish": "Galaksi, ajanlarımın başa çıkmaya hazır olduğundan çok daha büyük bir mesele. En azından şimdilik…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10600006_single_16_play",
       "english": "Heroes don't wait for opportunity to strike. We strike first.",
       "turkish": "Kahramanlar fırsatın ayağına gelmesini beklemez. Biz önce harekete geçeriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10600454_sp_ability_10610_01_play",
       "english": "Sprits, scatter!",
       "turkish": "Ruhlar, dağılın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10600431_ability_shift_02_play",
       "english": "Come with me!",
       "turkish": "Benimle gelin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10600403_sp_interact_newyorkh02_01_10220_b_play",
       "english": "You were the first to surrender, Captain America. A lot of people questions that choice… but it was the RIGHT one.",
       "turkish": "Sen teslim olan ilk kişiydin, Captain America. Birçok kişi bu kararı sorguladı… ama bu DOĞRU karardı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10600189_ko_normal_02_play",
       "english": "Outmatched from the start.",
       "turkish": "Başından beri üstünlerdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10600097_ko_sp_01_10410_play",
       "english": "You're out of this one, Bucky.",
       "turkish": "Bu işin dışında kaldın, Bucky.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10600154_debuff_purple_01_play",
       "english": "I've always survived alone.",
       "turkish": "Her zaman yalnız hayatta kaldım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10600395_sp_interact_newyorke_01_10310_a_play",
       "english": "Midtown in Eternal Night… so much colder than usual.",
       "turkish": "Ebedi Gece'deki Midtown… her zamankinden çok daha soğuk.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10600364_interact_02_10180_d_play",
       "english": "Says the man with the glowing circles for hands.",
       "turkish": "Ellerinde parlayan halkalar olan adam söylüyor bunu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10600281_signal_enemy_01_play",
       "english": "I've tagged them. Go.",
       "turkish": "Onları işaretledim. Hadi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10600473_interact_01_10420_c_play",
       "english": "Ah, you hail from another timeline. That makes much more sense.",
       "turkish": "Ah, başka bir zaman tünelinden geliyorsunuz. Şimdi çok daha mantıklı oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10600076_escorting_remind_newyorke_01_play",
       "english": "Push harder, H.E.R.B.I.E.! Nighttime favors the enemy!",
       "turkish": "Daha fazla zorla, H.E.R.B.I.E.! Gece düşmana avantaj sağlar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10600418_interact_01_10460_d_play",
       "english": "You sound like you're speaking from personal experience, Adam. I'll be sure to keep that in mind.",
       "turkish": "Kişisel deneyimden konuşuyormuşsun gibi geliyor, Adam. Bunu aklımda tutacağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10600378_interact_01_10220_d_play",
       "english": "You haven't seen what you can do to reshape a world yet.",
       "turkish": "Dünyayı nasıl şekillendirebileceğinizi henüz görmediniz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10600318_interact_01_10440_c_play",
       "english": "I assure you, I'm here to help, Mr. Brooks. Tiger Division only wants what's best.",
       "turkish": "Sizi temin ederim, buraya yardım etmek için geldim, Bay Brooks. Kaplan Timi sadece en iyisini ister.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10600294_signal_area_occupied_02_play",
       "english": "Keep this area secure!",
       "turkish": "Bu bölgeyi güvende tutun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10600122_saw_ko_01_10440_play",
       "english": "Vampires fear you for a reason, Blade.",
       "turkish": "Vampirler senden korkuyor, Blade, bir sebepten dolayı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10600056_escorting_payload_newyorkh_01_play",
       "english": "Lead the way, Ratatoskr. I trust your sense of direction more than mine.",
       "turkish": "Yolu sen göster, Ratatoskr. Senin yön duyguna kendi duygumdan daha çok güveniyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10600178_occupied_hint_attack_01_play",
       "english": "Follow me! We must launch the attack!",
       "turkish": "Beni takip edin! Saldırıyı başlatmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10600288_signal_wheel_defend_02_play",
       "english": "Guard here. Hold strong.",
       "turkish": "Burayı savunun. Güçlü durun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10600046_escorting_payload_tokyoe_01_play",
       "english": "Stay close! Spider-Zero knows these webs better than anyone.",
       "turkish": "Yakında kal! Spider-Zero bu ağları herkesten daha iyi bilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10600241_ko_assist_02_play",
       "english": "Good timing, perfect synergy!",
       "turkish": "Harika zamanlama, mükemmel uyum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10600062_escorting_payload_museume_01_play",
       "english": "Strange Academy, stranger transport.",
       "turkish": "Strange Akademisi, daha da garip bir taşıma yöntemi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10600362_interact_01_10520_d_play",
       "english": "The world isn't always peaceful, Lin Lie.",
       "turkish": "Dünya her zaman huzurlu değil, Lin Lie.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10600369_interact_02_10490_a_play",
       "english": "Logan. The Wolverine. Your approach is… loud.",
       "turkish": "Logan. Wolverine. Yaklaşımın… gürültülü.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10600286_signal_wheel_attack_02_play",
       "english": "Strike this location!",
       "turkish": "Bu konuma saldırın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10600507_interact_02_10330_c_play",
       "english": "Tiger Division has the resources to help your missions remain in the shadows. Perhaps we could reach an agreement.",
       "turkish": "Tiger Division, görevlerinizin gölgelerde kalmasına yardımcı olacak kaynaklara sahip. Belki bir anlaşmaya varabiliriz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10600247_ko_five_02_play",
       "english": "Five down, not stopping.",
       "turkish": "Beşi düştü, durmuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10600017_single_09_play",
       "english": "I'm not cold, I'm focused. There's a difference.",
       "turkish": "Soğuk değilim, odaklanmışım. Arada fark var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10600470_interact_02_10370_a_play",
       "english": "Tiger Division has an interest in sharing intelligence with Krakoa.",
       "turkish": "Tiger Division, Krakoa ile istihbarat paylaşımıyla ilgileniyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10600061_escorting_payload_kunlunh_02_play",
       "english": "Keep moving! And don’t be distracted by K'un-Lun's beauty.",
       "turkish": "Hareket etmeye devam edin! Ve K'un-Lun'un güzelliğine kapılmayın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10600182_countdown_dt_01_play",
       "english": "They're desperate! Use it!",
       "turkish": "Onlar çaresiz! Bunu kullanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10600426_ability_e_03_play",
       "english": "Form Change, active!",
       "turkish": "Form Değişimi, aktif!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10600021_switch_02_play_p2",
       "english": "Watch how the White Fox works.",
       "turkish": "White Fox'nin nasıl çalıştığını izleyin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10600314_interact_01_10380_d_play",
       "english": "Fair enough. When they do, now I know exactly who to call.",
       "turkish": "Gayet adil. Ne zaman olursa, artık tam olarak kimi arayacağımı biliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10600095_ko_sp_01_10300_play",
       "english": "Khonshu won't answer this time.",
       "turkish": "Bu kez Khonshu cevap vermeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10600471_interact_02_10370_c_play",
       "english": "But… imagine what we could do if we worked together!",
       "turkish": "Ama… birlikte çalışsak neler yapabileceğimizi bir düşün!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10600190_ko_normal_03_play",
       "english": "One hostile down.",
       "turkish": "Bir düşman etkisiz hale getirildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10600363_interact_02_10180_b_play",
       "english": "And you rely heavily on theatrics.",
       "turkish": "Ve sen gösterişe fazlasıyla bel bağlıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10600050_escorting_payload_wakandah_01_play",
       "english": "Onward! We must purify Bast.",
       "turkish": "İleri! Bast'ı arındırmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10600073_escorting_remind_wakandah_02_play",
       "english": "Black Panther needs us. We can not fail!",
       "turkish": "Black Panther bize ihtiyaç duyuyor. Başarısız olamayız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10600221_building_destroy_ankh_03_play",
       "english": "The Ankh is broken. The edge is gone.",
       "turkish": "Yaşam çarmıhı kırıldı. Avantaj kayboldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10600253_revenge_02_play",
       "english": "Balance has been restored.",
       "turkish": "Denge geri yüklendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10600110_ko_sp_01_10620_play",
       "english": "Even titans fall to the fox, red beast.",
       "turkish": "En kudretliler bile tilkiye yenilir, kızıl canavar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10600516_sp_ability_10480_03_play",
       "english": "The Fox is loose!",
       "turkish": "Tilki serbest!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10600008_single_18_play",
       "english": "Speed, stamina and some very sharp claws.",
       "turkish": "Hız, dayanıklılık ve çok keskin pençeler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10600304_interact_01_10290_c_play",
       "english": "The legends are not particularly kind to us. Don't believe everything they say.",
       "turkish": "Efsaneler bize pek nazik davranmıyor. Söylenen her şeye inanma.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10600291_signal_area_unoccupied_01_play",
       "english": "Claim this area!",
       "turkish": "Bu bölgeyi ele geçirin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10600029_sp_single_wakanda_01_play",
       "english": "Wakanda among the stars. The intelligence secrets this place must hold…",
       "turkish": "Yıldızlar arasında Wakanda. Bu yerin barındırdığı istihbarat sırları...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10600366_interact_02_10440_d_play",
       "english": "Then we understand each other.",
       "turkish": "O zaman birbirimizi anlıyoruz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10600209_building_spotted_portal_03_play",
       "english": "Movement through the veil--Strange's portal.",
       "turkish": "Perdenin ardında hareket—Strange'in portalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10600093_ko_sp_01_10310_play",
       "english": "Luna… you shouldn't have forced my hand…",
       "turkish": "Luna... Beni buna zorlamamalıydın...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10600501_interact_01_10500_c_play",
       "english": "Speaking of which, any chance you could come in and give my Tiger Division agents some tips on stealth tactics?",
       "turkish": "Hazır konu açılmışken, gelip Tiger Division ajanlarıma gizlilik taktikleri konusunda birkaç ipucu verme şansın var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10600069_escorting_remind_tokyoe_02_play",
       "english": "Do not stop! Life and Destiny depend on us!",
       "turkish": "Durmayın! Yaşam ve Kader bize bağlı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10600480_interact_03_10310_b_play",
       "english": "As am I. After all we've been through together, I would hate to have to take you into custody again.",
       "turkish": "Ben de öyle. Birlikte onca şey yaşadıktan sonra, seni tekrar gözaltına almak zorunda kalmaktan hiç hoşlanmam.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10600295_signal_vehicle_as_attack_01_play",
       "english": "Keep going! Keep going! Keep going!",
       "turkish": "Devam edin! Devam edin! Devam edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10600035_sp_single_arakkoe_01_play",
       "english": "Arakko. Everyhing here has been tested by hardship.",
       "turkish": "Arakko. Buradaki her şey zorluklarla sınanmış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10600244_ko_three_02_play",
       "english": "Nine tails, three strikes.",
       "turkish": "Dokuz kuyruk, üç darbe.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10600427_ability_shift_01_play",
       "english": "Marked…",
       "turkish": "İşaretlendi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10600236_building_destroy_octopus_03_play",
       "english": "Octopus is off the menu.",
       "turkish": "Ahtapot menüden çıktı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10600016_single_08_play",
       "english": "I'm the last of my people. And I plan to make them proud.",
       "turkish": "Halkımın sonuncusuyum. Ve onları gururlandırmayı planlıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10600481_interact_03_10310_d_play",
       "english": "아뇨, I would make sure your cell was far more comfortable than his!",
       "turkish": "Hayır, hücrenin onunkinden çok daha rahat olmasını sağlardım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10600301_interact_01_10550_b_play",
       "english": "Apparently my agents need to do better at keeping things classified.",
       "turkish": "Görünüşe göre ajanlarım gizli bilgileri koruma konusunda daha iyi olmalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10600064_escorting_payload_newyorkh02_01_play",
       "english": "SHIELD certainly builds sturdy vehicles.",
       "turkish": "SHIELD kesinlikle sağlam araçlar yapıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10600183_countdown_dt_02_play",
       "english": "Victory is moments away!",
       "turkish": "Zafer an meselesi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10600112_saw_ko_01_10310_play",
       "english": "Luna, Joh-a! Cold and perfect!",
       "turkish": "Luna, Joh-a! Soğuk ve kusursuz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10600226_building_destroy_amplifier_02_play",
       "english": "I cut the thread.",
       "turkish": "İpi kestim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10600123_saw_ko_01_10230_play",
       "english": "Small body, big results, Rocket.",
       "turkish": "Küçük beden, büyük sonuçlar, Rocket.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10600041_sp_single_newyorkh02_01_play",
       "english": "Ai-gu! This is what I get for working with local government.",
       "turkish": "Ai-gu! Yerel hükümetle çalışmanın sonucu bu işte.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10600271_quick_hp_low_01_play",
       "english": "Injured. But fighting.",
       "turkish": "Yaralıyım. Ama savaşıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10600472_interact_01_10420_a_play",
       "english": "Tiger Division has no information on you in our files, Ms. Parker. Care to explain…?",
       "turkish": "Kaplan Timi’nin dosyalarında size dair hiçbir bilgi yok, Parker Hanım. Açıklamak ister misiniz…?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10600404_sp_interact_newyorkh02_01_10220_d_play",
       "english": "And so you stepped up. Like you always do.",
       "turkish": "Ve sen harekete geçtin. Her zaman yaptığın gibi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10600028_sp_single_tokyo_01_play",
       "english": "2099. All light, speed, and surveillance. I can keep up",
       "turkish": "2099. Tamamen ışık, hız ve gözetim. Ayak uydurabilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10600442_quick_q_charge_90_under_01_play",
       "english": "My powers are still growing.",
       "turkish": "Gücüm hâlâ büyüyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10600430_ability_shift_01_play",
       "english": "…and mine!",
       "turkish": "…ve benim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10600336_sp_interact_newyorkh02_01_10560_d_play",
       "english": "Same. That's why I'm in charge. If you change your mind, let me know.",
       "turkish": "Aynı. Bu yüzden ben sorumluyum. Fikrini değiştirirsen, bana haber ver.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10600333_interact_01_10480_b_play",
       "english": "Of course. She is one of my kin. Powerful, but corrupted.",
       "turkish": "Tabii ki. O benim soyumdan biri. Güçlü, ama yozlaşmış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10600324_interact_01_10490_c_play",
       "english": "What if I offered you our most recent intel on the Mariko Yashida of your timeline?",
       "turkish": "Sizin zaman tünelinizdeki Mariko Yashida hakkında en son istihbaratımızı size sunmayı teklif etsem ne dersiniz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10600184_saw_enemy_01_play",
       "english": "I sense them--close.",
       "turkish": "Onları hissediyorum--yakınlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10600018_single_10_play",
       "english": "Power means nothing without discipline.",
       "turkish": "Disiplin olmadan güç hiçbir şey ifade etmez.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10600133_saw_ko_01_10270_play",
       "english": "The forest remembers your power!",
       "turkish": "Orman gücünü hatırlıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10600325_interact_01_10370_a_play",
       "english": "Erik Lehnsherr. Max Eisenhardt. Magnus. The Master of Magnetism. It's really you.",
       "turkish": "Erik Lehnsherr. MAX EISENHARDT. Magnus. Manyetizma Ustası. Gerçekten sensin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10600339_sp_interact_newyorkh02_01_10580_b_play",
       "english": "No. I don't work for Fisk. I'm here to make sure things don't spiral any further out of control.",
       "turkish": "Hayır. Fisk için çalışmıyorum. Burada, işlerin daha fazla kontrolden çıkmamasını sağlamak için bulunuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10600417_interact_01_10460_b_play",
       "english": "It's not an easy job. But someone has to do it. Might as well be the super spy with nine magic tails.",
       "turkish": "Bu kolay bir iş değil. Ama birinin yapması gerekiyor. Dokuz büyülü kuyruğu olan süper casus yapacaksa, neden olmasın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10600275_quick_thanks_01_play",
       "english": "Grateful.",
       "turkish": "Minettarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10600313_interact_01_10380_b_play",
       "english": "I do run a tight operation. And, sorry to say, chaos is the last thing I need right now.",
       "turkish": "Disiplinli bir operasyon yürütüyorum. Ve üzgünüm ama şu anda kaos, en son ihtiyacım olan şey.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10600128_saw_ko_01_10390_play",
       "english": "Thunder finds its mark again, Thor.",
       "turkish": "Gök gürültüsü yine hedefini buldu, Thor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10600299_signal_no_01_play",
       "english": "That's a negative!",
       "turkish": "Cevabım olumsuz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10600287_signal_wheel_defend_01_play",
       "english": "Shield this spot. No retreat.",
       "turkish": "Bu noktayı koruyun. Geri çekilmek yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10600051_escorting_payload_wakandah_02_play",
       "english": "Guide us, mighty feline!",
       "turkish": "Bize yol göster, kudretli kedi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10600089_easter_egg_hydra_01_play",
       "english": "Poorly hidden documents. Reused encryption. Hydra was always an easy mark for intelligence agents.",
       "turkish": "Kötü gizlenmiş belgeler. Yeniden kullanılan şifreleme. Hydra her zaman istihbarat ajanları için kolay bir hedefti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10600285_signal_wheel_attack_01_play",
       "english": "Push here, now!",
       "turkish": "Buraya saldırın, hemen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10600180_countdown_at_01_play",
       "english": "Move! A Fox doesn't hesitate!",
       "turkish": "Hareket edin! Bir Tilki tereddüt etmez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10600113_saw_ko_01_10520_play",
       "english": "Your chi strikes true, Lin Lie.",
       "turkish": "Chi'n tam isabet, Lin Lie.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10600436_ko_q_01_play",
       "english": "The Nine Tails END you!",
       "turkish": "Dokuz Kuyruk seni yok edecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10600205_building_spotted_ankh_02_play",
       "english": "Moonlight magic. The Ankh is active.",
       "turkish": "Ay ışığı büyüsü. Yaşam Çarmıhı aktif.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10600152_debuff_exhaust_01_play",
       "english": "I must be off my game!",
       "turkish": "Sanırım formumda değilim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10600321_interact_01_10650_b_play",
       "english": "Yes. Why? Do you want to see what your husband has been up to when you're not looking?",
       "turkish": "Evet. Neden? Kocanızın siz bakmadığınızda neler yaptığını görmek mi istiyorsunuz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10600002_single_12_play",
       "english": "White Fox on the hunt. Try to keep up.",
       "turkish": "White Fox avda. Yetişmeye çalış.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10600262_quick_fallback_02_play",
       "english": "A fox knows when to fall back.",
       "turkish": "Bir tilki ne zaman geri çekileceğini bilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10600191_ko_normal_04_play",
       "english": "Clean elimination.",
       "turkish": "Temiz bir eleme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10600213_building_spotted_nest_01_play",
       "english": "Spider's nest active. Disrupt it fast.",
       "turkish": "Örümcek yuvası aktif. Hızlıca bozun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10600100_ko_sp_01_10340_play",
       "english": "Armor cracks, Iron Man. Instinct doesn’t.",
       "turkish": "Zırh çatlar, Iron Man. İçgüdü çatlamaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10600103_ko_sp_01_10630_play",
       "english": "Keep your eyes open next time, Summers!",
       "turkish": "Bir dahaki sefere gözünü dört aç, Summers!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10600380_interact_01_10340_d_play",
       "english": "I think your electric hum is absolutely deafening.",
       "turkish": "Bence elektrikli uğultunuz tamamen sağır edici.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10600396_sp_interact_newyorke_01_10310_c_play",
       "english": "You always do.",
       "turkish": "Her zaman yaparsın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10600148_saw_death_01_10450_play",
       "english": "Namor is gone. The tide recedes.",
       "turkish": "Namor gitti. Gelgit çekiliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10600399_sp_interact_kunlun_01_10520_a_play",
       "english": "K'un-Lun. We only have so much data, and it doesn't do the city justice.",
       "turkish": "K'un-Lun. Elimizdeki veri sınırlı ve bu şehir hakkında adil bir değerlendirme yapamıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10600432_ability_shift_03_play",
       "english": "…and prey!",
       "turkish": "…ve av!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10600361_interact_01_10520_b_play",
       "english": "No. I fear what happens when I ignore it.",
       "turkish": "Hayır. Onu görmezden geldiğimde ne olacağından korkuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10600284_signal_wheel_enemy_spot_02_play",
       "english": "Threat spotted and marked.",
       "turkish": "Tehdit tespit edildi ve işaretlendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10600347_interact_01_10610_b_play",
       "english": "Sorry, Ms. Hardy. Tiger Division operatives go through a rigorous screening process. You'd never make it past round one.",
       "turkish": "Üzgünüm, Bayan Hardy. Tiger Division ajanları zorlu bir eleme sürecinden geçer. İlk turu bile geçemezdiniz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10600377_interact_01_10220_b_play",
       "english": "Think nothing of it, Commander Rogers. The world needs you.",
       "turkish": "Hiçbir şey düşünmeyin, Komutan Rogers. Dünya size ihtiyaç duyuyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10600446_quick_q_charge_100_01_play",
       "english": "I'm ready! Beware of the Kumiho!",
       "turkish": "Hazırım! Kumiho'ya dikkat edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10600228_building_destroy_turret_01_play",
       "english": "Hardware broken. Predictable.",
       "turkish": "Donanım kırıldı. Tahmin edilebilirdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10600504_interact_01_10280_b_play",
       "english": "I would advise you to stay out of our files, Ultron. For your own safety.",
       "turkish": "Dosyalarımızdan uzak durmanı tavsiye ederim, Ultron. Kendi güvenliğin için.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10600238_ko_sniper_02_play",
       "english": "Sharpshooter eliminated. Move freely.",
       "turkish": "Keskin nişancı etkisiz hale getirildi. Serbest hareket edin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10600234_building_destroy_octopus_01_play",
       "english": "The creature is down. Finally.",
       "turkish": "Yaratık yenildi. Nihayet.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10600373_interact_01_10330_b_play",
       "english": "Good. IF you could read me, someone else could, too.",
       "turkish": "Güzel. Eğer beni okuyabiliyorsanız, başkası da okuyabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10600383_interact_01_10620_a_play",
       "english": "You hunt with instinct! So do I.",
       "turkish": "İçgüdülerinle avlanıyorsun! Ben de öyle.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10600357_interact_02_10570_a_play",
       "english": "Deadpool. We've crossed paths before… during Luna Snow's extraction.",
       "turkish": "Deadpool. Daha önce karşılaşmıştık… Luna Snow'un kurtarılması sırasında.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10600452_signal_teammate_hp_02_play",
       "english": "Rally on me for healing!",
       "turkish": "İyileşmek için yanıma toplanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10600211_building_spotted_turret_02_play",
       "english": "Frank's hardware just woke up.",
       "turkish": "Frank'in donanımı yeni uyandı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10600260_enemy_advanced_03_play",
       "english": "We're outnumbered! Fight smart, minimize risk!",
       "turkish": "Sayımız az! Akıllıca savaşın, riski en aza indirin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10600220_building_destroy_ankh_02_play",
       "english": "The Ankh's power fades. Good.",
       "turkish": "Yaşam çarmıhının gücü azalıyor. Güzel.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10600170_buff_purge_01_play",
       "english": "My spirit is clear!",
       "turkish": "Ruhum berrak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10600088_easter_egg_newyorkh_01_play",
       "english": "So much of this city is new. But in this place, the trees whisper in ancient tongues.",
       "turkish": "Bu şehrin büyük bir kısmı yeni. Ama burada, ağaçlar eski dillerde fısıldıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10600498_interact_01_10150_a_play",
       "english": "Would you mind clearing up the skies, Storm? Tiger Division's satellites can’t get a good read on the battlefield.",
       "turkish": "Gökyüzünü biraz açar mısın, Storm? Tiger Division'ın uyduları savaş alanından sağlıklı veri alamıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -5869,6 +5869,6 @@
       "note": null
     }
   ],
-  "dataRevision": "7a82deadbff7ac34",
-  "generatedAt": "2026-09-06T11:28:41.981552Z"
+  "dataRevision": "bd48b563c044b633",
+  "generatedAt": "2026-09-06T12:41:05.450276Z"
 }

@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "7a82deadbff7ac34",
-  "generatedAt": "2026-09-06T11:28:41.981552Z",
+  "dataRevision": "bd48b563c044b633",
+  "generatedAt": "2026-09-06T12:41:05.450276Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16913,
-    "recorded": 3119,
+    "waiting": 16748,
+    "recorded": 3284,
     "checked": 420,
     "added": 3246,
-    "worked": 6785,
-    "progress": 28.63,
+    "worked": 6950,
+    "progress": 29.33,
     "statusCounts": {
-      "Devam Ediyor": 7,
-      "Baslamadi": 34,
+      "Devam Ediyor": 8,
+      "Baslamadi": 33,
       "Tamamlandi": 13
     },
     "assigned": 40
@@ -631,13 +631,13 @@
       "slug": "white-fox",
       "detailPath": "data/characters/white-fox.json",
       "total": 487,
-      "waiting": 487,
-      "recorded": 0,
+      "waiting": 322,
+      "recorded": 165,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 165,
+      "progress": 33.88,
+      "status": "Devam Ediyor",
       "voiceActor": "Arya Alphan"
     },
     {
