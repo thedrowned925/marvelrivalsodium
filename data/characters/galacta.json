@@ -4,8 +4,8 @@
   "summary": {
     "total": 405,
     "waiting": 0,
-    "recorded": 405,
-    "checked": 0,
+    "recorded": 404,
+    "checked": 1,
     "added": 0,
     "worked": 405,
     "progress": 100.0,
@@ -31,7 +31,7 @@
       "internalName": "vo_40170001_system_nm_select_att_play",
       "english": "You'll need a top-notch team to win this one.",
       "turkish": "Bunu kazanmak için birinci sınıf bir takıma ihtiyacın olacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4885,6 +4885,6 @@
       "note": null
     }
   ],
-  "dataRevision": "318a11bd09853d4c",
-  "generatedAt": "2026-09-06T17:44:05.796308Z"
+  "dataRevision": "b394e942887fa771",
+  "generatedAt": "2026-09-06T18:44:12.956337Z"
 }
