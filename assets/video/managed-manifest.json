@@ -55,6 +55,10 @@
     "the-thing": {
       "path": "assets/video/managed/the-thing/6612b8ff-288e-4172-9fe8-9665ae2e0057.mp4",
       "duration": 8.896
+    },
+    "magneto": {
+      "path": "assets/video/managed/magneto/3de3e87c-dec2-44f3-8036-ab3da8df2dd5.mp4",
+      "duration": 7.616
     }
   }
 }
