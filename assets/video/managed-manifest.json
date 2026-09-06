@@ -123,6 +123,10 @@
     "hawkeye": {
       "path": "assets/video/managed/hawkeye/dce7d7dd-5486-4f45-9885-7e1716472f99.mp4",
       "duration": 7.424
+    },
+    "hela": {
+      "path": "assets/video/managed/hela/96f722c1-65fc-462b-bb09-6a78831e34c1.mp4",
+      "duration": 7.872
     }
   }
 }
