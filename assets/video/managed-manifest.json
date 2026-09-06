@@ -162,7 +162,11 @@
     },
     "moon-knight": {
       "path": "assets/video/managed/moon-knight/48593d40-48e1-4cc1-856a-b83e39ee1464.mp4",
-      "duration": 7.722666666666667
+      "duration": 7.72266666666667
+    },
+    "namor": {
+      "path": "assets/video/managed/namor/ff8ce86c-8b70-4c7e-b966-3338206e06fa.mp4",
+      "duration": 8.384
     }
   }
 }
