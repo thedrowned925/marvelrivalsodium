@@ -111,6 +111,10 @@
     "dr-strange": {
       "path": "assets/video/managed/dr-strange/a44bd69b-79ee-4136-97d8-9ac43fd14608.mp4",
       "duration": 7.68
+    },
+    "elsa-bloodstone": {
+      "path": "assets/video/managed/elsa-bloodstone/f1bcf1fa-86a7-40f2-810d-fe6cf72c6acf.mp4",
+      "duration": 9.642666666666667
     }
   }
 }
