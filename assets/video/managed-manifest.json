@@ -127,6 +127,10 @@
     "hela": {
       "path": "assets/video/managed/hela/96f722c1-65fc-462b-bb09-6a78831e34c1.mp4",
       "duration": 7.872
+    },
+    "invisible-woman": {
+      "path": "assets/video/managed/invisible-woman/597d7478-5de7-45f5-a977-ab3d7694bd12.mp4",
+      "duration": 9.194666666666667
     }
   }
 }
