@@ -14,7 +14,11 @@
     },
     "groot": {
       "path": "assets/video/managed/groot/2bd58575-9955-4d94-9070-19e917cbbe44.mp4",
-      "duration": 7.786666666666667
+      "duration": 7.78666666666667
+    },
+    "iron-fist": {
+      "path": "assets/video/managed/iron-fist/944d8854-9d41-469e-b1a7-485928e9e357.mp4",
+      "duration": 9.024
     }
   }
 }
