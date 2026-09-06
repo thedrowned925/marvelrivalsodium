@@ -118,7 +118,11 @@
     },
     "gambit": {
       "path": "assets/video/managed/gambit/4fd404fc-42a6-477f-ac1f-bbce08528560.mp4",
-      "duration": 10.538666666666666
+      "duration": 10.5386666666667
+    },
+    "hawkeye": {
+      "path": "assets/video/managed/hawkeye/dce7d7dd-5486-4f45-9885-7e1716472f99.mp4",
+      "duration": 7.424
     }
   }
 }
