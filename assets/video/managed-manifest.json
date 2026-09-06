@@ -82,7 +82,11 @@
     },
     "black-widow": {
       "path": "assets/video/managed/black-widow/4502f358-9bf1-4fe0-bda9-b170b439ad4a.mp4",
-      "duration": 8.533333333333333
+      "duration": 8.53333333333333
+    },
+    "hulk": {
+      "path": "assets/video/managed/hulk/ae864a4c-5d19-4600-beef-b24b9dc374f1.mp4",
+      "duration": 8.384
     }
   }
 }
