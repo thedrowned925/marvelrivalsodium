@@ -42,7 +42,11 @@
     },
     "the-punisher": {
       "path": "assets/video/managed/the-punisher/81bc33e1-9a51-4e3c-9fa7-5dca17d22ebf.mp4",
-      "duration": 8.234666666666667
+      "duration": 8.23466666666667
+    },
+    "thor": {
+      "path": "assets/video/managed/thor/8be06762-e2ec-44de-88ac-192927ddb3c1.mp4",
+      "duration": 8.213333333333333
     }
   }
 }
