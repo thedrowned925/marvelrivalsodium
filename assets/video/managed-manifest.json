@@ -178,7 +178,11 @@
     },
     "scarlet-witch": {
       "path": "assets/video/managed/scarlet-witch/75215b80-94c4-4226-9a31-f4a072b56af2.mp4",
-      "duration": 9.258666666666667
+      "duration": 9.25866666666667
+    },
+    "squirrel-girl": {
+      "path": "assets/video/managed/squirrel-girl/7529c307-843c-4414-8532-56e805e51bfb.mp4",
+      "duration": 8.277333333333333
     }
   }
 }
