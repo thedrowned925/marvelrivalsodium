@@ -94,6 +94,10 @@
     },
     "cloak": {
       "path": "assets/video/managed/cloak/7fa9127e-5ddf-4541-a2b4-1f53fede1fb1.mp4",
+      "duration": 8.21333333333333
+    },
+    "dagger": {
+      "path": "assets/video/managed/dagger/605a3318-5c51-4577-857d-cff0d641b822.mp4",
       "duration": 8.213333333333333
     }
   }
