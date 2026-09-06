@@ -7,6 +7,10 @@
     "rocket-raccoon": {
       "hover": "assets/audio/managed/rocket-raccoon/hover-4501e43271cf110fe488d103f31ded44cb56b5dd5197bea32933f48cca5628f3.wav",
       "detail": "assets/audio/managed/rocket-raccoon/detail-9d18bd5b00bd510d577f95f02644a05e8c75949be5162b895485763748d5520e.wav"
+    },
+    "the-punisher": {
+      "hover": "assets/audio/managed/the-punisher/hover-5c0ba48355b49ef7cfe90edb5ab780ae9a162bb3d17d2aa3847747aedc422fde.wav",
+      "detail": null
     }
   }
 }
