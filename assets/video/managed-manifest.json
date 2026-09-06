@@ -74,7 +74,11 @@
     },
     "angela": {
       "path": "assets/video/managed/angela/89089daf-b4ae-4f62-890a-80514c77988c.mp4",
-      "duration": 10.581333333333333
+      "duration": 10.5813333333333
+    },
+    "black-cat": {
+      "path": "assets/video/managed/black-cat/601485f2-4437-41ad-9371-c0bcc7e5fc58.mp4",
+      "duration": 8.533333333333333
     }
   }
 }
