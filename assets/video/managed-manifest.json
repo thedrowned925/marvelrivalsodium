@@ -175,6 +175,10 @@
     "rogue": {
       "path": "assets/video/managed/rogue/45112adc-d881-4dc0-908f-de2b95c9c569.mp4",
       "duration": 10.048
+    },
+    "scarlet-witch": {
+      "path": "assets/video/managed/scarlet-witch/75215b80-94c4-4226-9a31-f4a072b56af2.mp4",
+      "duration": 9.258666666666667
     }
   }
 }
