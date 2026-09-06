@@ -150,7 +150,11 @@
     },
     "magik": {
       "path": "assets/video/managed/magik/d87a233b-011e-4f80-8d84-277be3198c30.mp4",
-      "duration": 10.005333333333333
+      "duration": 10.0053333333333
+    },
+    "mantis": {
+      "path": "assets/video/managed/mantis/3f6c03ed-77f6-44e8-a0d4-2686f9c3d789.mp4",
+      "duration": 7.125333333333334
     }
   }
 }
