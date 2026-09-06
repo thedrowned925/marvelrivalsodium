@@ -90,7 +90,11 @@
     },
     "capt-america": {
       "path": "assets/video/managed/capt-america/59d657fc-657d-4bdb-abc9-305e20917d5b.mp4",
-      "duration": 7.530666666666667
+      "duration": 7.53066666666667
+    },
+    "cloak": {
+      "path": "assets/video/managed/cloak/7fa9127e-5ddf-4541-a2b4-1f53fede1fb1.mp4",
+      "duration": 8.213333333333333
     }
   }
 }
