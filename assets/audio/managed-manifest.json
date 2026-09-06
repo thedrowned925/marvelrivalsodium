@@ -11,6 +11,10 @@
     "the-punisher": {
       "hover": "assets/audio/managed/the-punisher/hover-5c0ba48355b49ef7cfe90edb5ab780ae9a162bb3d17d2aa3847747aedc422fde.wav",
       "detail": null
+    },
+    "emma-frost": {
+      "hover": "assets/audio/managed/emma-frost/hover-1d620c8e503d75b7ac8f31dae2937597e431854b4f79728bdbd1676a87cb942d.wav",
+      "detail": "assets/audio/managed/emma-frost/detail-be6ce27e574148f91772d61f222eb043039dd6090976683a1713e67f634a31cc.wav"
     }
   }
 }
