@@ -67,6 +67,10 @@
     "adam-warlock": {
       "path": "assets/video/managed/adam-warlock/92eae5c7-02c6-472a-89a7-deb13f9032c5.mp4",
       "duration": 7.552
+    },
+    "venom": {
+      "path": "assets/video/managed/venom/bc1f313a-522a-4819-bf9f-488e33be0177.mp4",
+      "duration": 7.722666666666667
     }
   }
 }
