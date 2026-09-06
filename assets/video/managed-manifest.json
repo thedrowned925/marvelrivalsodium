@@ -182,7 +182,11 @@
     },
     "squirrel-girl": {
       "path": "assets/video/managed/squirrel-girl/7529c307-843c-4414-8532-56e805e51bfb.mp4",
-      "duration": 8.277333333333333
+      "duration": 8.27733333333333
+    },
+    "star-lord": {
+      "path": "assets/video/managed/star-lord/0c017e79-15df-4abe-8dbd-eb66da20ae86.mp4",
+      "duration": 8.341333333333333
     }
   }
 }
