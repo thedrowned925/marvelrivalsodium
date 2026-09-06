@@ -186,7 +186,11 @@
     },
     "star-lord": {
       "path": "assets/video/managed/star-lord/0c017e79-15df-4abe-8dbd-eb66da20ae86.mp4",
-      "duration": 8.341333333333333
+      "duration": 8.34133333333333
+    },
+    "storm": {
+      "path": "assets/video/managed/storm/6da92996-8565-4470-8536-2a219c32c3c0.mp4",
+      "duration": 8.192
     }
   }
 }
