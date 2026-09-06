@@ -170,16 +170,18 @@
     },
     "Galacta": {
       "card": {
-        "file": "assets/characters/cards/galacta.webp",
-        "width": 650,
-        "height": 366,
-        "source": "https://cdn2.unrealengine.com/12-marvelrivals-galacta1-3840x2160-82ba52de61fe.png"
+        "file": "assets/characters/cards/galacta-transparent.webp",
+        "width": 294,
+        "height": 650,
+        "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84f6d3c7-19b3-471c-99b3-ebe943ca814d/djk87wk-7ebd8018-d616-4fc9-80a3-7ce394a9e21b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84NGY2ZDNjNy0xOWIzLTQ3MWMtOTliMy1lYmU5NDNjYTgxNGQvZGprODd3ay03ZWJkODAxOC1kNjE2LTRmYzktODBhMy03Y2UzOTRhOWUyMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZSOnitpJGubYhRE4UvdsNKrtMO-axKMxrsOJfdXFRHw",
+        "sourcePage": "https://www.deviantart.com/incinaneverdies/art/Galacta-THE-MOST-ANNOYING-BITCH-Render-PNG-1182833156"
       },
       "detail": {
-        "file": "assets/characters/details/galacta.webp",
-        "width": 1050,
-        "height": 591,
-        "source": "https://cdn2.unrealengine.com/12-marvelrivals-galacta1-3840x2160-82ba52de61fe.png"
+        "file": "assets/characters/details/galacta-transparent.webp",
+        "width": 474,
+        "height": 1050,
+        "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84f6d3c7-19b3-471c-99b3-ebe943ca814d/djk87wk-7ebd8018-d616-4fc9-80a3-7ce394a9e21b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84NGY2ZDNjNy0xOWIzLTQ3MWMtOTliMy1lYmU5NDNjYTgxNGQvZGprODd3ay03ZWJkODAxOC1kNjE2LTRmYzktODBhMy03Y2UzOTRhOWUyMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZSOnitpJGubYhRE4UvdsNKrtMO-axKMxrsOJfdXFRHw",
+        "sourcePage": "https://www.deviantart.com/incinaneverdies/art/Galacta-THE-MOST-ANNOYING-BITCH-Render-PNG-1182833156"
       }
     },
     "Gambit": {

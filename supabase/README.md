@@ -63,3 +63,26 @@ hashes with `python scripts/version_runtime.py` before publishing.
 Actual GitHub publication needs the owner's one-time token configuration. Never
 claim that a real audio upload has passed end-to-end until a real token is saved
 and a real upload succeeds. Auth/access checks can be run without that token.
+
+## Character video backgrounds
+
+The owner can upload horizontal **1920 × 1080 MP4/H.264**, up to **25 MiB** and
+**90 seconds**, through the same admin panel. A server-authorized signed upload
+uses a private temporary bucket; the Edge Function validates the actual MP4
+container, codec, dimensions and duration. It commits the video and manifest to
+GitHub `main`, preserving concurrent workbook/audio changes. Published playback
+uses the immutable GitHub commit URL, not Supabase video hosting. Temporary
+uploads are removed after confirmed publication; incomplete uploads remain
+private for retry. Browser roles cannot write video records or read staging.
+
+The database publishes only after GitHub confirms its commit. If the response is
+uncertain, the pending upload can be retried; the server checks commit ancestry
+before finishing. Videos are muted so existing voice clips remain independent.
+Detail entry plays once from the start, followed by a 900 ms fade back to the
+static poster. Spotlight uses the same sequence, then holds the poster for five
+seconds before advancing. Without a video, the five-second poster hold applies.
+Automatic advance pauses while a detail is open or the page is hidden, and has
+a visible pause control. Reduced-motion visitors initially see static posters.
+
+`video-schema.sql` records the corresponding remote migration. Videos do not
+enter exported poster PNGs; exports remain static 1920 × 1080 artwork.

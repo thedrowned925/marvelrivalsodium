@@ -99,8 +99,8 @@
     "name": "Galacta",
     "color": "#7746af",
     "emblem": null,
-    "portrait": "assets/characters/details/galacta.webp",
-    "card": "assets/characters/cards/galacta.webp",
+    "portrait": "assets/characters/details/galacta-transparent.webp",
+    "card": "assets/characters/cards/galacta-transparent.webp",
     "focus": "50% 10%"
   },
   "Gambit": {

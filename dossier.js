@@ -7,7 +7,12 @@
  const profile=n=>(window.HERO_DESIGN||{})[n]||{name:n,color:'#586580',emblem:null};
  const status=s=>s==='Tamamlandi'?'TAMAMLANDI':s==='Devam Ediyor'?'DEVAM EDİYOR':'KAYIT BEKLİYOR';
  const stages=[['recorded','KAYIT ALINDI','Ses kaydı tamamlanan replikler.','mic','01'],['checked','KONTROL EDİLDİ','Kalite kontrolünden geçen kayıtlar.','check','02'],['added','OYUNA EKLENDİ','Oyun paketine entegre edilen sesler.','game','03'],['waiting','SIRADAKİ REPLİKLER','Henüz kayıt bekleyen replikler.','clock','04']];
- let roster=[],selected='Dr.Strange',snapshot=null;
+ let roster=[],selected='Dr.Strange',snapshot=null,cycleTimer=null,rotationPaused=matchMedia('(prefers-reduced-motion:reduce)').matches,detailOpen=false;
+ const HOLD=5000;
+ function stopCycle(){clearTimeout(cycleTimer);cycleTimer=null}
+ function schedule(){stopCycle();if(rotationPaused||detailOpen||document.hidden||window.DossierVideo?.hasActive(document.getElementById('spotlight')))return;cycleTimer=setTimeout(()=>{const i=roster.findIndex(c=>c.name===selected);selected=roster[(i+1)%roster.length]?.name;spotlight()},HOLD)}
+ function setDetailOpen(open){detailOpen=open;if(open)stopCycle();else if(!document.querySelector('#spotlight .is-video-playing'))schedule();window.DossierVideo?.visibility()}
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)stopCycle();else if(!document.querySelector('#spotlight .is-video-playing'))schedule()});
  function stage(c,s=c,detail=false,data=null){
   const p=profile(c.name),worked=Number(s.worked??((s.recorded||0)+(s.checked||0)+(s.added||0))),total=Number(s.total||0),actor=data?.voiceActor||c.voiceActor||'Henüz atanmadı';const progress=Number(s.progress||0),tag=detail?'h3':'h2';
   return `<section class="dossier-stage ${detail?'is-detail':''}" data-hero="${esc(c.name)}" style="--hero-color:${p.color}">
@@ -28,6 +33,7 @@
  }
  function mount(root){
   root.querySelectorAll('.dossier-stage').forEach(el=>{
+   window.DossierVideo?.attach(el);
    const name=el.dataset.hero;CharacterArt.bind(el.querySelector('[data-portrait]'),name,'detail');
    el.querySelector('.dossier-emblem')?.addEventListener('error',e=>{e.target.hidden=true},{once:true});
   });
@@ -41,8 +47,17 @@
    finally{b.disabled=false;setTimeout(()=>{if(b.isConnected)b.innerHTML=old},2500)}
   }));
  }
- function spotlight(){const root=document.getElementById('spotlight');if(!root||!roster.length)return;const c=roster.find(c=>c.name===selected)||roster[0];selected=c.name;root.innerHTML=`<div class="spotlight-navigation"><span>KARAKTER ODAĞI <b>${String(roster.indexOf(c)+1).padStart(2,'0')} / ${roster.length}</b></span><div><button data-cycle="-1" aria-label="Önceki karakter">←</button><button data-cycle="1" aria-label="Sonraki karakter">→</button></div></div>`+stage(c);mount(root);root.querySelectorAll('[data-cycle]').forEach(b=>b.onclick=()=>{selected=roster[(roster.indexOf(c)+Number(b.dataset.cycle)+roster.length)%roster.length].name;spotlight()});}
+ function spotlight(){
+  const root=document.getElementById('spotlight');if(!root||!roster.length)return;stopCycle();window.DossierVideo?.release(root);
+  const c=roster.find(c=>c.name===selected)||roster[0];selected=c.name;
+  root.innerHTML=`<div class="spotlight-navigation"><span>KARAKTER ODAĞI <b>${String(roster.indexOf(c)+1).padStart(2,'0')} / ${roster.length}</b></span><div><button data-pause aria-label="Otomatik karakter geçişini duraklat" aria-pressed="${rotationPaused}">${rotationPaused?'Devam et':'Duraklat'}</button><button data-cycle="-1" aria-label="Önceki karakter">←</button><button data-cycle="1" aria-label="Sonraki karakter">→</button></div></div>`+stage(c);
+  root.removeEventListener('odium:video-starting',stopCycle);root.addEventListener('odium:video-starting',stopCycle);
+  root.onVideoFinished&&root.removeEventListener('odium:video-finished',root.onVideoFinished);root.onVideoFinished=schedule;root.addEventListener('odium:video-finished',schedule);
+  schedule();mount(root);
+  root.querySelectorAll('[data-cycle]').forEach(b=>b.onclick=()=>{selected=roster[(roster.indexOf(c)+Number(b.dataset.cycle)+roster.length)%roster.length].name;spotlight()});
+  root.querySelector('[data-pause]').onclick=e=>{rotationPaused=!rotationPaused;e.currentTarget.textContent=rotationPaused?'Devam et':'Duraklat';e.currentTarget.setAttribute('aria-pressed',String(rotationPaused));if(rotationPaused)stopCycle();else if(!root.querySelector('.is-video-playing'))schedule()};
+ }
  function update(data){snapshot=data;roster=data.characters;spotlight();}
  function decorateCards(){document.querySelectorAll('#characterGrid .char-card').forEach(card=>{const p=profile(card.dataset.name);card.style.setProperty('--hero-color',p.color);const head=card.querySelector('.char-name');if(head)head.textContent=p.name;const art=card.querySelector('.char-art');if(p.emblem&&art&&!art.querySelector('.card-emblem')){const img=new Image();img.className='card-emblem';img.src=p.emblem;img.alt='';img.loading='lazy';img.onerror=()=>img.hidden=true;art.prepend(img)};});}
- window.Dossier={stage,mount,update,decorateCards,profile,icon};
+ window.Dossier={stage,mount,update,decorateCards,profile,icon,setDetailOpen};
 })();
