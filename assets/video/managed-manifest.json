@@ -191,6 +191,10 @@
     "storm": {
       "path": "assets/video/managed/storm/6da92996-8565-4470-8536-2a219c32c3c0.mp4",
       "duration": 8.192
+    },
+    "ultron": {
+      "path": "assets/video/managed/ultron/1e7ae82b-9aeb-41cf-9585-31677cb974e1.mp4",
+      "duration": 8.064
     }
   }
 }
