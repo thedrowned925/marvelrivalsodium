@@ -38,7 +38,11 @@
     },
     "spider-man": {
       "path": "assets/video/managed/spider-man/2b5d7d7f-78db-4857-9364-f839ff777b30.mp4",
-      "duration": 8.106666666666667
+      "duration": 8.10666666666667
+    },
+    "the-punisher": {
+      "path": "assets/video/managed/the-punisher/81bc33e1-9a51-4e3c-9fa7-5dca17d22ebf.mp4",
+      "duration": 8.234666666666667
     }
   }
 }
