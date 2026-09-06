@@ -1,3 +1,4 @@
+import {videoAction} from './video.ts';
 import {createClient} from 'npm:@supabase/supabase-js@2.115.0';
 import roster from './roster.json' with {type:'json'};
 import {REPO,MAX_FILE,Fault,sha256,fileType,base64,username,password,github} from './core.ts';
@@ -91,7 +92,8 @@ Deno.serve(async(req:Request)=>{
  try{
   if(action==='login'||action==='bootstrap'){await limit(req,action);const body=await req.json();return reply(action==='login'?await login(body):await bootstrap(body))}
   const {user,owner,token}=await auth(req);
-  if(action==='status'){const key=await rpc('rivals_github_token');return reply({username:owner.username,githubConnected:!!key,tracks:ok(await admin.from('rivals_audio_tracks').select('*')),jobs:ok(await admin.from('rivals_audio_jobs').select('id,character,status,commit_sha,created_at').eq('admin_id',user.id).order('created_at',{ascending:false}).limit(5))})}
+  if(action==='video_prepare'||action==='video_publish')return reply(await videoAction(action,await req.json(),owner,admin,roster,SB_URL));
+  if(action==='status'){const key=await rpc('rivals_github_token');return reply({username:owner.username,githubConnected:!!key,videos:ok(await admin.from('rivals_character_videos').select('*')),videoJobs:ok(await admin.from('rivals_video_uploads').select('id,character,status,commit_sha').eq('admin_id',user.id).in('status',['publishing','github_saved'])),tracks:ok(await admin.from('rivals_audio_tracks').select('*')),jobs:ok(await admin.from('rivals_audio_jobs').select('id,character,status,commit_sha,created_at').eq('admin_id',user.id).order('created_at',{ascending:false}).limit(5))})}
   if(action==='github'){
    const body=await req.json(),key=String(body.token||'').trim();if(key.length<20||key.length>500)throw new Fault(400,'Geçerli bir GitHub anahtarı gir.');
    const repo=await github(key,'');if(!repo.permissions?.push)throw new Fault(403,'Bu anahtarın depoya yazma yetkisi yok.');

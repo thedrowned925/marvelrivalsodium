@@ -40,12 +40,12 @@
     ]
   },
   "dossier.css": {
-    "url": "dossier.72695461e35d.css",
-    "sha256": "72695461e35d2b14c9efde575c8eb51f024042150fd44403522377d0c5417dbb",
+    "url": "dossier.7e79403e649d.css",
+    "sha256": "7e79403e649d3e41d9a1ce759c8eba903966b1535b6ef2b0b29047c60f8c4321",
     "references": [
       {
         "page": "index.html",
-        "url": "dossier.72695461e35d.css"
+        "url": "dossier.7e79403e649d.css"
       }
     ]
   },
@@ -60,12 +60,12 @@
     ]
   },
   "assets/characters/art-manifest.js": {
-    "url": "assets/characters/art-manifest.1faec6d63d1c.js",
-    "sha256": "1faec6d63d1c8069ee353b2cfc5e89aa5447d5791b63acf18e86c8bb98626d2f",
+    "url": "assets/characters/art-manifest.28a91c056335.js",
+    "sha256": "28a91c0563351d1854b76fcc3653b96149d72e3b106d068d5d73915b6262028e",
     "references": [
       {
         "page": "index.html",
-        "url": "assets/characters/art-manifest.1faec6d63d1c.js"
+        "url": "assets/characters/art-manifest.28a91c056335.js"
       }
     ]
   },
@@ -80,16 +80,16 @@
     ]
   },
   "assets/design/hero-design.js": {
-    "url": "assets/design/hero-design.151a2e410848.js",
-    "sha256": "151a2e4108489e5fdefa42c0d84d1657ce70b12c973dc23af8e99b61b886a9d6",
+    "url": "assets/design/hero-design.df7b36c6195a.js",
+    "sha256": "df7b36c6195aae79ddc2e4180f2dfe8deb435e58bbc5f755b315c98def21ff4e",
     "references": [
       {
         "page": "index.html",
-        "url": "assets/design/hero-design.151a2e410848.js"
+        "url": "assets/design/hero-design.df7b36c6195a.js"
       },
       {
         "page": "admin/index.html",
-        "url": "../assets/design/hero-design.151a2e410848.js"
+        "url": "../assets/design/hero-design.df7b36c6195a.js"
       }
     ]
   },
@@ -104,22 +104,22 @@
     ]
   },
   "dossier.js": {
-    "url": "dossier.a1a0fe7f4924.js",
-    "sha256": "a1a0fe7f492406e89640b351251fe8d2a5d4ed606c2276df9f9de8431c51ccdd",
+    "url": "dossier.0f8179ff7674.js",
+    "sha256": "0f8179ff76747d55cab8746a550141fd2ad1c9e2fa812ef27af5a739d431f0f9",
     "references": [
       {
         "page": "index.html",
-        "url": "dossier.a1a0fe7f4924.js"
+        "url": "dossier.0f8179ff7674.js"
       }
     ]
   },
   "app.js": {
-    "url": "app.5411d2cd90e3.js",
-    "sha256": "5411d2cd90e33b616e5f8507a0d648e20ef96677f737cf64507155abf011052b",
+    "url": "app.ecf1d80114c3.js",
+    "sha256": "ecf1d80114c393f5d13da20537fc4492d8b706088fe5264ae377dd86e080c7f5",
     "references": [
       {
         "page": "index.html",
-        "url": "app.5411d2cd90e3.js"
+        "url": "app.ecf1d80114c3.js"
       }
     ]
   },
@@ -201,23 +201,33 @@
       }
     ]
   },
+  "video-dossiers.js": {
+    "url": "video-dossiers.278226da8e11.js",
+    "sha256": "278226da8e11e44f46904d5e946bd5d786f9705122a6800b75edef2fb75df1ca",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "video-dossiers.278226da8e11.js"
+      }
+    ]
+  },
   "admin/admin.css": {
-    "url": "admin/admin.ea2383f837cc.css",
-    "sha256": "ea2383f837cc7d8ad061b7d6f26ee58c9f8bb66a06c3fedb7a3c3d9f78c689ee",
+    "url": "admin/admin.a02b22ab501a.css",
+    "sha256": "a02b22ab501a19d011f8ddfcf10251fb485019da0504f7c5b9b9965cb5d42562",
     "references": [
       {
         "page": "admin/index.html",
-        "url": "admin.ea2383f837cc.css"
+        "url": "admin.a02b22ab501a.css"
       }
     ]
   },
   "admin/admin.js": {
-    "url": "admin/admin.485ffaa367cc.js",
-    "sha256": "485ffaa367cc25541f8ae2eb5c113f999ed7b9fb334781afb1ec68240ddf72e6",
+    "url": "admin/admin.a20e04d2412a.js",
+    "sha256": "a20e04d2412a0a8605692399403870d1cb9784bc333d6c54a188cd2b24b2dee8",
     "references": [
       {
         "page": "admin/index.html",
-        "url": "admin.485ffaa367cc.js"
+        "url": "admin.a20e04d2412a.js"
       }
     ]
   }
