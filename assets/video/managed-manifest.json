@@ -10,7 +10,11 @@
     },
     "emma-frost": {
       "path": "assets/video/managed/emma-frost/166fc438-f7fa-4f59-becd-3e56a048f623.mp4",
-      "duration": 11.093333333333334
+      "duration": 11.0933333333333
+    },
+    "groot": {
+      "path": "assets/video/managed/groot/2bd58575-9955-4d94-9070-19e917cbbe44.mp4",
+      "duration": 7.786666666666667
     }
   }
 }
