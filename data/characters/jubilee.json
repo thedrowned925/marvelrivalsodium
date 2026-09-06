@@ -3,13 +3,13 @@
   "voiceActor": "Mina Çakılkaya",
   "summary": {
     "total": 466,
-    "waiting": 465,
-    "recorded": 1,
+    "waiting": 0,
+    "recorded": 466,
     "checked": 0,
     "added": 0,
-    "worked": 1,
-    "progress": 0.21,
-    "status": "Devam Ediyor"
+    "worked": 466,
+    "progress": 100.0,
+    "status": "Tamamlandi"
   },
   "columns": [
     "Sıra",
@@ -43,7 +43,7 @@
       "internalName": "vo_10640239_building_destroy_amplifier_01_play",
       "english": "Unplugged the raccoon's amp!",
       "turkish": "Rakunun amfisini fişten çektim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10640323_interact_01_10500_a_play",
       "english": "Susie! Any chance your kiddos would ever be interested in a playdate with Shogo?",
       "turkish": "Susie! Senin ufaklıklar Shogo'yla bir oyun buluşmasına hiç ilgi duyar mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10640102_escorting_remind_tokyoh_02_play",
       "english": "No time for pit stops, Zero! The Web is calling!",
       "turkish": "Pit stoplara vaktimiz yok, Zero! Ağ bizi çağırıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10640074_escorting_payload_asgarde_02_play",
       "english": "C'mon, goats! The World Tree's waitin'!",
       "turkish": "Hadi, keçiler! Dünya Ağacı bekliyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10640025_q_p13_play",
       "english": "百花齊放！",
       "turkish": "Yüz çiçek açsın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10640026_q_p2_play_p2",
       "english": "Time for a glow up!",
       "turkish": "Parlama zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10640391_interact_01_10600_a_play",
       "english": "You're tough for a fox spirit!",
       "turkish": "Bir tilki ruhuna göre bayağı çetinsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10640260_ko_five_01_play",
       "english": "That makes five!",
       "turkish": "Beş etti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10640235_building_destroy_ankh_03_play",
       "english": "One ancient artifact turned to dust!",
       "turkish": "Bir kadim eser toza döndü!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10640231_building_spotted_nest_02_play",
       "english": "Web traps! Watch where you're stepping!",
       "turkish": "Ağ tuzakları! Nereye bastığınıza dikkat edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10640092_escorting_payload_museume_02_play",
       "english": "We can't just leave all these creatures in the Collector's zoo!",
       "turkish": "Tüm bu yaratıkları Koleksiyoncu'nun hayvanat bahçesinde öylece bırakamayız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10640186_occupied_celebrate_01_play",
       "english": "Should we celebrate with fireworks?",
       "turkish": "Havai fişeklerle kutlasak mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10640159_saw_death_01_10570_play",
       "english": "Please tell me you can heal from that, Wade…",
       "turkish": "Lütfen bundan iyileşebileceğini söyle, Wade…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10640077_escorting_payload_tokyoh_01_play",
       "english": "We'll lead the way, Spider-Zero. No worries.",
       "turkish": "Yolu biz göstereceğiz, Spider-Zero. Endişelenme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10640423_interact_01_10350_b_play",
       "english": "That's kind of the point. They wouldn't do me much good in battle if they were just for show, right?",
       "turkish": "Zaten mesele de biraz bu. Sadece gösteriş için olsalar savaşta pek işime yaramazlardı, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10640056_sp_single_tokyo_01_play",
       "english": "The Tokyo of the future?! *Gasp* I NEED TO GO TO FUJIKAWA MALL!",
       "turkish": "Geleceğin Tokyo'su mu?! *Nefesini tutar* FUJIKAWA AVM'YE GİTMEM LAZIM!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10640284_quick_hp_normal_02_play",
       "english": "I'm golden!",
       "turkish": "Altın gibiyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10640379_interact_02_10390_b_play",
       "english": "The same sweet little boy I always have. My son, Shogo. I did all of this for him.",
       "turkish": "Her zamanki o tatlı küçük oğlan. Oğlum Shogo. Tüm bunları onun için yaptım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10640018_single_13_play",
       "english": "I've got the kinda hunger that a trip to the food court isn't gonna cure.",
       "turkish": "Bendeki açlığı yemek katına uğramak falan bastıramaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10640444_interact_01_10560_d_play",
       "english": "Look, lady, I may be a vampire and a Horseman, but I'll always be an X-Man first!",
       "turkish": "Bak hanımefendi, vampir ve bir Mahşer Atlısı olabilirim ama her zaman önce bir X-Man'im!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10640283_quick_hp_normal_01_play",
       "english": "Feelin' great!",
       "turkish": "Harika hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10640068_sp_single_museume_01_play",
       "english": "My powers and priceless artifacts have never been a great mix…",
       "turkish": "Güçlerimle paha biçilmez eserler hiçbir zaman iyi bir ikili olmadı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10640213_respawn_05_play",
       "english": "Can't keep a vampire X-Man down!",
       "turkish": "Vampir bir X-Man'i pes ettiremezsiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10640118_escorting_remind_newyorkh02_02_play",
       "english": "I am not gonna end up Fisk's next prisoner. You hear me?",
       "turkish": "Fisk'in sıradaki tutsağı olmayacağım. Duydun mu beni?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10640233_building_destroy_ankh_01_play",
       "english": "Apocalypse sends his regards, Khonshu.",
       "turkish": "Apocalypse selamlarını iletiyor, Khonshu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10640038_sp_ability_10440_03_play",
       "english": "Drain 'em dry!",
       "turkish": "Son damlasına kadar sömürün!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10640045_ko_v_01_play",
       "english": "Gotcha!",
       "turkish": "Anlaşıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10640130_ko_sp_01_10580_play",
       "english": "Can't win 'em all, Cajun!",
       "turkish": "Her zaman kazanamazsın, Cajun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10640404_interact_01_10220_d_play",
       "english": "Oh, yeah. That comes standard with an X-Men uniform.",
       "turkish": "Ah, evet. X-Men üniformasının standart özelliği.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10640236_building_destroy_beacon_01_play",
       "english": "Rocket's beacon is trashed!",
       "turkish": "Rocket'in işaretçisi hurdaya dönmüş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10640322_interact_01_10310_c_play",
       "english": "Icon? Me? I’m not so sure about that…",
       "turkish": "İkon mu? Ben mi? Bundan pek emin değilim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10640157_saw_death_01_10150_play",
       "english": "Didn't expect the winds to turn against you, 'Ro…",
       "turkish": "Rüzgârların sana karşı döneceğini beklemiyordum, 'Ro…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10640473_interact_01_10330_b_play",
       "english": "Y'know, it's too bad you're not a Mutant. You would've made a great Horseman of Death!",
       "turkish": "Bilirsin, Mutant olmaman çok yazık. Harika bir Ölüm Süvarisi olurdun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10640035_ability_e_03_play",
       "english": "Stand back! Or don't…",
       "turkish": "Geri dur! Ya da durma…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10640191_occupied_hint_defend_02_play",
       "english": "We're gonna have to protect this spot, cool?",
       "turkish": "Bu noktayı korumamız gerekecek, tamam mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10640362_interact_01_10380_d_play",
       "english": "Depends. Are you up for babysitting a toddler who can turn into a dragon?",
       "turkish": "Duruma bağlı. Ejderhaya dönüşebilen bir ufaklığa bakmaya var mısın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10640462_interact_02_10400_d_play",
       "english": "It's a lot better than a constant craving for blood. Which, unfortunately, I also happen to have…",
       "turkish": "Sürekli kan arzusundan çok daha iyi. Ne yazık ki o da bende var…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10640439_interact_02_10370_b_play",
       "english": "Go ahead, Mags. I know this is the part where you lecture me for signing up with Apocalypse.",
       "turkish": "Hadi başla, Mags. APOCALYPSE'e katıldım diye bana nutuk çekeceğin kısım burası, biliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10640180_buff_shield_01_play",
       "english": "Shields? Count me in!",
       "turkish": "Kalkan mı? Ben varım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10640127_ko_sp_01_10620_play",
       "english": "Yo, Devil! I just kicked Jurassic!",
       "turkish": "Hey Devil! Az önce Jurassic'i patakladım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10640125_ko_sp_01_10630_play",
       "english": "Not the way I wanted it to end, Scott.",
       "turkish": "Böyle bitmesini istemezdim Scott.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10640101_escorting_remind_tokyoh_01_play",
       "english": "Argh! Stupid Tokyo traffic!",
       "turkish": "Ahh! Kahrolası Tokyo trafiği!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10640245_building_destroy_nest_01_play",
       "english": "Sorry, Peni. I had to shut you down!",
       "turkish": "Üzgünüm, Peni. Seni kapatmak zorunda kaldım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10640150_saw_death_01_10630_play",
       "english": "Never seen you quit before, Cyke…",
       "turkish": "Daha önce pes ettiğini hiç görmemiştim, Cyke…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10640415_interact_01_10150_b_play",
       "english": "Sorry I've been away for so long. Thanks for watching over Shogo.",
       "turkish": "Bu kadar uzun süre uzak kaldığım için üzgünüm. Shogo'ya göz kulak olduğun için sağ ol.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10640048_quick_q_charge_90_under_01_play",
       "english": "Gotta fuel back up. Hang tight!",
       "turkish": "Yakıt toplamam lazım. Dayanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10640227_building_spotted_turret_01_play",
       "english": "What a big, scary man you are, Castle!",
       "turkish": "Ne de büyük, korkutucu bir adamsın, Castle!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10640076_escorting_payload_tokyoe_02_play",
       "english": "Next stop: The Web of Life and Destiny!",
       "turkish": "Sıradaki durak: Yaşam ve Kader Ağı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10640277_quick_hi_01_play",
       "english": "你好！",
       "turkish": "Merhaba!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10640067_sp_single_kunlunec_01_play",
       "english": "How 'bout this? You guys go ahead and compete… and I'll provide the after show!",
       "turkish": "Şöyle yapalım mı? Siz gidip yarışın… kapanış şovunu ben yaparım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10640467_interact_01_10430_b_play",
       "english": "It's not literal. It just means I'm one of his trusted generals.",
       "turkish": "Birebir anlamda değil. Sadece onun güvendiği generallerden biri olduğum anlamına geliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10640204_ko_normal_03_play",
       "english": "Better luck never!",
       "turkish": "Bir dahaki sefere de şansınız olmasın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10640147_saw_ko_01_10480_play",
       "english": "Sai, with the psionic strike!",
       "turkish": "Sai'den Psionik Saldırı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10640320_interact_01_10570_d_play",
       "english": "I’m worth a lot more than people give me credit for, I can tell you that…",
       "turkish": "İnsanların hakkımı verdiğinden çok daha değerliyim, onu söyleyebilirim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10640463_interact_04_10530_b_play",
       "english": "My son got turned into a baby dragon, Emma! He can't exactly control his appetite!",
       "turkish": "Oğlum bebek ejderhaya dönüştü, Emma! İştahını öyle kolay kontrol edemez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10640137_saw_ko_01_10490_play",
       "english": "Wolvie for the win!",
       "turkish": "Wolvie bir numara!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10640285_quick_hp_low_01_play",
       "english": "Losin' my sparkle…",
       "turkish": "Parıltımı kaybediyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10640388_interact_01_10180_d_play",
       "english": "Thanks, Doc. Shogo's been a mess lately. And when he doesn't sleep, neither does most of Krakoa!",
       "turkish": "Sağ ol, Doktor. Shogo son zamanlarda çok huzursuz. O uyumayınca Krakoa'nın çoğu da uyuyamıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10640440_interact_02_10370_d_play",
       "english": "Wow. Thanks. Umm… would you mind telling Logan that…?",
       "turkish": "Vay. Sağ ol. Şey… bunu bir de Logan'a söylesen…?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10640223_building_spotted_portal_03_play",
       "english": "Head's up. The Doc's using portals…",
       "turkish": "Dikkat. Doktor portalları kullanıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10640257_ko_three_01_play",
       "english": "Rackin' 'em up!",
       "turkish": "Acı yaşattım az önce!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10640111_escorting_remind_arakkoe_01_play",
       "english": "We have to save Arakko… while there's still some of it left to save!",
       "turkish": "Arakko’yu kurtarmalıyız… hâlâ kurtarılacak bir kısmı varken!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10640271_ko_terrain_03_play",
       "english": "Even the battlefield wants you to lose!",
       "turkish": "Savaş alanı bile kaybetmeni istiyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10640242_building_destroy_turret_01_play",
       "english": "I toppled Castle's turret!",
       "turkish": "Castle’ın taretini devirdim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10640263_ko_ace_01_play",
       "english": "Perfect score!",
       "turkish": "Tam puan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10640112_escorting_remind_arakkoe_02_play",
       "english": "Arakko is our turf! We fight for it 'til the end!",
       "turkish": "Arakko bizim bölgemiz! Sonuna kadar onun için savaşacağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10640375_interact_01_10210_b_play",
       "english": "Not too bad. Just a little \"PAF! PAF!\" when they go off. Why?",
       "turkish": "Fena değil. Patladıklarında sadece biraz \"PAF! PAF!\" ediyorlar. Neden?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10640110_escorting_remind_newyorkh_02_play",
       "english": "Guys! The giant magic squirrel is counting on us! Wow, that sounded weird…",
       "turkish": "Millet! Dev sihirli sincap bize güveniyor! Vay be, kulağa tuhaf geldi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10640136_ko_sp_01_10440_play",
       "english": "No way I'm getting staked by you, Blade!",
       "turkish": "Bana kazık saplamana asla izin vermem, Blade!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10640478_interact_01_10410_d_play",
       "english": "Sure… but now I'm really wishing I'd paid more attention in the Professor's lecture on building mental barriers…",
       "turkish": "Tabii… ama şimdi Profesör'ün zihinsel bariyerler kurma dersini keşke daha dikkatli dinleseydim diyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10640345_sp_interact_krakoac_02_10530_b_play",
       "english": "I was already off with Apocalypse, Emma. Besides, you know fancy soirées aren’t my style.",
       "turkish": "Ben zaten Apocalypse’le çoktan yola çıkmıştım, Emma. Hem, süslü davetlerin benim tarzım olmadığını bilirsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10640449_interact_02_10630_a_play",
       "english": "Before you even say it, Cyke: Yes, I knew what I was getting myself into.",
       "turkish": "Sen daha söylemeden, Cyke: Evet, kendimi neyin içine soktuğumu biliyordum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10640145_saw_ko_01_10150_play",
       "english": "I'm lucky you're on my side, Ororo!",
       "turkish": "İyi ki benim tarafımdasın, Ororo!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10640311_signal_vehicle_as_defend_01_play",
       "english": "Stop 'em here, before they get any further!",
       "turkish": "Daha fazla ilerlemeden onları burada durdurun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10640075_escorting_payload_tokyoe_01_play",
       "english": "Budokan, here we come!",
       "turkish": "Bekle bizi Budokan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10640280_quick_need_heal_02_play",
       "english": "Need some healing!",
       "turkish": "Biraz iyileşmeye ihtiyacım var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10640293_signal_broken_01_play",
       "english": "Let's light this place up!",
       "turkish": "Hadi burayı aydınlatalım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10640060_sp_single_newyorke_01_play",
       "english": "Why couldn't we have just gone to Westchester instead?",
       "turkish": "Neden onun yerine Westchester'a gitmedik ki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10640418_interact_02_10500_c_play",
       "english": "I've got an entire island of X-Men. But I still feel like I can't keep up.",
       "turkish": "Yanımda koskoca bir ada dolusu X-Men var. Ama yine de her şeye yetişemiyormuşum gibi hissediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10640256_ko_assist_03_play",
       "english": "I hooked you up!",
       "turkish": "Sana kıyak geçtim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10640173_buff_heal_noncritical_02_play",
       "english": "Feeling way better already!",
       "turkish": "Şimdiden çok daha iyiyim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10640232_building_spotted_nest_03_play",
       "english": "We've got ourselves a SP//dr problem!",
       "turkish": "Başımızda bir SP//dr sorunu var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10640202_ko_normal_01_play",
       "english": "Game over, sleazoid!",
       "turkish": "Oyun bitti, pislik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10640372_interact_01_10490_d_play",
       "english": "Are you kidding? If you hadn't trained me, I wouldn’t have survived any of this!",
       "turkish": "Şaka mı yapıyorsun? Beni sen eğitmeseydin, bunların hiçbirinden sağ çıkamazdım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10640174_buff_heal_critical_01_play",
       "english": "That was way too close!",
       "turkish": "Bu çok fazla ucuz atlatıldı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10640100_escorting_remind_tokyoe_02_play",
       "english": "Foot on the gas, Zero! We've gotta get to the finish line!",
       "turkish": "Gaza bas, Zero! Bitiş çizgisine ulaşmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10640310_signal_vehicle_as_attack_02_play",
       "english": "Help me move this thing forward, would ya?",
       "turkish": "Şu şeyi ileri taşımama yardım eder misiniz?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10640493_interact_02_10510_a_play",
       "english": "Finally, someone who understands what it's like to have life kick you in the face over and over!",
       "turkish": "Sonunda hayatın insanın suratına tekrar tekrar tekme atmasının nasıl bir şey olduğunu anlayan biri!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10640237_building_destroy_beacon_02_play",
       "english": "Back to the drawing board, Rocket!",
       "turkish": "Sil baştan, Rocket!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10640368_interact_01_10580_d_play",
       "english": "I know I'll make it through, Remy. It's everyone else around me that I'm worried about…",
       "turkish": "Bunu atlatacağımı biliyorum, Remy. Asıl endişelendiğim, etrafımdaki herkes…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10640386_interact_02_10610_c_play",
       "english": "You wanna talk bad luck? I got turned into a vampire and a Horseman of Apocalypse!",
       "turkish": "Kötü şanstan mı bahsetmek istiyorsun? Ben vampire ve Apocalypse'in Atlısı'na dönüştürüldüm!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10640198_saw_enemy_01_play",
       "english": "What's up, bad guys?",
       "turkish": "N'aber, kötü adamlar?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10640039_ko_q_01_play",
       "english": "Show's over… for you.",
       "turkish": "Gösteri bitti… senin için.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10640489_interact_01_10480_b_play",
       "english": "Sounds like she had good taste in fighting companions!",
       "turkish": "Dövüş yoldaşları konusunda zevkliymiş gibi görünüyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10640343_sp_interact_asgard_01_10390_b_play",
       "english": "I’m no goddess, Thor, but my fireworks have been known to shake the heavens.",
       "turkish": "Ben tanrıça değilim, Thor, ama havai fişeklerimin gökleri sarstığı bilinir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10640480_sp_interact_newyorkh_03_10580_d_play",
       "english": "I know. I just want to make sure that you're not on the menu, too…",
       "turkish": "Biliyorum. Sadece senin de menüde olmadığından emin olmak istiyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10640389_interact_01_10400_b_play",
       "english": "Really? Do you think the same trick would work on me?",
       "turkish": "Sahi mi? Sence aynı numara bende de işe yarar mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10640297_signal_wheel_enemy_spot_01_play",
       "english": "This is where they're hiding…",
       "turkish": "Saklandıkları yer burası…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10640287_quick_confirm_01_play",
       "english": "冇問題。",
       "turkish": "Sorun yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10640474_interact_01_10330_d_play",
       "english": "I don't think Apocalypse factors in workplace satisfaction levels when he selects his generals…",
       "turkish": "APOCALYPSE'in generallerini seçerken iş yeri memnuniyet düzeylerini hesaba kattığını sanmıyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10640097_escorting_remind_asgarde_01_play",
       "english": "C'mon! Let's get these goats going!",
       "turkish": "Haydi! Şu keçileri harekete geçirelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10640331_interact_01_10300_a_play",
       "english": "Apocalypse warned me about you. He said not to trust Khonshu.",
       "turkish": "Apocalypse beni senin hakkında uyarmıştı. Khonshu'ya güvenmememi söyledi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10640254_ko_assist_01_play",
       "english": "Here to help!",
       "turkish": "Yardıma geldim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10640139_saw_ko_01_10540_play",
       "english": "You kicked their ashes, Phoenix!",
       "turkish": "Onların külünü savurdun, PHOENIX!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10640442_interact_02_10420_d_play",
       "english": "I have never felt older in my entire life…",
       "turkish": "Hayatım boyunca hiç bu kadar yaşlı hissetmemiştim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10640046_ko_v_02_play",
       "english": "That was lame.",
       "turkish": "Bu çok ezikti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10640058_sp_single_klyntarh_01_play",
       "english": "A world made of living goop?! C'mon! I just bought these boots!",
       "turkish": "Yaşayan yapış yapış maddeden oluşan bir dünya mı?! Hadi ama! Bu botları daha yeni aldım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10640367_interact_01_10580_b_play",
       "english": "I've never felt power like this before… but the hunger is so overwhelming…",
       "turkish": "Daha önce hiç böyle bir güç hissetmemiştim… ama bu açlık çok bunaltıcı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10640041_ko_q_03_play",
       "english": "That was totally radical!",
       "turkish": "Bu tamamen efsaneydi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10640160_saw_death_01_10250_play",
       "english": "Don't worry, Dagger. I will keep the light alive!",
       "turkish": "Endişelenme, Dagger. Işığı yaşatacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10640019_single_14_play",
       "english": "After all I've sacrificed to get where I am, I'm sure as heck not about to give up now!",
       "turkish": "Buraya gelene kadar onca şey feda ettikten sonra, şimdi pes edecek değilim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10640298_signal_wheel_enemy_spot_02_play",
       "english": "Here's where they are!",
       "turkish": "İşte oldukları yer!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10640451_interact_01_10260_b_play",
       "english": "Yeah, I'll pass. Logan taught me to never sign up for a survey, petition, or experiment I don't fully understand.",
       "turkish": "Ben almayayım. Logan bana, tam olarak anlamadığım hiçbir ankete, dilekçeye ya da deneye adımı yazdırmamayı öğretti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10640169_debuff_purple_02_play",
       "english": "Ugh! Why won't I heal?!",
       "turkish": "Ugh! Neden iyileşmiyorum?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10640452_interact_01_10260_d_play",
       "english": "And you need a test subject? Lucky me! >Sigh.< Okay, fine. What else have I got to lose?",
       "turkish": "Yani bir deneğe mi ihtiyacın var? Ne şanslıyım! >İç çeker.< Peki, tamam. Kaybedecek başka neyim kaldı ki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10640273_enemy_advanced_02_play",
       "english": "So many of them, definitely not enough of us!",
       "turkish": "Onlar çok fazla, biz kesinlikle yetmiyoruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10640028_ability_right_02_play",
       "english": "Feast and Famine!",
       "turkish": "Ziyafet ve Kıtlık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10640309_signal_vehicle_as_attack_01_play",
       "english": "Umm… What are we waiting for! Keep pushing ahead!",
       "turkish": "Şey… Neyi bekliyoruz! İleri bastırmaya devam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10640027_ability_right_01_play",
       "english": "Life energy. Yummy!",
       "turkish": "Yaşam enerjisi. Nefis!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10640276_quick_fallback_02_play",
       "english": "We'd better jet!",
       "turkish": "En iyisi tüytelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10640050_quick_q_charge_90_higher_01_play",
       "english": "Getting close to the big event!",
       "turkish": "Büyük etkinlik yaklaşıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10640132_ko_sp_01_10150_play",
       "english": "Ororo's down. Clear skies ahead!",
       "turkish": "Ororo düştü. Önümüzde açık gökyüzü var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10640114_escorting_remind_kunlunh_02_play",
       "english": "Should've known that a stroll through Kung-Fu City wouldn't be easy…",
       "turkish": "Kung-Fu City’de bir gezintinin kolay olmayacağını bilmeliydim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10640098_escorting_remind_asgarde_02_play",
       "english": "You know, that tree sure seemed a lot closer when we started…",
       "turkish": "Biliyor musun, yola çıktığımızda o ağaç kesinlikle çok daha yakında görünüyordu…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10640348_sp_interact_arakkoe_02_10280_c_play",
       "english": "But you could still go bad like him, right? You can’t just erase that kind of evil from inside of you…",
       "turkish": "Ama hâlâ onun gibi kötüye dönebilirsin, değil mi? İçindeki o tür bir kötülüğü öylece silemezsin…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10640466_interact_02_10360_d_play",
       "english": "Wow. You really took that a lot more seriously than I expected…",
       "turkish": "Vay be. Bunu beklediğimden çok daha ciddiye aldın…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10640250_building_destroy_octopus_03_play",
       "english": "Flash fried Namor's fishy friends!",
       "turkish": "Namor’un balıklı arkadaşlarını kızarttım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10640054_sp_single_hydra_01_play",
       "english": "I don't even wanna guess what gross stuff Hydra's been doing here…",
       "turkish": "Hydra'nın burada ne iğrenç şeyler çevirdiğini tahmin bile etmek istemiyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10640188_occupied_hint_engage_01_play",
       "english": "We should probably take control, right?",
       "turkish": "Kontrolü ele geçirsek iyi olur, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10640104_escorting_remind_wakandah_02_play",
       "english": "We went from swift as a panther to slow as a sloth!",
       "turkish": "Panter gibi hızlıydık, tembel hayvan gibi yavaşladık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10640453_interact_02_10240_b_play",
       "english": "Actually, it's an aura of Famine. But it's an easy mistake to make.",
       "turkish": "Aslında bu Kıtlık aurası. Ama karıştırması kolay.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10640445_interact_02_10180_a_play",
       "english": "Hey, Doc. I've got a bit of a dragon problem. Think you could help?",
       "turkish": "Hey, Doktor. Ufak bir ejderha sorunum var. Yardım edebilir misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10640203_ko_normal_02_play",
       "english": "Dude. That was it?",
       "turkish": "Dostum. Hepsi bu muydu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10640255_ko_assist_02_play",
       "english": "Uh, you're welcome.",
       "turkish": "Şey, rica ederim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10640009_single_04_play",
       "english": "Who has two thumbs that blast fireworks and an insatiable hunger? Me!",
       "turkish": "İki başparmağı olan, havai fişekler patlatan ve doymak bilmez bir açlığı olan kim? Ben!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10640166_debuff_exhaust_01_play",
       "english": "Feeling kinda vulnerable…",
       "turkish": "Biraz savunmasız hissediyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10640406_interact_03_10300_d_play",
       "english": "Finally, someone who understands! I have a feeling we'll get along just fine…",
       "turkish": "Sonunda beni anlayan biri! Bence gayet iyi anlaşacağız…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10640483_sp_interact_newyork_02_10570_a_play",
       "english": "The sooner we get out of this reality, the better.",
       "turkish": "Bu gerçeklikten ne kadar çabuk çıkarsak o kadar iyi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10640347_sp_interact_arakkoe_02_10280_a_play",
       "english": "You did this to Arakko?! You monster!",
       "turkish": "Arakko’ya bunu sen mi yaptın?! Seni canavar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10640044_ko_ability_e_03_play",
       "english": "In case you still can't see… you lost!",
       "turkish": "Hâlâ göremediysen diye söylüyorum… kaybettin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10640405_interact_03_10300_b_play",
       "english": "I am. You got a problem with that?",
       "turkish": "Öyleyim. Bununla bir derdin mi var?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10640073_escorting_payload_asgarde_01_play",
       "english": "Get to the World Tree. Save Yggsgard. Easy Peasy.",
       "turkish": "Dünya Ağacı'na ulaş. Yggsgard'ı kurtar. Çocuk oyuncağı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10640382_interact_01_10360_d_play",
       "english": "When she got turned into a vampire and a Horseman of Apocalypse. So yeah, not a whole lot left to laugh about…",
       "turkish": "Vampire ve Apocalypse'in Atlısı'na dönüştürüldüğünde. Yani evet, gülünecek pek bir şey kalmadı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10640491_interact_01_10510_b_play",
       "english": "Don't worry, big guy. My hunger's under control. Though I could really go for a corndog…",
       "turkish": "Merak etme, koca adam. Açlığım kontrol altında. Gerçi canım fena hâlde bir corn dog çekti…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10640266_revenge_01_play",
       "english": "Yeah? Who's the fittest now?!",
       "turkish": "Öyle mi? En formda kimmiş şimdi?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10640085_escorting_payload_newyorkh_01_play",
       "english": "Who better to lead you to Dracula than a vampire, right?",
       "turkish": "Seni Drakula'ya götürecek bir vampirden daha iyi kim olabilir ki, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10640012_single_07_play",
       "english": "If Apocalypse were here, this battle would already be over. Just sayin'…",
       "turkish": "Apocalypse burada olsaydı bu savaş çoktan bitmiş olurdu. Sadece söylüyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10640393_interact_01_10520_a_play",
       "english": "You gonna dog on me for signing up with Apocalypse, too? Everyone else seems to be…",
       "turkish": "Sen de Apocalypse'e katıldım diye bana laf mı edeceksin? Herkes öyle yapıyor gibi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10640008_single_03_play",
       "english": "You thought saving the world was hard? Try being a single mom!",
       "turkish": "Dünyayı kurtarmak zor mu sandın? Bir de bekar anneliği dene!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10640099_escorting_remind_tokyoe_01_play",
       "english": "Budokan's gotta be close. Keep rolling, Spider-Zero!",
       "turkish": "Budokan yakın olmalı. Devam et, Spider-Zero!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10640069_sp_single_newyorkh02_01_play",
       "english": "I'll take a corrupt mayor over a vampire king any day!",
       "turkish": "Vampir kralındansa yozlaşmış bir belediye başkanını her zaman tercih ederim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10640189_occupied_hint_engage_02_play",
       "english": "Who wants a Mission Area? I do!",
       "turkish": "Kim Görev Bölgesi ister? Ben isterim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10640262_ko_five_03_play",
       "english": "Five? Love it!",
       "turkish": "Beş mi? Bayıldım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10640066_sp_single_kunlunh_01_play",
       "english": "This place is like a fairy tale kingdom! Shogo would love it here!",
       "turkish": "Burası masal krallığı gibi! Shogo buraya bayılırdı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10640200_saw_flank_01_play_p2",
       "english": "Behind you!",
       "turkish": "Arkanda!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10640469_interact_02_10210_a_play",
       "english": "Why aren't you keeping a safe distance from me like everyone else, Hawkeye?",
       "turkish": "Neden herkes gibi benden güvenli bir mesafede durmuyorsun, Hawkeye?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10640210_respawn_02_play",
       "english": "Pretty sure I'm technically undead…",
       "turkish": "Teknik olarak yaşayan ölü sayılırım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10640425_interact_01_10340_b_play",
       "english": "Great. When do benefits kick in? I'm probably gonna need 'em after this fight…",
       "turkish": "Harika. Yan haklar ne zaman devreye giriyor? Bu dövüşten sonra muhtemelen onlara ihtiyacım olacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10640036_sp_ability_10440_01_play",
       "english": "嚟饮啦！",
       "turkish": "Gelin, için!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10640219_building_spotted_ankh_02_play",
       "english": "Not Apocalypse's. Must be Khonshu's…",
       "turkish": "Apocalypse'in değil. Khonshu'nunki olmalı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10640477_interact_01_10410_b_play",
       "english": "What? No… Why? Well… okay… maybe. It's just part of being a vampire. But wait… how do you --?",
       "turkish": "Ne? Hayır… Neden? Şey… tamam… belki. Vampir olmanın bir parçası sadece. Ama dur… sen bunu nereden --?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10640175_buff_heal_critical_02_play",
       "english": "Needed that. Like, a lot!",
       "turkish": "Buna ihtiyacım vardı. Hem de çok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10640402_interact_01_10160_d_play",
       "english": "You better believe it! And if you're not careful, yours is about to be the next name on that list!",
       "turkish": "Buna inansan iyi olur! Dikkatli olmazsan, o listedeki sıradaki isim seninki olacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10640171_debuff_weak_02_play",
       "english": "A little woozy…",
       "turkish": "Biraz sersemledim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10640064_sp_single_klyntarc_01_play",
       "english": "Not sure fireworks are gonna do much good against Celestial slayers…",
       "turkish": "Havai fişekler Semavi katillerine karşı pek işe yarar mı emin değilim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10640172_buff_heal_noncritical_01_play",
       "english": "Health never hurt!",
       "turkish": "Can asla zarar vermez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10640329_interact_01_10440_a_play",
       "english": "Why haven’t you driven a stake through my heart already, Blade?",
       "turkish": "Neden şimdiye kadar kalbime bir kazık saplamadın, Blade?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10640484_sp_interact_newyork_02_10570_c_play",
       "english": "Yeah, well, she wouldn't be feeling the primal urge to answer Dracula's call and go full vampire.",
       "turkish": "Evet, tabii, ama o Dracula'nın çağrısına kulak verip tamamen vampire dönüşme yönünde ilkel bir dürtü hissetmezdi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10640228_building_spotted_turret_02_play",
       "english": "Punisher's upgraded his arsenal!",
       "turkish": "Punisher, cephaneliğini geliştirmiş!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10640193_occupied_hint_attack_02_play",
       "english": "If we want this area, we gotta take it!",
       "turkish": "Bu alanı istiyorsak, onu ele geçirmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10640176_buff_dmg_01_play",
       "english": "Feeling buff!",
       "turkish": "Güçlenmiş hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10640144_saw_ko_01_10650_play",
       "english": "Our southern belle just rang their bell!",
       "turkish": "Bizim Güneyli güzel onları zil gibi çınlattı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10640492_interact_01_10510_d_play",
       "english": "Umm… hello! You had me at space mall!",
       "turkish": "Şey… merhaba! Uzay AVM’si dediğin anda beni tavladın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10640207_healthpack_01_play",
       "english": "This should patch me up!",
       "turkish": "Bu beni toparlar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10640243_building_destroy_turret_02_play",
       "english": "Wow. That was embarrassing, Castle!",
       "turkish": "Vay. Bu utanç vericiydi, Castle!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10640355_sp_interact_museume_01_10480_a_play",
       "english": "So, wait… The Collector had you locked up in one of his cages here? That totally bites!",
       "turkish": "Yani, dur… Koleksiyoncu seni burada kafeslerinden birine mi kapatmıştı? Bu resmen berbat!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10640378_interact_03_10530_d_play",
       "english": "I'll do my best. But no promises.",
       "turkish": "Elimden geleni yapacağım ama söz vermiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10640424_interact_01_10350_d_play",
       "english": "Good to know. I should probably bump them down from \"Fourth of July Finale\" to \"Backyard BBQ\"…",
       "turkish": "Bilmek iyi oldu. Sanırım onları \"4 Temmuz finali\" seviyesinden \"arka bahçe mangalı\" seviyesine indirmeliyim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10640390_interact_01_10400_d_play",
       "english": "Would it count if I bit Shuri? Because otherwise, I'm probably out of luck. Again.",
       "turkish": "Shuri'yi ısırırsam sayılır mı? Çünkü yoksa muhtemelen yine şansım yok. Her zamanki gibi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10640241_building_destroy_amplifier_03_play",
       "english": "Sorry 'bout your amp, Rocket… Not!",
       "turkish": "Amfin için üzgünüm, Rocket… Hiç de değilim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10640154_saw_death_01_10530_play",
       "english": "You're stronger than this, Emma. I know it…",
       "turkish": "Sen bundan daha güçlüsün, Emma. Biliyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10640482_sp_interact_newyorke_02_10650_d_play",
       "english": "Never thought I'd be a bloodthirsty vampire and a Horseman of Apocalypse either. Guess we all gotta grow up someday…",
       "turkish": "Ben de kana susamış bir vampir ve Apocalypse'in Süvarisi olacağımı hiç düşünmezdim. Galiba hepimiz bir gün büyümek zorundayız…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10640349_sp_interact_newyorkh_01_10170_b_play",
       "english": "I’ll be fine, Torch. My fireworks are plenty bright, too, remember?",
       "turkish": "İyi olacağım, Alev Adam. Benim havai fişeklerim de gayet parlak, hatırlasana?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10640247_building_destroy_nest_03_play",
       "english": "Spider-Bots? More like Spider-Bits!",
       "turkish": "Örümcek Botlar mı? Daha çok Örümcek Parçaları!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10640286_quick_hp_low_02_play",
       "english": "Not much left in me…",
       "turkish": "Pek canım kalmadı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10640261_ko_five_02_play",
       "english": "High five, baby!",
       "turkish": "Çak bir beşlik, bebeğim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10640354_sp_interact_tokyo_01_10420_c_play",
       "english": "The greedy megacorps and the fascist police force watching our every move?",
       "turkish": "Açgözlü mega şirketler ve her hareketimizi izleyen faşist polis gücü mü?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10640197_countdown_dt_02_play",
       "english": "Hang on just a bit longer…!",
       "turkish": "Biraz daha dayanın…!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10640010_single_05_play",
       "english": "I'm gonna need some serious retail therapy after this…",
       "turkish": "Bundan sonra sağlam bir alışveriş terapisine ihtiyacım olacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10640121_easter_egg_newyorkh_01_play",
       "english": "Don't answer his call… Don't answer his call… Don't answer his call…",
       "turkish": "Çağrısına cevap verme… Çağrısına cevap verme… Çağrısına cevap verme…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10640187_occupied_celebrate_02_play",
       "english": "Oh, yeah! This calls for a party!",
       "turkish": "Oh, evet! Buna parti şart!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10640465_interact_02_10360_b_play",
       "english": "You bet! And you even got the onomatopoeia right!",
       "turkish": "Kesinlikle! Üstelik ses taklidini bile doğru yapmışsın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10640049_quick_q_charge_90_under_02_play",
       "english": "Give a girl some time to charge up, okay?",
       "turkish": "Bir kıza şarj olması için biraz zaman verin, tamam mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10640456_interact_01_10290_c_play",
       "english": "Funny. But seriously… when we were training to be X-Men, I expected the future to be a lot brighter. Didn't you?",
       "turkish": "Komik. Ama cidden… X-Men olmak için eğitim alırken geleceğin çok daha parlak olacağını sanmıştım. Sen de öyle değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10640431_interact_02_10251_a_play",
       "english": "You sure do hang out with Dagger a lot. Coordinated jackets and capes, I like it!",
       "turkish": "Dagger'la gerçekten çok takılıyorsun. Uyumlu ceketler ve pelerinler, sevdim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10640152_saw_death_01_10370_play",
       "english": "It's not your time, Erik… Not yet…",
       "turkish": "Daha zamanın gelmedi, Erik… Henüz değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10640141_saw_ko_01_10290_play",
       "english": "Save some for me, Illyana!",
       "turkish": "Bana da birkaçını bırak, Illyana!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10640438_interact_02_10170_d_play",
       "english": "Sounds like a plan. Wait… what?",
       "turkish": "Plan gibi duruyor. Bekle… Ne dedin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10640161_damaged_01_play",
       "english": "Yeowch! That hurts.",
       "turkish": "Auv! Bu acıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10640302_signal_wheel_defend_02_play",
       "english": "We gotta defend this spot!",
       "turkish": "Bu noktayı savunmalıyız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10640454_interact_02_10240_d_play",
       "english": "I'm a vampire, too, okay? Ugh! Why is this the only thing people wanna talk about anymore?!",
       "turkish": "Ben de vampirim, tamam mı? Off! Neden artık herkesin konuşmak istediği tek şey bu?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10640304_signal_wheel_backup_02_play",
       "english": "Anyone wanna back me up?",
       "turkish": "Bana destek olacak biri var mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10640435_interact_03_10460_a_play",
       "english": "Okay, serious question: Do you ever relax? And like, stop talking like you're narrating the universe?",
       "turkish": "Tamam, ciddi soru: Hiç rahatladığın oluyor mu? Hani, evreni anlatan dış sesmişsin gibi konuşmayı bıraktığın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10640300_signal_wheel_attack_02_play",
       "english": "Get over here and start fighting!",
       "turkish": "Buraya gelin ve dövüşmeye başlayın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10640217_saw_sniper_03_play",
       "english": "A sniper? Just what we needed…",
       "turkish": "Keskin nişancı mı? Tam da ihtiyacımız olan şeydi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10640195_countdown_at_02_play",
       "english": "Clock's ticking! Don't let up yet!",
       "turkish": "Vakit geçiyor! Daha gevşemeyin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10640380_interact_02_10390_d_play",
       "english": "Please. I had plenty of that already. I'm just not bothering to hide it anymore!",
       "turkish": "Lütfen. Bende zaten fazlasıyla vardı. Artık saklamaya zahmet etmiyorum, hepsi bu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10640017_single_12_play",
       "english": "This party sounds super lame. Let's get it over with already…",
       "turkish": "Bu parti kulağa acayip sıkıcı geliyor. Hadi şunu bir an önce bitirelim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10640220_building_spotted_ankh_03_play",
       "english": "Hey, Moon Knight! You dropped something!",
       "turkish": "Hey, Moon Knight! Bir şey düşürdün!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10640059_sp_single_newyork_01_play",
       "english": "Oof. This is not the best place for a recovering vampire…",
       "turkish": "Off. İyileşmekte olan bir vampir için hiç de iyi bir yer değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10640234_building_destroy_ankh_02_play",
       "english": "Take your ankh and shove it, Spector!",
       "turkish": "Yaşam çarmıhını al da başına çal, Spector!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10640229_building_spotted_turret_03_play",
       "english": "Take cover. Frankie got out the big gun!",
       "turkish": "Siper alın. Frankie ağır silahı çıkardı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10640447_interact_02_10490_a_play",
       "english": "You look worried, Logan. That's not like you.",
       "turkish": "Endişeli görünüyorsun, Logan. Bu sana hiç benzemiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10640109_escorting_remind_newyorkh_01_play",
       "english": "Vamps everywhere! This is way worse than I expected…",
       "turkish": "Vampirler her yerde! Bu, beklediğimden çok daha kötü…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10640306_signal_area_unoccupied_02_play",
       "english": "C'mon! This area's ours for the taking!",
       "turkish": "Hadi! Bu bölge bizim olacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10640366_interact_02_10440_d_play",
       "english": "Yeah. But for now, like I always tell Shogo, let's just keep our fangs to ourselves.",
       "turkish": "Evet. Ama şimdilik, Shogo'ya hep dediğim gibi, dişlerimizi kendimize saklayalım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10640319_interact_01_10570_b_play",
       "english": "Umm… That’s a weird question. Maybe sometimes…?",
       "turkish": "Şey… Bu tuhaf bir soru. Belki bazen…?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10640468_interact_01_10430_d_play",
       "english": "Huh. I thought Gambit said the Collector was the one with the cosmic zoo…",
       "turkish": "Hıh. Gambit, kozmik hayvanat bahçesi olanın Koleksiyoncu olduğunu söylemişti sanıyordum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10640080_escorting_payload_wakandah_02_play",
       "english": "Black Panther needs our help? No problem!",
       "turkish": "Black Panther yardımımıza mı ihtiyaç duyuyor? Sorun değil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10640448_interact_02_10490_c_play",
       "english": "You were his Horseman of Death once. And you made it through just fine.",
       "turkish": "Bir zamanlar onun Ölüm Atlısı'ydın. Hem de bunu sapasağlam atlattın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10640218_building_spotted_ankh_01_play",
       "english": "What's this? An ankh?",
       "turkish": "Bu ne? Yaşam çarmıhı mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10640268_revenge_03_play",
       "english": "You're, like, so lucky I wasn't hungrier…",
       "turkish": "Yani, daha aç olmadığım için acayip şanslısın…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10640396_interact_02_10310_c_play",
       "english": "Sure, but tastes change… especially when you become a vampire…",
       "turkish": "Tabii, ama zevkler değişir… özellikle de vampir olunca…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10640037_sp_ability_10440_02_play",
       "english": "Feed on this!",
       "turkish": "Bununla beslen!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10640082_escorting_payload_klyntarh_02_play",
       "english": "Really? We have to go underground? Gross!",
       "turkish": "Cidden mi? Yer altına mı inmek zorundayız? İğrenç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10640460_interact_02_10580_c_play",
       "english": "Then you'd better charge up the rest. Between the two of us, things are about to get explosive up in here!",
       "turkish": "O zaman geri kalanını da şarj etsen iyi olur. İkimiz bir araya gelince burası fena patlayacak!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10640481_sp_interact_newyorke_02_10650_b_play",
       "english": "Taking the Morlock Tunnels to shop on Fifth Avenue? A classic X-Men move! And waaaay better than the mall any day!",
       "turkish": "Beşinci Cadde'de alışveriş yapmak için Morlock Tünelleri'ni kullanmak mı? Tam bir klasik X-Men hamlesi! Hem de her türlü alışveriş merkezinden çoook daha iyi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10640043_ko_ability_e_02_play",
       "english": "Never saw me coming, did ya?",
       "turkish": "Geldiğimi hiç görmedin, di mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10640461_interact_02_10400_b_play",
       "english": "Who said I want it reversed, Dr. Richards?",
       "turkish": "Bunu geri çevirmek istediğimi kim söyledi, Dr. Richards?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10640225_building_spotted_octopus_02_play",
       "english": "Ick! What are these things, Namor?!",
       "turkish": "Iyy! Bunlar da ne, Namor?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10640211_respawn_03_play",
       "english": "Horsemen of Apocalypse don't go down so easy!",
       "turkish": "APOCALYPSE'in Atlıları öyle kolay yıkılmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10640395_interact_02_10310_a_play",
       "english": "So you're a pop star, huh? I bet I would've been super into you back when I was a teenage mallrat…",
       "turkish": "Demek pop yıldızısın, ha? Ergenken, AVM'lerde takılan bir tipken sana kesin bayılırdım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10640457_interact_03_10310_a_play",
       "english": "Oh, the pop star. Shouldn't you be performing in a mall somewhere?",
       "turkish": "Ah, pop yıldızı. Bir alışveriş merkezinde sahne alman gerekmiyor muydu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10640403_interact_01_10220_b_play",
       "english": "The energy of a plucky teen sidekick? Yeah, Wolverine tried for years to reel me in, but it never worked.",
       "turkish": "Atılgan genç yardımcı enerjisi mi? Evet, Wolverine yıllarca beni dizginlemeye çalıştı ama hiç işe yaramadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10640165_debuff_control_02_play",
       "english": "Losin' control…",
       "turkish": "Kontrolü kaybediyoruz…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10640051_quick_q_charge_90_higher_02_play",
       "english": "The countdown's about to begin…",
       "turkish": "Geri sayım başlamak üzere…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10640288_quick_confirm_02_play",
       "english": "For sure.",
       "turkish": "Elbette.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10640412_interact_03_10440_c_play",
       "english": "Yeah… I know. But it's hard. I've been fighting since I was a kid. Sometimes, I just get so… tired…",
       "turkish": "Evet… biliyorum. Ama zor. Çocukluğumdan beri savaşıyorum. Bazen öyle… yoruluyorum ki…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10640325_interact_01_10630_a_play",
       "english": "You and me sure have been through some stuff, Summers.",
       "turkish": "Seninle epey şey atlattık, Summers.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10640365_interact_02_10440_b_play",
       "english": "Not exactly my choice, Blade, but I'm working with what I've got.",
       "turkish": "Pek benim seçimim değildi, Blade, ama elimde ne varsa onunla idare ediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10640089_escorting_payload_kunlunh_01_play",
       "english": "An ancient turtle, huh? Eh. I've made stranger friends…",
       "turkish": "Kadim bir kaplumbağa, ha? Eh. Daha garip arkadaşlarım oldu…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10640272_enemy_advanced_01_play",
       "english": "I did the count, and we're way outnumbered.",
       "turkish": "Saydım, sayıca fena hâlde azız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10640275_quick_fallback_01_play",
       "english": "Yeah… We should go.",
       "turkish": "Evet… Gitsek iyi olur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10640361_interact_01_10380_b_play",
       "english": "Vampires. Apocalypse. Motherhood. It's a lot.",
       "turkish": "Vampirler. APOCALYPSE. Annelik. Hepsi çok fazla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10640002_entrance_02_10660_play",
       "english": "Maybe you're right, Hood. Being bad does feel good!",
       "turkish": "Belki haklısındır, Hood. Kötü biri olmak gerçekten iyi hissettiriyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10640433_interact_01_10250_a_play",
       "english": "Okay, real talk: Your whole glowing dagger thing? Super cool.",
       "turkish": "Tamam, açık konuşalım: Şu parlayan hançer olayın? Süper havalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10640013_single_08_play",
       "english": "I'm proud to be an X-Man. We're more than just a team. We're a family!",
       "turkish": "Bir X-Man olmaktan gurur duyuyorum. Biz sadece bir takım değiliz. Biz bir aileyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10640005_select_01_play",
       "english": "Cover your ears… Jubilee is here!",
       "turkish": "Kulaklarınızı kapatın… Jubilee geldi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10640063_sp_single_arakkoe_01_play",
       "english": "I'm gonna blow up Ultron. No joking about it.",
       "turkish": "Ultron'u havaya uçuracağım. Şaka yapmıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10640376_interact_01_10210_d_play",
       "english": "I wouldn't worry about the noise… but a pair of shades definitely wouldn't hurt!",
       "turkish": "Gürültüyü dert etmezdim… ama bir güneş gözlüğünün kesinlikle zararı olmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10640230_building_spotted_nest_01_play",
       "english": "Spider-Bots. Adorable… but so annoying.",
       "turkish": "Örümcek Botlar. Çok sevimliler… ama bir o kadar da sinir bozucular.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10640430_interact_01_10200_d_play",
       "english": "Please never change, Mantis.",
       "turkish": "Lütfen hiç değişme, Mantis.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10640091_escorting_payload_museume_01_play",
       "english": "Okay, beasties! You wanna be free? Come with us!",
       "turkish": "Tamam, canavarcıklar! Özgür olmak mı istiyorsunuz? Bizimle gelin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10640301_signal_wheel_defend_01_play",
       "english": "A good place to stand guard…",
       "turkish": "Nöbet tutmak için iyi bir yer…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10640001_entrance_01_10660_play",
       "english": "Screw the light. I'm giving in to my dark side!",
       "turkish": "Işığın canı cehenneme. Karanlık tarafıma teslim oluyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10640167_debuff_exhaust_02_play",
       "english": "They know right where to hit me!",
       "turkish": "Tam nereye vuracaklarını biliyorlar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10640244_building_destroy_turret_03_play",
       "english": "Broke the Punisher's big toy!",
       "turkish": "Punisher’ın koca oyuncağını kırdım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10640350_sp_interact_newyorkh_01_10170_d_play",
       "english": "You and me both, dude. If I figure it out, I’ll let ya know!",
       "turkish": "İkimiz de aynı durumdayız, dostum. Çözersem sana haber veririm!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10640185_buff_purge_02_play",
       "english": "Clean as can be!",
       "turkish": "Tertemiz oldum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10640192_occupied_hint_attack_01_play",
       "english": "Let's go all in and claim the Mission Area!",
       "turkish": "Her şeyimizi ortaya koyup Görev Bölgesi’ni ele geçirelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10640084_escorting_payload_newyorke_02_play",
       "english": "Stick with us, H.E.R.B.I.E. We'll get you there safe!",
       "turkish": "Bizden ayrılma, H.E.R.B.I.E. Seni oraya sağ salim ulaştıracağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10640356_sp_interact_museume_01_10480_c_play",
       "english": "You don’t think setting loose all the aliens in an intergalactic zoo is a bit, I dunno, risky?",
       "turkish": "Galaksiler arası bir hayvanat bahçesindeki tüm uzaylıları serbest bırakmanın biraz, ne bileyim, riskli olduğunu düşünmüyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10640292_signal_open_spot_02_play",
       "english": "You gotta see this!",
       "turkish": "Bunu görmelisiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10640432_interact_02_10251_c_play",
       "english": "Well, yeah, but that's never been my vibe. I definitely prefer doing my own thing.",
       "turkish": "Evet ama bu hiçbir zaman benim tarzım olmadı. Kesinlikle kendi bildiğimi yapmayı tercih ederim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10640164_debuff_control_01_play",
       "english": "Not myself…",
       "turkish": "Kendimde değilim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10640126_ko_sp_01_10600_play",
       "english": "Sorry to blow up your big plans, Fox!",
       "turkish": "Büyük planlarını havaya uçurduğum için üzgünüm Fox!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10640485_sp_interact_newyorkh_02_10590_b_play",
       "english": "Maybe. Just being in the same city as Dracula's horde is making my hunger grow faster than I can handle!",
       "turkish": "Belki. Dracula'nın ordusuyla aynı şehirde olmak bile açlığımı baş edebileceğimden daha hızlı artırıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10640421_interact_01_10111_b_play",
       "english": "Sorry, big fella. Is it the bright lights or the big booms that are getting to you most?",
       "turkish": "Üzgünüm, koca dostum. Seni en çok parlak ışıklar mı yoksa büyük patlamalar mı rahatsız ediyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10640011_single_06_play",
       "english": "Mutant. Vampire. Horseman. This girl's got it all!",
       "turkish": "Mutant. Vampir. Mahşer Atlısı. Bu kızda yok yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10640177_buff_dmg_02_play",
       "english": "Totally jacked!",
       "turkish": "Resmen coştum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10640328_interact_01_10251_d_play",
       "english": "Oh, no worries there! My light is anything but quiet!",
       "turkish": "Ah, orada endişeye gerek yok! Benim ışığım hiç de sessiz sakin değildir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10640411_interact_03_10440_a_play",
       "english": "Do you ever hear that voice in the back of your mind, Blade? Like you're being, I don't know… summoned?",
       "turkish": "Aklının bir köşesinde o sesi hiç duyuyor musun, Blade? Sanki, ne bileyim… çağrılıyormuşsun gibi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10640357_sp_interact_newyorke_01_10140_b_play",
       "english": "None taken. I’m not exactly the biggest fan of my fellow vampires either.",
       "turkish": "Alınmadım. Ben de diğer vampirlerin pek hayranı sayılmam zaten.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10640370_interact_01_10650_c_play",
       "english": "Unlike your hubby, I haven't exactly been dealt the best hand.",
       "turkish": "Kocacığının aksine, bana pek de iyi bir el dağıtılmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10640134_ko_sp_01_10140_play",
       "english": "How's that for firepower, Frank?",
       "turkish": "Ateş gücü nasılmış, Frank?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10640422_interact_01_10111_d_play",
       "english": "…and you cannot lie! Umm… sorry. That was totally -- You know what? I'll just be… over there…",
       "turkish": "…ve yalan söyleyemezsin! Şey… pardon. Bu tamamen -- Biliyor musun? Ben en iyisi… şurada durayım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10640065_sp_single_klyntarec_01_play",
       "english": "Huh. I thought I was a little too emo… but Knull's so got me beat!",
       "turkish": "Hah. Ben kendimi biraz fazla emo sanıyordum… ama Knull beni fena sollamış!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10640023_switch_03_play_p2",
       "english": "The fuse is lit… now let me shine!",
       "turkish": "Fitil ateşlendi… şimdi bırakın da parlayayım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10640034_ability_e_02_play",
       "english": "Tick, tick, BOOM!",
       "turkish": "Tik, tik, BOM!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10640409_interact_03_10390_b_play",
       "english": "Let's just say he's out of the battle. But somehow, he always seems to find a way to come back…",
       "turkish": "Şöyle diyelim, savaş dışı kaldı. Ama ne hikmetse, her zaman geri dönmenin bir yolunu buluyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10640267_revenge_02_play",
       "english": "You really didn't deserve the fireworks. But whatever.",
       "turkish": "Havai fişekleri hiç hak etmedin aslında. Neyse.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10640312_signal_vehicle_as_defend_02_play",
       "english": "This is as far as they get!",
       "turkish": "Buradan öteye geçemeyecekler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10640047_ko_v_03_play",
       "english": "Wow, you suck.",
       "turkish": "Vay be, berbatsın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10640377_interact_03_10530_b_play",
       "english": "Relax, Emma. I only bite the bad guys.",
       "turkish": "Sakin ol, Emma. Ben sadece kötü adamları ısırırım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10640108_escorting_remind_newyorke_02_play",
       "english": "This FantastiCar's not as fantastic as I hoped…",
       "turkish": "Bu FantastiCar umduğum kadar fantastik değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10640248_building_destroy_octopus_01_play",
       "english": "Turned Namor's army into chum!",
       "turkish": "Namor’un ordusunu yem yaptım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10640333_interact_01_10240_b_play",
       "english": "After all I’ve been through, I’m just glad I still have one!",
       "turkish": "Onca yaşadıklarımdan sonra hâlâ bir kalbim olduğuna seviniyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10640264_ko_ace_02_play",
       "english": "Ooh! That took skill!",
       "turkish": "Oo! Bu ustalık ister!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10640246_building_destroy_nest_02_play",
       "english": "SP//dr's nests are toast.",
       "turkish": "SP//dr’nin yuvaları kül oldu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10640289_quick_thanks_01_play",
       "english": "多謝！",
       "turkish": "Teşekkürler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10640450_interact_02_10630_c_play",
       "english": "So… you're not mad at me for signing on as one of Apocalypse's Horsemen?",
       "turkish": "Yani… Apocalypse'in Atlılarından biri olmayı kabul ettiğim için bana kızgın değilsin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10640020_single_15_play",
       "english": "Somehow I've always scrapped my way to a win. That's not about to change.",
       "turkish": "Bir şekilde hep dövüşe dövüşe zafere ulaştım. Bu değişmeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10640088_escorting_payload_arakkoe_02_play",
       "english": "Arakko needs a hard reboot… and it's up to us to perform it!",
       "turkish": "Arakko'ya sağlam bir reset atmak gerek… bunu yapmak da bize düşüyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10640427_interact_01_10230_b_play",
       "english": "Yeah, I definitely don't think of it that way.",
       "turkish": "Evet, ben buna kesinlikle öyle bakmıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10640441_interact_02_10420_b_play",
       "english": "What do you mean you read about me? Where?",
       "turkish": "Benim hakkımda okudun da ne demek? Nerede?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10640181_buff_shield_02_play",
       "english": "Ooh! Free shield!",
       "turkish": "Ooh! Bedava kalkan!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10640459_interact_02_10580_a_play",
       "english": "Time to get our fight on, Remy. Hope you brought a full deck.",
       "turkish": "Dövüşe başlama zamanı, Remy. Umarım desteni tam getirmişsindir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10640363_interact_02_10300_b_play",
       "english": "A lot's changed since those days. Maybe too much.",
       "turkish": "O günlerden bu yana çok şey değişti. Belki de fazlasıyla.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10640294_signal_broken_02_play",
       "english": "Finally! Somewhere we can cut loose!",
       "turkish": "Nihayet kafa dağıtabileceğimiz bir yer!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10640131_ko_sp_01_10650_play",
       "english": "You wanted my powers, Rogue? You got 'em!",
       "turkish": "Güçlerimi istiyordun, Rogue? Al sana!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10640346_sp_interact_krakoac_02_10530_d_play",
       "english": "Oh, come on! Don’t act like you haven’t gone on a mean department store shopping spree before!",
       "turkish": "Hadi ama! Daha önce hiç sağlam bir çok katlı mağaza alışveriş çılgınlığına çıkmamış gibi davranma!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10640040_ko_q_02_play",
       "english": "Aww, did you go \"boom\"?",
       "turkish": "Aaa, “bom” diye mi patladın?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10640416_interact_01_10150_d_play",
       "english": "Ororo, I'm *sniff* thank you…",
       "turkish": "Ororo, ben… *burnunu çeker* teşekkür ederim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10640290_quick_thanks_02_play",
       "english": "Whoa! Thanks!",
       "turkish": "Vay be! Teşekkürler!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10640240_building_destroy_amplifier_02_play",
       "english": "Rocket's been de-amplified!",
       "turkish": "Rocket’ın amfisinin fişi çekildi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10640221_building_spotted_portal_01_play",
       "english": "Strange is being sneaky again!",
       "turkish": "Strange yine sinsi işler çeviriyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10640212_respawn_04_play",
       "english": "This party isn't over 'til I say so!",
       "turkish": "Ben bitti demeden bu parti bitmez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10640458_interact_03_10310_c_play",
       "english": "I wish… more than you know…",
       "turkish": "Keşke… hem de sandığından çok daha fazla…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10640179_buff_endure_02_play",
       "english": "I'm indestructible, baby!",
       "turkish": "Ben yok edilemezim, bebeğim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10640201_saw_flank_02_play_p2",
       "english": "Yo! Turn around!",
       "turkish": "Hey! Arkanızı dönün!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10640324_interact_01_10500_c_play",
       "english": "He’s currently trapped in his dragon form. And he gives free rides!",
       "turkish": "Şu anda ejderha formunda sıkışıp kaldı. Üstelik bedava gezintiye çıkarıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10640279_quick_need_heal_01_play",
       "english": "Give a girl some health!",
       "turkish": "Bir kıza biraz can verin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10640105_escorting_remind_klyntarh_01_play",
       "english": "Unless we wanna risk Knull rising again, we gotta move!",
       "turkish": "Knull'ın yeniden yükselmesini riske atmak istemiyorsak hemen hareket etmeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10640183_buff_dr_02_play",
       "english": "Gonna have to hit harder!",
       "turkish": "Daha sert vurman gerekecek!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10640339_interact_01_10530_a_play",
       "english": "All these years together, and I don’t think I’ve seen that look on your face before, Emma. What is it?",
       "turkish": "Bunca yıldır birlikteyiz ve sanırım yüzünde bu ifadeyi daha önce hiç görmedim, Emma. Bu ne?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10640061_sp_single_newyorkh_01_play",
       "english": "Anyone else have the urge to join the vampire horde? No? Just me? Rad.",
       "turkish": "Başka vampir sürüsüne katılma dürtüsü hisseden var mı? Yok mu? Sadece ben mi? Süper.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10640007_single_02_play",
       "english": "Logan trained me for days like this… but I never thought they'd actually happen!",
       "turkish": "Logan beni böyle günler için eğitti… ama bunların gerçekten yaşanacağını hiç düşünmemiştim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10640140_saw_ko_01_10370_play",
       "english": "You've still got it, Erik!",
       "turkish": "Hâlâ formundasın, Erik!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10640208_healthpack_02_play",
       "english": "Great! I could use some health!",
       "turkish": "Harika! Biraz cana ihtiyacım vardı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10640313_signal_teammate_hp_01_play",
       "english": "I'm here if anyone needs a boost!",
       "turkish": "Takviyeye ihtiyacı olan varsa buradayım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10640116_escorting_remind_museume_02_play",
       "english": "Should've never agreed to a mission planned by Deapdool…",
       "turkish": "Deapdool'un planladığı bir görevi asla kabul etmemeliydim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10640004_entrance_02_10440_play",
       "english": "C'mon, Blade! Let's show 'em why they should be scared of vampires!",
       "turkish": "Hadi Blade! Onlara vampirlerden neden korkmaları gerektiğini gösterelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10640103_escorting_remind_wakandah_01_play",
       "english": "T'Challa's been good to us. We can't let him down!",
       "turkish": "T'Challa bize hep iyi davrandı. Onu yüzüstü bırakamayız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10640094_escorting_payload_newyorkh02_02_play",
       "english": "Fisk's regime is about to go out with a bang!",
       "turkish": "Fisk'in rejimi gürültülü bir patlamayla yıkılmak üzere!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10640162_damaged_02_play",
       "english": "I got hit. Like, hard.",
       "turkish": "Vuruldum. Hem de fena.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10640340_interact_01_10530_c_play",
       "english": "I don’t need your concern, Emma. Or your pity…",
       "turkish": "Endişene de acımana da ihtiyacım yok, Emma…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10640326_interact_01_10630_c_play",
       "english": "Truth. But don’t you ever get tired of constantly fighting for survival?",
       "turkish": "Doğru. Ama hayatta kalmak için sürekli savaşmaktan hiç yorulmuyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10640373_interact_01_10370_b_play",
       "english": "No can do, Erik. If I stop fighting, I've gotta deal with what a mess my life is. Right now, I'd rather just blow stuff up!",
       "turkish": "Olmaz, Erik. Savaşmayı bırakırsam, hayatımın ne kadar darmadağın olduğuyla yüzleşmem gerekecek. Şu an bir şeyleri patlatmayı tercih ederim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10640364_interact_02_10300_d_play",
       "english": "Well, being a vampire and a Horseman of Apocalypse tends to do that to a girl…",
       "turkish": "Eh, vampir ve Apocalypse'in Atlısı olmak bir kızı genelde böyle yapar…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10640486_sp_interact_newyorkh_02_10590_d_play",
       "english": "Thanks… Wait! Why would you have -- Nevermind. It's probably better if I don't know…",
       "turkish": "Teşekkürler… Dur! Neden sende -- Boş ver. Bilmesem daha iyi galiba…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10640182_buff_dr_01_play",
       "english": "Was that s'posed to hurt?",
       "turkish": "Bunun canımı yakması mı gerekiyordu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10640303_signal_wheel_backup_01_play",
       "english": "Could really use an assist!",
       "turkish": "Bir asist fena olmaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10640107_escorting_remind_newyorke_01_play",
       "english": "Cool your circuits, H.E.R.B.I.E. We'll get ya there!",
       "turkish": "Devrelerini serin tut, H.E.R.B.I.E. Seni oraya ulaştıracağız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10640455_interact_01_10290_a_play",
       "english": "Do you ever miss the old days, when we were still in class at Xavier's?",
       "turkish": "Xavier'da hâlâ derse girdiğimiz eski günleri hiç özlüyor musun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10640224_building_spotted_octopus_01_play",
       "english": "Namor's got squishy pals!",
       "turkish": "Namor'un yumuşak dostları var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10640487_sp_interact_newyorke_03_10630_b_play",
       "english": "I am suddenly feeling an irresistible urge to feast on the blood of Mutants… or maybe just street vendor hot dogs…",
       "turkish": "Birden içimde Mutantların kanıyla ziyafet çekmek için karşı konulmaz bir dürtü belirdi… ya da belki sadece sokak satıcısı hot dog’ları içindir…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10640015_single_10_play",
       "english": "Used to be a runaway… but I'm not running anymore!",
       "turkish": "Eskiden kaçaktım… ama artık kaçmıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10640308_signal_area_occupied_02_play",
       "english": "No way they get to claim this spot!",
       "turkish": "Bu noktayı ele geçirmeleri söz konusu bile olamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10640033_ability_e_01_play",
       "english": "Energy core detonated!",
       "turkish": "Enerji çekirdeği infilak etti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10640090_escorting_payload_kunlunh_02_play",
       "english": "Getting this tablet to Shou-Lao is priority numero uno!",
       "turkish": "Bu tableti Shou-Lao'ya ulaştırmak öncelik numero uno!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10640488_sp_interact_newyorke_03_10630_d_play",
       "english": "Just because I'm a vampire doesn't mean I'm gonna switch sides, Cyke. I'll always be an X-Man before everything else!",
       "turkish": "Sırf vampirim diye taraf değiştireceğim anlamına gelmez, Cyke. Her şeyden önce daima bir X-Man’im!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10640206_ko_normal_05_play",
       "english": "Sucks to be you!",
       "turkish": "Yerinde olmak istemezdim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10640397_interact_02_10460_b_play",
       "english": "I used to be all fireworks and bubblegum 'til, you know, life happened.",
       "turkish": "Eskiden havai fişekler ve balonlu sakız gibiydim; ta ki, bilirsin işte, hayat araya girene kadar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10640117_escorting_remind_newyorkh02_01_play",
       "english": "Geez! I thought S.H.I.E.L.D. transports would move a bit faster…",
       "turkish": "Hay aksi! S.H.I.E.L.D. nakliye araçları biraz daha hızlı gider sanmıştım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10640194_countdown_at_01_play",
       "english": "We're short on time. Keep attacking!",
       "turkish": "Zamanımız dar. Saldırmaya devam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10640296_signal_enemy_02_play",
       "english": "Can’t hide from me!",
       "turkish": "Benden saklanamazsınız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10640079_escorting_payload_wakandah_01_play",
       "english": "One priceless panther totem, coming your way!",
       "turkish": "Paha biçilmez bir panter totemi geliyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10640259_ko_three_03_play",
       "english": "That's three for me!",
       "turkish": "Üçledim ben!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10640443_interact_01_10560_b_play",
       "english": "To be fair, I didn't get a whole lot of say in the matter.",
       "turkish": "Adil olmak gerekirse, bu konuda bana pek söz hakkı tanınmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10640151_saw_death_01_10540_play",
       "english": "This is where you rise again, Jean… right…?",
       "turkish": "Burada yeniden doğacaksın, Jean… değil mi…?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10640016_single_11_play",
       "english": "Never thought I'd long for the days when Sentinels used to hunt me at the mall…",
       "turkish": "Nöbetçilerin beni alışveriş merkezinde kovaladığı günleri özleyeceğim hiç aklıma gelmezdi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10640081_escorting_payload_klyntarh_01_play",
       "english": "The sooner we deliver this codex, the sooner we get off this slimeball of a planet!",
       "turkish": "Bu kodeksi ne kadar çabuk teslim edersek, bu iğrenç gezegenden de o kadar çabuk kurtuluruz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10640253_ko_sniper_03_play",
       "english": "Landed a perfect hit on that sniper!",
       "turkish": "O keskin nişancıyı tam isabet vurdum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10640178_buff_endure_01_play",
       "english": "Can’t hurt me!",
       "turkish": "Canımı yakamazsınız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10640407_interact_01_10320_b_play",
       "english": "That… is not something that gets said to me nearly often enough…",
       "turkish": "Bu… bana hiç de yeterince sık söylenen bir şey değil…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10640086_escorting_payload_newyorkh_02_play",
       "english": "The park is crawling with predators. Stay close.",
       "turkish": "Park yırtıcılarla kaynıyor. Yanımdan ayrılmayın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10640383_interact_01_10590_b_play",
       "english": "Yeah. Things here have been messy. We really could've used a monster hunter like you… a long time ago…",
       "turkish": "Evet. Burada işler epey karıştı. Senin gibi bir canavar avcısı gerçekten çok işimize yarardı… hem de çok uzun zaman önce…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10640464_interact_04_10530_d_play",
       "english": "If it helps, you really can't tell which holes he made and which ones were already there…",
       "turkish": "İçini rahatlatacaksa, hangi delikleri onun açtığı, hangilerinin zaten orada olduğu gerçekten anlaşılmıyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10640401_interact_01_10160_b_play",
       "english": "It's my Mutant power. And my fireworks aren't just for show. They pack a mean punch!",
       "turkish": "Bu benim Mutant gücüm. Havai fişeklerim de sadece gösteriş için değil. Fena vururlar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10640307_signal_area_occupied_01_play",
       "english": "We don't let them take this area, got it?",
       "turkish": "Bu bölgeyi almalarına izin vermiyoruz, anlaşıldı mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10640392_interact_01_10600_c_play",
       "english": "I haven't been a vampire again that long.",
       "turkish": "Yeniden vampire dönüşeli o kadar da uzun zaman olmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10640122_easter_egg_krakoac_01_play",
       "english": "Professor… It's been a long, hard road back home. Hope I'm still making you proud…",
       "turkish": "Profesör… Eve dönüş yolum uzun ve zorlu oldu. Umarım hâlâ seni gururlandırıyorumdur…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10640214_respawn_06_play",
       "english": "They thought they got rid of me? Really?!",
       "turkish": "Benden kurtulduklarını mı sandılar? Cidden mi?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10640335_interact_01_10470_a_play",
       "english": "So, you’re the little land shark Emma fell head over heels for, huh?",
       "turkish": "Demek Emma'nın bayıldığı küçük kara köpekbalığı sensin, ha?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10640149_saw_death_01_10490_play",
       "english": "Logan?! No, no, no! This can't be happening!",
       "turkish": "Logan?! Hayır, hayır, hayır! Bu olamaz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10640315_signal_no_01_play",
       "english": "唔得！",
       "turkish": "Yok artık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10640093_escorting_payload_newyorkh02_01_play",
       "english": "Breaking into a prison to break out our friends? Love it!",
       "turkish": "Arkadaşlarımızı kaçırmak için bir hapishaneye mi dalıyoruz? Bayıldım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10640190_occupied_hint_defend_01_play",
       "english": "Wanna help me defend this area?",
       "turkish": "Bu alanı savunmama yardım etmek ister misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10640291_signal_open_spot_01_play",
       "english": "Hey! Check this out!",
       "turkish": "Hey! Şuna bakın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10640428_interact_01_10230_d_play",
       "english": "I am not merchandizing my undead life, Rocket!",
       "turkish": "Yaşayan ölü hayatımı pazarlamayacağım, Rocket!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10640281_quick_group_up_01_play",
       "english": "Gather 'round!",
       "turkish": "Toplanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10640078_escorting_payload_tokyoh_02_play",
       "english": "Nothing like a little sightseeing trip through Tokyo 2099!",
       "turkish": "Tokyo 2099'da küçük bir turistik gezi gibisi yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10640327_interact_01_10251_b_play",
       "english": "I wouldn’t call it perfect. The darkness has been creeping in more and more lately.",
       "turkish": "Mükemmel demezdim. Karanlık son zamanlarda giderek daha fazla içeri sızıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10640199_saw_enemy_02_play",
       "english": "Aha! There they are!",
       "turkish": "Aha! İşte oradalar!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10640269_ko_terrain_01_play",
       "english": "Ha! What a total loser.",
       "turkish": "Ha! Ne eziksin ya.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10640316_signal_no_02_play",
       "english": "Ew. No.",
       "turkish": "Iyy. Hayır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10640429_interact_01_10200_b_play",
       "english": "That's -- Okay, that's actually kind of adorable.",
       "turkish": "Bu-- Tamam, bu aslında bayağı sevimli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10640209_respawn_01_play",
       "english": "An extra life? Sweet!",
       "turkish": "Ekstra can mı? Süper!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10640042_ko_ability_e_01_play",
       "english": "Really wish you could've seen that!",
       "turkish": "Keşke bunu görebilseydin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10640032_ability_shift_03_play",
       "english": "Let the sparks fly!",
       "turkish": "Kıvılcımlar uçuşsun!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10640055_sp_single_asgard_01_play",
       "english": "Here's one realm Apocalypse didn't suck the faith outta…",
       "turkish": "İşte Apocalypse'in inancını söküp alamadığı bir diyar…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10640021_switch_01_play_p2",
       "english": "Clear the way! It's time for the big bang!",
       "turkish": "Yolu açın! Büyük patlama zamanı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10640398_interact_02_10460_d_play",
       "english": "I've always been a survivor, Goldie. No matter how much things change, that part of me never will.",
       "turkish": "Ben hep hayatta kalan biri oldum, Goldie. İşler ne kadar değişirse değişsin, bu yanım asla değişmeyecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10640124_ko_sp_01_10490_play",
       "english": "Sorry, Logan! I feel super guilty about that!",
       "turkish": "Üzgünüm Logan! Bunun için kendimi çok suçlu hissediyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10640057_sp_single_wakanda_01_play",
       "english": "The Panther got a space empire and all we got is a living island? Unfair!",
       "turkish": "Panter'in bir uzay imparatorluğu var, bize düşen de yaşayan bir ada mı? Haksızlık!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10640170_debuff_weak_01_play",
       "english": "Not at my best…",
       "turkish": "Daha iyi günlerim olmuştu…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10640479_sp_interact_newyorkh_03_10580_b_play",
       "english": "The closer we get to Dracula's Castle, the less I can control myself. You might wanna run, Remy…",
       "turkish": "Drakula'nın Şatosu'na yaklaştıkça kendimi kontrol etmem zorlaşıyor. Bence kaçsan iyi olur, Remy…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10640156_saw_death_01_10650_play",
       "english": "You're a survivor, Rogue! Don't give up!",
       "turkish": "Sen hayatta kalmayı bilirsin, Rogue! Pes etme!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10640334_interact_01_10240_d_play",
       "english": "Wow, girl. You really see me.",
       "turkish": "Vay be kızım. Beni gerçekten anlıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10640314_signal_teammate_hp_02_play",
       "english": "Check your health, gang!",
       "turkish": "Canınızı kontrol edin, millet!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10640426_interact_01_10340_d_play",
       "english": "Save the hook ups for Emma Frost, Stark. This girl can handle herself.",
       "turkish": "Kıyaklarını Emma Frost'a sakla, Stark. Bu kız kendi başının çaresine bakar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10640374_interact_01_10370_d_play",
       "english": "You're one to talk. How are things with your kids going?",
       "turkish": "Bunu sen mi söylüyorsun? Çocuklarınla işler nasıl gidiyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10640087_escorting_payload_arakkoe_01_play",
       "english": "That hunk of junk picked the wrong species to target!",
       "turkish": "Şu hurda yığını hedef olarak yanlış türü seçti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10640252_ko_sniper_02_play",
       "english": "So much for that sniper…",
       "turkish": "O keskin nişancı buraya kadarmış…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10640022_switch_02_play_p2",
       "english": "Jubilee's totally ready to party!",
       "turkish": "Jubilee partiye sonuna kadar hazır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10640399_interact_02_10140_b_play",
       "english": "Look who's talking! I've seen security guards at the mall more intimidating than you!",
       "turkish": "Bunu söyleyene bak! AVM’deki güvenlik görevlileri bile senden daha göz korkutucu!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10640358_sp_interact_newyorke_01_10140_d_play",
       "english": "A bit extreme… but if that’s the way we go, blowing stuff up happens to be my specialty!",
       "turkish": "Biraz aşırı… ama izleyeceğimiz yol buysa, bir şeyleri havaya uçurmak tam da benim uzmanlık alanım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10640299_signal_wheel_attack_01_play",
       "english": "Wanna fight? This is the place!",
       "turkish": "Dövüşmek mi istiyorsunuz? Yer burası!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10640419_interact_01_10110_a_play",
       "english": "You know a bit about changing into other forms and back again, right, Doc? Think you could help my Shogo?",
       "turkish": "Başka formlara dönüşüp sonra tekrar eski hâline dönmek konusunda biraz bilgin var, değil mi Doktor? Sence Shogo'ma yardım edebilir misin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10640344_sp_interact_asgard_01_10390_d_play",
       "english": "It’s not the tree that I want to see trembling, big guy. It’s our foes!",
       "turkish": "Titrediğini görmek istediğim ağaç sen değilsin, koca adam. Düşmanlarımız!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10640238_building_destroy_beacon_03_play",
       "english": "Blew up that beacon!",
       "turkish": "Feneri havaya uçurdum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10640369_interact_01_10650_a_play",
       "english": "Whoa! Don't think I've ever seen you look so powerful before, Rogue!",
       "turkish": "Vay be! Seni daha önce hiç bu kadar güçlü görmemiştim galiba, Rogue!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10640142_saw_ko_01_10530_play",
       "english": "You schooled 'em, Ms. Frost!",
       "turkish": "Onlara derslerini verdin, Bayan Frost!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10640332_interact_01_10300_c_play",
       "english": "Hey! Not cool. Besides, I barely identify as a vampire. There are so many sides to who I am!",
       "turkish": "Hey! Hiç hoş değil. Ayrıca kendimi vampir saydığım bile söylenemez. Kim olduğumun o kadar çok farklı yönü var ki!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10640251_ko_sniper_01_play",
       "english": "Blasted that sniper into next week!",
       "turkish": "O keskin nişancıyı gelecek haftaya postaladım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10640417_interact_02_10500_a_play",
       "english": "How do you do it, Sue? Balancing all of this with being a mom? It's so hard…",
       "turkish": "Bunu nasıl başarıyorsun, Sue? Tüm bunları annelikle nasıl dengeliyorsun? Çok zor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10640029_ability_right_03_play",
       "english": "I'll bleed 'em dry!",
       "turkish": "Kanlarını son damlasına kadar akıtacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10640330_interact_01_10440_c_play",
       "english": "I mean, technically, I’m undead. I think. After Apocalypse, I don’t even know what I am anymore.",
       "turkish": "Yani teknik olarak yaşayan ölüyüm. Sanırım. Apocalypse'ten sonra artık ne olduğumu ben bile bilmiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10640031_ability_shift_02_play",
       "english": "Ionic burst!",
       "turkish": "İyonik Patlama!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10640476_interact_02_10380_c_play",
       "english": "Either one. Or both. I'm really not picky.",
       "turkish": "İkisinden biri. Ya da ikisi de. Gerçekten seçici değilim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10640053_quick_q_charge_100_02_play",
       "english": "Light the fuse! It's go time!",
       "turkish": "Fitili ateşle! Başlama vakti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10640295_signal_enemy_01_play",
       "english": "I found one!",
       "turkish": "Birini buldum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10640163_damaged_03_play",
       "english": "I'm hurt! Help me out!",
       "turkish": "Yaralandım! Yardım edin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10640155_saw_death_01_10580_play",
       "english": "Hoped you could steal more time, Gambit…",
       "turkish": "Biraz daha zaman çalabilirsin sanmıştım, Gambit…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10640387_interact_01_10180_b_play",
       "english": "You, umm, wouldn't happen to know any spells to cure a baby dragon's rumbly tummy, would you?",
       "turkish": "Şey, bebek bir ejderhanın guruldayan midesini iyileştirecek bir büyü biliyor olamazsın, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10640437_interact_02_10170_b_play",
       "english": "Sure, Johnny. And a sea horse is basically a horse.",
       "turkish": "Tabii, Johnny. Denizatı da temelde attır zaten.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10640278_quick_hi_02_play",
       "english": "What's up?",
       "turkish": "Ne var ne yok?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10640384_interact_01_10590_d_play",
       "english": "Maybe when we finally win this war, you can chart us a path to somewhere a bit friendlier. Like the mall…",
       "turkish": "Belki bu savaşı nihayet kazandığımızda, bize biraz daha dost canlısı bir yere giden rota çizersin. Mesela AVM'ye…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10640215_saw_sniper_01_play",
       "english": "I think someone's targeting us!",
       "turkish": "Sanırım biri bizi hedef alıyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10640216_saw_sniper_02_play",
       "english": "We've got a shooter? Fun.",
       "turkish": "Nişancı mı var? Eğlenceli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10640420_interact_01_10110_c_play",
       "english": "A dragon.",
       "turkish": "Bir ejderha.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10640446_interact_02_10180_c_play",
       "english": "Whoa! Hey! I don't want you to slay him! I want you to turn him back into my sweet baby boy!",
       "turkish": "Dur! Hey! Onu öldürmeni istemiyorum! Onu tekrar benim tatlı oğluma dönüştürmeni istiyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10640113_escorting_remind_kunlunh_01_play",
       "english": "Hello? Anyone else concerned about leaving the angry dragon hanging?",
       "turkish": "Alo? Kızgın ejderhayı öylece ortada bırakmamızdan endişelenen başka kimse yok mu?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10640394_interact_01_10520_c_play",
       "english": "Huh. That's maybe the nicest thing anyone's said to me in… well, way too long…",
       "turkish": "Ha. Bu, belki de birinin bana söylediği en güzel şey… şey, çok uzun zamandır…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10640222_building_spotted_portal_02_play",
       "english": "A magic doorway. Must be Strange's…",
       "turkish": "Büyülü bir geçit. Strange'in işi olmalı…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10640494_interact_02_10510_c_play",
       "english": "Yeah, this is definitely not the path I expected to find myself on, that's for sure.",
       "turkish": "Evet, kendimi böyle bir yolda bulmayı kesinlikle beklemiyordum, orası kesin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10640436_interact_03_10460_c_play",
       "english": "I like to watch C-Dramas, while Shogo is sleeping. But don't tell the other X-Men.",
       "turkish": "Shogo uyurken Çin dizileri izlemeyi seviyorum. Ama bunu diğer X-Men'e söyleme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10640490_interact_01_10480_d_play",
       "english": "Then what do you say we make her proud?",
       "turkish": "O hâlde onu gururlandırmaya ne dersin?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10640003_entrance_01_10440_play",
       "english": "The fangs are about to come out!",
       "turkish": "Sivri dişler ortaya çıkmak üzere!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10640472_interact_01_10280_d_play",
       "english": "Oh, that one I'm more than glad to follow. After you, Tin Man!",
       "turkish": "Ah, onu seve seve takip ederim. Önden buyur, Teneke Adam!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5203,7 +5203,7 @@
       "internalName": "vo_10640381_interact_01_10360_b_play",
       "english": "Whatever. As long as you keep the dad jokes to a bare minimum, I'm cool.",
       "turkish": "Her neyse. Baba esprilerini mümkün olduğunca az yaptığın sürece benim için sorun yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5215,7 +5215,7 @@
       "internalName": "vo_10640475_interact_02_10380_a_play",
       "english": "Hey, Wanda! Any chance you've got a spell that can curb this insatiable appetite I've been cursed with?",
       "turkish": "Hey, Wanda! Lanetlendiğim bu doymak bilmez iştahı dizginleyebilecek bir büyün var mı acaba?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5227,7 +5227,7 @@
       "internalName": "vo_10640062_sp_single_krakoac_01_play",
       "english": "Shogo! Mommy's home!",
       "turkish": "Shogo! Anneciğin eve geldi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5239,7 +5239,7 @@
       "internalName": "vo_10640353_sp_interact_tokyo_01_10420_a_play",
       "english": "When this battle is over, you’re totally giving me a V.I.P. tour of future Tokyo, Peni!",
       "turkish": "Bu savaş bittiğinde bana geleceğin Tokyo’sunda kesinlikle VIP tur attıracaksın, Peni!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5251,7 +5251,7 @@
       "internalName": "vo_10640408_interact_01_10320_d_play",
       "english": "When you put it like that, yeah, I guess I am pretty awesome. And you're not so bad yourself!",
       "turkish": "Böyle deyince, evet, sanırım bayağı harikayım. Sen de hiç fena değilsin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5263,7 +5263,7 @@
       "internalName": "vo_10640024_q_p13_play",
       "english": "Plasmoid power!",
       "turkish": "Plazmoid gücü!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5275,7 +5275,7 @@
       "internalName": "vo_10640270_ko_terrain_02_play",
       "english": "You know you did that to yourself, right?",
       "turkish": "Bunu kendine yaptığını biliyorsun, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5287,7 +5287,7 @@
       "internalName": "vo_10640138_saw_ko_01_10630_play",
       "english": "That's why you're the boss, Scott!",
       "turkish": "İşte bu yüzden patron sensin, Scott!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5299,7 +5299,7 @@
       "internalName": "vo_10640471_interact_01_10280_b_play",
       "english": "Yeah, I've never been the kinda girl who follows a standard path.",
       "turkish": "Evet, ben hiç standart yoldan giden kızlardan olmadım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5311,7 +5311,7 @@
       "internalName": "vo_10640143_saw_ko_01_10580_play",
       "english": "That was a deadly deal, Remy!",
       "turkish": "Ölümcül bir eldi, Remy!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5323,7 +5323,7 @@
       "internalName": "vo_10640434_interact_01_10250_c_play",
       "english": "I try to keep it fun.",
       "turkish": "Eğlenceli tutmaya çalışıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5335,7 +5335,7 @@
       "internalName": "vo_10640400_interact_02_10140_d_play",
       "english": "I have a feeling I will… but I'll try to keep it to myself so you don't feel bad.",
       "turkish": "Öyle olacağını hissediyorum… ama kendime saklamaya çalışırım ki kendini kötü hissetmeyesin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5347,7 +5347,7 @@
       "internalName": "vo_10640410_interact_03_10390_d_play",
       "english": "Whatever ancient beef you two have got, feel free to leave me way out of it!",
       "turkish": "İkinizin arasındaki o kadim husumet her neyse, beni tamamen dışında tutabilirsiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5359,7 +5359,7 @@
       "internalName": "vo_10640030_ability_shift_01_play",
       "english": "Bursting and boosting!",
       "turkish": "Patlatıp güçlendiriyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5371,7 +5371,7 @@
       "internalName": "vo_10640249_building_destroy_octopus_02_play",
       "english": "That's for turning against your fellow Mutants, Namor!",
       "turkish": "Mutant yoldaşlarına sırt çevirdiğin için bu sana, Namor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5383,7 +5383,7 @@
       "internalName": "vo_10640006_single_01_play",
       "english": "With me on your side, I guarantee you're in for a blast!",
       "turkish": "Ben yanınızdayken patlamalı bir eğlence garanti!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5395,7 +5395,7 @@
       "internalName": "vo_10640153_saw_death_01_10290_play",
       "english": "Limbo can wait, Magik. We need you!",
       "turkish": "Araf bekleyebilir, Magik. Sana ihtiyacımız var!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5407,7 +5407,7 @@
       "internalName": "vo_10640265_ko_ace_03_play",
       "english": "Yeah! Got 'em all!",
       "turkish": "Evet! Hepsini hakladım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5419,7 +5419,7 @@
       "internalName": "vo_10640184_buff_purge_01_play",
       "english": "Fresh as new!",
       "turkish": "Yeni gibi taptaze!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5431,7 +5431,7 @@
       "internalName": "vo_10640321_interact_01_10310_a_play",
       "english": "I like your style, Luna… and your music isn’t all that bad either…",
       "turkish": "Tarzını sevdim, Luna… Müziğin de hiç fena değil hani…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5443,7 +5443,7 @@
       "internalName": "vo_10640305_signal_area_unoccupied_01_play",
       "english": "Here's the spot we need to take!",
       "turkish": "Almamız gereken nokta burası!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5455,7 +5455,7 @@
       "internalName": "vo_10640385_interact_02_10610_a_play",
       "english": "Whaddaya think, Cat? I'll create a distraction while you sneak in and strike?",
       "turkish": "Ne dersin, Kedi? Sen gizlice içeri sızıp saldırırken ben dikkatlerini dağıtayım mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5467,7 +5467,7 @@
       "internalName": "vo_10640282_quick_group_up_02_play",
       "english": "Bring it together!",
       "turkish": "Herkes buraya!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5479,7 +5479,7 @@
       "internalName": "vo_10640274_enemy_advanced_03_play",
       "english": "You guys know we're outnumbered here, right?",
       "turkish": "Burada sayıca az olduğumuzu biliyorsunuz, değil mi?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5491,7 +5491,7 @@
       "internalName": "vo_10640470_interact_02_10210_c_play",
       "english": "Thanks. That means a lot. Even some of my fellow X-Men are acting like I'm damaged goods.",
       "turkish": "Teşekkürler. Bu benim için çok şey ifade ediyor. X-Men'deki bazı yoldaşlarım bile bana sanki hasarlı malmışım gibi davranıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5503,7 +5503,7 @@
       "internalName": "vo_10640052_quick_q_charge_100_01_play",
       "english": "All right! Ready for launch!",
       "turkish": "Tamam! Fırlatmaya hazır!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5515,7 +5515,7 @@
       "internalName": "vo_10640106_escorting_remind_klyntarh_02_play",
       "english": "No. Nuh uh. I am not getting stuck on this creepy sludge world!",
       "turkish": "Hayır. I-ıh. Bu ürkütücü balçık dünyasında mahsur kalmayacağım!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5527,7 +5527,7 @@
       "internalName": "vo_10640226_building_spotted_octopus_03_play",
       "english": "Who ordered the catch of the day?",
       "turkish": "Günün avını kim sipariş etti?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5539,7 +5539,7 @@
       "internalName": "vo_10640083_escorting_payload_newyorke_01_play",
       "english": "Piece of cake! Avengers Tower isn't far at all!",
       "turkish": "Çocuk oyuncağı! Yenilmezler Kulesi hiç de uzak değil!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5551,7 +5551,7 @@
       "internalName": "vo_10640014_single_09_play",
       "english": "Can’t wait to get home and tell Shogo all about this one!",
       "turkish": "Eve gidip Shogo'ya bunu anlatmak için sabırsızlanıyorum!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5563,7 +5563,7 @@
       "internalName": "vo_10640196_countdown_dt_01_play",
       "english": "Not much time left! Stay strong!",
       "turkish": "Fazla zaman kalmadı! Dayanın!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5575,7 +5575,7 @@
       "internalName": "vo_10640168_debuff_purple_01_play",
       "english": "I'm not healing? Seriously?!",
       "turkish": "İyileşmiyorum? Ciddi misin?!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5587,7 +5587,7 @@
       "internalName": "vo_10640336_interact_01_10470_c_play",
       "english": "There was a day when I was the adorable sidekick, Jeffy-boy. Enjoy it while it lasts.",
       "turkish": "Bir zamanlar sevimli yardımcı bendim, Jeff’çiğim. Sürerken tadını çıkar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5599,7 +5599,7 @@
       "internalName": "vo_10640371_interact_01_10490_b_play",
       "english": "\"Sorry\"…? Why, Logan?",
       "turkish": "“Üzgünüm” mü…? Neden, Logan?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5611,12 +5611,12 @@
       "internalName": "vo_10640258_ko_three_02_play",
       "english": "Three! Gnarly!",
       "turkish": "Üç! Acayip iyi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": null,
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "e6584c416448fd27",
-  "generatedAt": "2026-09-06T19:28:12.812584Z"
+  "dataRevision": "f4b60f6092c7055a",
+  "generatedAt": "2026-09-06T19:35:44.157480Z"
 }

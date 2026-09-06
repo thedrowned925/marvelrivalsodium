@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "e6584c416448fd27",
-  "generatedAt": "2026-09-06T19:28:12.812584Z",
+  "dataRevision": "f4b60f6092c7055a",
+  "generatedAt": "2026-09-06T19:35:44.157480Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16256,
-    "recorded": 3371,
+    "waiting": 15791,
+    "recorded": 3836,
     "checked": 825,
     "added": 3246,
-    "worked": 7442,
-    "progress": 31.4,
+    "worked": 7907,
+    "progress": 33.37,
     "statusCounts": {
-      "Devam Ediyor": 10,
+      "Devam Ediyor": 9,
       "Baslamadi": 30,
-      "Tamamlandi": 14
+      "Tamamlandi": 15
     },
     "assigned": 40
   },
@@ -337,13 +337,13 @@
       "slug": "jubilee",
       "detailPath": "data/characters/jubilee.json",
       "total": 466,
-      "waiting": 465,
-      "recorded": 1,
+      "waiting": 0,
+      "recorded": 466,
       "checked": 0,
       "added": 0,
-      "worked": 1,
-      "progress": 0.21,
-      "status": "Devam Ediyor",
+      "worked": 466,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Mina Çakılkaya"
     },
     {
