@@ -130,7 +130,11 @@
     },
     "invisible-woman": {
       "path": "assets/video/managed/invisible-woman/597d7478-5de7-45f5-a977-ab3d7694bd12.mp4",
-      "duration": 9.194666666666667
+      "duration": 9.19466666666667
+    },
+    "iron-man": {
+      "path": "assets/video/managed/iron-man/acf73c65-9e0a-4380-9eda-d7bed18f1e02.mp4",
+      "duration": 8.106666666666667
     }
   }
 }
