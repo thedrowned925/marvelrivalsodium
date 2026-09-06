@@ -146,7 +146,11 @@
     },
     "loki": {
       "path": "assets/video/managed/loki/cfcf4733-2f6f-44ed-9e32-a5f1c67a63cd.mp4",
-      "duration": 8.405333333333333
+      "duration": 8.40533333333333
+    },
+    "magik": {
+      "path": "assets/video/managed/magik/d87a233b-011e-4f80-8d84-277be3198c30.mp4",
+      "duration": 10.005333333333333
     }
   }
 }
