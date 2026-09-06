@@ -31,6 +31,10 @@
     "phoenix": {
       "path": "assets/video/managed/phoenix/108370b7-5ad6-41c3-8215-5b8b8e67b83c.mp4",
       "duration": 10.688
+    },
+    "rocket-raccoon": {
+      "path": "assets/video/managed/rocket-raccoon/5f53f4af-a777-4220-b4e8-3d4c54af6fe6.mp4",
+      "duration": 8.853333333333333
     }
   }
 }
