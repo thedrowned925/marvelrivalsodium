@@ -34,7 +34,11 @@
     },
     "rocket-raccoon": {
       "path": "assets/video/managed/rocket-raccoon/5f53f4af-a777-4220-b4e8-3d4c54af6fe6.mp4",
-      "duration": 8.853333333333333
+      "duration": 8.85333333333333
+    },
+    "spider-man": {
+      "path": "assets/video/managed/spider-man/2b5d7d7f-78db-4857-9364-f839ff777b30.mp4",
+      "duration": 8.106666666666667
     }
   }
 }
