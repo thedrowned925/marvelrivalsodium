@@ -78,6 +78,10 @@
     },
     "black-cat": {
       "path": "assets/video/managed/black-cat/601485f2-4437-41ad-9371-c0bcc7e5fc58.mp4",
+      "duration": 8.53333333333333
+    },
+    "black-widow": {
+      "path": "assets/video/managed/black-widow/4502f358-9bf1-4fe0-bda9-b170b439ad4a.mp4",
       "duration": 8.533333333333333
     }
   }
