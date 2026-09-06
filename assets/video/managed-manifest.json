@@ -159,6 +159,10 @@
     "mr-fantastic": {
       "path": "assets/video/managed/mr-fantastic/c2f3755b-9a62-4b96-bc16-8feb31bdb7a9.mp4",
       "duration": 8.128
+    },
+    "moon-knight": {
+      "path": "assets/video/managed/moon-knight/48593d40-48e1-4cc1-856a-b83e39ee1464.mp4",
+      "duration": 7.722666666666667
     }
   }
 }
