@@ -26,7 +26,11 @@
     },
     "peni-parker": {
       "path": "assets/video/managed/peni-parker/f19ae235-488a-4db9-9794-09c96181f294.mp4",
-      "duration": 7.914666666666666
+      "duration": 7.91466666666667
+    },
+    "phoenix": {
+      "path": "assets/video/managed/phoenix/108370b7-5ad6-41c3-8215-5b8b8e67b83c.mp4",
+      "duration": 10.688
     }
   }
 }
