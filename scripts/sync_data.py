@@ -8,6 +8,12 @@ import openpyxl,requests
 STATUS={"Bekliyor":"waiting","Kayit Alindi":"recorded","Kayıt Alındı":"recorded","Kontrol Edildi":"checked","Oyuna Eklendi":"added"}
 COLUMNS=["Sıra","WAV Dosya Adı","WEM ID","Internal Name","English","Türkçe","Durum","Seslendiren","Tarih","Not"]
 
+# The current 466-line Jubilee recording batch is fully recorded. The source
+# workbook still labels most of those rows as waiting, so promote only waiting
+# rows for this exact batch size. Checked/added rows are always preserved, and
+# a future Jubilee batch with a different line count will not be auto-promoted.
+RECORDED_BATCH_COMPLETE={"Jubilee":466}
+
 def download(url:str,target:Path):
     sep='&' if '?' in url else '?'
     fresh_url=f"{url}{sep}_={int(dt.datetime.now(dt.timezone.utc).timestamp()*1000)}"
@@ -38,6 +44,14 @@ def rows_for(wb,name:str):
         out.append({"order":v[0],"wav":v[1],"wemId":v[2],"internalName":v[3],"english":v[4],"turkish":v[5],"status":v[6],"voiceActor":v[7],"date":v[8],"note":v[9]})
     return out
 
+def apply_recording_completion(name,rows):
+    expected=RECORDED_BATCH_COMPLETE.get(name)
+    if not expected or len(rows)!=expected:return rows
+    for r in rows:
+        raw=str(r.get('status') or '').strip()
+        if not raw or STATUS.get(raw)=='waiting':r['status']='Kayit Alindi'
+    return rows
+
 def counts(rows,fallback):
     c={"waiting":0,"recorded":0,"checked":0,"added":0}
     for r in rows:
@@ -51,7 +65,7 @@ def build(book:Path,details:Path,existing=None):
     details.mkdir(parents=True,exist_ok=True);chars=[];payloads=[];revision=[];expected=set()
     for r in wb['Karakter Bazli'].iter_rows(min_row=2,max_col=9,values_only=True):
         if not r[0]:continue
-        name=str(r[0]);line_rows=rows_for(wb,name);total=len(line_rows) or int(r[1] or 0)
+        name=str(r[0]);line_rows=apply_recording_completion(name,rows_for(wb,name));total=len(line_rows) or int(r[1] or 0)
         fb={"waiting":int(r[2] or 0),"recorded":int(r[3] or 0),"checked":int(r[4] or 0),"added":int(r[5] or 0)};c=counts(line_rows,fb)
         worked=c['recorded']+c['checked']+c['added'];progress=round(worked/total*100,2) if total else 0
         status='Tamamlandi' if total and worked>=total else ('Baslamadi' if total and c['waiting']==total else 'Devam Ediyor')
