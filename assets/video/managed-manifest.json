@@ -114,7 +114,11 @@
     },
     "elsa-bloodstone": {
       "path": "assets/video/managed/elsa-bloodstone/f1bcf1fa-86a7-40f2-810d-fe6cf72c6acf.mp4",
-      "duration": 9.642666666666667
+      "duration": 9.64266666666667
+    },
+    "gambit": {
+      "path": "assets/video/managed/gambit/4fd404fc-42a6-477f-ac1f-bbce08528560.mp4",
+      "duration": 10.538666666666666
     }
   }
 }
