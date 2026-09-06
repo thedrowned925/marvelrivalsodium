@@ -106,7 +106,11 @@
     },
     "devil-dinosaur": {
       "path": "assets/video/managed/devil-dinosaur/8bfbc63f-9811-4caf-9186-48bcf937672f.mp4",
-      "duration": 11.221333333333334
+      "duration": 11.2213333333333
+    },
+    "dr-strange": {
+      "path": "assets/video/managed/dr-strange/a44bd69b-79ee-4136-97d8-9ac43fd14608.mp4",
+      "duration": 7.68
     }
   }
 }
