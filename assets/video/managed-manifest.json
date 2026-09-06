@@ -134,7 +134,11 @@
     },
     "iron-man": {
       "path": "assets/video/managed/iron-man/acf73c65-9e0a-4380-9eda-d7bed18f1e02.mp4",
-      "duration": 8.106666666666667
+      "duration": 8.10666666666667
+    },
+    "jeff": {
+      "path": "assets/video/managed/jeff/d9191a70-ab02-4014-99c6-3d2d6ff100c8.mp4",
+      "duration": 8.512
     }
   }
 }
