@@ -143,6 +143,10 @@
     "jubilee": {
       "path": "assets/video/managed/jubilee/9aa81a97-51c3-4265-a760-7eabf3e27572.mp4",
       "duration": 9.216
+    },
+    "loki": {
+      "path": "assets/video/managed/loki/cfcf4733-2f6f-44ed-9e32-a5f1c67a63cd.mp4",
+      "duration": 8.405333333333333
     }
   }
 }
