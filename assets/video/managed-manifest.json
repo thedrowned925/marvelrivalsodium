@@ -87,6 +87,10 @@
     "hulk": {
       "path": "assets/video/managed/hulk/ae864a4c-5d19-4600-beef-b24b9dc374f1.mp4",
       "duration": 8.384
+    },
+    "capt-america": {
+      "path": "assets/video/managed/capt-america/59d657fc-657d-4bdb-abc9-305e20917d5b.mp4",
+      "duration": 7.530666666666667
     }
   }
 }
