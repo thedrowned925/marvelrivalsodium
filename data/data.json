@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "20a29188ea771ab6",
-  "generatedAt": "2026-09-06T13:22:17.512272Z",
+  "dataRevision": "318a11bd09853d4c",
+  "generatedAt": "2026-09-06T17:44:05.796308Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 16689,
-    "recorded": 3343,
+    "waiting": 16257,
+    "recorded": 3775,
     "checked": 420,
     "added": 3246,
-    "worked": 7009,
-    "progress": 29.58,
+    "worked": 7441,
+    "progress": 31.4,
     "statusCounts": {
       "Devam Ediyor": 9,
-      "Baslamadi": 32,
-      "Tamamlandi": 13
+      "Baslamadi": 31,
+      "Tamamlandi": 14
     },
     "assigned": 40
   },
@@ -85,13 +85,13 @@
       "slug": "black-widow",
       "detailPath": "data/characters/black-widow.json",
       "total": 432,
-      "waiting": 432,
-      "recorded": 0,
+      "waiting": 0,
+      "recorded": 432,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 432,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Esma Müberra Şahin"
     },
     {
