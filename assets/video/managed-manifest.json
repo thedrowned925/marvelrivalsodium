@@ -50,7 +50,11 @@
     },
     "human-torch": {
       "path": "assets/video/managed/human-torch/b32c7153-e8ec-40ee-8896-550332d608bc.mp4",
-      "duration": 8.106666666666667
+      "duration": 8.10666666666667
+    },
+    "the-thing": {
+      "path": "assets/video/managed/the-thing/6612b8ff-288e-4172-9fe8-9665ae2e0057.mp4",
+      "duration": 8.896
     }
   }
 }
