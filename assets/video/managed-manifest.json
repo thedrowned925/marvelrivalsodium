@@ -202,7 +202,11 @@
     },
     "wolverine": {
       "path": "assets/video/managed/wolverine/df0b8b74-d02b-41f6-ac40-778ba8537f3a.mp4",
-      "duration": 10.261333333333333
+      "duration": 10.2613333333333
+    },
+    "galacta": {
+      "path": "assets/video/managed/galacta/c2e07e4c-e9d0-482f-9ab5-b62213b597a3.mp4",
+      "duration": 34.51733333333333
     }
   }
 }
