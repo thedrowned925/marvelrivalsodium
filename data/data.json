@@ -5,8 +5,8 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "f4b60f6092c7055a",
-  "generatedAt": "2026-09-06T19:35:44.157480Z",
+  "dataRevision": "5da2811f62989334",
+  "generatedAt": "2026-09-07T12:52:01.397627Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
@@ -21,7 +21,7 @@
       "Baslamadi": 30,
       "Tamamlandi": 15
     },
-    "assigned": 40
+    "assigned": 41
   },
   "characters": [
     {
@@ -414,7 +414,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Ertuğrul Fırat"
     },
     {
       "name": "Namor",

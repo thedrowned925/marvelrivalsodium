@@ -1,6 +1,6 @@
 {
   "character": "Mr.Fantastic",
-  "voiceActor": null,
+  "voiceActor": "Ertuğrul Fırat",
   "summary": {
     "total": 422,
     "waiting": 422,
@@ -5089,6 +5089,6 @@
       "note": null
     }
   ],
-  "dataRevision": "f4b60f6092c7055a",
-  "generatedAt": "2026-09-06T19:35:44.157480Z"
+  "dataRevision": "5da2811f62989334",
+  "generatedAt": "2026-09-07T12:52:01.397627Z"
 }
