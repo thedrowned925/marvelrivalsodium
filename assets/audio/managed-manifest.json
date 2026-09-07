@@ -23,6 +23,10 @@
     "peni-parker": {
       "hover": "assets/audio/managed/peni-parker/hover-dc593532aa821cce89c33b30342c4d5e85257d7d5b24de2ff81ca8fd91e04a5a.wav",
       "detail": "assets/audio/managed/peni-parker/detail-ac030206457920d018ba07303093d8d9d61c08d813402f8fc022773469933770.wav"
+    },
+    "phoenix": {
+      "hover": "assets/audio/managed/phoenix/hover-78e88415aca0b84482e273f7f4fbeb0c9c9b7b69c387efd800084cee2ad7974e.wav",
+      "detail": "assets/audio/managed/phoenix/detail-b81b1857314dff13fdfa9e293c477f13c0972c0210e17959d46dbcb4c75ef850.wav"
     }
   }
 }
