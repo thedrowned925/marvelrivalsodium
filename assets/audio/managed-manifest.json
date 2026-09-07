@@ -19,6 +19,10 @@
     "galacta": {
       "hover": "assets/audio/managed/galacta/hover-0af112df0a9ec4ac61ca493d17add900a7506beef438642c33776acf442bc05b.wav",
       "detail": "assets/audio/managed/galacta/detail-5e74b68d336d793e70929fd5389b267e25da4768785257e31efb5980315877e1.wav"
+    },
+    "peni-parker": {
+      "hover": "assets/audio/managed/peni-parker/hover-dc593532aa821cce89c33b30342c4d5e85257d7d5b24de2ff81ca8fd91e04a5a.wav",
+      "detail": "assets/audio/managed/peni-parker/detail-ac030206457920d018ba07303093d8d9d61c08d813402f8fc022773469933770.wav"
     }
   }
 }
