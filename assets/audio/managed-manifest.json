@@ -15,6 +15,10 @@
     "emma-frost": {
       "hover": "assets/audio/managed/emma-frost/hover-1d620c8e503d75b7ac8f31dae2937597e431854b4f79728bdbd1676a87cb942d.wav",
       "detail": "assets/audio/managed/emma-frost/detail-be6ce27e574148f91772d61f222eb043039dd6090976683a1713e67f634a31cc.wav"
+    },
+    "galacta": {
+      "hover": "assets/audio/managed/galacta/hover-0af112df0a9ec4ac61ca493d17add900a7506beef438642c33776acf442bc05b.wav",
+      "detail": "assets/audio/managed/galacta/detail-5e74b68d336d793e70929fd5389b267e25da4768785257e31efb5980315877e1.wav"
     }
   }
 }
