@@ -5,21 +5,21 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "1d1d28d2a2aeb39b",
-  "generatedAt": "2026-09-07T22:24:58.801415Z",
+  "dataRevision": "c0cbf54d15ace68a",
+  "generatedAt": "2026-09-09T19:53:37.274656Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 15283,
-    "recorded": 4344,
+    "waiting": 14786,
+    "recorded": 4841,
     "checked": 420,
     "added": 3651,
-    "worked": 8415,
-    "progress": 35.51,
+    "worked": 8912,
+    "progress": 37.61,
     "statusCounts": {
-      "Devam Ediyor": 7,
-      "Baslamadi": 30,
-      "Tamamlandi": 17
+      "Devam Ediyor": 6,
+      "Baslamadi": 29,
+      "Tamamlandi": 19
     },
     "assigned": 41
   },
@@ -267,13 +267,13 @@
       "slug": "human-torch",
       "detailPath": "data/characters/human-torch.json",
       "total": 410,
-      "waiting": 61,
-      "recorded": 349,
+      "waiting": 0,
+      "recorded": 410,
       "checked": 0,
       "added": 0,
-      "worked": 349,
-      "progress": 85.12,
-      "status": "Devam Ediyor",
+      "worked": 410,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Eren Efe Demir"
     },
     {
@@ -463,13 +463,13 @@
       "slug": "psylocke",
       "detailPath": "data/characters/psylocke.json",
       "total": 436,
-      "waiting": 436,
-      "recorded": 0,
+      "waiting": 0,
+      "recorded": 436,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 436,
+      "progress": 100.0,
+      "status": "Tamamlandi",
       "voiceActor": "Sina Işıl Sönmez"
     },
     {
