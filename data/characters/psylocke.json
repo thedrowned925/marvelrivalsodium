@@ -4,8 +4,8 @@
   "summary": {
     "total": 436,
     "waiting": 0,
-    "recorded": 436,
-    "checked": 0,
+    "recorded": 0,
+    "checked": 436,
     "added": 0,
     "worked": 436,
     "progress": 100.0,
@@ -31,7 +31,7 @@
       "internalName": "vo_10480066_ko_sp_01_10280_play",
       "english": "My psychic blade can cleave metal as well as minds, Ultron.",
       "turkish": "Psişik kılıcım hem metali hem de zihinleri ikiye yarabilir Ultron.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10480200_signal_enemy_02_play",
       "english": "Our prey has been located.",
       "turkish": "Avımızın yeri tespit edildi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10480258_interact_01_10500_c_play",
       "english": "If you came from my world, you would have little choice.",
       "turkish": "Benim dünyamdan gelseydin fazla seçeneğin olmazdı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10480141_ko_assist_03_play",
       "english": "This is not a battle we can face alone.",
       "turkish": "Bu savaşı tek başımıza göğüsleyemeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10480145_ko_five_01_play",
       "english": "So many victories!",
       "turkish": "Bir sürü zafer!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10480116_building_spotted_octopus_02_play",
       "english": "Strange little monsters!",
       "turkish": "Garip küçük canavarlar!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10480185_quick_group_up_01_play",
       "english": "Gather around.",
       "turkish": "Toplanın.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10480207_signal_wheel_backup_01_play",
       "english": "I am in need of help.",
       "turkish": "Yardım lazım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10480020_switch_02_play_p2",
       "english": "They call me Psylocke. That name shall do.",
       "turkish": "Bana Psylocke diyorlar. Bu ad yeter.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10480112_building_spotted_nest_01_play",
       "english": "Tiny spider Yokai? Curious.",
       "turkish": "Minik örümcek Yokai mi? İlginç.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10480356_interact_01_10250_a_play",
       "english": "Your blades… Are they psychic like mine?",
       "turkish": "Bıçakların… Onlar da benimkiler gibi psişik mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10480330_escorting_remind_newyorkh_01_play",
       "english": "Do not let these Demons stop us from our goal.",
       "turkish": "Bu İblislerin bizi durdurmasına izin vermeyin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10480290_ability_shift_02_play",
       "english": "逃さないわよ!",
       "turkish": "逃さないわよ!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10480151_revenge_01_play",
       "english": "You made a grave mistake.",
       "turkish": "Asrın hatasını yaptın.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10480319_escorting_payload_klyntarh_02_play",
       "english": "The Great Snake shall taste his own poison.",
       "turkish": "Büyük Yılan kendi zehrinin tadına bakacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10480122_building_destroy_beacon_02_play",
       "english": "I've broken the tiny rodent's beacon.",
       "turkish": "Küçük kemirgenin fenerini kırdım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10480322_escorting_payload_newyorkh_01_play",
       "english": "This Yokai is unlike any I have met before…",
       "turkish": "Bu Yokai daha önce gördüklerimden çok farklı...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10480400_sp_ability_10250_03_play",
       "english": "Snuff out the light!",
       "turkish": "Işığı söndürün!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10480043_buff_purge_02_play",
       "english": "A fresh start.",
       "turkish": "Yeni bir başlangıç.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10480236_interact_01_10200_d_play",
       "english": "And if it doesn't, I will cleave these Dooms in two for what they've done.",
       "turkish": "Durmuyorsa bu iki Doom'u yaptıkları şeyler için ortadan ikiye ayıracağım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10480171_escorting_remind_tokyoe_02_play",
       "english": "If we hope to reach Budokan, we need to move!",
       "turkish": "Budokan'a ulaşmak istiyorsak harekete geçmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10480119_building_destroy_ankh_02_play",
       "english": "I have destroyed that troublesome ankh.",
       "turkish": "Başımıza bela olan yaşam çarmıhını yok ettim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10480006_single_11_play",
       "english": "Hmm. It appears some timelines feature a very different version of me…",
       "turkish": "Hımm. Görünüşe bakılırsa bazı zaman tünellerinde benim çok farklı bir versiyonum var...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10480387_interact_01_10550_a_play",
       "english": "You and I have much in common. I know a fellow demon slayer when I see one.",
       "turkish": "Seninle çok ortak noktamız var. Bir iblis avcısını gördüğümde tanırım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10480216_signal_vehicle_as_defend_02_play",
       "english": "Do not let them through!",
       "turkish": "Geçmelerine izin vermeyin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10480128_building_destroy_turret_02_play",
       "english": "I prefer a more elegant weapon.",
       "turkish": "Daha zarif bir silah tercih ederim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10480318_escorting_payload_klyntarh_01_play",
       "english": "Knull shall be undone by his own essence? How poetic.",
       "turkish": "Knull kendi özüyle mi yok edilecek? Şiir gibi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10480005_single_10_play",
       "english": "Enemies can become friends, but only if we show our foes respect.",
       "turkish": "Düşmanlar dost olabilir tabii düşmanlarımıza saygı gösterirsek.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10480156_ko_terrain_03_play",
       "english": "What a dishonorable end…",
       "turkish": "Ne onursuz bir son…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10480035_buff_dmg_02_play",
       "english": "My blades seem sharper.",
       "turkish": "Kılıçlarım daha keskin görünüyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10480420_interact_01_10610_d_play",
       "english": "I may not like chaos. But I have learned how to endure it.",
       "turkish": "Kaosu sevmeyebilirim. Ama ona nasıl dayanacağımı öğrendim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10480245_interact_02_10111_a_play",
       "english": "I remember you. From Kirisaki Mountain. You are an Oni.",
       "turkish": "Seni hatırlıyorum. Kirisaki Dağı'ndan. Sen bir Onisin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10480412_escorting_remind_museume_02_play",
       "english": "Onward! The Collector cannot be allowed to win!",
       "turkish": "İleri! Koleksiyoncu'nun kazanmasına izin veremeyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10480301_ko_ability_shift_01_play",
       "english": "It's over.",
       "turkish": "Bitti.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10480320_escorting_payload_newyorke_01_play",
       "english": "This tiny metal man will save us all.",
       "turkish": "Bu küçük metal adam hepimizi kurtaracak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10480206_signal_wheel_defend_02_play",
       "english": "Defend this spot!",
       "turkish": "Bu noktayı savunun!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10480228_interact_01_10370_a_play",
       "english": "How strange. I cannot seem to read your thoughts…",
       "turkish": "Çok garip. Düşüncelerini okuyamıyorum...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10480402_sp_single_kunlunec_01_play",
       "english": "It seems the crowd is ready for a fight… or several, perhaps.",
       "turkish": "Görünüşe bakılırsa kalabalık bir dövüşe… ya da belki birkaçına hazır.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10480013_single_05_play",
       "english": "Clear a path. Unless you wish me to clear your mind… permanently.",
       "turkish": "Yolu aç. Tabii beynini sonsuza dek temizlememi istemiyorsan.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10480155_ko_terrain_02_play",
       "english": "This world isn't so bad after all.",
       "turkish": "Bu dünya o kadar da kötü değilmiş.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10480074_saw_ko_01_10111_play",
       "english": "Smashing as always, Hulkmaru.",
       "turkish": "Her zamanki gibi parçalıyorsun Hulkmaru.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10480233_interact_01_10110_c_play",
       "english": "No. The villagers loved him, for he protected them from evil overlords.",
       "turkish": "Hayır. Köylüleri acımasız derebeylerinden koruduğu için köylüler onu seviyordu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10480017_sp_single_wakanda_01_play",
       "english": "I am a long way from the forests of Kirisaki Mountain…",
       "turkish": "Kirisaki Dağı'nın ormanlarından çok uzaktayım...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10480395_sp_ability_10250_01_play",
       "english": "Light guides me!",
       "turkish": "Işık bana yol gösteriyor!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10480270_sp_interact_klyntar_01_10350_c_play",
       "english": "I look forward to cutting off all eight of his heads and tails.",
       "turkish": "Onun sekiz başını ve kuyruklarını kesmeyi sabırsızlıkla bekliyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10480447_interact_01_10140_d_play",
       "english": "Then may we fight for a better tomorrow for both of you.",
       "turkish": "Öyleyse ikiniz için de daha iyi bir yarın uğruna savaşalım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10480299_ko_q_02_play",
       "english": "Your day ends, Demon.",
       "turkish": "Senin günün bitti İblis.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10480094_respawn_01_play",
       "english": "I'm back. Mind, body, and soul.",
       "turkish": "Geri döndüm. Zihnim, vücudum ve ruhumla.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10480221_interact_01_10310_b_play",
       "english": "What year is it anywhere? All that matters is now.",
       "turkish": "Hangi yıldayız? Önemli olan tek şey şu an.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10480260_interact_01_10170_c_play",
       "english": "When this conflict ends, I shall return you to the Hell that spawned you!",
       "turkish": "Bu çatışma bittiğinde seni doğuran Cehenneme geri göndereceğim!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10480086_saw_death_01_10350_play",
       "english": "Your feast has come to an end, Venom.",
       "turkish": "Ziyafetin sona eriyor Venom.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10480120_building_destroy_ankh_03_play",
       "english": "Keep your curses to yourself, Moon Knight.",
       "turkish": "Lanetlerini kendine sakla Moon Knight.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10480202_signal_wheel_enemy_spot_02_play",
       "english": "The enemy has been here.",
       "turkish": "Düşman burada.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10480367_interact_02_10530_d_play",
       "english": "Then perhaps I will accept your invitation after all.",
       "turkish": "O hâlde bu daveti kabul edebilirim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10480070_ko_sp_01_10270_play",
       "english": "It didn't have to come to this, great forest Oni…",
       "turkish": "Meselenin buralara gelmesine gerek yoktu büyük orman Onisi...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10480339_interact_01_10530_c_play",
       "english": "I fight neither for fame nor for fortune. Simply for the greater good.",
       "turkish": "Şan veya şöhret için savaşmam. İyilik için savaşırım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10480302_ko_ability_shift_02_play",
       "english": "On to the next!",
       "turkish": "Sıradaki gelsin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10480321_escorting_payload_newyorke_02_play",
       "english": "I will guide you safely, little friend.",
       "turkish": "Seni sağ salim götüreceğim küçük dostum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10480266_sp_interact_asgard_01_10160_c_play",
       "english": "So, you are not part ogre then?",
       "turkish": "O zaman yarı ogre değil misin?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10480049_occupied_hint_defend_02_play",
       "english": "Stand your ground.",
       "turkish": "Yerinizi koruyun.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10480397_sp_ability_10250_03_play",
       "english": "Flow gentle light.",
       "turkish": "Hafifçe akan ışık.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10480264_sp_interact_wakanda_01_10260_d_play",
       "english": "Your fancy metal may be strong, but I assure you, my will is stronger.",
       "turkish": "Süslü püslü metal aletin güçlü olabilir ama şunu bil ki iradem daha güçlü.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10480062_ko_normal_02_play",
       "english": "Did that hurt? Good.",
       "turkish": "Bu acıttı mı? Güzel.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10480172_escorting_remind_tokyoh_01_play",
       "english": "We are almost there, Zero. Don't stop now!",
       "turkish": "Neredeyse geldik Zero. Şimdi durmak olmaz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10480453_entrance_02_10250_play",
       "english": "Together, my friends, we will find a flawless balance!",
       "turkish": "Dostlarım, birlikte kusursuz bir denge bulacağız!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10480056_countdown_dt_02_play",
       "english": "We can't give up yet.",
       "turkish": "Şimdi havlu atamayız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10480313_sp_single_arakkoe_01_play",
       "english": "We either save this island... or we put it out of its misery...",
       "turkish": "Ya bu adayı kurtarırız... Ya da acısına bir son veririz...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10480197_signal_broken_01_play",
       "english": "We could cause great destruction here.",
       "turkish": "Burada büyük bir yıkım yaratabiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10480308_quick_q_charge_100_01_play",
       "english": "Time to spread my wings!",
       "turkish": "Kanatlarımı açma vakti geldi!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10480359_interact_01_10380_c_play",
       "english": "At times, so am I. But then I see the chaos surrounding us, and all I want is to return home.",
       "turkish": "Bazen ben de öyle ancak sonra çevremizi saran kaosu görünce kendimi buraya ait hissedemiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10480291_ability_shift_03_play",
       "english": "You're mine!",
       "turkish": "Sen benimsin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10480135_building_destroy_octopus_03_play",
       "english": "The sea king's pet Yokai are vanquished.",
       "turkish": "Deniz kralının evcil Yokaileri bozguna uğradı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10480413_escorting_remind_newyorkh02_01_play",
       "english": "Hurry! We must deliver the tablet!",
       "turkish": "Acele edin! Tableti teslim etmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10480044_occupied_celebrate_01_play",
       "english": "Well done.",
       "turkish": "Bravo.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10480283_interact_01_10410_c_play",
       "english": "What monsters have you slain? Oni? Yokai? Demons?",
       "turkish": "Hangi canavarları öldürdün? Oni mi? Yokai mi? İblis mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10480165_escorting_payload_tokyoh_02_play",
       "english": "Not even a great Oni could stop us, Zero.",
       "turkish": "Bizi kocaman bir Oni bile durduramaz Zero.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10480110_building_spotted_turret_02_play",
       "english": "Another machine to make war…",
       "turkish": "Bir savaş makinesi daha…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10480022_debuff_control_01_play",
       "english": "No longer in control…",
       "turkish": "Artık kontrol bende değil...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10480361_interact_01_10520_d_play",
       "english": "That's exactly the point. A little distraction can yield lots of destruction.",
       "turkish": "İşte asıl mesele de bu. En ufak dikkat dağınıklığı, büyük bir yıkıma yol açabilir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10480418_interact_01_10590_c_play",
       "english": "Mostly Yokai. What you would call demons and monsters.",
       "turkish": "Çoğunlukla Yokai. Sizin şeytanlar ve canavarlar dediğiniz şeyler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10480023_debuff_control_02_play",
       "english": "Why can't I move…?",
       "turkish": "Neden hareket edemiyorum?..",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10480196_signal_open_spot_02_play",
       "english": "This spot requires attention.",
       "turkish": "Bu noktaya dikkat edelim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10480373_escorting_payload_kunlunh_01_play",
       "english": "Come, gentle creature. We will guide you!",
       "turkish": "Gel, nazik yaratık. Sana rehberlik edeceğiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10480181_quick_hi_01_play",
       "english": "ご机嫌よう!",
       "turkish": "ご机嫌よう!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10480133_building_destroy_octopus_01_play",
       "english": "The water Yokai have been slain.",
       "turkish": "Su Yokaileri öldürüldü.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10480061_ko_normal_01_play",
       "english": "Mind over matter.",
       "turkish": "İrademle her zorluğu aşarım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10480399_sp_ability_10250_02_play",
       "english": "Embrace the dark!",
       "turkish": "Karanlığı bağrına bas!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10480011_single_03_play",
       "english": "One blade pierces minds. The other, hearts.",
       "turkish": "Bir kılıç zihinleri deler. Diğeri ise kalpleri.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10480310_sp_single_newyorke_01_play",
       "english": "Demons around every corner. This is my kind of city.",
       "turkish": "Her köşede iblisler var. Tam benlik şehir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10480105_building_spotted_ankh_03_play",
       "english": "This item seems ancient… and powerful…",
       "turkish": "Bu eşya kadim… Ve güçlü görünüyor…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10480289_ability_shift_01_play",
       "english": "Step aside!",
       "turkish": "Kenara çekilin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10480248_interact_01_10350_d_play",
       "english": "That would make you the only one.",
       "turkish": "Bu seni tek yapar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10480223_interact_01_10150_d_play",
       "english": "My reason is to strike down Doom…and then return home.",
       "turkish": "Amacım Doom'u indirmek... Ve evime dönmek.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10480222_interact_01_10150_b_play",
       "english": "No. I have never known you either.",
       "turkish": "Hayır. Seni de hiç bilmiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10480372_sp_ability_10530_03_play",
       "english": "I love mind games!",
       "turkish": "Zihin oyunu oynamaya bayılırım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10480261_sp_interact_klyntar_01_10290_b_play",
       "english": "Then it is right we should fight together.",
       "turkish": "O hâlde en doğrusu omuz omuza savaşmamız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10480025_debuff_exhaust_02_play",
       "english": "Getting hurt too easily…",
       "turkish": "Çok kolay canın yanıyor...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10480138_ko_sniper_03_play",
       "english": "I've taught that shooter a lesson.",
       "turkish": "O nişancıya dersini verdim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10480450_sp_interact_museume_01_10640_b_play",
       "english": "It was… less than pleasant. Which is why we must free all those he has taken captive.",
       "turkish": "Pek… hoş değildi. Bu yüzden esir aldığı herkesi özgürlüğüne kavuşturmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10480193_quick_thanks_01_play",
       "english": "かたじけない",
       "turkish": "かたじけない",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10480440_sp_emote_10470_1047001217_02_play",
       "english": "Watch me soar!",
       "turkish": "Gökte süzülmemi izle!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10480084_saw_death_01_10200_play",
       "english": "At least you are truly free now, Mantis.",
       "turkish": "En azından artık gerçekten özgürsün Mantis.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10480358_interact_01_10380_a_play",
       "english": "In the timeline where I come from, I was often hired to deal with witches.",
       "turkish": "Kendi zaman tünelimde sıklıkla cadıların icabına bakmakla görevlendirilirdim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10480326_escorting_remind_klyntarh_01_play",
       "english": "Onward, to the nest of Orochi.",
       "turkish": "İleri, Orochi yuvasına.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10480182_quick_hi_02_play",
       "english": "Greetings.",
       "turkish": "Selamlar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10480127_building_destroy_turret_01_play",
       "english": "That gun was no match for my sword.",
       "turkish": "O silah benin kılıcımın dengi değildi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10480323_escorting_payload_newyorkh_02_play",
       "english": "Danger lurks in this forest. We must tread carefully.",
       "turkish": "Bu ormanda tehlike kol geziyor. Dikkatli olmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10480267_sp_interact_tokyo_01_10420_a_play",
       "english": "I once ended the reign of a notorious Daimyo here, but now an evil corporation has risen in their place.",
       "turkish": "Burada bir keresinde kötülüğüyle nam salmış bir Daimyo'nun hükümdarlığını bitirmiştim ama onun yerine şeytani bir şirket gelmiş.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10480059_saw_flank_01_play_p2",
       "english": "Behind you!",
       "turkish": "Arkanda!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10480008_select_01_play",
       "english": "My Odachi is sharp. My mind is sharper.",
       "turkish": "Odachi'm keskin. Zihnim daha da keskin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10480415_interact_02_10570_a_play",
       "english": "You! I swore that I'd strike you down if I ever saw you again!",
       "turkish": "Sen! Seni bir daha görürsem yere sereceğime yemin etmiştim!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10480368_interact_02_10280_a_play",
       "english": "You intrigue me. I have never encountered an Oni forged from metal.",
       "turkish": "Beni meraklandırıyorsun. Metalden dövülmüş bir Oni ile hiç karşılaşmadım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10480360_interact_01_10520_b_play",
       "english": "My blade? That's not chi. It's psionic energy. The full power of my mind.",
       "turkish": "Kılıcımı mı diyorsun? Çi değil bu, psionik enerji. Zihin gücümün tamamı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10480009_single_01_play",
       "english": "We have demons to slay. What are we waiting for?",
       "turkish": "Öldüreceğimiz iblisler var. Daha ne bekliyoruz?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10480158_enemy_advanced_02_play",
       "english": "A few too many of them for my liking.",
       "turkish": "Bu kadar fazla olunca sevmiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10480332_escorting_remind_arakkoe_01_play",
       "english": "It is up to us to stop the virus from spreading further!",
       "turkish": "Virüsün daha fazla yayılmasını önlemek bize düşüyor!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10480268_sp_interact_tokyo_01_10420_c_play",
       "english": "Even so, it appears Japan cannot escape its fate.",
       "turkish": "Öyle olsa bile Japonya kaderinden kaçamaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10480065_ko_normal_05_play",
       "english": "You lose, demon.",
       "turkish": "Kaybettin iblis.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10480170_escorting_remind_tokyoe_01_play",
       "english": "Patience, Spider-Zero. We'll clear this path for you.",
       "turkish": "Sabret Spider-Zero. Senin için yolu temizleyeceğiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10480136_ko_sniper_01_play",
       "english": "Sayonara,sniper.",
       "turkish": "Sayonara keskin nişancı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10480117_building_spotted_octopus_03_play",
       "english": "The oceans have spawned new foes!",
       "turkish": "Okyanuslar yeni düşmanlar doğurdu!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10480337_interact_01_10160_c_play",
       "english": "Whether god or otherwise, respect is something to be earned. Not demanded.",
       "turkish": "İster tanrı olsun, ister başka bir şey, saygı dediğin kazanılır, talep edilmez.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10480175_escorting_remind_wakandah_02_play",
       "english": "Wakanda is depending on us.",
       "turkish": "Wakanda bize güveniyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10480177_easter_egg_tokyoe_02_play",
       "english": "There is nothing more sacred than a temple.",
       "turkish": "Bir tapınaktan daha kutsal bir şey yoktur.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10480455_entrance_02_10530_play",
       "english": "Our minds are nearly as sharp as my blades, Emma…",
       "turkish": "Zihinlerimiz de neredeyse bıçaklarım kadar keskin, Emma…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10480292_sp_ability_10290_01_play",
       "english": "To Hell and back!",
       "turkish": "Cehenneme gidip geldim!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10480036_buff_endure_01_play",
       "english": "I can't be stopped.",
       "turkish": "Kimse beni durduramaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10480365_sp_interact_museume_01_10330_c_play",
       "english": "The Collector must pay. You should understand. You are a trained assassin, aren't you?",
       "turkish": "Collector bedelini ödemeli. Anlamalısınız. Siz eğitimli bir suikastçısınız, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10480149_ko_ace_02_play",
       "english": "No more demons to slay.",
       "turkish": "Katledilecek iblis kalmadı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10480331_escorting_remind_newyorkh_02_play",
       "english": "We lead this Yokai to the castle, or we go down trying.",
       "turkish": "Bu Yokaiyi kaleye götüreceğiz ya da bu uğurda yok olacağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10480362_sp_interact_museume_01_10290_b_play",
       "english": "Can we use one of your portals to evacuate them once the battle ends?",
       "turkish": "Savaş bittiğinde onları tahliye etmek için portallarınızdan birini kullanabilir miyiz?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10480098_respawn_05_play",
       "english": "Reborn once more.",
       "turkish": "Bir kez daha doğdum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10480048_occupied_hint_defend_01_play",
       "english": "Defend what is ours.",
       "turkish": "Bizim olanı savunalım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10480089_saw_death_01_10440_play",
       "english": "My sword shall avenge yours, Blade.",
       "turkish": "Kılıcım seninkinin intikamını alacak, Blade.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10480168_escorting_remind_asgarde_01_play",
       "english": "The Tree lies ahead. We can't turn back now!",
       "turkish": "Ağaç önümüzde. Şimdi geri dönemeyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10480349_sp_interact_klyntar_01_10460_d_play",
       "english": "We must slay the Great Snake in its nest… before its children can devour us…",
       "turkish": "Büyük Yılanı yuvasında öldürmeliyiz… Çocukları bizi yemeden önce…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10480398_sp_ability_10250_01_play",
       "english": "Now, the void!",
       "turkish": "Şimdi, boşluk!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10480441_sp_emote_10470_1047001217_03_play",
       "english": "Farewell.",
       "turkish": "Elveda.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10480421_interact_01_10600_a_play",
       "english": "In Japan, they still whisper the name of Tamamo-no-Mae, the most famous nine-tailed fox. You know her story?",
       "turkish": "Japonya'da hâlâ Tamamo-no-Mae'nin, en ünlü dokuz kuyruklu tilkinin adını fısıldıyorlar. Onun hikayesini biliyor musun?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10480204_signal_wheel_attack_02_play",
       "english": "If we strike, we strike here!",
       "turkish": "Saldıracaksak buraya saldırıyoruz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10480208_signal_wheel_backup_02_play",
       "english": "Assistance is needed!",
       "turkish": "Yardım gerek!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10480028_debuff_weak_01_play",
       "english": "My mind… fading fast…",
       "turkish": "Zihnim... Hızla soluyor...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10480274_sp_interact_tokyo_01_10360_c_play",
       "english": "I fear we will have to disagree on that.",
       "turkish": "Bu konuda hemfikir olacağımızı sanmıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10480347_sp_interact_museume_01_10200_d_play",
       "english": "You're right. Everyone leaves here alive. Except the Collector.",
       "turkish": "Haklısın. Buradan herkes sağ çıkar. Koleksiyoncu hariç.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10480296_ko_v_02_play",
       "english": "Come on! Fight!",
       "turkish": "Haydi! Savaş!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10480442_sp_emote_10470_1047001217_04_play",
       "english": "You're mine!",
       "turkish": "Sen benimsin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10480166_escorting_payload_wakandah_01_play",
       "english": "The fate of Wakanda lies in our hands.",
       "turkish": "Wakanda'nın geleceği bizim elimizde.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10480130_building_destroy_nest_01_play",
       "english": "My apologies, little spiders.",
       "turkish": "Çok özür dilerim küçük örümcekler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10480121_building_destroy_beacon_01_play",
       "english": "The little panda's beacon is no more.",
       "turkish": "Küçük pandanın feneri gitti.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10480164_escorting_payload_tokyoh_01_play",
       "english": "I am curious to see this Budokan.",
       "turkish": "Bu Budokan'ı çok merak ediyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10480426_interact_01_10630_c_play",
       "english": "How did you know?",
       "turkish": "Nereden bildin?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10480409_escorting_payload_newyorkh02_01_play",
       "english": "This vessel's armor is holding up well… for now…",
       "turkish": "Bu geminin zırhı gayet iyi dayanıyor… şimdilik…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10480336_interact_01_10160_a_play",
       "english": "You are not as human as you look, are you?",
       "turkish": "Göründüğün kadar insan değilsin, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10480388_interact_01_10550_c_play",
       "english": "There are some monsters that cannot be vanquished. They can only be controlled.",
       "turkish": "Yenilemeyecek bazı canavarlar vardır. Onlar sadece kontrol edilebilir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10480252_interact_02_10330_d_play",
       "english": "I wish you were wrong. But I know in my heart that you're right.",
       "turkish": "Keşke yanılıyor olsaydın. Ama haklı olduğunu tüm kalbimle biliyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10480396_sp_ability_10250_02_play",
       "english": "Shine with me!",
       "turkish": "Benimle parlayın!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10480375_escorting_remind_kunlunh_01_play",
       "english": "They must not stop us from reaching Shou-Lao!",
       "turkish": "Bizi Shou-Lao'ya ulaşmaktan alıkoymamaları gerek!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10480341_interact_02_10500_c_play",
       "english": "When this battle is won, grant me the honor of besting you in combat.",
       "turkish": "Bu savaş kazanıldığında savaşta seni alt etme onurunu bana bahşet.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10480366_interact_02_10530_b_play",
       "english": "I did not travel between dimensions to dance. I came to fight.",
       "turkish": "Boyutlar arasında sırf dans etmek için seyahat etmedim. Savaşmaya geldim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10480386_emote_1048502205_02_play",
       "english": "So much for a vacation…",
       "turkish": "Tatil keyfi buraya kadarmış…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10480198_signal_broken_02_play",
       "english": "This place could be easily damaged.",
       "turkish": "Burası kolayca hasar görebilir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10480382_interact_02_10380_c_play",
       "english": "Sometimes I feel as though I am single-handedly keeping the chaos at bay.",
       "turkish": "Bazen kaosu tek başıma püskürtmeye çalışıyormuşum gibi hissediyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10480350_sp_interact_kunlun_01_10520_a_play",
       "english": "I have heard whispers that there is a dragon who dwells here.",
       "turkish": "Burada yaşayan bir ejderha olduğuna dair fısıltılar duydum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10480419_interact_01_10610_b_play",
       "english": "I am always attuned to my surroundings. Surprise is not an effective weapon to use against me.",
       "turkish": "Her zaman çevreme uyum sağlarım. Sürpriz, bana karşı etkili bir silah değildir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10480237_interact_02_10470_a_play",
       "english": "You need not fear me, little Yokai.",
       "turkish": "Benden korkmana gerek yok küçük Yokai.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10480305_quick_q_charge_90_under_02_play",
       "english": "I must regain my full power first.",
       "turkish": "Önce tüm gücümü geri kazanmalıyım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10480064_ko_normal_04_play",
       "english": "よし.",
       "turkish": "よし.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10480443_sp_emote_10470_1047001217_05_play",
       "english": "Psylocke's sword remains sharp.",
       "turkish": "Psylocke'un kılıcı keskin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10480183_quick_need_heal_01_play",
       "english": "I need time to heal.",
       "turkish": "İyileşmek için zamana ihtiyacım var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10480188_quick_hp_normal_02_play",
       "english": "I am fine.",
       "turkish": "İyiyim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10480325_escorting_payload_arakkoe_02_play",
       "english": "This land spirit deserves our protection.",
       "turkish": "Bu kara ruhu, korumamızı hak ediyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10480378_interact_03_10370_c_play",
       "english": "I see. You do not wish your gifts to be used as a weapon.",
       "turkish": "Anlıyorum. Güçlerinin silah olarak kullanılmasını istemiyorsun.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10480355_sp_interact_museume_01_10510_c_play",
       "english": "Oni, will you help me set the captives free?",
       "turkish": "Oni, tutsakları serbest bırakmama yardım eder misin?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10480076_saw_ko_01_10350_play",
       "english": "The Great Snake still hungers, it seems.",
       "turkish": "Büyük Yılan hâlâ aç gibi görünüyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10480351_sp_interact_kunlun_01_10520_c_play",
       "english": "Point me to the beast so that I may slay him.",
       "turkish": "Bana yaratığın yerini göster ki onu öldürebileyim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10480154_ko_terrain_01_play",
       "english": "An unexpected advantage.",
       "turkish": "Beklenmedik bir avantaj.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10480189_quick_hp_low_01_play",
       "english": "I fear I am not at my best.",
       "turkish": "Açıkçası daha iyi günlerim olmuştu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10480144_ko_three_03_play",
       "english": "They just keep falling.",
       "turkish": "Ha bire düşüyorlar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10480100_saw_sniper_01_play",
       "english": "Someone is attacking from afar.",
       "turkish": "Biri uzaktan saldırıyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10480090_saw_death_01_10430_play",
       "english": "A shame this was your last dance, Lord of Stars.",
       "turkish": "Ne yazık ki bu son dansın oldu Yıldızların Lordu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10480295_ko_v_01_play",
       "english": "Hai!",
       "turkish": "Hai!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10480439_sp_emote_10470_1047001217_01_play",
       "english": "蝶の舞を喰らえ!",
       "turkish": "蝶の舞を喰らえ!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10480285_q_p2_play_p2",
       "english": "Watch me soar!",
       "turkish": "Gökte süzülmemi izle!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10480294_sp_ability_10290_03_play",
       "english": "Thank you, sister!",
       "turkish": "Sağ ol ablacım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10480257_interact_01_10500_a_play",
       "english": "Your powers of stealth would make you an excellent assassin.",
       "turkish": "Gizlilik güçlerin seni mükemmel bir suikastçı yapıyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10480004_single_09_play",
       "english": "Everything in this place feels so familiar, and yet so strange.",
       "turkish": "Buradaki her şey çok tanıdık geliyor ama bir o kadar da yabancı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10480103_building_spotted_ankh_01_play",
       "english": "A strange mystical object…",
       "turkish": "Garip, mistik bir nesne...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10480152_revenge_02_play",
       "english": "You've paid for your transgressions.",
       "turkish": "Suçlarının bedelini ödedin!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10480334_interact_02_10110_a_play",
       "english": "I am told that a demon hides inside of you.",
       "turkish": "İçinde bir canavar olduğunu söylediler bana.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10480333_escorting_remind_arakkoe_02_play",
       "english": "If we fail, Arakko will only be the first to fall.",
       "turkish": "Başaramazsak, ilk düşen Arakko olacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10480452_entrance_01_10250_play",
       "english": "Shadow and light in perfect harmony!",
       "turkish": "Gölge ve ışık kusursuz bir uyum içinde!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10480018_sp_single_klyntar_01_play",
       "english": "I have never slayed a planet before. This should be fun.",
       "turkish": "Daha önce hiç gezegen yok etmemiştim. Bu iş eğlenceli olacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10480457_sp_ability_10530_05_play",
       "english": "幽撃 (Yuu-geki) Phantom Strike.",
       "turkish": "幽撃 (Yuu-geki) Hayalet Darbesi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10480045_occupied_celebrate_02_play",
       "english": "We earned this.",
       "turkish": "Bunu hak ettik.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10480108_building_spotted_portal_03_play",
       "english": "Someone has conjured a portal.",
       "turkish": "Biri portal oluşturmuş.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10480381_interact_02_10380_a_play",
       "english": "On the world I come from, Demons run rampant.",
       "turkish": "Benim dünyamda İblisler kol gezer.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10480230_interact_01_10470_a_play",
       "english": "We escaped the Collector together, little one. We shall face this new threat side-by-side as well.",
       "turkish": "Koleksiyoncu'dan birlikte kaçtık ufaklık. Bu yeni tehdit karşısında da yan yana duracağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10480148_ko_ace_01_play",
       "english": "It's over at last.",
       "turkish": "Sonunda bitti.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10480178_easter_egg_wakandac_03_play",
       "english": "I've fought more frightening creatures bare handed.",
       "turkish": "Çıplak elle çok daha korkutucu yaratıklarla savaştım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10480298_ko_q_01_play",
       "english": "Clipped your wings!",
       "turkish": "Kanatlarını kestim!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10480014_sp_single_hydra_01_play",
       "english": "Too often, men prove themselves worse than demons.",
       "turkish": "İnsanlar sıklıkla iblislerden daha kötü olduklarını kanıtlar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10480093_healthpack_02_play",
       "english": "Healing magic? Lovely.",
       "turkish": "İyileştirme büyüsü mü? Çok hoş.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10480060_saw_flank_02_play_p2",
       "english": "Attacking from behind? Shameful!",
       "turkish": "Arkadan saldırmak ha? Utanç verici!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10480042_buff_purge_01_play",
       "english": "My mind is clear.",
       "turkish": "Zihnim berrak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10480273_sp_interact_tokyo_01_10360_a_play",
       "english": "Where I come from, Tokyo is not a kingdom of spiders.",
       "turkish": "Benim evrenimde Tokyo, örümcek krallığı değildir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10480404_sp_single_newyorkh02_01_play",
       "english": "What a strange village this Man-Hattan is!",
       "turkish": "Ne tuhaf bir köy bu Man-Hattan!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10480345_sp_interact_museume_01_10150_d_play",
       "english": "I'm more interested in making sure that their captor is liberated from existence.",
       "turkish": "Ben, onların esir alan kişinin varoluştan kurtarılmasını sağlamaya daha çok ilgi duyuyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10480374_escorting_payload_kunlunh_02_play",
       "english": "I'm used to slaying dragons, not waking them…",
       "turkish": "Ejderha öldürmeye alışığım, onları uyandırmaya değil…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10480068_ko_sp_01_10490_play",
       "english": "You're not nearly as fierce as my Logan.",
       "turkish": "Benim Logan'ım kadar azılı değilsin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10480091_saw_death_01_10360_play",
       "english": "You fought well, Man of Spiders.",
       "turkish": "İyi savaştın Örümceklerin Adamı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10480279_sp_interact_tokyoe_01_80310_b_play",
       "english": "If only I could find the road that takes me home…",
       "turkish": "Keşke beni eve götürecek yolu bulabilsem…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10480203_signal_wheel_attack_01_play",
       "english": "This is where to attack.",
       "turkish": "Buraya saldıracağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10480232_interact_01_10110_a_play",
       "english": "I knew of a green monster once.",
       "turkish": "Bir zamanlar tanıdığım yeşil bir canavar vardı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10480213_signal_vehicle_as_attack_01_play",
       "english": "Don't stop pushing forward.",
       "turkish": "Yüklenmeye devam edin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10480021_switch_03_play_p2",
       "english": "Sai humbly awaits your command.",
       "turkish": "Sai emirlerini bekliyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10480281_sp_interact_museume_01_10220_d_play",
       "english": "And then we can make the Collector pay for what he's done here.",
       "turkish": "Ve sonra Koleksiyoncu'nun burada yaptıklarının bedelini ödetebiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10480282_interact_01_10410_a_play",
       "english": "I feel something familiar about you. As though we have walked the same path.",
       "turkish": "Sende tanıdık bir şey var gibi. Sanki aynı yolda yürümüşüz gibi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10480140_ko_assist_02_play",
       "english": "We get through this together.",
       "turkish": "Bunu birlikte atlatacağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10480031_buff_heal_noncritical_02_play",
       "english": "What a difference.",
       "turkish": "Büyük fark.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10480123_building_destroy_beacon_03_play",
       "english": "The beacon has been disarmed.",
       "turkish": "Fener etkisiz hâle getirildi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10480099_respawn_06_play",
       "english": "My hunt continues.",
       "turkish": "Avım devam ediyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10480353_sp_interact_hellfire_01_10490_c_play",
       "english": "I am not used to being a part of a society. I tend to wander alone.",
       "turkish": "Toplumun bir parçası olmaya pek alışkın değilim. Yalnız takılmayı severim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10480241_interact_02_10370_a_play",
       "english": "You look at me as if you know me.",
       "turkish": "Sanki beni tanıyormuş gibi bakıyorsun.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10480071_ko_sp_01_10470_play",
       "english": "Should I bury you on land or at sea, little Yokai?",
       "turkish": "Seni karaya mı yoksa denize mi gömeyim küçük Yokai?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10480199_signal_enemy_01_play",
       "english": "Our foe is here.",
       "turkish": "Düşmanımız burada.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10480029_debuff_weak_02_play",
       "english": "Won't survive another hit.",
       "turkish": "Bir darbeye daha dayanamaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10480231_interact_01_10470_c_play",
       "english": "If only all Yokai were so agreeable…",
       "turkish": "Keşke tüm Yokailer bu kadar anlayışlı olsa...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10480410_escorting_payload_newyorkh02_02_play",
       "english": "I had my doubts, but this is quite the efficient vehicle.",
       "turkish": "Şüphelerim vardı, ama bu oldukça verimli bir araç.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10480150_ko_ace_03_play",
       "english": "My work is done.",
       "turkish": "İşimi bitirdim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10480352_sp_interact_hellfire_01_10490_a_play",
       "english": "What a strange island. It breathes, as if alive…",
       "turkish": "Ne tuhaf bir ada. Nefes alıyor, sanki canlı gibi…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10480324_escorting_payload_arakkoe_01_play",
       "english": "We must deliver this core to save the island.",
       "turkish": "Adayı kurtarmak için bu çekirdeği teslim etmeliyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10480458_sp_ability_10530_06_play",
       "english": "Dangerous deception!",
       "turkish": "Tehlikeli yanıltma!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10480161_escorting_payload_asgarde_02_play",
       "english": "Today, we answer the gods' prayers.",
       "turkish": "Bugün tanrıların dualarına cevap vereceğiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10480220_saw_death_01_10520_play",
       "english": "Lin Lie, you are a true warrior.",
       "turkish": "Lin Lie, sen gerçek bir savaşçısın.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10480284_q_p13_play",
       "english": "蝶の舞を喰らえ!",
       "turkish": "蝶の舞を喰らえ!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10480210_signal_area_unoccupied_02_play",
       "english": "This place must be ours.",
       "turkish": "Burası bizim olmalı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10480160_escorting_payload_asgarde_01_play",
       "english": "I will clear path to the sacred tree.",
       "turkish": "Kutsal ağaca giden yolu açacağım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10480058_saw_enemy_02_play",
       "english": "The enemy has arrived.",
       "turkish": "Düşman geldi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10480451_sp_interact_museume_01_10640_d_play",
       "english": "Perhaps. But I fear the risk is far greater if we stand idly by and do nothing.",
       "turkish": "Belki. Ama seyirci kalıp hiçbir şey yapmazsak riskin çok daha büyük olmasından korkuyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10480243_interact_01_10490_a_play",
       "english": "Is it true that they call you Logan?",
       "turkish": "Sana Logan dedikleri doğru mu?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10480316_sp_single_kunlun_01_play",
       "english": "A nation of formidable warriors? I should fit in well here…",
       "turkish": "Güçlü savaşçılardan oluşan bir ulus mu? Buraya iyi uyum sağlayacağım gibi görünüyor…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10480269_sp_interact_klyntar_01_10350_a_play",
       "english": "This must be the nest of the Great Snake.",
       "turkish": "Burası Büyük Yılanın yuvası olmalı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10480286_ability_e_01_play",
       "english": "Farewell.",
       "turkish": "Elveda.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10480007_single_12_play",
       "english": "Demons. Yokai and Villains. They all fall by my blade just the same.",
       "turkish": "İblisler. Yokai ve kötü adamlar. Hepsi benim kılıcımı tadar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10480016_sp_single_tokyo_01_play",
       "english": "This… is not the Japan I remember…",
       "turkish": "Burası... Hatırladığım Japonya'ya hiç benzemiyor...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10480032_buff_heal_critical_01_play",
       "english": "I needed that.",
       "turkish": "Bu iyi geldi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10480227_interact_01_10330_d_play",
       "english": "Hard to know. Our kind of work doesn't get into the history books.",
       "turkish": "Bilmek güç. Bizim yaptığımız iş tarih kitaplarına girmez.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10480315_sp_single_klyntarec_01_play",
       "english": "A world infested by Orochi! This will be quite a challenge…",
       "turkish": "Orochi tarafından istila edilmiş bir dünya! Bu oldukça zorlu bir mücadele olacak...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10480218_signal_no_02_play",
       "english": "No.",
       "turkish": "Hayır.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10480142_ko_three_01_play",
       "english": "That makes three.",
       "turkish": "Üç etti.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10480390_interact_01_10570_c_play",
       "english": "I'm certain it was you. I saw you through the eyes of my wolf! If you wish to live, you owe me a great debt.",
       "turkish": "Eminim sendin. Seni kurdumun gözlerinden gördüm! Hayatta kalmak istiyorsan, bana büyük bir borcun var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10480191_quick_confirm_01_play",
       "english": "はい.",
       "turkish": "はい.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10480104_building_spotted_ankh_02_play",
       "english": "What is this enchanted totem?",
       "turkish": "Bu büyülü totem neyin nesi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10480340_interact_02_10500_a_play",
       "english": "You move with such stealth. You would be an excellent sparring partner.",
       "turkish": "Büyük bir gizlilikle hareket ediyorsun. Senden harika idman arkadaşı olur.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10480115_building_spotted_octopus_01_play",
       "english": "Yokai of the sea!",
       "turkish": "Deniz Yokaileri!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10480113_building_spotted_nest_02_play",
       "english": "Hello there, little spiders.",
       "turkish": "Selam küçük örümcekler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10480002_single_07_play",
       "english": "I've fought Oni. Slayed demons. This should be easy.",
       "turkish": "Onilerle savaştım. İblisleri öldürdüm. Bu kolay olacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10480377_interact_03_10370_a_play",
       "english": "Your helmet guards you from psionic abilities. Clever.",
       "turkish": "Miğferin seni psionik kabiliyetlerden koruyor. Zekice.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10480422_interact_01_10600_c_play",
       "english": "A cautionary tale, then?",
       "turkish": "O zaman bu bir uyarı hikayesi mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10480262_sp_interact_tokyo_01_10330_b_play",
       "english": "No. Are there many places like this in your future?",
       "turkish": "Değil. Gelecekte böyle çok yer var mı?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10480408_escorting_payload_museume_02_play",
       "english": "An odd transport, but it will get the job done.",
       "turkish": "Garip bir taşıma aracı, ama işi halledecek.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10480277_sp_interact_klyntar_01_10230_a_play",
       "english": "Have you come to slay the Great Snake in its den as well, little Yokai?",
       "turkish": "Sen de Büyük Yılanı yuvasında öldürmeye mi geldin küçük Yokai?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10480224_interact_01_10290_b_play",
       "english": "It is psychic.",
       "turkish": "Psişik.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10480046_occupied_hint_engage_01_play",
       "english": "This battle is ours to win.",
       "turkish": "Bu savaşı biz kazanacağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10480234_interact_01_10111_b_play",
       "english": "Perhaps they could even cut you.",
       "turkish": "Belki seni bile keserler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10480194_quick_thanks_02_play",
       "english": "Many thanks.",
       "turkish": "Çok teşekkür ederim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10480247_interact_01_10350_b_play",
       "english": "Where I come from, you are known as Orochi, the Great Snake.",
       "turkish": "Benim evrenimde Büyük Yılan Orochi adıyla biliniyorsun.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10480077_saw_ko_01_10290_play",
       "english": "Your demons chose their queen wisely, Magik.",
       "turkish": "İblislerin kraliçesini akıllıca seçmiş Magik.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10480329_escorting_remind_newyorke_02_play",
       "english": "H.E.R.B.I.E. is counting on us. We cannot fail him.",
       "turkish": "H.E.R.B.I.E. bize güveniyor. Onu yüz üstü bırakamayız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10480244_interact_01_10490_c_play",
       "english": "My pet wolf was named Logan. I miss him…",
       "turkish": "Evcil kurdumun adı Logan'dı. Onu özlüyorum...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10480288_ability_e_03_play",
       "english": "Out of sight!",
       "turkish": "Gözden kayboldu!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10480449_sp_interact_museume_02_10630_d_play",
       "english": "And I will do whatever it takes to continue proving my worth, both as a trusted warrior and a loyal friend.",
       "turkish": "Hem güvenilir bir savaşçı hem de sadık bir dost olarak değerimi kanıtlamaya devam etmek için ne gerekiyorsa yapacağım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10480126_building_destroy_amplifier_03_play",
       "english": "The amplifier will pose no further threat.",
       "turkish": "Kuvvetlendirici artık tehdit olmaktan çıktı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10480173_escorting_remind_tokyoh_02_play",
       "english": "Just a little further, Spider-Zero…",
       "turkish": "Biraz daha uzakta Spider-Zero.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10480083_saw_death_01_10470_play",
       "english": "Our spirits shall meet again some day, little one.",
       "turkish": "Ruhlarımız bir gün yine buluşacak ufaklık.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10480407_escorting_payload_museume_01_play",
       "english": "This is going much smoother than my last time here.",
       "turkish": "Buradaki işler, geçen seferime göre çok daha sorunsuz ilerliyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10480429_interact_01_10640_a_play",
       "english": "You remind me of someone I fought beside… her name was Juju.",
       "turkish": "Bana bir zamanlar omuz omuza savaştığım birini hatırlatıyorsun… adı Juju’ydu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10480314_sp_single_klyntarc_01_play",
       "english": "The largest Yokai I have ever seen. Who could slay such a creature?",
       "turkish": "Gördüğüm en büyük Yokai. Kim böyle bir yaratığı öldürebilir ki?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10480403_sp_single_museume_01_play",
       "english": "As much as I hate this place, I must finish what I started and set everyone free!",
       "turkish": "Bu yerden ne kadar nefret etsem de başladığım işi bitirmeli ve herkesi özgür bırakmalıyım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10480328_escorting_remind_newyorke_01_play",
       "english": "We cannot delay any longer. To the Tower!",
       "turkish": "Daha fazla vakit kaybedemeyiz. Kuleye!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10480293_sp_ability_10290_02_play",
       "english": "What a journey!",
       "turkish": "Ne yolculuk ama!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10480102_saw_sniper_03_play",
       "english": "I've located a hidden assailant.",
       "turkish": "Saklanmış bir saldırgan buldum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10480179_quick_fallback_01_play",
       "english": "We must retreat!",
       "turkish": "Geri çekilmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10480239_interact_01_10280_b_play",
       "english": "Did you ever behold beauty in your world, machine?",
       "turkish": "Dünyanda hiç güzellik gördün mü makine?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10480033_buff_heal_critical_02_play",
       "english": "Now I might survive this.",
       "turkish": "Artık bunu atlatabilirim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10480201_signal_wheel_enemy_spot_01_play",
       "english": "I have found their nest.",
       "turkish": "Yuvalarını buldum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10480338_interact_01_10530_a_play",
       "english": "I have cleared the evil spirits from many lands. This realm shall be no different.",
       "turkish": "Kötü ruhları pek çok diyardan defettim. Burası da farklı olmayacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10480038_buff_shield_01_play",
       "english": "A shield? Many thanks.",
       "turkish": "Kalkan mı? Çok sağ ol.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10480067_ko_sp_01_10350_play",
       "english": "Spew your venom no more, demon!",
       "turkish": "Zehrini daha fazla tükürme iblis!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10480069_ko_sp_01_10340_play",
       "english": "An iron suit cannot withstand a psychic blade.",
       "turkish": "Demirden bir kıyafet, psişik kılıca dayanamaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10480309_quick_q_charge_100_02_play",
       "english": "I am ready to soar!",
       "turkish": "Süzülmeye hazırım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10480019_switch_01_play_p2",
       "english": "Psylocke's sword remains sharp.",
       "turkish": "Psylocke'un kılıcı keskin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10480276_sp_interact_hydra_01_10220_c_play",
       "english": "Then we shall slay them all, man and beast alike!",
       "turkish": "O zaman insan veya canavar demeden hepsini öldürelim!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10480146_ko_five_02_play",
       "english": "No stopping me now.",
       "turkish": "Artık kimse beni durduramaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10480107_building_spotted_portal_02_play",
       "english": "Where does this door lead?",
       "turkish": "Bu kapı nereye açılıyor?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10480003_single_08_play",
       "english": "I will not rest until I return to my world once more.",
       "turkish": "Dünyama bir kez daha dönene kadar dinlenmeyeceğim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10480456_sp_ability_10530_04_play",
       "english": "Psychic surprise!",
       "turkish": "Psişik sürpriz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10480143_ko_three_02_play",
       "english": "One after another.",
       "turkish": "Peş peşe.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10480379_interact_02_10490_b_play",
       "english": "Sai. Or Psylocke. But never \"darling.\" They know better.",
       "turkish": "Sai veya Psylocke derler ama asla “tatlım” demezler. Yoksa ne olacağını bilirler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10480343_interact_01_10540_c_play",
       "english": "Where I come from, we have a name for those with such vast power. Bakemono.",
       "turkish": "Benim geldiğim yerde, böylesine büyük bir güce sahip olanlara bir isim veririz. Bakemono.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10480385_emote_1048502205_01_play",
       "english": "The perfect time to cut loose!",
       "turkish": "Artık keyfimize bakalım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10480167_escorting_payload_wakandah_02_play",
       "english": "We will make Wakanda proud.",
       "turkish": "Wakanda'yı gururlandıracağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10480430_interact_01_10640_c_play",
       "english": "I would like to think so. I miss her.",
       "turkish": "Öyle olduğunu düşünmek isterim. Onu özlüyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10480027_debuff_purple_02_play",
       "english": "I am not healing…",
       "turkish": "İyileşmiyorum...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10480263_sp_interact_wakanda_01_10260_b_play",
       "english": "The blade of my Odachi is forged of pure psychic energy.",
       "turkish": "Odachi'min kılıcı saf psişik enerjiden dövüldü.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10480235_interact_01_10200_b_play",
       "english": "The Collector took me from my world, with no way to return.",
       "turkish": "Koleksiyoncu beni dünyamdan aldı ve geri dönmemin hiçbir yolu yok.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10480137_ko_sniper_02_play",
       "english": "The sniper has been taken care of.",
       "turkish": "Keskin nişancının icabına bakıldı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10480357_interact_01_10250_c_play",
       "english": "Those would be quite useful against some of the Demons in my homeland.",
       "turkish": "Vatanımdaki bazı İblislere karşı çok işime yararlardı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10480186_quick_group_up_02_play",
       "english": "Come to me.",
       "turkish": "Gelin bakalım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10480209_signal_area_unoccupied_01_play",
       "english": "We must seize this land.",
       "turkish": "Burayı ele geçirmeliyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10480096_respawn_03_play",
       "english": "I have reawakened.",
       "turkish": "Yeniden uyandım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10480251_interact_02_10330_b_play",
       "english": "I was… once. But now that life seems so long ago.",
       "turkish": "Bir zamanlar öyleydi. Ama bu çok eskide kaldı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10480047_occupied_hint_engage_02_play",
       "english": "We will win this. Together.",
       "turkish": "Bunu kazanacağız. Birlikte.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10480051_occupied_hint_attack_02_play",
       "english": "Let's show them who we are.",
       "turkish": "Onlara kim olduğumuzu gösterelim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10480080_saw_ko_01_10150_play",
       "english": "Clearly, your Goddess smiles upon you, Storm.",
       "turkish": "Tanrıçan sana gülümsüyor Storm.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10480265_sp_interact_asgard_01_10160_a_play",
       "english": "A half-Oni sits upon the throne? What a strange kingdom…",
       "turkish": "Tahtta yarı Oni biri mi oturuyor? Ne tuhaf bir krallık…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10480423_interact_01_10620_a_play",
       "english": "Peni Parker invited me to watch a Kaiju movie with her recently. That creature destroying Tokyo… was it you?",
       "turkish": "Peni Parker geçenlerde beni onunla bir Kaiju filmi izlemeye davet etti. O yaratık Tokyo’yu yerle bir ediyordu… o sen miydin?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10480300_ko_q_03_play",
       "english": "And so your story ends.",
       "turkish": "İşte hikâyen burada bitiyor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10480335_interact_02_10110_c_play",
       "english": "If you do, I cannot guarantee his safety. Or yours.",
       "turkish": "O zaman onun güvenliğini garanti edemem. Ya da seninkini.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10480131_building_destroy_nest_02_play",
       "english": "The spider nest has been cleared.",
       "turkish": "Örümcek yuvası temizlendi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10480342_interact_01_10540_a_play",
       "english": "Yokai, are you a spirit of the fire or of the air?",
       "turkish": "Yokai, ateşin mi yoksa havanın mı ruhusun?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10480225_interact_01_10290_d_play",
       "english": "I admire that commitment.",
       "turkish": "Bu sadakate hayranım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10480050_occupied_hint_attack_01_play",
       "english": "Victory is ours to claim!",
       "turkish": "Zafer bizimdir!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10480139_ko_assist_01_play",
       "english": "You can repay me later.",
       "turkish": "Borcunu daha sonra ödeyebilirsin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10480364_sp_interact_museume_01_10330_a_play",
       "english": "All of this chaos is just a distraction. There's only one man who deserves our wrath.",
       "turkish": "Tüm bu kaos sadece bir dikkat dağıtma taktiği. Öfkemizi hak eden tek bir kişi var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10480159_enemy_advanced_03_play",
       "english": "Their numbers are impressive.",
       "turkish": "Sayıları çok fazla.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10480363_sp_interact_museume_01_10290_d_play",
       "english": "As someone who has been held captive here, I assure you, anywhere is safer than this.",
       "turkish": "Burada esir tutulmuş biri olarak size garanti ederim ki, buradan başka her yer daha güvenlidir.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10480147_ko_five_03_play",
       "english": "Five demons dispatched.",
       "turkish": "Beş iblis gönderildi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10480037_buff_endure_02_play",
       "english": "You can't hurt me.",
       "turkish": "Canımı yakamazsın.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10480411_escorting_remind_museume_01_play",
       "english": "We need to free people, not end up trapped ourselves!",
       "turkish": "İnsanları özgürleştirmeliyiz, kendimizi tuzağa düşürmemeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10480417_interact_01_10590_a_play",
       "english": "Elsa Bloodstone! I hear your aim is swift and true. I look forward to fighting alongside you.",
       "turkish": "Elsa Bloodstone! Duyduğuma göre nişancılığın hızlı ve isabetliymiş. Seninle omuz omuza savaşmayı dört gözle bekliyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10480072_ko_sp_01_10200_play",
       "english": "You betrayed my trust, Mantis. There is a price for that.",
       "turkish": "Güvenime ihanet ettin Mantis. Bunun bir bedeli var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10480256_interact_01_10510_a_play",
       "english": "Are you an Oni, Thing-san?",
       "turkish": "Oni mi oldum, Thing-san?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10480030_buff_heal_noncritical_01_play",
       "english": "That's better.",
       "turkish": "Böylesi daha iyi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10480214_signal_vehicle_as_attack_02_play",
       "english": "We can't afford to slow down now.",
       "turkish": "Şimdi yavaşlamak olmaz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10480010_single_02_play",
       "english": "If we save all timelines, perhaps I can finally return to my own.",
       "turkish": "Tüm zaman tünellerini kurtarırsak belki ben de kendi zaman tünelime dönebilirim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10480253_interact_02_10290_a_play",
       "english": "You lead a legion of Yokai?",
       "turkish": "Bir Yokai lejyonuna mı liderlik ediyorsun?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10480307_quick_q_charge_90_higher_02_play",
       "english": "Patience. I will be able to strike soon.",
       "turkish": "Sabır. Yakında saldırabileceğim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10480414_escorting_remind_newyorkh02_02_play",
       "english": "Keep going! So many imprisoned heroes are counting on us!",
       "turkish": "Devam et! Bu kadar çok hapsedilmiş KAHRAMAN bize güveniyor!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10480424_interact_01_10620_c_play",
       "english": "Hmm. No…Your scales are much more brilliant.",
       "turkish": "Hımm. Hayır… Pulların çok daha göz kamaştırıcı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10480383_interact_01_10450_b_play",
       "english": "I am well versed in the Oni that dwell on the land. But the seas are a mystery to me…",
       "turkish": "Karada yaşayan Onileri avucumun içi gibi bilirim ancak denizdekiler benim için bir muamma…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10480255_interact_01_10440_b_play",
       "english": "We are both hunters, ridding the world of the monsters that would devour it?",
       "turkish": "Biz ikimiz de avcıyız, dünyayı onu yok etmeye çalışan canavarlardan temizliyoruz, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10480259_interact_01_10170_a_play",
       "english": "A burning man! You must be a Yokai!",
       "turkish": "Yanan bir adam! Yokai olmalısın!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10480109_building_spotted_turret_01_play",
       "english": "Big weapons don't impress me.",
       "turkish": "Büyük silahlar beni etkilemez.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10480219_saw_ko_01_10530_play",
       "english": "As cold-hearted as your name suggests, Frost.",
       "turkish": "Adın kadar soğuksun Frost.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10480229_interact_01_10370_c_play",
       "english": "So I have learned. This world is full of dangers I could never have imagined.",
       "turkish": "İşte öğrendim. Bu dünya hayal bile edemeyeceğim tehlikelerle dolu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10480354_sp_interact_museume_01_10510_a_play",
       "english": "There are many beings unjustly imprisoned in this place.",
       "turkish": "Bu yerde haksız yere hapsedilmiş birçok varlık var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10480180_quick_fallback_02_play",
       "english": "Withdraw from battle!",
       "turkish": "Savaştan çekil!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10480346_sp_interact_museume_01_10200_b_play",
       "english": "We should have burned this place to the ground behind us when we left.",
       "turkish": "Buradan ayrıldığımızda burayı yerle bir etmeliydik.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10480106_building_spotted_portal_01_play",
       "english": "Open doors lead to unwelcome guests, Doctor.",
       "turkish": "Açık kapılar istenmeyen misafirlere davetiye çıkarır Doktor.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10480055_countdown_dt_01_play",
       "english": "Just a bit longer…",
       "turkish": "Çok az kaldı…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10480132_building_destroy_nest_03_play",
       "english": "Our spider problem is over.",
       "turkish": "Örümcek sorunumuz bitti.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10480376_escorting_remind_kunlunh_02_play",
       "english": "This tablet must reach its destination!",
       "turkish": "Bu tablet hedefine ulaşmalı!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10480254_interact_02_10290_c_play",
       "english": "How do you ensure they remain loyal to your cause?",
       "turkish": "Davana sadık kaldıklarından nasıl emin olabiliyorsun?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10480039_buff_shield_02_play",
       "english": "This should keep me safe.",
       "turkish": "Bu beni korur.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10480317_sp_single_museume_01_play",
       "english": "I vowed I would return here, and I will not leave until justice is served.",
       "turkish": "Buraya geri döneceğime yemin ettim ve adalet sağlanana kadar buradan ayrılmayacağım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10480246_interact_02_10111_c_play",
       "english": "We fought side-by-side in another lifetime, Hulkmaru. I have seen you smash your foes.",
       "turkish": "Başka bir yaşamda seninle yan yana savaştık Hulkmaru. Düşmanlarını ezip geçtiğini gördüm.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10480275_sp_interact_hydra_01_10220_a_play",
       "english": "This Hydra. It is a monster of legend, is it not?",
       "turkish": "Şu Hydra aslında efsanevi bir canavar, öyle değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10480124_building_destroy_amplifier_01_play",
       "english": "I've broken the talking tanuki's amplifier.",
       "turkish": "Konuşan tanukinin kuvvetlendiricisini kırdım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10480242_interact_02_10370_c_play",
       "english": "I have been seeking others like me…",
       "turkish": "Ben de kendim gibi olan başkalarını arıyordum…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10480057_saw_enemy_01_play",
       "english": "Here they come now…",
       "turkish": "İşte geliyorlar…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10480092_healthpack_01_play",
       "english": "This will do nicely.",
       "turkish": "Bu, işimi görür.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10480371_sp_ability_10530_02_play",
       "english": "This'll confuse them.",
       "turkish": "Böylece kafaları karışır.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10480272_sp_interact_hydra_01_10410_c_play",
       "english": "Ah. My area of expertise. Lead me to them so that they may taste my blade!",
       "turkish": "Ah. Uzmanlık alanım. Beni onlara götür de kılıcımın tadına baksınlar!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10480344_sp_interact_museume_01_10150_b_play",
       "english": "I can speak from experience. It's just as unpleasant as you imagine.",
       "turkish": "Deneyimlerime dayanarak konuşabilirim. Hayal ettiğiniz kadar rahatsız edici.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10480053_countdown_at_01_play",
       "english": "The time has come. Attack!",
       "turkish": "Zamanı geldi. Saldırın!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10480215_signal_vehicle_as_defend_01_play",
       "english": "We can't let them pass.",
       "turkish": "Geçmelerine izin veremeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10480125_building_destroy_amplifier_02_play",
       "english": "The rodent's amplifier has been shut down.",
       "turkish": "Kemirgenin kuvvetlendiricisi kapatıldı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10480280_sp_interact_museume_01_10220_b_play",
       "english": "I know. All too well. I was once one of the Collector's prize possessions.",
       "turkish": "Biliyorum. Çok iyi biliyorum. Bir zamanlar Koleksiyoncu'nun en değerli parçalarından biriydim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10480187_quick_hp_normal_01_play",
       "english": "I am well enough.",
       "turkish": "Yeterince iyiyim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10480095_respawn_02_play",
       "english": "My light cannot be snuffed.",
       "turkish": "Işığımı söndüremezler.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10480389_interact_01_10570_a_play",
       "english": "You! You're the hunter who took me captive and delivered me to the Collector!",
       "turkish": "Sen! Beni esir alan ve Collector'a teslim eden avcısın!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10480024_debuff_exhaust_01_play",
       "english": "I'm too exposed.",
       "turkish": "Çok açıktayım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10480001_single_06_play",
       "english": "I'm just a sword for hire. This is all so much bigger than me.",
       "turkish": "Ben kiralık bir savaşçıyım. Tüm bunlar beni fazlasıyla aşar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10480306_quick_q_charge_90_higher_01_play",
       "english": "My blade is almost ready...",
       "turkish": "Kılıcım neredeyse hazır...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10480034_buff_dmg_01_play",
       "english": "Hitting harder than ever.",
       "turkish": "Çok daha güçlü saldırıyorlar.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10480211_signal_area_occupied_01_play",
       "english": "Do not yield this location.",
       "turkish": "Burayı bırakmayın.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10480114_building_spotted_nest_03_play",
       "english": "Spiders? Do they bite?",
       "turkish": "Örümcek mi? Isırıyor mu onlar?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10480157_enemy_advanced_01_play",
       "english": "They are many. But we will prevail.",
       "turkish": "Çok fazlalar. Ama biz kazanacağız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10480082_saw_ko_01_10140_play",
       "english": "Your weapons are inelegant, Frank, but effective.",
       "turkish": "Silahların hiç zarif değil ama etkili Frank.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10480190_quick_hp_low_02_play",
       "english": "I am not faring well.",
       "turkish": "Pek başa çıkamıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10480454_entrance_01_10530_play",
       "english": "An illusion can be just as deadly as the real thing!",
       "turkish": "Bir illüzyon da gerçeği kadar ölümcül olabilir!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10480012_single_04_play",
       "english": "We are warriors, no matter what worlds we come from. Do not lose sight of that.",
       "turkish": "Biz savaşçıyız, hangi dünyadan geliyorsak gelelim. Bunu aklından çıkarma.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10480327_escorting_remind_klyntarh_02_play",
       "english": "Come! Salvation lies beneath the surface!",
       "turkish": "Gel! Kurtuluş yüzeyin altında yatıyor!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10480304_quick_q_charge_90_under_01_play",
       "english": "Need more mental energy.",
       "turkish": "Daha fazla mental enerji lazım.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10480192_quick_confirm_02_play",
       "english": "Yes.",
       "turkish": "Evet.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10480041_buff_dr_02_play",
       "english": "Their attacks barely hurt.",
       "turkish": "Saldırıları pek can yakmadı.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10480444_sp_emote_10470_1047001217_06_play",
       "english": "My Odachi is sharp. My mind is sharper.",
       "turkish": "Odachi'm keskin. Zihnim daha da keskin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10480079_saw_ko_01_10370_play",
       "english": "Perhaps you are the leader you claim to be, Magneto.",
       "turkish": "Belki de sen iddia ettiğin gibi lidersindir Magneto.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10480311_sp_single_newyorkh_01_play",
       "english": "The forests of my homeland were far more dangerous.",
       "turkish": "Ülkemin ormanları çok daha tehlikeliydi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10480176_easter_egg_hydra_01_play",
       "english": "The Oni here are even more hideous than the ones on my world.",
       "turkish": "Buradaki Oniler benim dünyamdakilerden daha çirkin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10480271_sp_interact_hydra_01_10410_a_play",
       "english": "What is it that they make in this wretched place?",
       "turkish": "Bu sefil yerde ne yapıyorlar?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10480026_debuff_purple_01_play",
       "english": "Having trouble recovering…",
       "turkish": "İyileşmekte zorlanıyorum...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10480416_interact_02_10570_c_play",
       "english": "A kidnapping and a rescue are not the same! How many others did you take away against their will?",
       "turkish": "Bir kaçırma ile bir kurtarma aynı şey değil! Daha kaç kişiyi iradelerine karşı alıkoydun?",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10480380_interact_02_10490_d_play",
       "english": "It isn't home… but it will certainly do for now…",
       "turkish": "Kendi yurdum gibi değil… Ama şimdilik idare eder tabii…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10480425_interact_01_10630_a_play",
       "english": "Scott Summers… you have been through a great deal of pain. It comes through so strongly!",
       "turkish": "Scott Summers… çok büyük acılar çektin. Bu o kadar güçlü yansıyor ki!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10480226_interact_01_10330_b_play",
       "english": "True. We work well together.",
       "turkish": "Doğru. Birlikte çalışıyoruz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10480129_building_destroy_turret_03_play",
       "english": "I'll take a blade over bullets any day.",
       "turkish": "Mermidense kılıcı yeğlerim her zaman.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10480134_building_destroy_octopus_02_play",
       "english": "Back to the ocean's depths, demons!",
       "turkish": "Okyanusun derinliklerine geri dönün iblisler!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10480118_building_destroy_ankh_01_play",
       "english": "The moon totem has been destroyed.",
       "turkish": "Ay totemi yok edildi.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10480369_interact_02_10280_c_play",
       "english": "Demons. And where I come from, they are made of flesh and bone.",
       "turkish": "Şeytanlar. Ve benim geldiğim yerde, onlar etten ve kemikten yapılmışlardır.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10480370_sp_ability_10530_01_play",
       "english": "Psionic link!",
       "turkish": "Psionik bağ!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10480278_sp_interact_klyntar_01_10230_c_play",
       "english": "Perfect. You focus on the minions while I eliminate their king.",
       "turkish": "Mükemmel. Ben krallarını ortadan kaldırırken sen de yancılarına odaklan.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10480287_ability_e_02_play",
       "english": "さよなら!",
       "turkish": "さよなら!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10480446_interact_01_10140_b_play",
       "english": "I met a version of you before in my world. He was also ruthless,…and shouldered great pain.",
       "turkish": "Daha önce kendi dünyamda senin bir versiyonunla tanışmıştım. O da acımasızdı… ve büyük acılar taşıyordu.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10480384_interact_01_10450_d_play",
       "english": "And I look forward to hunting them all some day. Especially you.",
       "turkish": "Ben de bir gün her birini avlamayı iple çekiyorum, bilhassa da seni.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10480303_ko_ability_shift_03_play",
       "english": "How sad…",
       "turkish": "Çok üzücü...",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10480153_revenge_03_play",
       "english": "You deserved this shame.",
       "turkish": "Bu utancı hak ettin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10480101_saw_sniper_02_play",
       "english": "A long distance attack? Watch out!",
       "turkish": "Uzun mesafeli saldırı mı? Dikkat!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10480111_building_spotted_turret_03_play",
       "english": "That's quite the weapon, Punisher.",
       "turkish": "Silahın amma fenaymış Punisher.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10480063_ko_normal_03_play",
       "english": "What a disgrace.",
       "turkish": "Tam rezalet.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10480015_sp_single_asgard_01_play",
       "english": "I have battled enough demons. Bring on the gods!",
       "turkish": "Yeterince iblisle savaştım. Tanrıları gönderin bana!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10480184_quick_need_heal_02_play",
       "english": "I require health.",
       "turkish": "İyileşme istiyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10480297_ko_v_03_play",
       "english": "Yield!",
       "turkish": "Vazgeç!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10480162_escorting_payload_tokyoe_01_play",
       "english": "Our goals are aligned, Spider-Zero.",
       "turkish": "Hedeflerimiz aynı Spider-Zero.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10480448_sp_interact_museume_02_10630_b_play",
       "english": "I am grateful they took me in after I escaped from this wretched prison. I am a long way from home…",
       "turkish": "Bu sefil hapishaneden kaçtıktan sonra beni aralarına aldıkları için minnettarım. Evimden çok uzağım…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10480195_signal_open_spot_01_play",
       "english": "We must observe this location.",
       "turkish": "Bu konumu gözetlemeliyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10480238_interact_02_10470_c_play",
       "english": "It's what we called ancient spirits where I come from. You are of both the water and the earth. That is rare indeed.",
       "turkish": "Benim geldiğim yerde kadim ruhlara böyle diyoruz. Hem su hem topraktansın. Bu çok nadir görülür.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10480445_sp_emote_10470_1047001217_07_play",
       "english": "さよなら!",
       "turkish": "さよなら!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10480163_escorting_payload_tokyoe_02_play",
       "english": "I will get you where you need to go, Spider-Zero.",
       "turkish": "Seni gitmen gereken yere ulaştıracağım Spider-Zero.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10480054_countdown_at_02_play",
       "english": "We need to finish this. Now!",
       "turkish": "Bu işi bitirmeliyiz. Hemen!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10480040_buff_dr_01_play",
       "english": "Not taking much damage.",
       "turkish": "Fazla hasar almıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10480169_escorting_remind_asgarde_02_play",
       "english": "We must get to Yggdrasill soon.",
       "turkish": "Bir an önce Yggdrasill'e ulaşmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10480240_interact_01_10280_d_play",
       "english": "Then until my last breath, you will know true repulsion.",
       "turkish": "Son nefesime kadar gerçek itmeyi öğreneceksin.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10480312_sp_single_krakoac_01_play",
       "english": "I have been welcomed to this land… and it is suffering. I must do something!",
       "turkish": "Bu diyarda beni iyi karşıladılar... Ve burası acı çekiyor. Bir şey yapmalıyım!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10480217_signal_no_01_play",
       "english": "I fear not.",
       "turkish": "Korkarım hayır.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10480174_escorting_remind_wakandah_01_play",
       "english": "We cannot fail this empire.",
       "turkish": "Bu imparatorluğu yüz üstü bırakamayız.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10480052_occupied_hint_attack_03_play",
       "english": "There is a prize to be claimed.",
       "turkish": "Alınmayı bekleyen bir ödül var.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10480212_signal_area_occupied_02_play",
       "english": "We cannot let them take this place.",
       "turkish": "Burayı almalarına izin veremeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10480075_saw_ko_01_10490_play",
       "english": "My Logan would be proud.",
       "turkish": "Logan'ım gurur duyacak.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10480401_sp_single_kunlunh_01_play",
       "english": "This land is full of magic and wonder! I feel so at home!",
       "turkish": "Bu topraklar büyü ve harikalarla dolu! Kendimi evimde gibi hissediyorum!",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5203,7 +5203,7 @@
       "internalName": "vo_10480078_saw_ko_01_10280_play",
       "english": "I suppose some life forms deserve to be slain, Ultron.",
       "turkish": "Sanırım bazı yaşam formları öldürülmeyi hak ediyor Ultron.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5215,7 +5215,7 @@
       "internalName": "vo_10480205_signal_wheel_defend_01_play",
       "english": "Protect this location.",
       "turkish": "Bu konumu koruyun.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5227,7 +5227,7 @@
       "internalName": "vo_10480088_saw_death_01_10510_play",
       "english": "Rest well, my dear Golem.",
       "turkish": "Huzurla dinlen sevgili Golemim.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5239,7 +5239,7 @@
       "internalName": "vo_10480348_sp_interact_klyntar_01_10460_b_play",
       "english": "I have fought Orochi before. But it was nothing like this…",
       "turkish": "Daha önce de Orochilerle savaştım. Ama hiç bunun gibi değillerdi…",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
@@ -5251,12 +5251,12 @@
       "internalName": "vo_10480097_respawn_04_play",
       "english": "I don't give up so easily.",
       "turkish": "Öyle kolay pes etmem.",
-      "status": "Kayit Alindi",
+      "status": "Kontrol Edildi",
       "voiceActor": null,
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "db0ac370bfe7b8f6",
-  "generatedAt": "2026-09-10T12:13:47.040749Z"
+  "dataRevision": "4c0e0660bdf7eef9",
+  "generatedAt": "2026-09-10T13:13:43.858997Z"
 }
