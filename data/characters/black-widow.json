@@ -5,8 +5,8 @@
     "total": 432,
     "waiting": 0,
     "recorded": 0,
-    "checked": 432,
-    "added": 0,
+    "checked": 0,
+    "added": 432,
     "worked": 432,
     "progress": 100.0,
     "status": "Tamamlandi"
@@ -31,7 +31,7 @@
       "internalName": "vo_10330203_ko_terrain_03_play",
       "english": "Saves me a bullet.",
       "turkish": "Kurşun harcamam gerekmedi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10330414_interact_01_10650_a_play",
       "english": "That ring of yours. The gem looks familiar…",
       "turkish": "Şu yüzüğün. Taşı tanıdık görünüyor…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10330157_building_spotted_nest_02_play",
       "english": "Spider-bombs!",
       "turkish": "Örümcek bombası!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10330167_building_destroy_amplifier_03_play",
       "english": "All clear! Amplifier's down.",
       "turkish": "Tehlike geçti! Kuvvetlendiriciyi kapattım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10330161_building_destroy_ankh_03_play",
       "english": "Ankh? I don't see any ankh.",
       "turkish": "Yaşam çarmıhı mı? Hani, nerede?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10330272_signal_vehicle_as_attack_02_play",
       "english": "Move that vehicle. Now!",
       "turkish": "Hemen yürütün şu taşıtı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10330401_interact_02_10210_d_play",
       "english": "Even if you're not my Hawkeye, I'm still glad you're here. It's been far too long…",
       "turkish": "Sen benim Hawkeye'ım olmasan da, burada olduğuna sevindim. Çok uzun zaman oldu…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10330455_escorting_payload_newyorkh02_01_play",
       "english": "I'm less worried about Fisk than I am about Alchemax…",
       "turkish": "Fisk’ten çok Alchemax beni endişelendiriyor…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10330188_ko_ability_e_03_play",
       "english": "How we do it in the Red Room.",
       "turkish": "Kırmızı Oda’da böyle yaparız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10330343_escorting_remind_klyntarh_03_play",
       "english": "This essence is our only hope to stop Knull.",
       "turkish": "Knull’u durdurmak için tek umudumuz bu öz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10330348_escorting_remind_newyorkh_04_play",
       "english": "We need to keep pushing towards the castle! Let's go!",
       "turkish": "Şatoya ilerlemeye devam etmeliyiz! Haydi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10330103_countdown_at_01_play",
       "english": "Hit'em harder, we're almost out of time!",
       "turkish": "Elinizi korkak alıştırmayın, vaktimiz tükenmek üzere!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10330043_interact_02_10340_b_play",
       "english": "Tony. It's been…decades.",
       "turkish": "Tony. Aradan… Onlarca yıl geçti.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10330144_saw_sniper_01_play",
       "english": "Eyes peeled, people. We got a sniper.",
       "turkish": "Gözünüzü dört açın millet. Keskin nişancı var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10330345_escorting_remind_newyorke_03_play",
       "english": "Stay strong, H.E.R.B.I.E. We'll get you there.",
       "turkish": "Dayan H.E.R.B.I.E. Seni oraya ulaştıracağız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10330152_building_spotted_portal_03_play",
       "english": "Portal open! They're flanking us!",
       "turkish": "Portal açıldı! Etrafımızı sarıyorlar!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10330294_interact_01_10530_c_play",
       "english": "Still, it probably comes in handy on secret missions.",
       "turkish": "Yine de gizli görevlerde işine yarıyordur muhtemelen.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10330271_signal_vehicle_as_attack_01_play",
       "english": "Keep that thing rolling.",
       "turkish": "Durmak yok. Taşıtı yürütün.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10330184_ko_q_02_play",
       "english": "Nice shot, if I do say so myself.",
       "turkish": "Ne yalan söyleyeyim, iyi vurdum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10330503_interact_01_10630_a_play",
       "english": "When you were inside Alchemax HQ, did you manage to get eyes on any classified intel?",
       "turkish": "Alchemax Genel Merkezi'ndeyken herhangi bir gizli istihbarat görebildin mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10330252_signal_enemy_01_play",
       "english": "Target locked.",
       "turkish": "Hedefe kilitlendim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10330412_interact_01_10580_b_play",
       "english": "Not really. Retrieving classified intel is not the same as pulling jewel heists.",
       "turkish": "Pek değil. Gizli bilgileri geri almak, mücevher soygunları yapmakla aynı şey değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10330196_ko_ace_02_play",
       "english": "I couldn't help myself.",
       "turkish": "Kendimi tutamadım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10330110_saw_flank_02_play_p2",
       "english": "Ambush! They're behind you!",
       "turkish": "Pusu kurmuşlar! Arkanızdalar!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10330251_signal_broken_02_play",
       "english": "Let's bust this place up.",
       "turkish": "Burayı paramparça edelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10330477_saw_death_01_10610_play",
       "english": "Please tell me that wasn't your last life, Felicia…",
       "turkish": "Lütfen bunun son canın olmadığını söyle, Felicia…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10330210_escorting_payload_tokyoe_02_play",
       "english": "Are we going all the way up in the web?",
       "turkish": "Ağın en tepesine kadar çıkacak mıyız?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10330231_quick_q_charge_90_under_02_play",
       "english": "Buy me more time.",
       "turkish": "Bana biraz daha zaman kazandırın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10330274_signal_vehicle_as_defend_02_play",
       "english": "Don't let them get any further.",
       "turkish": "Daha fazla ilerlemelerine izin vermeyin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10330392_escorting_remind_kunlunh_01_play",
       "english": "We're not letting them stop us from delivering this tablet. Clear?",
       "turkish": "Bu tableti teslim etmemizi engellemelerine izin vermeyeceğiz. Anlaşıldı mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10330102_occupied_hint_attack_02_play",
       "english": "There's the objective. Let's take it.",
       "turkish": "İşte hedefimiz. Haydi ele geçirelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10330289_interact_01_10500_a_play",
       "english": "It's always an honor to watch you work, Susan.",
       "turkish": "Seni çalışırken izlemek her zaman bir onurdur Susan.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10330146_saw_sniper_03_play",
       "english": "Good snipers don't get found.",
       "turkish": "İyi keskin nişancı gözle görülmez.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10330405_interact_01_10540_c_play",
       "english": "There's plenty of blood on my hands. I know that. But it's all for the right reasons.",
       "turkish": "Ellerimde bolca kan var. Bunun farkındayım. Ama hepsi doğru nedenler için.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10330025_interact_01_10210_a_play",
       "english": "Clint, there's nobody I'd rather save the world with than you.",
       "turkish": "Clint, dünyayı kurtarmak için senden iyi bir partner olamazdı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10330071_ability_f_02_play",
       "english": "Can't hide your body heat.",
       "turkish": "Vücut ısını saklayamazsın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10330258_signal_wheel_defend_01_play",
       "english": "Defensive measures!",
       "turkish": "Savunma önlemi alalım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10330340_escorting_payload_newyorkh_04_play",
       "english": "Heads up. Central Park has never been friendly territory.",
       "turkish": "Dikkat edin. Central Park asla güvenli bir yer olmamıştır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10330187_ko_ability_e_02_play",
       "english": "Widow style!",
       "turkish": "Widow stili!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10330449_sp_single_newyorkh02_01_play",
       "english": "Always nice to come back to this era… until someone like Fisk ruins it for everyone.",
       "turkish": "Bu döneme geri dönmek her zaman güzel… ta ki Fisk gibi biri herkesin keyfini kaçırana kadar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10330117_ko_sp_01_10160_play",
       "english": "Are we sure Loki's down?",
       "turkish": "Loki'nin yenildiğine emin miyiz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10330480_saw_death_01_10620_play",
       "english": "Rest easy, Devil. You earned it.",
       "turkish": "Huzur içinde yat, Şeytan. Bunu hak ettin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10330194_ko_five_03_play",
       "english": "That's five. I'm running out of targets.",
       "turkish": "Bu da beşinciydi. Yakında hedef kalmayacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10330257_signal_wheel_attack_02_play",
       "english": "This is the place. Let's go.",
       "turkish": "İşte burası. Haydi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10330100_occupied_hint_defend_02_play",
       "english": "We have to hold this area!",
       "turkish": "Bu bölgeyi kaybetmemeliyiz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10330242_quick_hp_low_01_play",
       "english": "I've been better.",
       "turkish": "Pek formumda değilim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10330389_sp_single_kunlunec_02_play",
       "english": "No trial here could be worse than what I had to face back in the Red Room…",
       "turkish": "Kızıl Oda’da yüzleşmek zorunda kaldıklarımın yanında buradaki hiçbir sınav daha kötü olamaz…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10330287_interact_01_10410_a_play",
       "english": "James. It's good to see you again. It's been… too long…",
       "turkish": "James. Seni yeniden görmek ne güzel. Çok… Uzun zaman oldu…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10330381_sp_interact_klyntarec_01_10350_a_play",
       "english": "What is that buzzing in my head? Like someone whispering my name…",
       "turkish": "Kafamda bu uğultu da ne? Sanki biri adımı fısıldıyor gibi…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10330342_escorting_payload_arakkoe_04_play",
       "english": "This core is Arakko's best hope of survival.",
       "turkish": "Bu çekirdek, Arakko’nun sağ kalması için en iyi umut.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10330069_ability_e_03_play",
       "english": "Widow's bite!",
       "turkish": "Dul ısırığı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10330327_sp_single_newyorke_02_play",
       "english": "I don't remember New York looking like this in any era…",
       "turkish": "Benim zamanımda New York böyle değildi diye hatırlıyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10330175_ko_sniper_02_play",
       "english": "One sniper to another: Bang.",
       "turkish": "Bir keskin nişancıdan ötekine: Bam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10330070_ability_f_01_play",
       "english": "Let's see who's out there…",
       "turkish": "Bakalım kimler varmış?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10330098_occupied_hint_engage_02_play",
       "english": "To hold this area, we'll have to fight.",
       "turkish": "Burayı kaybetmemek için savaşmamız gerekecek.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10330349_escorting_remind_arakkoe_03_play",
       "english": "Keep moving this core! Arakko needs us!",
       "turkish": "Bu çekirdeği ilerletmeye devam! Arakko’nun bize ihtiyacı var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10330124_saw_ko_01_10210_play",
       "english": "Nice shooting, Clint.",
       "turkish": "İyi vurdun Clint.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10330178_ko_assist_02_play",
       "english": "You're not working alone.",
       "turkish": "Yalnız değilsin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10330328_sp_single_newyorkh_02_play",
       "english": "A lot of cover in these woods. We'll have to stay on full alert.",
       "turkish": "Bu ormanda saklanacak çok yer var. Tetikte kalmalıyız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10330032_interact_01_10180_a_play",
       "english": "You got out of the astral plane?",
       "turkish": "Astral düzlemden çıkmayı başarmışsın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10330438_ability_right_03_play",
       "english": "Let's change the pace…",
       "turkish": "Tempoyu değiştirelim…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10330376_sp_interact_klyntarh_01_10360_c_play",
       "english": "I did. Maybe that bond left behind some sort of… map of home…?",
       "turkish": "Giymiştim. Acaba o bağdan geriye eve giden bir tür harita mı kaldı?..",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10330406_interact_01_10440_b_play",
       "english": "Now's not the time for an epiphany, Blade. We're in battle.",
       "turkish": "Şimdi aydınlanma zamanı değil, Blade. Savaşın içindeyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10330446_sp_ability_10540_02_play",
       "english": "Cosmic rounds!",
       "turkish": "Kozmik mermiler!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10330359_interact_01_10290_a_play",
       "english": "With skills like yours, it's a good thing the X-Men got you out of Russia at an early age.",
       "turkish": "Yeteneklerine bakıyorum da, iyi ki X-Men seni genç yaşta Rusya’dan kurtarmış.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10330420_sp_emote_10470_1047001217_01_play",
       "english": "Plasma burst!",
       "turkish": "Plazma patlaması!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10330029_interact_01_10310_a_play",
       "english": "Ah, the world-famous Luna Snow. I remember you from a long time ago.",
       "turkish": "Ah, dünyaca ünlü Luna Snow. Seni uzun zaman öncesinden hatırlıyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10330148_building_spotted_ankh_02_play",
       "english": "Ankh spotted.",
       "turkish": "Yaşam çarmıhı görüldü.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10330159_building_destroy_ankh_01_play",
       "english": "I don't like ankhs.",
       "turkish": "Yaşam çarmıhları hoşuma gitmiyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10330200_revenge_03_play",
       "english": "You wrote a check you couldn't cash.",
       "turkish": "Haddini bil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10330193_ko_five_02_play",
       "english": "Looking for number six…",
       "turkish": "Altıncıyı arıyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10330238_quick_group_up_01_play",
       "english": "Rally on me!",
       "turkish": "Etrafıma toplanın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10330101_occupied_hint_attack_01_play",
       "english": "They won't leave until we make them.",
       "turkish": "Biz zorlamadan gitmezler.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10330177_ko_assist_01_play",
       "english": "That's teamwork.",
       "turkish": "İşte takım çalışması.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10330123_ko_sp_01_10360_play",
       "english": "Sometimes you have to squash a spider.",
       "turkish": "Bazen bir örümcek ötekisini ezer.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10330062_switch_01_play_p2",
       "english": "Attention team, Black Widow is combat-ready.",
       "turkish": "Takım, dikkat. Black Widow savaşa hazır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10330063_switch_02_play_p2",
       "english": "Black Widow is ready to deploy.",
       "turkish": "Black Widow konuşlanmaya hazır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10330095_occupied_celebrate_01_play",
       "english": "Perimeter's secure. We did it!",
       "turkish": "Hedef bölge güvende. Başardık!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10330280_building_spotted_octopus_01_play",
       "english": "Namor brought in reinforcements.",
       "turkish": "Namor takviye kuvvet getirmiş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10330072_ability_f_03_play",
       "english": "Come out… Come out wherever you are…",
       "turkish": "Çık ortaya… Nerede olursan ol, çık ortaya…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10330164_building_destroy_beacon_03_play",
       "english": "Signal interrupted from this beacon.",
       "turkish": "Bu fenerin yaydığı sinyale son.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10330410_interact_01_10550_b_play",
       "english": "In my timeline, you and I were partners once. It's strange to see you like this.",
       "turkish": "Zaman tünelimde, sen ve ben bir zamanlar ortaktık. Seni böyle görmek garip.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10330237_quick_need_heal_02_play",
       "english": "I'm hit.",
       "turkish": "Vuruldum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10330244_quick_confirm_01_play",
       "english": "Affirmative.",
       "turkish": "Olumlu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10330493_interact_02_10140_b_play",
       "english": "The universe needs us, Frank. This is bigger than fighting crime and corruption.",
       "turkish": "Evrenin bize ihtiyacı var, Frank. Bu, suç ve yolsuzlukla savaşmaktan çok daha büyük.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10330079_debuff_weak_01_play",
       "english": "Feeling…sapped.",
       "turkish": "Sanki… Bittim tükendim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10330467_ko_sp_01_10630_play",
       "english": "You took your eye off the target, Summers.",
       "turkish": "Gözünü hedeften ayırdın, Summers.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10330189_ko_three_01_play",
       "english": "Triple play!",
       "turkish": "Üçü birden!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10330086_buff_dmg_02_play",
       "english": "Here comes some serious damage.",
       "turkish": "Ağır hasar yolda.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10330149_building_spotted_ankh_03_play",
       "english": "Here's an ankh. Moon Knight must be close.",
       "turkish": "Yaşam çarmıhı var. Moon Knight yakınlarda olmalı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10330040_interact_02_10420_d_play",
       "english": "Things are about to get very serious.",
       "turkish": "İşler kızışmak üzere.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10330114_ko_normal_04_play",
       "english": "The Widow's bite is lethal.",
       "turkish": "Dul ısırığı öldürür.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10330429_entrance_01_10540_play",
       "english": "This battle calls for the special ammo…",
       "turkish": "Bu savaş özel mühimmat istiyor…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10330373_sp_interact_newyorkh_01_10320_a_play",
       "english": "We're gonna need to run a surveillance mission to determine our best point of attack.",
       "turkish": "En iyi saldırı noktasını belirlemek için bir keşif görevi tamamlamamız gerekecek.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10330127_saw_ko_01_10470_play",
       "english": "The Landshark does it again.",
       "turkish": "Karasal köpek balığı yaptı yapacağını!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10330295_sp_interact_hydra_01_10370_b_play",
       "english": "Reminds me of my childhood.",
       "turkish": "Bana çocukluğumu hatırlattı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10330215_escorting_remind_asgarde_01_play",
       "english": "See that tree? We need to get to it now!",
       "turkish": "Şu ağacı görüyor musunuz? Hemen oraya ulaşmalıyız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10330398_interact_01_10230_b_play",
       "english": "At your size, you should be able to get almost anywhere without being seen.",
       "turkish": "Boyutunla, neredeyse her yere fark edilmeden gidebilmelisin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10330300_interact_01_10251_c_play",
       "english": "Well, then I guess I'll just have to bring you along instead.",
       "turkish": "O hâlde seni de yanımda götürmem gerekecek demek ki.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10330473_saw_ko_01_10640_play",
       "english": "A little flashy, Jubilee. But still effective.",
       "turkish": "Biraz gösterişli, JUBILEE. Ama yine de etkili.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10330035_interact_01_10480_a_play",
       "english": "A sniper and a ninja. Complementary styles.",
       "turkish": "Bir keskin nişancı, bir de ninja. Tarzlarımız birbirini tamamlıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10330048_sp_single_wakanda_01_play",
       "english": "An orbiting city around a Vibranium star…Have you ever seen anything like it?",
       "turkish": "Vibranyumdan bir yıldızın etrafında dönen bir şehir… Hiç böyle bir şey görmüş müydünüz?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10330130_saw_death_01_10140_play",
       "english": "Frank remember! Old soldiers never die!",
       "turkish": "Unutma Frank! Gaziler ölmez!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10330333_sp_single_kunlun_02_play",
       "english": "An entire city devoted to intense combat training? Sounds like the perfect vacation spot.",
       "turkish": "Tamamen yoğun dövüş eğitimi için ayrılmış bir şehir mi? Mükemmel bir tatil yeri gibi görünüyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10330139_respawn_01_play",
       "english": "Widow is operational again.",
       "turkish": "Widow yeniden görev başında.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10330235_quick_q_charge_100_02_play",
       "english": "It's go time!",
       "turkish": "Başlama vakti!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10330060_sp_interact_tokyo_01_10111_b_play",
       "english": "No. That's one club I couldn't get into and don't want to.",
       "turkish": "Hayır. Giremediğim, girmek de istemediğim bir kulüp o.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10330337_escorting_payload_newyorke_03_play",
       "english": "Destination: Avengers Tower.",
       "turkish": "İstikamet Yenilmezler Kulesi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10330097_occupied_hint_engage_01_play",
       "english": "Fight's coming. Are we ready?",
       "turkish": "Kavga koptu kopacak. Hazır mıyız?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10330494_interact_02_10140_d_play",
       "english": "You'll have your chance again. But if we don't win this battle, that dark alley might not even exist anymore.",
       "turkish": "Yeniden şansın olacak. Ama bu savaşı kazanamazsak, o karanlık ara sokak belki de artık hiç var olmayacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10330052_sp_interact_wakanda_01_10450_d_play",
       "english": "No, but if they're smart, they take our advice.",
       "turkish": "Hayır ama akıllı krallar, bize akıl danışır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10330247_quick_thanks_02_play",
       "english": "Spasibo.",
       "turkish": "Spasibo.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10330436_ability_right_01_play",
       "english": "Slow it down!",
       "turkish": "Yavaşlayın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10330388_sp_single_kunlunec_01_play",
       "english": "I was already an Immortal Weapon in so many ways. Nice to finally make it official.",
       "turkish": "Zaten pek çok açıdan bir Ölümsüz Silahtım. Sonunda bunun resmiyet kazanması güzel.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10330277_sp_ability_10210_01_play",
       "english": "No way to miss now.",
       "turkish": "Artık hayatta ıskalamam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10330174_ko_sniper_01_play",
       "english": "Told you I knew how to find a sniper.",
       "turkish": "Keskin nişancı bulmayı biliyorum demiştim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10330023_interact_01_10340_b_play",
       "english": "I stopped counting a long time ago.",
       "turkish": "Saymayı bırakalı çok oldu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10330234_quick_q_charge_100_01_play",
       "english": "Plasma's hot.",
       "turkish": "Plazma yakar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10330281_building_spotted_octopus_02_play",
       "english": "More tentacles, more problems.",
       "turkish": "Dokunaçlar arttıkça dertler de artıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10330339_escorting_payload_newyorkh_03_play",
       "english": "Expect danger behind every tree.",
       "turkish": "Her ağacın ardından tehlike çıkabilir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10330027_interact_01_10140_a_play",
       "english": "Frank. It's been a while since Shanghai.",
       "turkish": "Frank. Şanghay'dan bu yana uzun zaman oldu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10330225_easter_egg_tokyoe_03_play",
       "english": "Please nobody tell Spider-Ham about this place.",
       "turkish": "Lütfen kimse Örümcek Domuz'a burayı anlatmasın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10330006_single_16_play",
       "english": "Nothing happens in any world without me knowing about it.",
       "turkish": "Dünyada olup biten hiçbir şey benden kaçmaz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10330344_escorting_remind_klyntarh_04_play",
       "english": "No more delays. We need to get beneath the surface now!",
       "turkish": "Daha fazla gecikemeyiz. Hemen yüzeyin altına inmeliyiz!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10330335_escorting_payload_klyntarh_03_play",
       "english": "We have our mission. Stop Knull, no matter what.",
       "turkish": "Görevimiz ortada. İki elimiz kanda da olsa Knull’u durdurmalıyız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10330122_ko_sp_01_10320_play",
       "english": "She brought a slingshot to a gunfight.",
       "turkish": "Silahlı çatışmaya sapanla girilmez.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10330219_escorting_remind_tokyoh_01_play",
       "english": "We're not even to Budokan yet. Gotta keep moving.",
       "turkish": "Henüz Budokan'a bile gelemedik. İlerlemeye devam etmeliyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10330017_single_06_play",
       "english": "It doesn't matter if a conflict is geological, commerical or even multiversal, I'd rather end things quitely.",
       "turkish": "Çatışma ister bölgesel, ister maddi, isterse de çoklu evrensel olsun. Her şekilde ilgi çekmeden çözmeyi tercih ederim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10330205_enemy_advanced_02_play",
       "english": "We need a bigger team.",
       "turkish": "Takımımızı büyütmemiz lazım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10330253_signal_enemy_02_play",
       "english": "No getting away now.",
       "turkish": "Artık kaçmak yok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10330402_interact_01_10150_a_play",
       "english": "Those weather powers of yours could really come in handy in the field.",
       "turkish": "Şu hava güçlerin sahada gerçekten işe yarayabilir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10330041_interact_01_10390_b_play",
       "english": "Just older.",
       "turkish": "Yaşlandım sadece.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10330279_sp_ability_10210_03_play",
       "english": "More focused than ever.",
       "turkish": "Hiç olmadığım kadar tetikteyim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10330226_quick_fallback_01_play",
       "english": "It's too hot. Pull out.",
       "turkish": "Ortam çok tehlikeli. Geri çekilin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10330172_building_destroy_nest_02_play",
       "english": "Spider nest is shut down.",
       "turkish": "Örümcek yuvası ortadan kaldırıldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10330075_debuff_exhaust_01_play",
       "english": "I'm a bit fragile.",
       "turkish": "Biraz güçsüz kaldım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10330168_building_destroy_turret_01_play",
       "english": "I flushed Frank out of his turret.",
       "turkish": "Frank’i zorla taretinden çıkardım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10330442_sp_ability_10210_04_play",
       "english": "Fully focused!",
       "turkish": "Tam konsantrasyon!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10330259_signal_wheel_defend_02_play",
       "english": "Here's where we make our stand.",
       "turkish": "Burada karşı koymalıyız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10330382_sp_interact_klyntarec_01_10350_c_play",
       "english": "So I'm connected to the Klyntar hivemind? Lovely…",
       "turkish": "Yani Klyntar kolektif zihniyle bağlantılıyım? Harika…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10330208_escorting_payload_asgarde_02_play",
       "english": "Let's move. Loki doesn't need any more Chronovium.",
       "turkish": "Haydi gidelim. Loki'ye daha fazla Kronovyum lazım değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10330395_emote_1033502206_02_play",
       "english": "Get ready to burn!",
       "turkish": "Yanmak için hazır ol!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10330230_quick_q_charge_90_under_01_play",
       "english": "Barrel's still cooling.",
       "turkish": "Namlum henüz soğumadı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10330112_ko_normal_02_play",
       "english": "Target neutralized.",
       "turkish": "Hedef etkisiz hâle getirildi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10330254_signal_wheel_enemy_spot_01_play",
       "english": "Found them.",
       "turkish": "Onları buldum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10330445_sp_ability_10540_01_play",
       "english": "Enhanced ammo!",
       "turkish": "Geliştirilmiş mühimmat!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10330207_escorting_payload_asgarde_01_play",
       "english": "Operation Save the Tree commences.",
       "turkish": "Ağacı Kurtarma Operasyonu başlıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10330055_sp_interact_tokyo_01_10420_a_play",
       "english": "That's a mighty big web. Does it hide giant spiders?",
       "turkish": "Amma büyük ağmış. İçinde kocaman örümcekler mi saklı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10330126_saw_ko_01_10490_play",
       "english": "He's the best there is, folks. Just ask him.",
       "turkish": "Arkadaşlar, bu işte Logan gibisi yok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10330209_escorting_payload_tokyoe_01_play",
       "english": "How do the tires not stick to all these webs?",
       "turkish": "Tekerlekler nasıl oluyor da ağa yapışmıyor?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10330181_ko_v_02_play",
       "english": "Doing it the old-fashioned way.",
       "turkish": "Eski usul yöntemlerden şaşmam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10330456_escorting_payload_newyorkh02_02_play",
       "english": "Wouldn't be the first time I've broken into the Vault…",
       "turkish": "Vault’a ilk kez sızmıyorum…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10330422_sp_emote_10470_1047001217_03_play",
       "english": "Stepping out of the shadows.",
       "turkish": "Gölgelerden çıkıp geldim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10330404_interact_01_10540_a_play",
       "english": "I know that look. You're judging me.",
       "turkish": "O bakışı tanıyorum. Beni yargılıyorsun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10330050_sp_interact_hydra_01_10410_a_play",
       "english": "Oh good, you've been here before. You can show me around.",
       "turkish": "İyi, güzel. Buraya ilk gelişin değil. Beni gezdirirsin artık.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10330078_debuff_purple_02_play",
       "english": "Don't try to heal me.",
       "turkish": "Beni tedavi etmeye zahmet etmeyin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10330158_building_spotted_nest_03_play",
       "english": "Spider nest! Better clear it out.",
       "turkish": "Örümcek yuvası! En iyisi temizleyelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10330391_escorting_payload_kunlunh_02_play",
       "english": "Making good progress. Let's hope Shou-Lao is happy to see us…",
       "turkish": "İyi ilerliyoruz. Umarım Shou-Lao bizi görmekten mutlu olur…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10330028_interact_01_10140_c_play",
       "english": "If you get a crack at Doom, make it count.",
       "turkish": "Doom'u vurma şansın olursa heba etme sakın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10330141_respawn_03_play",
       "english": "I'll finish the job this time.",
       "turkish": "Bu kez işi bitireceğim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10330421_sp_emote_10470_1047001217_02_play",
       "english": "Mind the exploding plasma.",
       "turkish": "Plazma patlamasına dikkat.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10330423_sp_emote_10470_1047001217_04_play",
       "english": "Jeff's bite!",
       "turkish": "Jeff'in ısırığı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10330241_quick_hp_normal_02_play",
       "english": "I'll be fine.",
       "turkish": "Bana bir şey olmaz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10330108_saw_enemy_02_play",
       "english": "I spy some bad guys.",
       "turkish": "Kötüleri gördüm.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10330433_single_10_play",
       "english": "Using Alchemax's weapons against their own interests feels so right.",
       "turkish": "Alchemax’in silahlarını kendi çıkarlarına karşı kullanmak öyle iyi hissettiriyor ki.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10330107_saw_enemy_01_play",
       "english": "Bogeys. Here they come.",
       "turkish": "Düşmanlar. İşte geliyorlar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10330439_ability_f_04_play",
       "english": "Widow's Strike!",
       "turkish": "Dul Darbesi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10330374_sp_interact_newyorkh_01_10320_c_play",
       "english": "A network of rodent spies? That's one asset the Red Room never thought of…",
       "turkish": "Casus sincaplardan oluşan bir ağ mı? Kırmızı Oda’nın asla aklına gelmeyen bir fikir…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10330491_interact_01_10600_a_play",
       "english": "You're hard to read. Even for me.",
       "turkish": "Seni okumak zor. Benim için bile.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10330350_escorting_remind_arakkoe_04_play",
       "english": "If we don't pull the plug on Ultron soon, Arakko's done.",
       "turkish": "Yakında Ultron’un fişini çekmezsek Arakko’nun işi bitti demektir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10330090_buff_shield_02_play",
       "english": "Never say no to a shield.",
       "turkish": "Kalkana asla hayır demem.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10330275_signal_no_01_play",
       "english": "Nyet.",
       "turkish": "Nyet.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10330399_interact_01_10230_d_play",
       "english": "Somehow, that doesn't surprise me…",
       "turkish": "Bir şekilde, bu beni şaşırtmıyor...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10330386_sp_ability_10140_02_play",
       "english": "Time for punishment.",
       "turkish": "Cezalandırma zamanı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10330273_signal_vehicle_as_defend_01_play",
       "english": "We need to stop that vehicle!",
       "turkish": "Şu taşıtı durdurmalıyız!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10330497_interact_04_10220_b_play",
       "english": "Better than expected. I guess evil megacorporations have some value after all.",
       "turkish": "Beklediğimden iyi. Sanırım şeytani mega şirketlerin de nihayetinde bir işe yaradığı oluyormuş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10330061_sp_interact_tokyo_01_10111_d_play",
       "english": "I don't even want to know.",
       "turkish": "Bilmek bile istemiyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10330049_sp_single_klyntar_01_play",
       "english": "Now that I've seen this place, Venom makes more sense.",
       "turkish": "Burayı gördükten sonra Venom'u anlamaya başladım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10330066_q_p2_play_p2",
       "english": "Mind the exploding plasma.",
       "turkish": "Plazma patlamasına dikkat.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10330089_buff_shield_01_play",
       "english": "Defensive layers, nice.",
       "turkish": "Kat kat koruma. Güzel.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10330176_ko_sniper_03_play",
       "english": "You let me get too close.",
       "turkish": "Bu kadar yaklaşmama göz yummamalıydın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10330036_interact_01_10480_c_play",
       "english": "Think we ever have before, in another timeline?",
       "turkish": "Sence bir başka zaman tünelinde hiç birlikte çalışmış mıyızdır?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10330156_building_spotted_nest_01_play",
       "english": "Seems we have a spider infestation.",
       "turkish": "Demek ki buraları örümcek basmış.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10330283_building_destroy_octopus_01_play",
       "english": "Aquatic threat eliminated.",
       "turkish": "Sudan çıkan tehdit ortadan kaldırıldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10330223_easter_egg_hydra_01_play",
       "english": "Glad Bucky got out of here.",
       "turkish": "Neyse ki Bucky buradan kurtulmayı başardı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10330128_saw_ko_01_10420_play",
       "english": "Peni Parker power!",
       "turkish": "Peni Parker’ın gücü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10330197_ko_ace_03_play",
       "english": "They all went down so easy…",
       "turkish": "Hepsini indirmek gayet kolay oldu…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10330056_sp_interact_tokyo_01_10420_c_play",
       "english": "Um…",
       "turkish": "Şey…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10330444_sp_ability_10210_06_play",
       "english": "The perfect shot!",
       "turkish": "Kusursuz atış!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10330106_countdown_dt_02_play",
       "english": "We're almost there. But not quite.",
       "turkish": "Az kaldı. Ama o kadar da az değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10330008_single_17_play",
       "english": "Knowing is literally half the battle.",
       "turkish": "Savaşı kazanmak bilgiden geçer.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10330380_sp_interact_arakkoe_01_10370_d_play",
       "english": "And then Ultron ruined it all. Even so, I'd take the red planet over the Red Room any day.",
       "turkish": "Sonra Ultron çıkıp bir çuval inciri berbat etti. Yine de kırmızı gezegen, Kırmızı Oda’dan iyidir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10330360_interact_01_10290_c_play",
       "english": "You wouldn't have stayed on the farm for long. The Red Room would have snatched you up.",
       "turkish": "Çiftlikte pek fazla kalmazdın. Çok geçmeden Kırmızı Oda gelip seni kaçırırdı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10330081_buff_heal_noncritical_01_play",
       "english": "That topped me off, thanks.",
       "turkish": "Tüm yaralarım iyileşti, sağ ol.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10330293_interact_01_10530_a_play",
       "english": "Controlling minds seems like a skill that allows for unlimited discretion.",
       "turkish": "Zihin kontrol etmek, asla fark edilmemek için mükemmel bir yetenek gibi duruyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10330047_sp_single_tokyo_01_play",
       "english": "Tokyo did not look like this last time I was here.",
       "turkish": "Son geldiğimde Tokyo böyle değildi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10330418_sp_interact_kunlunec_01_80110_b_play",
       "english": "You're right. I'm no bride. I'm a widow. Let me show you why…",
       "turkish": "Haklısın. Ben gelin falan değilim. Ben bir dul’um. Nedenini sana göstereyim…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10330432_single_09_play",
       "english": "The future is at my fingertips!",
       "turkish": "Gelecek parmaklarımın ucunda!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10330104_countdown_at_02_play",
       "english": "Time is not on our side. Push the attack!",
       "turkish": "Zaman bizden yana değil. Saldırın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10330430_entrance_02_10540_play",
       "english": "If your flaming friend wants to bless my bullets, Jean, I won't say no.",
       "turkish": "Alev alev yanan arkadaşın mermilerimi kutsamak isterse Jean, hayır demem.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10330213_escorting_payload_wakandah_01_play",
       "english": "This package is for T'Challa only.",
       "turkish": "Bu paket sadece T'Challa için.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10330160_building_destroy_ankh_02_play",
       "english": "No ankhs here!",
       "turkish": "Yaşam çarmıhı kalmadı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10330093_buff_purge_01_play",
       "english": "Ah, battle-ready again!",
       "turkish": "Ah, savaşa yeniden hazırım!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10330239_quick_group_up_02_play",
       "english": "Bring it in!",
       "turkish": "Toplanın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10330003_single_13_play",
       "english": "I've done things I regret. Now I do things I can be proud of.",
       "turkish": "Pişman olduğum şeyler yaptım. Artık gurur duyacağım şeyler yapıyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10330435_q_p2_play_p2",
       "english": "Targeted for extermination.",
       "turkish": "Yok edilmek üzere işaretlendi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10330361_interact_02_10530_a_play",
       "english": "You're not the partner I was expecting on this mission, Emma, but you'll do nicely.",
       "turkish": "Bu görevde ortağım olmanı beklemiyordum Emma. Yine de iş görürsün.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10330331_sp_single_klyntarc_02_play",
       "english": "If Knull could do this, we've got a bigger battle ahead than I thought.",
       "turkish": "Eğer Knull bunu yapabiliyorsa, düşündüğümden daha büyük bir savaş bizi bekliyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10330033_interact_01_10180_c_play",
       "english": "There's a lot of that going around. Maybe Doom can sort it out.",
       "turkish": "Yaygın bir sorun bu. Belki Doom çözebilir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10330221_escorting_remind_wakandah_01_play",
       "english": "T'Challa needs this statue now. Hurry!",
       "turkish": "T'Challa'nın bu heykele ihtiyacı var. Acele edin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10330057_sp_interact_klyntar_01_10350_a_play",
       "english": "Home sweet home, huh?",
       "turkish": "Nasıl, yurdunu özlemiş misin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10330443_sp_ability_10210_05_play",
       "english": "Lethal precision!",
       "turkish": "Ölümcül isabet!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10330211_escorting_payload_tokyoh_01_play",
       "english": "Budokan's not getting any closer, people. Let's roll.",
       "turkish": "Budokan ayağımıza gelecek değil ya millet. Haydi gidelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10330155_building_spotted_turret_03_play",
       "english": "Punisher's a turret!",
       "turkish": "Punisher taret olmuş!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10330137_healthpack_01_play",
       "english": "R and R in a box.",
       "turkish": "Dinlenme iznine çıkmışım gibi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10330362_interact_02_10530_c_play",
       "english": "Ready to show the boys how it's done?",
       "turkish": "Oğlanlara bu işin nasıl yapıldığını gösterelim mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10330469_ko_sp_01_10600_play",
       "english": "This is one spy you can't control, Director Han!",
       "turkish": "Bu, kontrol edemeyeceğin bir casus, Direktör Han!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10330228_quick_hi_01_play",
       "english": "What's up?",
       "turkish": "Ne var ne yok?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10330171_building_destroy_nest_01_play",
       "english": "I got all the spiders.",
       "turkish": "Tüm örümcekleri hallettim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10330190_ko_three_02_play",
       "english": "Trifecta!",
       "turkish": "Üçlü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10330013_single_02_play",
       "english": "One shot is all I need for a Doombot…no matter what timeline it's from.",
       "turkish": "Doombot görürsem tek vuruşta indiririm… Hangi zaman tünelinden olduğuna bakmam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10330338_escorting_payload_newyorke_04_play",
       "english": "I can get you to the Tower, H.E.R.B.I.E. No problem.",
       "turkish": "Seni Kule’ye ulaştırabilirim H.E.R.B.I.E. Hiç sıkıntı değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10330243_quick_hp_low_02_play",
       "english": "Not at my best.",
       "turkish": "Daha iyi günlerim olmuştu.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10330199_revenge_02_play",
       "english": "It's over when I say it's over.",
       "turkish": "Bitti dediysem bitmiştir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10330120_ko_sp_01_10410_play",
       "english": "You can rest now, Bucky.",
       "turkish": "Dinlen artık Bucky.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10330415_interact_01_10650_c_play",
       "english": "I suppose. But seeing how Chronovium has affected others, I'd be careful if I were you.",
       "turkish": "Sanırım öyle. Ama Kronovyum'un başkalarını nasıl etkilediğini gördüğümden, senin yerinde olsam dikkatli olurdum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10330492_interact_01_10600_c_play",
       "english": "Paranoia? Or discipline?",
       "turkish": "Paranoya mı? Yoksa disiplin mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10330440_ability_f_05_play",
       "english": "Pulse charge!",
       "turkish": "Titreşim yükü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10330019_interact_01_10111_a_play",
       "english": "Hey, big guy. Nice belt.",
       "turkish": "Selam koca oğlan. Kemerin güzelmiş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10330065_q_p13_play",
       "english": "Plasma burst!",
       "turkish": "Plazma patlaması!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10330346_escorting_remind_newyorke_04_play",
       "english": "The Tower isn't much further. No giving up!",
       "turkish": "Kule’ye az kaldı. Pes etmek yok!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10330425_sp_emote_10470_1047001217_06_play",
       "english": "Plasma's hot.",
       "turkish": "Plazma yakar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10330413_interact_01_10580_d_play",
       "english": "I suppose you're right. So how about we work together to steal a win?",
       "turkish": "Sanırım haklısın. Peki, bir zafer çalmak için birlikte çalışmaya ne dersin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10330080_debuff_weak_02_play",
       "english": "I'm worn out.",
       "turkish": "Gücüm kalmadı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10330472_saw_ko_01_10590_play",
       "english": "Hell of a shot, Elsa. You've earned my respect.",
       "turkish": "Müthiş atış, Elsa. Saygımı kazandın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10330245_quick_confirm_02_play",
       "english": "Da.",
       "turkish": "Da.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10330170_building_destroy_turret_03_play",
       "english": "Turret's destroyed. Watch for the Punisher.",
       "turkish": "Taret yok edildi. Punisher'a dikkat!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10330390_escorting_payload_kunlunh_01_play",
       "english": "The mission is clear. Deliver this tablet to Shou-Lao and stop Doom.",
       "turkish": "Görev net. Bu tableti Shou-Lao'ya teslim edin ve Doom'u durdurun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10330083_buff_heal_critical_01_play",
       "english": "Back to fighting strength.",
       "turkish": "Savaşacak güce kavuştum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10330191_ko_three_03_play",
       "english": "Three and counting.",
       "turkish": "Üçe geldik, artmaya da devam ediyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10330116_ko_sp_01_10240_play",
       "english": "Back to your Hel.",
       "turkish": "Hel’e dön.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10330454_escorting_payload_museume_02_play",
       "english": "These creatures are counting on us. No one gets left behind.",
       "turkish": "Bu yaratıklar bize güveniyor. Kimse geride kalmayacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10330011_single_20_play",
       "english": "There will always be Avengers. The ones from my world, well…",
       "turkish": "Her zaman Yenilmezler olacak. Benim dünyamdan olanlar, şey…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10330212_escorting_payload_tokyoh_02_play",
       "english": "We get Spider-Zero to the Weaver. No matter what.",
       "turkish": "Spider-Zero'yu, Dokumacı'ya götüreceğiz. Ne olursa olsun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10330073_debuff_control_01_play",
       "english": "I'm a sitting duck.",
       "turkish": "Açık hedef oldum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10330437_ability_right_02_play",
       "english": "Not so fast…",
       "turkish": "O kadar hızlı değil…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10330082_buff_heal_noncritical_02_play",
       "english": "Every little bit helps.",
       "turkish": "Damlaya damlaya göl olur.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10330030_interact_01_10420_a_play",
       "english": "Where'd you learn how to pilot an armored suit?",
       "turkish": "Zırh kullanmayı nereden öğrendin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10330018_single_07_play",
       "english": "When this is all said and done, the Red Room will resume business as usual.",
       "turkish": "Ortalık yatıştığında Kırmızı Oda yeniden eski hâline dönecek.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10330010_single_19_play",
       "english": "People like Doom always overreach. People like us have to put things back together.",
       "turkish": "Doom gibi insanlar işi hep abartır. Bizim gibilerin işleri rayına oturtması gerekir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10330037_interact_01_10320_b_play",
       "english": "More like the future came back, and brought me with it.",
       "turkish": "Daha doğrusu gelecek geri döndü, beni de beraberinde getirdi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10330495_interact_03_10220_a_play",
       "english": "These weapons Alchemax designed are top notch.",
       "turkish": "Alchemax’in tasarladığı bu silahlar birinci sınıf.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10330214_escorting_payload_wakandah_02_play",
       "english": "Nobody stops us from getting this statue to T'Challa.",
       "turkish": "Bu heykeli T'Challa'ya ulaştırmamıza kimse engel olamayacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10330297_sp_interact_tokyoh_01_80310_a_play",
       "english": "You're the one trying to hold reality together? You're just a kid.",
       "turkish": "Tüm gerçekliği bir arada tutmaya çalışan sen misin? Daha çocukmuşsun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10330064_switch_03_play_p2",
       "english": "Widow standing by.",
       "turkish": "Widow beklemede.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10330461_escorting_remind_newyorkh02_01_play",
       "english": "Didn't expect so much resistance. But we can still make it to the Vault.",
       "turkish": "Bu kadar direniş beklemiyordum. Ama hâlâ Kasa'ya varabiliriz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10330216_escorting_remind_asgarde_02_play",
       "english": "Yggdrasil's going to be drained dry if we don't get there fast.",
       "turkish": "Hemen yetişmezsek Yggdrasill'in öz suyu kalmayacak.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10330218_escorting_remind_tokyoe_02_play",
       "english": "Stay sharp. We're not there yet.",
       "turkish": "Tetikte olun. Henüz hedefimize varmadık.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10330246_quick_thanks_01_play",
       "english": "Thanks.",
       "turkish": "Teşekkürler.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10330248_signal_open_spot_01_play",
       "english": "I've tagged a hotspot.",
       "turkish": "Sıkıntılı noktayı işaretledim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10330142_respawn_04_play",
       "english": "No, NOT after everything I've been through in the Red Room!",
       "turkish": "Hayır, Kırmızı Oda’da çektiklerim boşa gitmeyecek!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10330054_sp_interact_tokyo_01_10480_c_play",
       "english": "Lots of huge cities, yeah. This one has more spiders than most.",
       "turkish": "Büyük şehirler var, evet. Ama bu şehirdeki kadar örümcek yok.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10330375_sp_interact_klyntarh_01_10360_a_play",
       "english": "I've never been here before, but I feel like I know every inch of this planet.",
       "turkish": "Buraya ilk gelişim olsa da bu gezegenin her karışını tanıyorum sanki.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10330198_revenge_01_play",
       "english": "You started it. I finished it.",
       "turkish": "Sen başlattın. Ben bitirdim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10330053_sp_interact_tokyo_01_10480_a_play",
       "english": "Nothing like this in the Japan you remember, is there?",
       "turkish": "Hatırladığın Japonya böyle değil, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10330140_respawn_02_play",
       "english": "So…we haven't won yet?",
       "turkish": "Ee… Daha kazanmadık mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10330147_building_spotted_ankh_01_play",
       "english": "Give these ankhs a wide berth if you can.",
       "turkish": "Mümkünse şu yaşam çarmıhlarından uzak durun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10330002_single_12_play",
       "english": "I've been around a long time, and I've learned a little too much about how to hurt people.",
       "turkish": "Uzun uzun yaşadım ve insanları nasıl inciteceğimi en iyi şekilde öğrendim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10330096_occupied_celebrate_02_play",
       "english": "Capture complete!",
       "turkish": "Ele geçirmeyi başardık!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10330039_interact_02_10420_b_play",
       "english": "Then I guess I've been doing my job right.",
       "turkish": "O hâlde işimi doğru yapıyor olmalıyım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10330206_enemy_advanced_03_play",
       "english": "There aren't enough of us.",
       "turkish": "Sayımız az.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10330220_escorting_remind_tokyoh_02_play",
       "english": "Keep pushing! Spider-Zero has to get to the Master Weaver.",
       "turkish": "İtmeye devam! Spider-Zero, Usta Dokumacı’ya ulaşmalı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10330379_sp_interact_arakkoe_01_10370_b_play",
       "english": "So the Mutants are on Mars now? That wasn't in the mission brief…",
       "turkish": "Ee, Mutantlar artık Mars’ta mı? Görev brifinginde bu yoktu…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10330332_sp_single_klyntarec_02_play",
       "english": "I'm getting sick and tired of tyrants grabbing for power they don't deserve.",
       "turkish": "Güçlerini hak etmeyen zorbalardan bıktım usandım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10330113_ko_normal_03_play",
       "english": "Looking for a new challenge.",
       "turkish": "Daha zoru yok mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10330291_interact_02_10480_a_play",
       "english": "The way you move… You're an assassin, just like me, aren't you?",
       "turkish": "Hareket şeklin… Tıpkı benim gibi sen de suikastçısın, değil mi?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10330084_buff_heal_critical_02_play",
       "english": "Oof. I needed that.",
       "turkish": "Oh, iyi geldi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10330014_single_03_play",
       "english": "Heroes get the job done. In times like these, we can't afford hesitation.",
       "turkish": "Kahramanlar işi bitirir. Böyle zamanlarda tereddüt etme lüksümüz yoktur.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10330166_building_destroy_amplifier_02_play",
       "english": "I took out the amplifier.",
       "turkish": "Kuvvetlendiriciyi indirdim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10330270_signal_area_occupied_02_play",
       "english": "We can't surrender our ground.",
       "turkish": "Bölge kaybedemeyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10330278_sp_ability_10210_02_play",
       "english": "Thanks for the clear view, Clint.",
       "turkish": "Çok daha net görüyorum. Teşekkürler Clint.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10330459_escorting_remind_museume_01_play",
       "english": "Hurry. The Collector's bound to be on our trail by now.",
       "turkish": "Acele et. Koleksiyoncu şimdiye kadar kesin peşimize düşmüştür.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10330202_ko_terrain_02_play",
       "english": "Pride goeth before a fall.",
       "turkish": "Fazla havalanma, düşersin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10330031_interact_01_10420_c_play",
       "english": "Is she a black widow, by any chance? You know they're the best.",
       "turkish": "Acaba karadul olabilir mi? En iyi örümcekler onlar oluyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10330394_emote_1033502206_01_play",
       "english": "Cosmic retribution!",
       "turkish": "Kozmik adalet!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10330195_ko_ace_01_play",
       "english": "Sorry. I love working solo.",
       "turkish": "Pardon. Yalnız çalışmaya bayılıyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10330179_ko_assist_03_play",
       "english": "I've got your back.",
       "turkish": "Arkanı kolluyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10330383_interact_02_10220_b_play",
       "english": "You're one of the few people on this planet who doesn't owe me anything, Steve.",
       "turkish": "Bu gezegendeki bana hiçbir borcu olmayan birkaç kişiden birisin, Steve.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10330132_saw_death_01_10490_play",
       "english": "Things just got a lot harder without Logan.",
       "turkish": "Logan olmayınca işler çok daha zorlaştı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10330288_interact_01_10410_c_play",
       "english": "My body may look the same, but for me, it's been decades. And I've felt every single day.",
       "turkish": "Vücudum aynı görünse de benim için aradan onlarca yıl geçti. Geçen her bir günün yükü ayrı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10330468_ko_sp_01_10570_play",
       "english": "I can outshoot you any day, Wilson.",
       "turkish": "Seni her gün vurulma yarışında geçerim, Wilson.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10330330_sp_single_arakkoe_02_play",
       "english": "Not a lot of intel available on Arakko. I'm flying blind on this one…",
       "turkish": "Elimde Arakko hakkında pek istihbarat yok. Bu kervanı yolda düzeceğiz artık…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10330255_signal_wheel_enemy_spot_02_play",
       "english": "So this is where they've been hiding…",
       "turkish": "Demek burada saklanıyorlarmış…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10330341_escorting_payload_arakkoe_03_play",
       "english": "We deprogram Ultron, or Arakko falls.",
       "turkish": "Ultron’un programını değiştirmeliyiz yoksa Arakko’yu kaybederiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10330059_sp_interact_hydra_01_10310_b_play",
       "english": "It is. Even for Hydra. Don't get separated.",
       "turkish": "Öyledir. Hydra'ya göre bile. Dağılma.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10330441_ability_f_06_play",
       "english": "High voltage!",
       "turkish": "Yüksek voltaj!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10330276_signal_no_02_play",
       "english": "Not a chance.",
       "turkish": "Asla olmaz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10330163_building_destroy_beacon_02_play",
       "english": "Rocket's beacon is no longer broadcasting.",
       "turkish": "Rocket’ın feneri yayını bıraktı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10330462_escorting_remind_newyorkh02_02_play",
       "english": "Cap is counting on us. I don't plan on letting him down, do you?",
       "turkish": "Cap bize güveniyor. Onu hayal kırıklığına uğratmaya niyetim yok, ya sen?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10330021_interact_01_10220_a_play",
       "english": "Steve! I thought we'd lost you and the Commandos over Latveria!",
       "turkish": "Steve! Seni ve Komandoları Latveria'da kaybettik sanıyordum!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10330044_interact_02_10340_d_play",
       "english": "You haven't designed those life-extension treatments yet? Better get to it.",
       "turkish": "Ömür uzatan tedavileri henüz tasarlamadın mı? En iyisi işe koyul.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10330091_buff_dr_01_play",
       "english": "I always did have a thick skin.",
       "turkish": "Zaten incinmekten hiç korkmamışımdır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10330302_sp_interact_klyntarh_01_10210_d_play",
       "english": "If it gives us even the slightest edge in this battle, then yes. Without a doubt.",
       "turkish": "Bize bu savaşta biraz olsun avantaj verecekse evet. Hiç şüphesiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10330387_sp_ability_10140_03_play",
       "english": "Skull pulse ray active.",
       "turkish": "Kafatası nabız ışını aktif.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10330427_entrance_01_10210_play",
       "english": "Once I'm locked on, no one's escaping my sights…",
       "turkish": "Bir kez kilitlendim mi, kimse bakışlarımdan kaçamaz…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10330087_buff_endure_01_play",
       "english": "Invincibility suits me.",
       "turkish": "Yenilmezlik bana yakışıyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10330094_buff_purge_02_play",
       "english": "That was invigorating.",
       "turkish": "Gerçekten tazelendim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10330407_interact_01_10440_d_play",
       "english": "I get it. And you're welcome to have a crisis of faith… after we've saved the universe!",
       "turkish": "Anladım. Ve inanç krizi yaşamakta özgürsün... evreni kurtardıktan sonra!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10330026_interact_01_10210_c_play",
       "english": "Ha! On it.",
       "turkish": "Ha! O iş bende.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10330074_debuff_control_02_play",
       "english": "Gotta get moving again.",
       "turkish": "Yeniden harekete geçmeliyim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10330192_ko_five_01_play",
       "english": "Five's a pretty good streak.",
       "turkish": "Beşlik galibiyet serisi hiç fena değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10330009_single_18_play",
       "english": "Sometimes the right thing is the hardest thing. Do it anyway.",
       "turkish": "Bazen doğru olanı yapmak en zorudur. Yine de yapmamız gerekir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10330301_sp_interact_klyntarh_01_10210_b_play",
       "english": "They're not so bad once you get to know them…",
       "turkish": "Aslında zaman ayırıp tanısan o kadar da fena değiller…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10330004_single_14_play",
       "english": "You don't have to run away from your past. Just look it in the eye and say: I'm better than that now.",
       "turkish": "Geçmişinden kaçmak zorunda değilsin. Geçmişinle yüzleş ve de ki: \"Ben artık daha iyi birisiyim\".",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10330299_interact_01_10251_a_play",
       "english": "Think I could borrow that teleporting cape of yours for my next mission?",
       "turkish": "Bir sonraki görevim için şu ışınlayıcı pelerinini ödünç alabilir miyim dersin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10330229_quick_hi_02_play",
       "english": "Hello there.",
       "turkish": "Merhabalar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10330384_interact_02_10220_d_play",
       "english": "Save me a dance at the Hellfire Gala, soldier, and we'll call it even.",
       "turkish": "Hellfire Gala'da bana bir dans ayır, asker, ve ödeşmiş oluruz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10330424_sp_emote_10470_1047001217_05_play",
       "english": "Jeff style!",
       "turkish": "Jeff tarzı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10330169_building_destroy_turret_02_play",
       "english": "Turret is neutralized.",
       "turkish": "Taret etkisiz hâle getirildi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10330115_ko_normal_05_play",
       "english": "Another one bites the dust.",
       "turkish": "Birini daha gömdük.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10330138_healthpack_02_play",
       "english": "That put a spring in my step.",
       "turkish": "Bana enerji kattı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10330153_building_spotted_turret_01_play",
       "english": "Frank always wanted to be a weapon. Now he is.",
       "turkish": "Frank hep silah olmak istemiştir. Oldu işte.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10330162_building_destroy_beacon_01_play",
       "english": "The beacon is decommissioned.",
       "turkish": "Fener hizmet dışı kaldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10330409_interact_01_10560_d_play",
       "english": "Good for you. But not all of us have the benefit of being immortal…",
       "turkish": "Senin adına sevindim. Ama hepimiz ölümsüz olmanın avantajına sahip değiliz…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10330329_sp_single_krakoac_02_play",
       "english": "How come every high society event I attend turns into a brawl?",
       "turkish": "Neden katıldığım her yüksek sosyete etkinliğinde kavga çıkıyor?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10330249_signal_open_spot_02_play",
       "english": "Eyes on this location.",
       "turkish": "Gözünüzü buradan ayırmayın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10330447_sp_ability_10540_03_play",
       "english": "Phoenix bullets!",
       "turkish": "PHOENIX mermileri!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10330131_saw_death_01_10450_play",
       "english": "We lost Namor!",
       "turkish": "Namor’u kaybettik!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10330109_saw_flank_01_play_p2",
       "english": "On your back, on your back!",
       "turkish": "Arkanızda, arkanızda!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10330076_debuff_exhaust_02_play",
       "english": "Put me in bubble wrap.",
       "turkish": "Çıtkırıldım oldum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10330024_interact_01_10340_d_play",
       "english": "Don't keep track of that either. But I'm glad to have you back.",
       "turkish": "Onu da hatırlamıyorum. Ama geri dönmene sevindim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10330240_quick_hp_normal_01_play",
       "english": "I'm good.",
       "turkish": "İyiyim ben.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10330396_interact_03_10420_b_play",
       "english": "Don't believe anything the Public Eye says, kid.",
       "turkish": "Kamusal Göz'ün söylediği hiçbir şeye inanma, çocuk.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10330150_building_spotted_portal_01_play",
       "english": "Portal's wide open. Be ready for an attack.",
       "turkish": "Portal ardına kadar açık. Saldırıya hazır olun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10330378_sp_interact_museume_01_10480_d_play",
       "english": "I've learned to put the greater good before personal vengeance. I suggest you do the same.",
       "turkish": "Kişisel intikamdan önce daha büyük iyiliği düşünmeyi öğrendim. Sana da aynısını yapmanı öneririm.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10330105_countdown_dt_01_play",
       "english": "We're close! Stay strong!",
       "turkish": "Az kaldı! Dayanın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10330186_ko_ability_e_01_play",
       "english": "I like to make it sting.",
       "turkish": "Acıtmayı severim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10330058_sp_interact_klyntar_01_10350_c_play",
       "english": "Good. Hang onto that feeling for when we meet Knull.",
       "turkish": "Güzel. Knull’a ulaştığımızda bu hissi unutma.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10330088_buff_endure_02_play",
       "english": "Invincible? I'll take it.",
       "turkish": "Yenilmezlik mi? Bana uyar.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10330296_sp_interact_hydra_01_10370_d_play",
       "english": "Then how about we put all our pent up trauma to good use and shut this place down?",
       "turkish": "O hâlde içimizde bastırdığımız travmayı değerlendirip buraya kilit vuralım mı?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10330143_respawn_05_play",
       "english": "Back where I belong.",
       "turkish": "Olmam gereken yerdeyim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10330504_interact_01_10630_c_play",
       "english": "Damn. I was hoping you might be able to help me bring them down from the inside.",
       "turkish": "Kahretsin. Onları içeriden çökertmeme yardım edebileceğini umuyordum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10330182_ko_v_03_play",
       "english": "Hit 'em 'til they don't get up.",
       "turkish": "Yere serilene kadar vurmak lazım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10330290_interact_01_10500_c_play",
       "english": "Your powers make my decades of stealth training obsolete. You're a legend.",
       "turkish": "Güçlerin sayesinde onlarca yıl aldığım gizlilik eğitimlerinin bir önemi kalmıyor. Efsanesin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10330015_single_04_play",
       "english": "Doom, Loki, Hela…that's a little too much green. Time to paint things black.",
       "turkish": "Doom, Loki, Hela… Bu kadar yeşil fazla. Etrafı biraz da siyaha boyayalım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10330099_occupied_hint_defend_01_play",
       "english": "Hold the perimeter!",
       "turkish": "Safları bozmayın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10330385_sp_ability_10140_01_play",
       "english": "Nice upgrade, Frank.",
       "turkish": "Güzel yükseltme, Frank.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10330183_ko_q_01_play",
       "english": "Electro-plasma for the win.",
       "turkish": "Elektro-plazma kazandırdı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10330046_sp_single_asgard_01_play",
       "english": "Loki sure has…put his stamp on things around here.",
       "turkish": "Loki gerçekten de… Buraya damgasını vurmuş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10330077_debuff_purple_01_play",
       "english": "My wounds won't heal.",
       "turkish": "Yaralarım iyileşmiyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10330347_escorting_remind_newyorkh_03_play",
       "english": "If this mission fails, the sun may never rise again.",
       "turkish": "Bu görevi başaramazsak güneş bir daha asla doğmayabilir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10330428_entrance_02_10210_play",
       "english": "I always feel more focused when you're watching my back, Barton.",
       "turkish": "Arkamı kolladığını bilince hep daha odaklı hissediyorum, Barton.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10330269_signal_area_occupied_01_play",
       "english": "Defend this area.",
       "turkish": "Bu bölgeyi savunun.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10330204_enemy_advanced_01_play",
       "english": "Numbers are not on our side.",
       "turkish": "Sayıca üstünlük bizde değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10330282_building_spotted_octopus_03_play",
       "english": "Squid soldiers? That's new…",
       "turkish": "Asker kalamarlar mı? Bir yaşıma daha girdim…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10330022_interact_01_10220_c_play",
       "english": "Well, you didn't miss much. I lived it.",
       "turkish": "Eh, çok da bir şey kaçırmadın. Ben görüp geçirdim de ne oldu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10330233_quick_q_charge_90_higher_02_play",
       "english": "Almost ready.",
       "turkish": "Neredeyse hazır.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10330250_signal_broken_01_play",
       "english": "We could do some damage here.",
       "turkish": "Buraya iyi hasar verebiliriz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10330408_interact_01_10560_b_play",
       "english": "Hold on, Angela! We need to strike our enemies before they know we're coming.",
       "turkish": "Bekle, Angela! Düşmanlarımıza, geldiğimizi anlamadan önce saldırmalıyız.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10330133_saw_death_01_10110_play",
       "english": "Hulk's down! Now we have to smash!",
       "turkish": "Hulk yenildi! Şimdi ezmek bize düşer!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10330292_interact_02_10480_c_play",
       "english": "It's in our blood. And in the blood we spill. That part of us never changes.",
       "turkish": "Bu iş kanımızda var. Döktüğümüz kanda da. İçimizdeki o parça asla değişmiyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10330499_interact_02_10570_a_play",
       "english": "I can feel you ogling me through that mask, Wilson. Don't make me put you down.",
       "turkish": "O maskenin ardından beni kestiğini hissedebiliyorum, Wilson. Seni yere sermek zorunda bırakma beni.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10330068_ability_e_02_play",
       "english": "Don't look up!",
       "turkish": "Yukarı bakmak yok!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10330285_building_destroy_octopus_03_play",
       "english": "Namor's squids are down!",
       "turkish": "Namor’un kalamarları yere serildi!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10330400_interact_02_10210_b_play",
       "english": "I feel it too, Clint. That connection. Like I know deep inside that I can trust you.",
       "turkish": "Ben de hissediyorum, Clint. O bağlantıyı. Derinlerde sana güvenebileceğimi biliyor gibiyim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10330496_interact_03_10220_c_play",
       "english": "For me? Absolutely. For my targets… that's another story.",
       "turkish": "Benim için mi? Kesinlikle. Hedeflerim içinse… orası ayrı mesele.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10330284_building_destroy_octopus_02_play",
       "english": "Secondary targets neutralized. On to Namor.",
       "turkish": "İkincil hedefler etkisiz hâle getirildi. Sırada Namor var.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10330038_interact_01_10320_d_play",
       "english": "As long as I can.",
       "turkish": "Elimden geldiğince.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10330334_sp_single_museume_02_play",
       "english": "This place turns my stomach. And not in a fun way.",
       "turkish": "Burası midemi bulandırıyor. Hem de eğlenceli bir şekilde değil.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10330129_saw_death_01_10210_play",
       "english": "Clint's down! Somebody help him!",
       "turkish": "Clint yaralandı! Biri yardım etsin!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10330393_escorting_remind_kunlunh_02_play",
       "english": "These guys have nothing on an angry dragon! Keep moving!",
       "turkish": "Bu adamlar öfkeli bir ejderhaya karşı hiçbir şey yapamaz! Hareket etmeye devam et!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10330236_quick_need_heal_01_play",
       "english": "Medic?",
       "turkish": "Doktor yok mu?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10330185_ko_q_03_play",
       "english": "Like fish in a barrel.",
       "turkish": "Çantada keklik.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10330256_signal_wheel_attack_01_play",
       "english": "Hit them here!",
       "turkish": "Şuraya saldırın!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10330222_escorting_remind_wakandah_02_play",
       "english": "Where's the gas pedal on this thing? We need to move.",
       "turkish": "Şu şeyin gaz pedalı nerede? Harekete geçmeliyiz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10330426_sp_emote_10470_1047001217_07_play",
       "english": "Knowing is literally half the battle.",
       "turkish": "Savaşı kazanmak bilgiden geçer.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10330154_building_spotted_turret_02_play",
       "english": "Punisher's living his best life…by becoming a turret.",
       "turkish": "Punisher, hayatını yaşıyor… Taret olmuş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10330224_easter_egg_tokyoe_02_play",
       "english": "I feel right at home here. Guess I really am a Black Widow.",
       "turkish": "Burada hiç yabancılık çekmedim. Gerçekten de Black Widow olmalıyım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10330460_escorting_remind_museume_02_play",
       "english": "We're here to rescue these creatures from captivity… not join them!",
       "turkish": "Bu yaratıkları esaretten kurtarmaya geldik… onlara katılmaya değil!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10330016_single_05_play",
       "english": "Secrets ALWAYS come out, but I'm not afraid of showing the world who I really am.",
       "turkish": "Sırlar DAİMA ortaya dökülür ama aslında kim olduğumu tüm dünyanın görmesinden korkmuyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10330111_ko_normal_01_play",
       "english": "Enemy down.",
       "turkish": "Düşman yenildi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10330453_escorting_payload_museume_01_play",
       "english": "We're running a full evac mission. You ready?",
       "turkish": "Tam kapsamlı bir tahliye operasyonu yürütüyoruz. Hazır mısın?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10330448_sp_single_newyorkh02_02_play",
       "english": "Can’t risk anyone getting their hands on this stuff… even S.H.I.E.L.D.",
       "turkish": "Kimsenin bu şeye elini sürmesini göze alamam… S.H.I.E.L.D. bile.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10330042_interact_01_10390_d_play",
       "english": "Hmm..Just like your brother. Like your brother.",
       "turkish": "Hımm… Tıpkı kardeşin gibi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10330498_interact_04_10220_d_play",
       "english": "Tech's come a long way since the Golden Age, Cap. But it never hurts to stay on guard.",
       "turkish": "Teknoloji ALTIN ÇAĞ’dan beri epey yol kat etti, Cap. Ama tetikte kalmak asla zarar vermez.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10330173_building_destroy_nest_03_play",
       "english": "Neutralized the spider nest.",
       "turkish": "Örümcek yuvasını etkisiz hâle getirdim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10330357_interact_02_10410_a_play",
       "english": "It's been too long since we've had a quiet moment together, James.",
       "turkish": "Birlikte sessiz bir an paylaşmayalı epey uzun zaman oldu James.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10330180_ko_v_01_play",
       "english": "Two batons, one enemy down.",
       "turkish": "İki sopa darbesiyle yere serilirsin.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10330502_interact_02_10600_d_play",
       "english": "Thanks, but that kind of relationship always comes with fine print. And my Korean has gotten a bit rusty…",
       "turkish": "Teşekkürler, ama bu tür ilişkilerin her zaman küçük puntolu şartları olur. Hem Korecem de biraz paslandı…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10330298_sp_interact_tokyoh_01_80310_c_play",
       "english": "Fair. By the time I was your age, I was already one of the best spies on the planet…",
       "turkish": "Haklısın. Senin yaşındayken ben de çoktan dünyanın en iyi casuslarından biri hâline gelmiştim…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10330286_interact_01_10380_b_play",
       "english": "A balanced diet. Lots of cardio. And a healthy dose of super soldier serum.",
       "turkish": "Dengeli beslenme. Bol bol spor. Bir de süper asker serumundan sağlıklı bir doz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10330403_interact_01_10150_c_play",
       "english": "I'm a good sniper, but with your wind guiding my shots, I'd never miss.",
       "turkish": "Ben iyi bir keskin nişancıyım, ama rüzgarın atışlarımı yönlendirdiğinde asla ıskalamam.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10330232_quick_q_charge_90_higher_01_play",
       "english": "Getting warm again…",
       "turkish": "Tekrar ısınmaya başladım…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10330417_interact_01_10570_d_play",
       "english": "Hmm. Maybe you would have been just damaged enough to survive after all…",
       "turkish": "Hmm. Belki de sonunda hayatta kalacak kadar hasar almış olabilirdin…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10330051_sp_interact_wakanda_01_10450_b_play",
       "english": "T'Challa did it without declaring war on everybody. You should try that.",
       "turkish": "T'Challa, bunu herkese savaş açmadan yapmayı başardı. Denemeni öneririm.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10330501_interact_02_10600_b_play",
       "english": "Yours and the Public Eye's. Castle's not great at keeping things under the radar…",
       "turkish": "Senin ve Public Eye'ın. Castle, işleri radarın altında tutma konusunda pek iyi değil…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10330431_single_08_play",
       "english": "Time to put Alchemax's tech to good use for once…",
       "turkish": "Alchemax'in teknolojisini bir kez olsun iyi bir amaç için kullanma zamanı…",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10330264_signal_wheel_backup_01_play",
       "english": "Need some backup!",
       "turkish": "Biraz desteğe ihtiyacım var!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10330411_interact_01_10550_d_play",
       "english": "No, Matt. Standing so close to the line you swore you'd never cross…",
       "turkish": "Hayır, Matt. Asla geçmeyeceğine yemin ettiğin çizgiye bu kadar yakın durmak...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10330500_interact_02_10570_c_play",
       "english": "Hopefully it was one that was wiped out by the Timestream Entanglement.",
       "turkish": "Umarım Zaman Akışı Karışıklığı tarafından yok edilenlerden biridir.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10330001_single_11_play",
       "english": "Spies know that truly observant people are rare. And dangerous.",
       "turkish": "İyi gözlem yapan insanlar, hem nadir hem de tehlikeli olur.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10330119_ko_sp_01_10110_play",
       "english": "Wish you were on the right side, Bruce.",
       "turkish": "Keşke doğru tarafta olsaydın Bruce.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10330125_saw_ko_01_10140_play",
       "english": "I guess you are worth the trouble, Frank.",
       "turkish": "Sana katlanmaya değiyormuş demek ki Frank.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10330336_escorting_payload_klyntarh_04_play",
       "english": "We're headed underground. Stay close.",
       "turkish": "Yerin altına gidiyoruz. Uzaklaşmayın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10330267_signal_area_unoccupied_01_play",
       "english": "Secure the area.",
       "turkish": "Bölgeyi emniyet altına alın.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10330045_sp_single_hydra_01_play",
       "english": "It wouldn't be a Hydra base if it wasn't grandiose and weird.",
       "turkish": "Zaten bir Hydra üssü şatafatlı ve tuhaf olmasaydı şaşardım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10330416_interact_01_10570_b_play",
       "english": "Trust me, you don't. Growing up in the Red Room was like torture.",
       "turkish": "Bana güven, istemezsin. Kırmızı Oda'da büyümek işkence gibiydi.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10330434_q_p13_play",
       "english": "Perfect precision.",
       "turkish": "Mükemmel hassasiyet.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10330007_select_01_play",
       "english": "Stepping out of the shadows.",
       "turkish": "Gölgelerden çıkıp geldim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10330397_interact_03_10420_d_play",
       "english": "Huh. Apparently even those idiots can get something right every now and then…",
       "turkish": "Hıh. Görünüşe göre o aptallar bile ara sıra bir şeyi doğru yapabiliyor...",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10330005_single_15_play",
       "english": "I was terrorized, broken and remade in the Red Room. Now I command it.",
       "turkish": "Kırmızı Oda'da beni yıldırdılar, yıktılar ve baştan yarattılar. Artık başında ben varım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10330034_interact_01_10370_a_play",
       "english": "Decided to join the rest of humanity against the enemy that might destroy our whole timestream?",
       "turkish": "Tüm zaman akışını yok edebilecek düşmana karşı tüm insanlıkla bir olmaya mı karar verdin?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10330121_ko_sp_01_10140_play",
       "english": "Not everything is black and white, Frank.",
       "turkish": "Hayat, siyah ve beyazdan ibaret değildir Frank.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10330265_signal_wheel_backup_02_play",
       "english": "Could use some support!",
       "turkish": "Biraz desteğe hayır demem!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10330092_buff_dr_02_play",
       "english": "I'm toughened up.",
       "turkish": "Daha dayanıklıyım.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10330067_ability_e_01_play",
       "english": "Air strike!",
       "turkish": "Hava saldırısı!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10330085_buff_dmg_01_play",
       "english": "I've got that extra lethal feeling.",
       "turkish": "Daha da ölümcül hissediyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10330151_building_spotted_portal_02_play",
       "english": "Portal! Who's coming through?",
       "turkish": "Portal! İçinden kim çıkacak?",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10330358_interact_02_10410_c_play",
       "english": "No matter how long apart, we always come back to one another.",
       "turkish": "Ne kadar uzun ayrı kalsak da dönüp dolaşıp birbirimizi buluyoruz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10330227_quick_fallback_02_play",
       "english": "Tactical retreat!",
       "turkish": "Stratejik geri çekilme!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10330201_ko_terrain_01_play",
       "english": "Watch your step.",
       "turkish": "Attığın adıma dikkat et.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5083,7 +5083,7 @@
       "internalName": "vo_10330012_single_01_play",
       "english": "I'm more than a hundred years old. Never would have imagined that back in the day.",
       "turkish": "Yüz yaşını aştım. Eskiden bunu hiç beklemezdim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5095,7 +5095,7 @@
       "internalName": "vo_10330145_saw_sniper_02_play",
       "english": "I see a red dot!",
       "turkish": "Kırmızı nokta göründü!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5107,7 +5107,7 @@
       "internalName": "vo_10330508_interact_01_10640_c_play",
       "english": "I'm not so sure about that. I may be good at what I do, but I don't take any joy from it.",
       "turkish": "Bundan pek emin değilim. Yaptığım işte iyi olabilirim ama bundan hiç keyif almıyorum.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5119,7 +5119,7 @@
       "internalName": "vo_10330118_ko_sp_01_10340_play",
       "english": "Imagine how much Tony could have helped.",
       "turkish": "Tony’nin bize çok yardımı dokunabilirmiş.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5131,7 +5131,7 @@
       "internalName": "vo_10330268_signal_area_unoccupied_02_play",
       "english": "Let's take control.",
       "turkish": "Kontrolü ele geçirelim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5143,7 +5143,7 @@
       "internalName": "vo_10330165_building_destroy_amplifier_01_play",
       "english": "Amplifier's out of commission.",
       "turkish": "Kuvvetlendirici devre dışı kaldı.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5155,7 +5155,7 @@
       "internalName": "vo_10330507_interact_01_10640_a_play",
       "english": "I've got a lock on our enemies. A few strategic hits and this battle should be over.",
       "turkish": "Düşmanlarımıza kilitlendim. Birkaç stratejik darbe indirirsek bu savaş bitmeli.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5167,7 +5167,7 @@
       "internalName": "vo_10330020_interact_01_10111_c_play",
       "english": "More Hulked-up? This I gotta see.",
       "turkish": "Daha da mı Hulk’laştırıyor? İşte bunu görmeliyim.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5179,7 +5179,7 @@
       "internalName": "vo_10330217_escorting_remind_tokyoe_01_play",
       "english": "We're not getting there fast enough.",
       "turkish": "Yeterince hızlı gitmiyoruz.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5191,7 +5191,7 @@
       "internalName": "vo_10330377_sp_interact_museume_01_10480_b_play",
       "english": "It's clear you have a vendetta, Sai, but we need to focus on the mission at hand.",
       "turkish": "Açıkça bir intikam peşindesin, Sai, ama elimizdeki göreve odaklanmamız gerekiyor.",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
@@ -5203,12 +5203,12 @@
       "internalName": "vo_10330471_saw_ko_01_10580_play",
       "english": "I knew a win was in the cards, LeBeau!",
       "turkish": "Kazanacağımız belliydi, LeBeau!",
-      "status": "Kontrol Edildi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Esma Müberra Şahin",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "7eee2ed378abd5f4",
-  "generatedAt": "2026-09-11T11:49:15.922781Z"
+  "dataRevision": "a15ce0faf140bccd",
+  "generatedAt": "2026-09-11T18:55:35.767672Z"
 }
