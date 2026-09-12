@@ -1,6 +1,7 @@
 name: Sync Marvel Rivals live data v2
 
 # A source-side notification can trigger an immediate refresh. The daily schedule is the recovery fallback.
+# Manual refresh trigger: 2026-09-12 22:51 TRT
 on:
   push:
     branches: [main]
