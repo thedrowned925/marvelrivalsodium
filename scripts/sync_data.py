@@ -8,11 +8,10 @@ import openpyxl,requests
 STATUS={"Bekliyor":"waiting","Kayit Alindi":"recorded","Kayıt Alındı":"recorded","Kontrol Edildi":"checked","Oyuna Eklendi":"added"}
 COLUMNS=["Sıra","WAV Dosya Adı","WEM ID","Internal Name","English","Türkçe","Durum","Seslendiren","Tarih","Not"]
 
-# The current 466-line Jubilee recording batch is fully recorded. The source
-# workbook still labels most of those rows as waiting, so promote only waiting
-# rows for this exact batch size. Checked/added rows are always preserved, and
-# a future Jubilee batch with a different line count will not be auto-promoted.
-RECORDED_BATCH_COMPLETE={"Jubilee":466}
+# Recording batches confirmed as fully recorded even when the source workbook
+# still labels some rows as waiting. Promote waiting rows only when the exact
+# character name and batch size match, so future/revised batches stay untouched.
+RECORDED_BATCH_COMPLETE={"Jubilee":466,"Devil Dinosaur":168}
 
 def download(url:str,target:Path):
     sep='&' if '?' in url else '?'
