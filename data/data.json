@@ -5,20 +5,20 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "a9eb0f51f83003a4",
-  "generatedAt": "2026-09-12T16:05:21.424030Z",
+  "dataRevision": "40001fe8484a0a31",
+  "generatedAt": "2026-09-12T19:53:05.539902Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 14525,
-    "recorded": 2907,
+    "waiting": 14524,
+    "recorded": 2908,
     "checked": 846,
     "added": 5420,
-    "worked": 9173,
+    "worked": 9174,
     "progress": 38.71,
     "statusCounts": {
-      "Devam Ediyor": 5,
-      "Baslamadi": 29,
+      "Devam Ediyor": 6,
+      "Baslamadi": 28,
       "Tamamlandi": 20
     },
     "assigned": 41
@@ -155,13 +155,13 @@
       "slug": "devil-dinosaur",
       "detailPath": "data/characters/devil-dinosaur.json",
       "total": 168,
-      "waiting": 168,
-      "recorded": 0,
+      "waiting": 167,
+      "recorded": 1,
       "checked": 0,
       "added": 0,
-      "worked": 0,
-      "progress": 0.0,
-      "status": "Baslamadi",
+      "worked": 1,
+      "progress": 0.6,
+      "status": "Devam Ediyor",
       "voiceActor": "Öykü Pancar"
     },
     {
