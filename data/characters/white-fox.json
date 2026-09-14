@@ -4,9 +4,9 @@
   "summary": {
     "total": 487,
     "waiting": 0,
-    "recorded": 487,
+    "recorded": 486,
     "checked": 0,
-    "added": 0,
+    "added": 1,
     "worked": 487,
     "progress": 100.0,
     "status": "Tamamlandi"
@@ -31,7 +31,7 @@
       "internalName": "vo_10600306_interact_01_10390_d_play",
       "english": "If we don't win this fight, it might not have any creatures left at all!",
       "turkish": "Eğer bu savaşı kazanamazsak, geriye hiçbir yaratık kalmayabilir!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Arya Alphan",
       "date": null,
       "note": null
@@ -5869,6 +5869,6 @@
       "note": null
     }
   ],
-  "dataRevision": "3c9788e88670f035",
-  "generatedAt": "2026-09-14T19:36:52.889388Z"
+  "dataRevision": "c114bbcdec859fe7",
+  "generatedAt": "2026-09-14T19:44:14.911524Z"
 }
