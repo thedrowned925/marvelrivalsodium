@@ -27,6 +27,10 @@
     "phoenix": {
       "hover": "assets/audio/managed/phoenix/hover-78e88415aca0b84482e273f7f4fbeb0c9c9b7b69c387efd800084cee2ad7974e.wav",
       "detail": "assets/audio/managed/phoenix/detail-b81b1857314dff13fdfa9e293c477f13c0972c0210e17959d46dbcb4c75ef850.wav"
+    },
+    "white-fox": {
+      "hover": "assets/audio/managed/white-fox/hover-8e4a99fc93b9053c8e7a506dbdcf879090288772e47b08ac752b3b4cc117a333.wav",
+      "detail": "assets/audio/managed/white-fox/detail-2366e1c831663b7812ce165f518f4339be05e5181badfd066ee6275b48ba4c5b.wav"
     }
   }
 }
