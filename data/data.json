@@ -5,23 +5,23 @@
     "Hasan Çağın Yıldırım"
   ],
   "sourceWorkbookUpdatedText": "by. TheDrowned Son guncelleme: Otomatik Sistem",
-  "dataRevision": "209bcd7c633210c8",
-  "generatedAt": "2026-09-13T03:05:29.164044Z",
+  "dataRevision": "3c9788e88670f035",
+  "generatedAt": "2026-09-14T19:36:52.889388Z",
   "stats": {
     "characters": 54,
     "totalLines": 23698,
-    "waiting": 13955,
-    "recorded": 2595,
-    "checked": 846,
-    "added": 6302,
-    "worked": 9743,
-    "progress": 41.11,
+    "waiting": 14014,
+    "recorded": 2126,
+    "checked": 426,
+    "added": 7132,
+    "worked": 9684,
+    "progress": 40.86,
     "statusCounts": {
-      "Devam Ediyor": 5,
-      "Baslamadi": 27,
+      "Devam Ediyor": 4,
+      "Baslamadi": 28,
       "Tamamlandi": 22
     },
-    "assigned": 41
+    "assigned": 43
   },
   "characters": [
     {
@@ -64,7 +64,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Öykü Pancar"
     },
     {
       "name": "Black Panther",
@@ -268,9 +268,9 @@
       "detailPath": "data/characters/human-torch.json",
       "total": 410,
       "waiting": 0,
-      "recorded": 410,
+      "recorded": 0,
       "checked": 0,
-      "added": 0,
+      "added": 410,
       "worked": 410,
       "progress": 100.0,
       "status": "Tamamlandi",
@@ -281,14 +281,14 @@
       "slug": "invisible-woman",
       "detailPath": "data/characters/invisible-woman.json",
       "total": 391,
-      "waiting": 332,
-      "recorded": 59,
+      "waiting": 391,
+      "recorded": 0,
       "checked": 0,
       "added": 0,
-      "worked": 59,
-      "progress": 15.09,
-      "status": "Devam Ediyor",
-      "voiceActor": "Öykü Pancar"
+      "worked": 0,
+      "progress": 0.0,
+      "status": "Baslamadi",
+      "voiceActor": null
     },
     {
       "name": "Iron Fist",
@@ -451,8 +451,8 @@
       "total": 420,
       "waiting": 0,
       "recorded": 0,
-      "checked": 420,
-      "added": 0,
+      "checked": 0,
+      "added": 420,
       "worked": 420,
       "progress": 100.0,
       "status": "Tamamlandi",
@@ -540,7 +540,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Didem Küreksiz"
     },
     {
       "name": "Storm",
@@ -722,7 +722,7 @@
       "worked": 0,
       "progress": 0.0,
       "status": "Baslamadi",
-      "voiceActor": null
+      "voiceActor": "Sarp Burak Şen"
     },
     {
       "name": "Magik",
