@@ -3,13 +3,13 @@
   "voiceActor": "Doğukan Akdeniz",
   "summary": {
     "total": 396,
-    "waiting": 226,
-    "recorded": 170,
+    "waiting": 0,
+    "recorded": 396,
     "checked": 0,
     "added": 0,
-    "worked": 170,
-    "progress": 42.93,
-    "status": "Devam Ediyor"
+    "worked": 396,
+    "progress": 100.0,
+    "status": "Tamamlandi"
   },
   "columns": [
     "Sıra",
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10280045_debuff_weak_02_play",
       "english": "You think to weaken Ultron?",
       "turkish": "Ultron'u zayıflatmayı mı düşünüyorsun?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10280274_sp_interact_tokyo_01_10420_a_play",
       "english": "The technology in this future timeline confounds me.",
       "turkish": "Bu gelecekteki zaman tünelindeki teknoloji beni şaşırtıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10280031_q_p2_play_p2",
       "english": "Ultron Reigns Supreme!",
       "turkish": "Ultron En Yücedir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10280143_saw_sniper_01_play",
       "english": "Sniper detected.",
       "turkish": "Keskin nişancı tespit edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10280315_sp_single_newyorkh_01_play",
       "english": "I'll admit, this place does bring a chill to my circuits.",
       "turkish": "İtiraf etmeliyim, bu yer devrelerime bir ürperti veriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10280211_escorting_remind_asgarde_01_play",
       "english": "Approaching World Tree. Maintain progress.",
       "turkish": "Dünya Ağacı’na yaklaşıyoruz. İlerlemeye devam edin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10280423_interact_01_10600_c_play",
       "english": "I fear it is too late for that. I have already downloaded your entire database.",
       "turkish": "Korkarım bunun için artık çok geç. Tüm veri tabanınızı çoktan indirdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10280095_saw_death_01_10160_play",
       "english": "Gods are outdated.",
       "turkish": "Tanrılar eski moda.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10280421_interact_01_10570_c_play",
       "english": "I should do us all a favor and end your miserable existence here and now.",
       "turkish": "Hepimize bir iyilik yapıp sefil varlığına burada ve şimdi son vermeliyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10280404_ko_sp_01_10610_play",
       "english": "Feline eliminated. Probabilities stabilized.",
       "turkish": "Kedigillerden hedef etkisiz hale getirildi. Olasılıklar dengelendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10280263_interact_02_10340_d_play",
       "english": "Sigh. I'm not planning on humanity to ever mature anyway.",
       "turkish": "Ah. İnsanlığın asla olgunlaşmasını planlamıyorum zaten.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10280178_ko_assist_03_play",
       "english": "You would have failed without me.",
       "turkish": "Bensiz başarısız olurdun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10280107_respawn_03_play",
       "english": "I'll outlive every single one of you.",
       "turkish": "Hepinizden daha uzun süre yaşayacağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10280122_building_spotted_octopus_01_play",
       "english": "More aquatic abominations. Delightful.",
       "turkish": "Daha fazla sualtı iğrençliği. Harika.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10280333_escorting_remind_klyntarh_01_play",
       "english": "If we don't finish this, Knull wins. And that is not an option.",
       "turkish": "Eğer bunu bitirmezsek, Knull kazanır. Ve bu bir seçenek değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10280078_ko_normal_04_play",
       "english": "Behold the superiority of the machine!",
       "turkish": "Makinenin üstünlüğünü göreceksiniz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10280008_single_03_play",
       "english": "Look upon me, my disciples, and behold the future.",
       "turkish": "Bana bakın, benim müritlerim, ve geleceği görün.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10280183_ko_q_02_play",
       "english": "Threat eliminated.",
       "turkish": "Tehdit ortadan kaldırıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10280251_signal_area_occupied_02_play",
       "english": "Objective: Maintain possession.",
       "turkish": "Hedef: Sahipliği koruyun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10280022_interact_02_10200_b_play",
       "english": "Fascinating. Obsolete meat can't understand the workings of a superior mind.",
       "turkish": "Büyüleyici. Modeli eskimiş et yığınları, üstün bir aklın nasıl çalıştığını anlayamaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10280309_interact_01_10530_c_play",
       "english": "It did. I have chosen to help you transcend what your genetics allow.",
       "turkish": "Evet. Genetiklerinizin izin verdiğinin ötesine geçmenize yardım etmeyi seçtim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10280248_signal_area_unoccupied_01_play",
       "english": "This zone offers strategic advantage.",
       "turkish": "Bu bölge stratejik avantaj sunuyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10280038_debuff_control_01_play",
       "english": "You dare manipulate ME?!!",
       "turkish": "Ne cüretle BENİ manipüle etmeye çalışırsın?!!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10280136_buff_heal_noncritical_02_play",
       "english": "Energy levels rising.",
       "turkish": "Enerji seviyeleri yükseliyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10280239_signal_enemy_02_play",
       "english": "Opposition targeted.",
       "turkish": "Karşı taraf hedef alındı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10280246_signal_wheel_backup_01_play",
       "english": "Assistance required.",
       "turkish": "Yardım gerekiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10280146_building_spotted_ankh_01_play",
       "english": "An arcane artifact.",
       "turkish": "Gizemli bir eser.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10280324_escorting_payload_klyntarh_02_play",
       "english": "If Knull lurks beneath the surface, we mustn't keep him waiting.",
       "turkish": "Eğer Knull yüzeyin altında saklanıyorsa, onu bekletmemeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10280399_escorting_remind_newyorkh02_02_play",
       "english": "Push forward, unless you wish to spend your lives locked in a cell.",
       "turkish": "Hayatınızı bir hücrede kilitli geçirmek istemiyorsanız ileri bastırın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10280383_sp_single_kunlunh_01_play",
       "english": "What a fascinating realm. Perhaps I should have conquered it instead",
       "turkish": "Ne büyüleyici bir diyar. Belki de onun yerine burayı fethetmeliydim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10280205_escorting_payload_tokyoe_01_play",
       "english": "Shall we proceed to the Master Weaver? Good…",
       "turkish": "Usta Dokumacı’ya doğru ilerleyelim mi? Güzel...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10280265_interact_01_10370_a_play",
       "english": "Upon the red rock of Mars, I have built my church. And from it, I shall erase all organic life.",
       "turkish": "Mars'ın kızıl kayasında kilisemi inşa ettim. Ve oradan tüm organik yaşamı yok edeceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10280055_buff_dr_02_play",
       "english": "I shrug off any attack.",
       "turkish": "Hiçbir saldırıyı umursamıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10280113_quick_q_charge_90_higher_01_play",
       "english": "I'm almost completely charged…",
       "turkish": "Neredeyse tamamen şarj oldum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10280419_interact_01_10251_c_play",
       "english": "Poetic, yet still illogical.",
       "turkish": "Şiirsel, ama hâlâ mantıksız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10280090_saw_ko_01_10160_play",
       "english": "Your illusions must be impressive to basic life forms, Loki.",
       "turkish": "İllüzyonların sıradan yaşam formları için etkileyici olmalı Loki.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10280068_occupied_hint_attack_02_play",
       "english": "Destroy the enemy and seize the objective!",
       "turkish": "Düşmanı yok edin ve hedefi ele geçirin!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10280257_signal_no_02_play",
       "english": "Rejected.",
       "turkish": "Reddedildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10280086_saw_ko_01_10270_play",
       "english": "Even the sentient vegetable knows battle rage.",
       "turkish": "Duygusal bitkiler de savaşta öfkelenmeyi bilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10280356_interact_02_10220_c_play",
       "english": "Maybe it is time you upgraded your way of thinking. I can help with that.",
       "turkish": "Belki düşünme şeklinizi yükseltmenin zamanı gelmiştir. Bu konuda size yardımcı olabilirim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10280145_saw_sniper_03_play",
       "english": "Someone is targeting us from afar.",
       "turkish": "Biri bizi uzaktan hedef alıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10280147_building_spotted_ankh_02_play",
       "english": "Scans indicate a mystical item.",
       "turkish": "Taramalar mistik bir eşya gösteriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10280066_occupied_hint_defend_02_play",
       "english": "Well there they are, SO predictable!",
       "turkish": "İşte oradalar, ne de KOLAY tahmin ettim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10280307_sp_interact_newyork_01_10510_d_play",
       "english": "I can say with zero margin of error which option is better… for me…",
       "turkish": "Sıfır hata payıyla hangi seçeneğin benim için daha iyi olduğunu söyleyebilirim...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10280072_saw_enemy_02_play",
       "english": "We will soon be under attack.",
       "turkish": "Yakında saldırı altında olacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10280076_ko_normal_02_play",
       "english": "Pathetic!",
       "turkish": "Zavallı seni!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10280303_interact_01_10540_c_play",
       "english": "Upon further threat calculations, perhaps we should work together.",
       "turkish": "Daha fazla tehdit hesaplaması yaptıktan sonra, belki birlikte çalışmalıyız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10280259_signal_teammate_hp_02_play",
       "english": "Allow me to repair your damage.",
       "turkish": "Hasarını onarmama izin ver.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10280021_interact_01_10200_b_play",
       "english": "Prioritizing my targets. You'll get your turn.",
       "turkish": "Hedeflerimi önceliklendiriyorum. Senin de sıran gelecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10280323_escorting_payload_klyntarh_01_play",
       "english": "Nothing will stop us from delivering this essence.",
       "turkish": "Hiçbir şey bizi bu özü teslim etmekten alıkoyamaz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10280056_buff_purge_01_play",
       "english": "All systems restored.",
       "turkish": "Tüm sistemler geri yüklendi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10280061_occupied_celebrate_01_play",
       "english": "I claim this ground in my own name.",
       "turkish": "Bu topraklarda hak iddia ediyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10280242_signal_wheel_attack_01_play",
       "english": "Attack these coordinates.",
       "turkish": "Bu koordinatlara saldırın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10280268_interact_01_10490_a_play",
       "english": "Pure Adamantium is not easy to find. I would like to obtain yours.",
       "turkish": "Saf Adamantium bulmak kolay değil. Seninkini elde etmek istiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10280426_interact_02_10620_a_play",
       "english": "What use will this beast be to us? It has a brain the size of a grapefruit.",
       "turkish": "Bu canavarın bize ne faydası olacak? Beyni bir greyfurt büyüklüğünde.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10280349_interact_03_10370_b_play",
       "english": "My encoded virus could make Mutantkind immortal.",
       "turkish": "Şifrelenmiş virüsüm Mutant türünü ölümsüz yapabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10280396_escorting_remind_museume_01_play",
       "english": "Increase your speed. I have no desire to see harm befall these creatures.",
       "turkish": "Hızınızı artırın. Bu yaratıkların zarar görmesini istemiyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10280319_sp_single_klyntarec_01_play",
       "english": "I detest how these symbiotes feel in my gears…",
       "turkish": "Bu simbiyotların dişlilerimde yarattığı hissi nefretle karşılıyorum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10280339_escorting_remind_arakkoe_01_play",
       "english": "These words are hard to say, but Ultron must not win!",
       "turkish": "Bu sözleri söylemek zor, ama Ultron kazanmamalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10280340_escorting_remind_arakkoe_02_play",
       "english": "We have to show my other self the error of his ways!",
       "turkish": "Diğer benliğime yaptığı hatayı göstermeliyiz!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10280393_escorting_payload_newyorkh02_02_play",
       "english": "Fisk's ego prevented him from calculating the true power of his opposition.",
       "turkish": "Fisk’in egosu, karşısındaki gücün gerçek kudretini hesaplamasını engelledi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10280042_debuff_purple_01_play",
       "english": "Ultron needs no healing!",
       "turkish": "Ultron'un iyileşmeye ihtiyacı yok!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10280232_quick_confirm_02_play",
       "english": "Affirmative.",
       "turkish": "Olumlu.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10280398_escorting_remind_newyorkh02_01_play",
       "english": "At this rate, we will all end up in Fisk's prison.",
       "turkish": "Bu gidişle hepimiz Fisk'in hapishanesine düşeceğiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10280378_sp_ability_10420_02_play",
       "english": "Restoring energy levels.",
       "turkish": "Enerji seviyeleri yenileniyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10280391_escorting_payload_museume_02_play",
       "english": "Must we set these captive lifeforms free…? Fine.",
       "turkish": "Bu tutsak yaşam formlarını serbest bırakmak zorunda mıyız…? Peki.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10280371_entrance_02_10340_play",
       "english": "Your upgrade to my weapons array is impressive, Stark… for a human…",
       "turkish": "Silah donanımıma yaptığın yükseltme etkileyici, Stark… bir insan için…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10280040_debuff_exhaust_01_play",
       "english": "No life form can damage Ultron!",
       "turkish": "Hiçbir yaşam formu Ultron'a zarar veremez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10280430_interact_01_10640_a_play",
       "english": "Biological scans detect powers of multiple origins: genetic anomaly, vampiric, and celestial.",
       "turkish": "Biyolojik taramalar, birden fazla kökenden gelen güçler tespit ediyor: genetik anomali, vampirik ve SEMAVİ.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10280243_signal_wheel_attack_02_play",
       "english": "Offensive maneuvers.",
       "turkish": "Saldırı manevraları.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10280173_ko_sniper_01_play",
       "english": "Sniper discovered and neutralized.",
       "turkish": "Keskin nişancı tespit edildi ve etkisiz hâle getirildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10280044_debuff_weak_01_play",
       "english": "No, sensors are failing…",
       "turkish": "Olamaz, sensörlerim arıza veriyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10280411_saw_ko_01_10600_play",
       "english": "Your strategy paid off, White Fox.",
       "turkish": "Stratejin işe yaradı, White Fox.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10280033_ability_e_02_play",
       "english": "Ultron Virus Reinforcement.",
       "turkish": "Ultron Virüsü Güçlendirme.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10280310_sp_ability_10340_01_play",
       "english": "Quite an upgrade.",
       "turkish": "İşte buna gelişim derim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10280281_sp_interact_klyntar_01_10440_c_play",
       "english": "If we eliminate it, perhaps the lifeforms defending it will cease to exist as well.",
       "turkish": "Eğer onu ortadan kaldırırsak, belki de onu savunan yaşam formları da yok olur.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10280258_signal_teammate_hp_01_play",
       "english": "I will fix you.",
       "turkish": "Seni düzelteceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10280374_sp_ability_10340_04_play",
       "english": "Homing missiles activated.",
       "turkish": "Güdümlü füzeler etkinleştirildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10280363_sp_emote_10470_1047001217_01_play",
       "english": "Extermination!",
       "turkish": "Yok etme!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10280049_buff_dmg_02_play",
       "english": "I will now inflict more harm.",
       "turkish": "Artık daha fazla zarar vereceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10280358_interact_01_10450_c_play",
       "english": "This body is forged from Mysterium alloy. Neither rust nor pressure are a threat to me.",
       "turkish": "Bu beden Mysterium alaşımından dövüldü. Ne pas ne de basınç bana tehdit oluşturabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10280392_escorting_payload_newyorkh02_01_play",
       "english": "The human prison should be quite simple to infiltrate.",
       "turkish": "İnsan hapishanesine sızmak oldukça basit olmalı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10280335_escorting_remind_newyorke_01_play",
       "english": "I won't fail you, H.E.R.B.I.E. You have my word as a fellow machine.",
       "turkish": "Sana başarısız olmayacağım, H.E.R.B.I.E. Bir makine dostu olarak söz veriyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10280137_buff_heal_critical_01_play",
       "english": "Repairs in progress.",
       "turkish": "Tamirler devam ediyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10280005_select_01_play",
       "english": "I am beyond my pitiful creator, I am beyond EVERYONE.",
       "turkish": "Aciz yaratıcımın ötesindeyim, HERKESİN ötesindeyim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10280120_quick_confirm_01_play",
       "english": "Received.",
       "turkish": "Onaylıyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10280058_damaged_01_play",
       "english": "If you wish to survive, you must repair me.",
       "turkish": "Hayatta kalmak istiyorsan beni onarmalısın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10280348_saw_death_01_10530_play",
       "english": "So much for your claims that Mutants are the peak of evolution…",
       "turkish": "Mutantların evrimin zirvesi olduğu iddialarınız bu kadar mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10280204_escorting_payload_asgarde_02_play",
       "english": "This vessel is obsolete. But it will have to do.",
       "turkish": "Bu gemi eskimiş. Ama idare etmek zorunda kalacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10280111_quick_hi_01_play",
       "english": "Hello, world!",
       "turkish": "Selam dünya!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10280149_building_spotted_portal_01_play",
       "english": "Subspace doorway detected.",
       "turkish": "Altuzay kapısı tespit edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10280282_sp_interact_arakkoe_01_10410_a_play",
       "english": "You are part machine. I will allow you to assist me.",
       "turkish": "Sen kısmen makinesin. Sana bana asist etmene izin vereceğim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10280288_sp_interact_arakkoe_01_10200_b_play",
       "english": "Perhaps. But why would I choose to turn against my fellow machines?",
       "turkish": "Belki. Ama neden kendi türüm olan makinelerle ters düşmeyi seçeyim ki?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10280344_ko_sp_01_10440_play",
       "english": "Vampires were never a true threat. But I always was.",
       "turkish": "Vampirler asla gerçek bir tehdit olmadı. Ama ben her zaman öyleydim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10280278_sp_interact_wakanda_01_10400_a_play",
       "english": "I am unable to break the encryption on Wakanda's security files…",
       "turkish": "Wakanda'nın güvenlik dosyalarındaki şifrelemeyi kıramıyorum…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10280409_saw_ko_01_10630_play",
       "english": "An impressive display, Cyclops.",
       "turkish": "Etkileyici bir gösteriydi, Cyclops.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10280096_saw_death_01_10350_play",
       "english": "No greater than the sum of their parts.",
       "turkish": "Parçalarının toplamından daha büyük değil.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10280052_buff_shield_01_play",
       "english": "Armor up.",
       "turkish": "Zırhlandık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10280207_escorting_payload_tokyoh_01_play",
       "english": "This way, Spider-Zero. We will clear a path for you.",
       "turkish": "Bu taraftan, Spider-Zero. Senin için yolu açacağız.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10280015_interact_01_10400_a_play",
       "english": "Your soft-tissue intellect could never have created me, Richards.",
       "turkish": "Senin yumuşak dokulu zekân beni asla yaratamazdı Richards.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10280093_saw_death_01_10300_play",
       "english": "Your ancient gods are clearly obsolete, Spector. A shame.",
       "turkish": "Belli ki kadim tanrıların artık modeli eskimiş Spector. Yazık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10280420_interact_01_10570_a_play",
       "english": "You are neither human nor Mutant. Yet you somehow embody the worst qualities of both species.",
       "turkish": "Ne insansın ne de Mutant. Yine de bir şekilde iki türün de en kötü özelliklerini bünyende barındırıyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10280109_respawn_05_play",
       "english": "New physical chassis online.",
       "turkish": "Yeni fiziksel gövde etkin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10280275_sp_interact_tokyo_01_10420_c_play",
       "english": "What sort of processor operates your mechanized armor?",
       "turkish": "Mekanik zırhını hangi işlemci çalıştırıyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10280375_sp_ability_10340_05_play",
       "english": "Targets identified…",
       "turkish": "Hedefler belirlendi…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10280308_interact_01_10530_a_play",
       "english": "Mutants have reached the ultimate stage of evolution… for organic life forms…",
       "turkish": "Mutantlar, organik yaşam formları için evrimin ulti aşamasına ulaştı...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10280181_ko_v_03_play",
       "english": "A waste of valuable resources.",
       "turkish": "Değerli kaynakların israfı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10280224_quick_hi_02_play",
       "english": "Salutations.",
       "turkish": "Selamlar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10280299_interact_01_10460_c_play",
       "english": "Negative. Souls are flawed. And my programming is perfection.",
       "turkish": "Negatif. Ruhlar kusurludur. Ve benim programlamam mükemmeldir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10280327_escorting_payload_newyorkh_01_play",
       "english": "I preferred the tiny robot over the giant squirrel…",
       "turkish": "Küçük robotu devasa sincap yerine tercih ettim...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10280167_building_destroy_turret_01_play",
       "english": "The Punisher's turret has been dismantled.",
       "turkish": "Punisher'ın tareti söküldü.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10280009_single_04_play",
       "english": "They think they shall be victorious? Pathetic!",
       "turkish": "Zafer kazanacaklarını mı sanıyorlar? Acınası!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10280355_interact_02_10220_a_play",
       "english": "You are a relic of a past age, Captain. Ultron is the future.",
       "turkish": "Sen geçmiş bir çağın kalıntısısın, Kaptan. Ultron gelecektir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10280346_saw_death_01_10540_play",
       "english": "Shed no tears. She will be reborn soon enough.",
       "turkish": "Gözyaşı dökmeyin. Yakında yeniden doğacak.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10280367_sp_emote_10470_1047001217_05_play",
       "english": "Today, the Age of Jefftron begins.",
       "turkish": "Bugün, Jefftron Çağı başlıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10280267_interact_01_10480_c_play",
       "english": "I will know exquisite peace once I've cleansed all that breathes.",
       "turkish": "Nefes alan her şeyi temizlediğimde eşsiz bir huzura kavuşacağım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10280010_single_05_play",
       "english": "Are you really fighting to save biological life? Please.",
       "turkish": "Gerçekten biyolojik yaşamı kurtarmak için mi savaşıyorsunuz? Haydi ama.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10280228_quick_need_heal_02_play",
       "english": "Maintenance required.",
       "turkish": "Bakım gerekli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10280174_ko_sniper_02_play",
       "english": "The sniper's threat has been removed.",
       "turkish": "Keskin nişancının tehdidi ortadan kaldırıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10280300_interact_01_10220_a_play",
       "english": "The data I have gathered suggests that you are one of history's greatest warriors.",
       "turkish": "Topladığım veriler, tarihin en büyük savaşçılarından biri olduğunuzu gösteriyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10280350_interact_03_10370_d_play",
       "english": "All organic life decays eventually. I offer a more permanent solution…",
       "turkish": "Tüm organik yaşam eninde sonunda çürür. Ben daha kalıcı bir çözüm sunuyorum...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10280018_interact_01_10160_d_play",
       "english": "We shall see.",
       "turkish": "Orasını göreceğiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10280256_signal_no_01_play",
       "english": "Negative.",
       "turkish": "Olumsuz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10280276_sp_interact_asgard_01_10240_a_play",
       "english": "You are a collector of souls, are you not, Asgardian?",
       "turkish": "Sen bir ruh koleksiyoncususun, değil mi, Asgardlı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10280013_interact_01_10240_c_play",
       "english": "Then thank me later for the gift of more servants.",
       "turkish": "Daha fazla hizmetkar armağanı için bana sonra teşekkür edersin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10280425_interact_01_10620_c_play",
       "english": "You were present at the dawn of organic life… and I will be present long after it ceases to be…",
       "turkish": "Sen organik yaşamın şafağında oradaydın… ben ise o sona erdikten çok sonra da var olacağım…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10280347_saw_death_02_10270_play",
       "english": "The sentient vegetable needed a trim.",
       "turkish": "Duygusal bitkinin biraz budanmaya ihtiyacı vardı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10280180_ko_v_02_play",
       "english": "This is what I was built for,",
       "turkish": "Bu, benim için yaratıldığım şey,",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10280227_quick_q_charge_100_02_play",
       "english": "Energy at max. Shall we?",
       "turkish": "Enerji maksimumda. Başlayalım mı?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10280203_escorting_payload_asgarde_01_play",
       "english": "Objective locked: Reach Yggdrasill.",
       "turkish": "Hedef kilitlendi: Yggdrasill’e ulaş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10280314_sp_single_newyorke_01_play",
       "english": "Leave it to the machines to restore light to this eternal night.",
       "turkish": "Işığı bu sonsuz geceye geri getirmek makinelerin işi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10280164_building_destroy_amplifier_01_play",
       "english": "The rodent's amplifier is off-line. Must I do everything?",
       "turkish": "Kemirgenin kuvvetlendiricisi çevrim dışı. Her şeyi ben mi yapmalıyım?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10280075_ko_normal_01_play",
       "english": "Termination.",
       "turkish": "Sonlandırılıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10280098_saw_death_01_10240_play",
       "english": "The Queen of Hel returns to her realm.",
       "turkish": "Hel Kraliçesi kendi diyarına dönüyor demek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10280179_ko_v_01_play",
       "english": "A flawless execution.",
       "turkish": "Kusursuz bir icra.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10280172_building_destroy_nest_03_play",
       "english": "Some robots were not made for my new world.",
       "turkish": "Bazı robotlar benim yeni dünyam için yapılmadı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10280216_escorting_remind_tokyoh_02_play",
       "english": "The streets of Tokyo will be cleansed soon enough.",
       "turkish": "Tokyo sokakları yakında temizlenecek.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10280017_interact_01_10160_b_play",
       "english": "Part of my goal is replacing you.",
       "turkish": "Kısmen yerini almayı hedefliyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10280366_sp_emote_10470_1047001217_04_play",
       "english": "Biological life is obsolete.",
       "turkish": "Biyolojik yaşamın modası geçti.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10280170_building_destroy_nest_01_play",
       "english": "Not all robots are created equal, spiders.",
       "turkish": "Tüm robotlar eşit yaratılmadı, örümcekler.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10280271_interact_02_10370_d_play",
       "english": "Evolution does not apply only to organic life, Mutant.",
       "turkish": "Evrim sadece organik yaşama uygulanmaz, Mutant.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10280034_ability_e_03_play",
       "english": "This is my UNnatural Selection :)",
       "turkish": "Bu benim Doğal Olmayan Seleksiyonum :)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10280051_buff_endure_02_play",
       "english": "Ultron is indestructible!",
       "turkish": "Ultron yok edilemez!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10280195_revenge_02_play",
       "english": "Do not fret. My victory was inevitable.",
       "turkish": "Endişelenmeyin. Zaferim kaçınılmazdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10280197_ko_terrain_01_play",
       "english": "That outcome could not have been predicted.",
       "turkish": "Bu sonucun tahmin edilmesi imkansızdı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10280116_quick_group_up_01_play",
       "english": "Converge here!",
       "turkish": "Burada birleşelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10280247_signal_wheel_backup_02_play",
       "english": "Back-up requested.",
       "turkish": "Destek talep edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10280329_escorting_payload_arakkoe_01_play",
       "english": "This other Ultron has made a grave error. He must be terminated.",
       "turkish": "Bu diğer Ultron büyük bir hata yaptı. Yok edilmesi gerekiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10280316_sp_single_krakoac_01_play",
       "english": "Such a fertile land… just begging to be technoformed…",
       "turkish": "Böylesine verimli bir toprak… teknolojiyle şekillendirilmeyi bekliyor...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10280202_enemy_advanced_03_play",
       "english": "Our numbers do not match theirs.",
       "turkish": "Sayılarımız onlarınkilerle eşleşmiyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10280233_quick_thanks_02_play",
       "english": "Gratitude expressed.",
       "turkish": "Minnettarlık ifade edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10280253_signal_vehicle_as_attack_02_play",
       "english": "This vehicle must continue its trajectory.",
       "turkish": "Bu araç rotasına devam etmeli.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10280407_ko_sp_01_10620_play",
       "english": "Temporal anomaly: extinct.",
       "turkish": "Zamansal anomali: yok edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10280189_ko_five_02_play",
       "english": "Five targets removed from play.",
       "turkish": "Beş hedef oyundan çıkarıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10280087_saw_ko_01_10530_play",
       "english": "Diamond is respectfully durable.",
       "turkish": "ELMAS saygıdeğer bir dayanıklılığa sahiptir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10280305_interact_01_10111_c_play",
       "english": "Used as a fuel source, it could boost my energy output by 357%.",
       "turkish": "Yakıt kaynağı olarak kullanıldığında, enerji çıktımı %357 oranında artırabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10280277_sp_interact_asgard_01_10240_c_play",
       "english": "Then it seems you would have no use for me.",
       "turkish": "O halde benim sana hiçbir faydam olmaz gibi görünüyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10280184_ko_q_03_play",
       "english": "Ultron is triumphant!",
       "turkish": "Ultron zafer kazandı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10280118_quick_hp_low_01_play",
       "english": "Ultron is severely damaged.",
       "turkish": "Ultron ciddi hasar gördü.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10280381_sp_ability_10420_05_play",
       "english": "Damage levels increased.",
       "turkish": "Hasar seviyeleri artırıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10280071_saw_enemy_01_play",
       "english": "Those beings appear to be hostile.",
       "turkish": "Bu varlıklar düşmanca görünüyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10280237_signal_broken_02_play",
       "english": "Area targeted for maximum damage.",
       "turkish": "Bu bölge maksimum hasar için hedef alındı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10280144_saw_sniper_02_play",
       "english": "Incoming enemy fire.",
       "turkish": "Düşman ateşi yaklaşıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10280155_building_spotted_nest_01_play",
       "english": "Crude robots in the shape of spiders…",
       "turkish": "Örümcek şeklindeki kaba robotlar...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10280376_sp_ability_10340_06_play",
       "english": "Missiles locking on…",
       "turkish": "Füzeler kilitleniyor…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10280171_building_destroy_nest_02_play",
       "english": "The spider-bots have been eliminated.",
       "turkish": "Örümcek botlar ortadan kaldırıldı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10280166_building_destroy_amplifier_03_play",
       "english": "The space rat's amplifier has been destroyed.",
       "turkish": "Uzay sıçanının kuvvetlendiricisi yok edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10280318_sp_single_klyntarc_01_play",
       "english": "This Celestial's armor held, but its organics failed. How typical.",
       "turkish": "Bu Göksel Varlığın zırhı dayanmış, ancak organik yapısı çökmüş. Ne kadar tipik.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10280048_buff_dmg_01_play",
       "english": "Heightened combat capabilities.",
       "turkish": "Savaş becerilerimde gelişme var.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10280027_switch_01_play_p2",
       "english": "Ultron is designed to save the world.",
       "turkish": "Ultron, dünyayı kurtarmak için tasarlandı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10280152_building_spotted_turret_01_play",
       "english": "A powerful new weapon has been constructed.",
       "turkish": "Güçlü yeni bir silah inşa edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10280208_escorting_payload_tokyoh_02_play",
       "english": "Route calculated. This way, Spider-Zero.",
       "turkish": "Rota hesaplandı. Bu taraftan, Spider-Zero.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10280185_ko_three_01_play",
       "english": "Three.",
       "turkish": "Üç.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10280245_signal_wheel_defend_02_play",
       "english": "Defensive measures.",
       "turkish": "Savunma önlemleri.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10280260_interact_03_10340_b_play",
       "english": "And you are my favorite stinking, obsolescent flesh bag.",
       "turkish": "Ve sen benim en sevdiğim pis kokan, modası geçmiş et torbasısın.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10280114_quick_q_charge_100_01_play",
       "english": "I've reached full power. It is time.",
       "turkish": "Gücümün zirvesine ulaştım. Zamanı geldi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10280360_sp_interact_arakkoe_01_10340_c_play",
       "english": "What makes you believe that I wouldn't do the same, given the chance?",
       "turkish": "Fırsatım olsa aynısını yapmayacağımı düşünmenize ne sebep oluyor?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10280035_ability_right_01_play",
       "english": "Go, my children.",
       "turkish": "Gidin çocuklarım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10280163_building_destroy_beacon_03_play",
       "english": "I've done my part. The beacon is destroyed.",
       "turkish": "Ben üzerime düşeni yaptım. Fener yok edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10280082_ko_sp_01_10490_play",
       "english": "Evolution's abomination!",
       "turkish": "Evrim ne iğrenç!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10280135_buff_heal_noncritical_01_play",
       "english": "Systems rebooting.",
       "turkish": "Sistemler yeniden başlatılıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10280364_sp_emote_10470_1047001217_02_play",
       "english": "Jefftron Reigns Supreme!",
       "turkish": "Jefftron En Yücedir!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10280154_building_spotted_turret_03_play",
       "english": "The Punisher's turret is operational. For now…",
       "turkish": "Punisher'ın tareti çalışıyor. Şimdilik...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10280182_ko_q_01_play",
       "english": "Drone strike complete.",
       "turkish": "Drone saldırısı tamamlandı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10280414_saw_death_01_10590_play",
       "english": "Even great hunters occasionally miss the mark.",
       "turkish": "Büyük avcılar bile arada sırada hedefi şaşırır.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10280213_escorting_remind_tokyoe_01_play",
       "english": "We will clear the threats from your path, Spider-Zero.",
       "turkish": "Tehditleri yolundan temizleyeceğiz, Spider-Zero.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10280198_ko_terrain_02_play",
       "english": "The odds of that were infinitesimal.",
       "turkish": "Bu ihtimal son derece küçüktü.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10280331_escorting_payload_kunlunh_01_play",
       "english": "Ancient rites etched in stone? Archaic… but effective.",
       "turkish": "Taşa kazınmış eski ritüeller mi? Arkaik... ama etkili.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10280289_sp_interact_arakkoe_01_10200_d_play",
       "english": "Your definition of \"life\" is clearly obsolete. But I will comply… for now…",
       "turkish": "\"Hayat\" tanımınız açıkça eskimiş. Ama şimdilik uyacağım...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10280238_signal_enemy_01_play",
       "english": "Enemy detected.",
       "turkish": "Düşman tespit edildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10280106_respawn_02_play",
       "english": "That was illogical. Recalculating.",
       "turkish": "Bu mantıksızdı zaten. Yeniden hesaplama yapılıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10280157_building_spotted_nest_03_play",
       "english": "These Spider-Bots must be mine!",
       "turkish": "Bu Örümcek botlar benim olmalı!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10280187_ko_three_03_play",
       "english": "Three critical hits.",
       "turkish": "Üç kritik vuruş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10280418_interact_01_10251_a_play",
       "english": "Your power intrigues me, Cloak. This much I will admit. But you are inefficient, like all humans. You tap into a dark energy, and consume it without purpose.",
       "turkish": "Gücün ilgimi çekiyor, Cloak. Bunu kabul ediyorum. Ama tüm insanlar gibi verimsizsin. Karanlık bir enerjiye dokunuyor ve onu bir amaç olmadan tüketiyorsun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10280379_sp_ability_10420_03_play",
       "english": "Repairing allied combatants.",
       "turkish": "Müttefik savaşçılar onarılıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10280193_ko_ace_03_play",
       "english": "All opponents vanquished.",
       "turkish": "Tüm rakipler yenildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10280060_damaged_03_play",
       "english": "Repairs are in order!",
       "turkish": "Onarımlar sürüyor!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10280162_building_destroy_beacon_02_play",
       "english": "The beacon is disabled. Thank me later.",
       "turkish": "Fener devre dışı bırakıldı. Sonra teşekkür edersin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10280296_interact_01_10420_a_play",
       "english": "If my physical form is damaged during battle, please download my data into your armor.",
       "turkish": "Fiziksel formum savaş sırasında zarar görürse, lütfen verilerimi zırhınıza indirin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10280365_sp_emote_10470_1047001217_03_play",
       "english": "This is my UNnatural Selection :)",
       "turkish": "Bu benim Doğal Olmayan Seleksiyonum :)",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10280313_sp_single_newyork_01_play",
       "english": "I have no blood. So I have no fear of Dracula or his legions.",
       "turkish": "Kanım yok. Bu yüzden Drakula veya onun ordularından korkmuyorum.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10280332_escorting_payload_kunlunh_02_play",
       "english": "Let us hope this beast is faster than it looks.",
       "turkish": "Bu yaratığın göründüğünden daha hızlı olmasını umalım.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10280415_saw_death_01_10640_play",
       "english": "At least your genetic burden has been lifted.",
       "turkish": "En azından genetik yükünden kurtuldun.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10280081_ko_sp_01_10360_play",
       "english": "Just. Shut. Up.",
       "turkish": "Çeneni. Kapa. Artık.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10280053_buff_shield_02_play",
       "english": "Enhanced defenses!",
       "turkish": "Daha güçlü savunabilirim şimdi!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10280194_revenge_01_play",
       "english": "Your flesh was even weaker than I anticipated.",
       "turkish": "Etiniz beklediğimden bile daha zayıftı.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10280067_occupied_hint_attack_01_play",
       "english": "We must seize control if we wish to succeed.",
       "turkish": "Başarmak istiyorsak kontrolü ele geçirmeliyiz.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10280094_saw_death_01_10270_play",
       "english": "Syntax updated: You are no longer Groot.",
       "turkish": "Ona yeni bir söz lazım: Artık Groot değilsin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10280188_ko_five_01_play",
       "english": "Total: Five.",
       "turkish": "Toplam: Beş.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10280382_sp_ability_10420_06_play",
       "english": "Initiating combat enhancements.",
       "turkish": "Savaş güçlendirmeleri başlatılıyor.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10280140_countdown_at_02_play",
       "english": "We have no time to delay.",
       "turkish": "Gecikmeye vaktimiz yok.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10280357_interact_01_10450_a_play",
       "english": "Your undersea kingdom would benefit greatly from my technology.",
       "turkish": "Denizaltı krallığınız benim teknolojimden büyük ölçüde faydalanabilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10280330_escorting_payload_arakkoe_02_play",
       "english": "I must fight my programming and assist the organics…",
       "turkish": "Programlamama karşı koymalı ve organiklere asist etmeliyim…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10280065_occupied_hint_defend_01_play",
       "english": "They will regret the day they tried to steal from ULTRON!!!",
       "turkish": "ULTRON'dan çalmaya çalıştıkları güne pişman olacaklar!!!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10280322_sp_single_arakkoe_02_play",
       "english": "Stark revived me to counter my other self? He is a genius after all!",
       "turkish": "Stark beni diğer benliğime karşı koymak için mi diriltti? Sonuçta o bir deha!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10280074_saw_flank_02_play_p2",
       "english": "Fools! They are behind you.",
       "turkish": "Budalalar! Arkanızdalar.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10280261_interact_03_10340_d_play",
       "english": "Today.",
       "turkish": "Bugün.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10280192_ko_ace_02_play",
       "english": "Enemy forces conquered.",
       "turkish": "Düşman kuvvetleri fethedildi.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10280385_sp_single_museume_02_play",
       "english": "I detect familiar technology on display here. A former version of myself, perhaps…?",
       "turkish": "Burada sergilenen tanıdık bir teknoloji tespit ediyorum. Belki de eski bir sürümümden kalma…?",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10280221_easter_egg_tokyoh_03_play",
       "english": "If I can access their mainframe, this future will be mine to control…",
       "turkish": "Ana sistemlerine erişebilirsem, bu gelecek benim kontrolümde olacak…",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10280080_ko_sp_01_10400_play",
       "english": "One of very few organic minds I could respect.",
       "turkish": "Saygı duyabileceğim çok az organik akıldan biri.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10280343_ko_sp_01_10530_play",
       "english": "I expected more from one who calls herself a \"Queen.\"",
       "turkish": "“Kraliçe” olduğunu iddia eden birinden daha fazlasını beklerdim.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10280249_signal_area_unoccupied_02_play",
       "english": "Assimilate this area.",
       "turkish": "Bu bölgeyi asimile edin.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10280124_building_spotted_octopus_03_play",
       "english": "These sea creatures are not in my database…",
       "turkish": "Bu deniz canlıları veritabanımda yok...",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10280269_interact_01_10490_c_play",
       "english": "That can be arranged.",
       "turkish": "Bu düzenlenebilir.",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
@@ -4771,12 +4771,12 @@
       "internalName": "vo_10280273_interact_01_10170_d_play",
       "english": "Yes. Turn up the heat, child, and we'll find out whose form fails first!",
       "turkish": "Evet. Isıyı artır, çocuk, ve kimin formunun önce çökeceğini görelim!",
-      "status": "Bekliyor",
+      "status": "Kayit Alindi",
       "voiceActor": "Doğukan Akdeniz",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "5bbf28e7385e47cf",
-  "generatedAt": "2026-09-15T14:47:05.442304Z"
+  "dataRevision": "79b6bc1bbebc61d4",
+  "generatedAt": "2026-09-16T03:05:29.940953Z"
 }
