@@ -4,9 +4,9 @@
   "summary": {
     "total": 422,
     "waiting": 0,
-    "recorded": 422,
+    "recorded": 0,
     "checked": 0,
-    "added": 0,
+    "added": 422,
     "worked": 422,
     "progress": 100.0,
     "status": "Tamamlandi"
@@ -31,7 +31,7 @@
       "internalName": "vo_10400057_occupied_celebrate_02_play",
       "english": "Our efforts deserve praise.",
       "turkish": "Emeklerimiz övgüyü hak ediyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -43,7 +43,7 @@
       "internalName": "vo_10400398_escorting_payload_museume_02_play",
       "english": "Usually, I treat museums with far more respect. But this time, I'll make an exception…",
       "turkish": "Genelde müzelere çok daha fazla saygı gösteririm. Ama bu sefer bir istisna yapacağım…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -55,7 +55,7 @@
       "internalName": "vo_10400199_quick_hp_low_01_play",
       "english": "I'm not at my best.",
       "turkish": "En iyi hâlimde değilim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -67,7 +67,7 @@
       "internalName": "vo_10400468_interact_02_10610_c_play",
       "english": "Just the ones who launch the Fantasti-Car into the Negative Zone and nearly destroy my home.",
       "turkish": "Sadece Fantasti-Car’ı Negative Zone’a fırlatıp evimi neredeyse yerle bir edenler.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -79,7 +79,7 @@
       "internalName": "vo_10400158_ko_terrain_01_play",
       "english": "A fascinating variable.",
       "turkish": "İlginç bir değişken.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -91,7 +91,7 @@
       "internalName": "vo_10400296_sp_single_newyorke_01_play",
       "english": "It's hard to solve a problem when the laws of nature and physics no longer apply…",
       "turkish": "Doğa ve fizik kanunları geçerliliğini yitirdiğinde sorun çözmek zor oluyor…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -103,7 +103,7 @@
       "internalName": "vo_10400012_single_03_play",
       "english": "Victor's meddling in the timestream never ends well for anyone. Especially him.",
       "turkish": "Victor zaman akışına karışınca sonu herkes için kötü oluyor. Özellikle de kendisi için.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -115,7 +115,7 @@
       "internalName": "vo_10400287_sp_interact_wakanda_01_10280_b_play",
       "english": "A fact I'm certain we all feel grateful for, Ultron.",
       "turkish": "Eminim bunu bilmek hepimizin içini rahatlatmıştır Ultron.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -127,7 +127,7 @@
       "internalName": "vo_10400149_ko_five_01_play",
       "english": "I seem to be on a roll.",
       "turkish": "Hızımı alamadım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -139,7 +139,7 @@
       "internalName": "vo_10400102_saw_sniper_02_play",
       "english": "I've located a sniper.",
       "turkish": "Bir keskin nişancının yerini buldum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -151,7 +151,7 @@
       "internalName": "vo_10400001_select_01_play",
       "english": "I've seen wonders out there in the cosmos few humans will ever behold.",
       "turkish": "Kozmosta çok az insanın görebileceği mucizelere tanık oldum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -163,7 +163,7 @@
       "internalName": "vo_10400248_interact_01_10360_a_play",
       "english": "If we want to end this, we're going to need our most brilliant minds on the case.",
       "turkish": "Bu sorunu çözmek için en zekilerimize ihtiyacımız olacak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -175,7 +175,7 @@
       "internalName": "vo_10400192_quick_q_charge_100_02_play",
       "english": "Now for something truly fantastic!",
       "turkish": "Şimdi sırada gerçekten fantastik bir şey var!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -187,7 +187,7 @@
       "internalName": "vo_10400265_sp_interact_tokyo_01_10340_b_play",
       "english": "Yes. It seems your legacy survives well into the future, Tony.",
       "turkish": "Evet. Görünen o ki mirasın gelecekte güvende Tony.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -199,7 +199,7 @@
       "internalName": "vo_10400280_building_destroy_octopus_01_play",
       "english": "Keep your tentacles to yourself, Namor.",
       "turkish": "Dokunaçlarını kendine sakla Namor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -211,7 +211,7 @@
       "internalName": "vo_10400257_interact_01_10450_b_play",
       "english": "It's a rare occasion when you and I see things the same way, Namor.",
       "turkish": "İkimizin aynı bakış açısına sahip olması her gün görülen bir şey değil Namor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -223,7 +223,7 @@
       "internalName": "vo_10400247_interact_03_10260_c_play",
       "english": "I expected as much. Which is why I was hoping to talk to Shuri.",
       "turkish": "Bunu tahmin etmiştim. Bu yüzden de Shuri’yle konuşmayı umuyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -235,7 +235,7 @@
       "internalName": "vo_10400051_buff_shield_02_play",
       "english": "This should limit any damage.",
       "turkish": "Bu sayede alacağım hasar azalır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -247,7 +247,7 @@
       "internalName": "vo_10400038_debuff_purple_01_play",
       "english": "Not healing properly…",
       "turkish": "Düzgün iyileşemiyorum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -259,7 +259,7 @@
       "internalName": "vo_10400059_occupied_hint_engage_02_play",
       "english": "It's on us to secure the area.",
       "turkish": "Bu bölgenin güvenliğini sağlamak bize düşer.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -271,7 +271,7 @@
       "internalName": "vo_10400154_ko_ace_03_play",
       "english": "Certainly not the outcome I expected.",
       "turkish": "Beklediğim sonuç kesinlikle bu değildi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -283,7 +283,7 @@
       "internalName": "vo_10400288_sp_interact_wakanda_01_10280_d_play",
       "english": "Yes. But I also see how quickly you would turn those resources against us.",
       "turkish": "Evet. Ama o kaynakları çabucak bize karşı yönelteceğini de görüyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -295,7 +295,7 @@
       "internalName": "vo_10400444_sp_ability_10230_01_play_p2",
       "english": "The winning stretch!",
       "turkish": "Galibiyet esnekliği!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -307,7 +307,7 @@
       "internalName": "vo_10400274_interact_01_10410_c_play",
       "english": "Are you sure? What if Hydra implanted something inside of you?",
       "turkish": "Emin misin? Ya Hydra içine bir şey implant ettiyse?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -319,7 +319,7 @@
       "internalName": "vo_10400279_building_spotted_octopus_03_play",
       "english": "These creatures may be the spawn of Monstro!",
       "turkish": "Bu yaratıklar Su Canavarı’nın yavruları olabilir!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -331,7 +331,7 @@
       "internalName": "vo_10400182_easter_egg_wakanda_03_play",
       "english": "With full access to the information here, I could solve everything… in time...",
       "turkish": "Buradaki bilgilere eksiksiz erişimle her sorunu çözebilirim… Zamanla…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -343,7 +343,7 @@
       "internalName": "vo_10400089_saw_ko_01_10180_play",
       "english": "You've made me believe in magic, Stephen.",
       "turkish": "Büyüye inanmamı sağladın Stephen.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -355,7 +355,7 @@
       "internalName": "vo_10400042_buff_heal_critical_01_play",
       "english": "I'm on the rebound.",
       "turkish": "Toparlanmaya başladım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -367,7 +367,7 @@
       "internalName": "vo_10400213_signal_wheel_attack_01_play",
       "english": "Attacking here seems logical.",
       "turkish": "Buraya saldırmak bana mantıklı geldi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -379,7 +379,7 @@
       "internalName": "vo_10400019_sp_single_klyntar_01_play",
       "english": "This entire biome is writhing with life. I can't wait to take some samples.",
       "turkish": "Bu biyomun tamamı yaşamla dolup taşıyor. Birkaç numune almak için sabırsızlanıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -391,7 +391,7 @@
       "internalName": "vo_10400302_sp_single_kunlun_01_play",
       "english": "I've been to more dimensions than I can count, but this city never fails to amaze me.",
       "turkish": "Sayamayacağım kadar çok boyuta gittim, ama bu şehir beni her zaman büyülemeyi başarıyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -403,7 +403,7 @@
       "internalName": "vo_10400069_saw_enemy_02_play",
       "english": "We've been discovered.",
       "turkish": "Bizi fark ettiler.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -415,7 +415,7 @@
       "internalName": "vo_10400036_debuff_exhaust_01_play",
       "english": "My resistance is down.",
       "turkish": "Dayanıklılığım azaldı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -427,7 +427,7 @@
       "internalName": "vo_10400295_sp_ability_10500_03_play",
       "english": "Shield activated!",
       "turkish": "Kalkan etkinleştirildi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -439,7 +439,7 @@
       "internalName": "vo_10400312_escorting_remind_klyntarh_01_play",
       "english": "No time to waste. We have to deliver this underground!",
       "turkish": "Boşa harcayacak zaman yok. Bunu yer altına teslim etmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -451,7 +451,7 @@
       "internalName": "vo_10400300_sp_single_klyntarc_01_play",
       "english": "When Celestials fall, what comes next is never pretty…",
       "turkish": "Göksel Varlıklar düştüğünde, ardından gelen asla hoş olmaz…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -463,7 +463,7 @@
       "internalName": "vo_10400091_saw_death_01_10170_play",
       "english": "Your sacrifice won't be in vain, Johnny.",
       "turkish": "Fedakârlığın boşa gitmeyecek Johnny.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -475,7 +475,7 @@
       "internalName": "vo_10400162_enemy_advanced_02_play",
       "english": "We're vastly outnumbered.",
       "turkish": "Sayıları bizden çok fazla.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -487,7 +487,7 @@
       "internalName": "vo_10400339_interact_02_10180_c_play",
       "english": "I'm willing to explore any advantages we have available, Stephen.",
       "turkish": "Elimizdeki tüm avantajları değerlendirmeye hazırım Stephen.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -499,7 +499,7 @@
       "internalName": "vo_10400118_building_destroy_ankh_03_play",
       "english": "That should limit Moon Knight's power.",
       "turkish": "Bu sayede Moon Knight’ın gücü sınırlanmış oldu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -511,7 +511,7 @@
       "internalName": "vo_10400203_quick_thanks_01_play",
       "english": "Thank you.",
       "turkish": "Teşekkür ederim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -523,7 +523,7 @@
       "internalName": "vo_10400392_sp_single_newyorkh02_01_play",
       "english": "From Dracula to the Kingpin… Our city can't seem to catch a break!",
       "turkish": "Drakula'dan Kingpin'e kadar… Şehrimiz bir türlü rahat yüzü göremiyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -535,7 +535,7 @@
       "internalName": "vo_10400299_sp_single_arakkoe_01_play",
       "english": "What a fascinating ecosphere. I hope it survives long enough for me to study it further.",
       "turkish": "Ne büyüleyici bir ekosfer. Umarım daha fazla inceleyebilmem için yeterince uzun süre hayatta kalır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -547,7 +547,7 @@
       "internalName": "vo_10400466_interact_02_10600_c_play",
       "english": "My wife has always been better at that than I have. But it was a thrill to be back on the ESU campus.",
       "turkish": "Eşim bunu benden her zaman daha iyi yapmıştır. Ama ESU kampüsüne geri dönmek heyecan vericiydi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -559,7 +559,7 @@
       "internalName": "vo_10400309_escorting_payload_newyorkh_02_play",
       "english": "Time to take this fight to the source: Dracula himself.",
       "turkish": "Kavgamızı doğrudan kaynağına, yani bizzat Drakula’ya taşımanın zamanı geldi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -571,7 +571,7 @@
       "internalName": "vo_10400104_building_spotted_ankh_01_play",
       "english": "This ankh is radiating supernatural energy…",
       "turkish": "Bu yaşam çarmıhından doğaüstü bir enerji yayılıyor…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -583,7 +583,7 @@
       "internalName": "vo_10400365_sp_interact_krakoac_01_10500_c_play",
       "english": "You said you wanted to go dancing, then get a little action. That's exactly what we're doing.",
       "turkish": "Önce biraz dans, sonra da biraz macera istememiş miydin? İşte öyle yapmıyor muyuz?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -595,7 +595,7 @@
       "internalName": "vo_10400178_escorting_remind_wakandah_01_play",
       "english": "The longer we take, the more the odds shift against Wakanda.",
       "turkish": "Biz geciktikçe Wakanda’nın şansı azalıyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -607,7 +607,7 @@
       "internalName": "vo_10400242_interact_02_10260_c_play",
       "english": "Doom would probably say something similar.",
       "turkish": "Doom’a sorsan muhtemelen o da aynısını söylerdi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -619,7 +619,7 @@
       "internalName": "vo_10400028_ability_right_hit_01_play",
       "english": "Double the fun.",
       "turkish": "İki kat eğlence.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -631,7 +631,7 @@
       "internalName": "vo_10400108_building_spotted_portal_02_play",
       "english": "Quite the clever shortcut, Stephen.",
       "turkish": "Zekice bir kestirme Stephen.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -643,7 +643,7 @@
       "internalName": "vo_10400250_interact_01_10320_b_play",
       "english": "You actually posted it on social media right after and TAGGED, like, EVERYONE, remember? And Silver Surfer doesn't have a handle, by the way. Although theoretically Power Cosmic SHOULD give him access to any form of info network in the universe…",
       "turkish": "Aslında hemen ardından sosyal medyada paylaşmış ve HERKESİ ETİKETLEMİŞTİN, hatırlamıyor musun? Bu arada Gümüş Sörfçü’nün hesabı yok. Gerçi teoride Kozmik gücüyle evrendeki tüm bilgi ağı çeşitlerine erişim kazanıyor olmalı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -655,7 +655,7 @@
       "internalName": "vo_10400400_escorting_remind_newyorkh02_01_play",
       "english": "We can't sit by while heroes are unjustly imprisoned!",
       "turkish": "Kahramanlar haksız yere hapsedilirken kenarda duramayız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -667,7 +667,7 @@
       "internalName": "vo_10400379_sp_interact_newyorke_01_10230_c_play",
       "english": "Actually… I just have some machinery in my lab that requires a tiny pair of hands…",
       "turkish": "Aslında… Laboratuvarımda küçük bir çift ele ihtiyaç duyan bazı makinelerim var…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -679,7 +679,7 @@
       "internalName": "vo_10400034_debuff_control_01_play",
       "english": "How… unexpected…",
       "turkish": "Hiç… Beklemiyordum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -691,7 +691,7 @@
       "internalName": "vo_10400304_escorting_payload_klyntarh_01_play",
       "english": "Knull is the end of everything. We can't let him win.",
       "turkish": "Knull, her şeyin sonu demek. Kazanmasına göz yumamayız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -703,7 +703,7 @@
       "internalName": "vo_10400390_sp_single_kunlunec_01_play",
       "english": "I usually leave the heavy hitting to Ben… but I suppose a chance to cut loose wouldn't be so bad…",
       "turkish": "Ağır işi genelde Ben’e bırakırım… ama sanırım biraz içimi boşaltma fırsatı da fena olmaz…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -715,7 +715,7 @@
       "internalName": "vo_10400240_interact_01_10260_b_play",
       "english": "Oh, it's FANTASTIC, King T'Challa! Your sister's data on astronomy is… unparalleled!",
       "turkish": "Aa, FANTASTİK bir yer Kral T'Challa! Kız kardeşinin astronomi verilerinin eşi benzeri yok! ",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -727,7 +727,7 @@
       "internalName": "vo_10400065_countdown_at_02_play",
       "english": "We're wasting precious time.",
       "turkish": "Değerli zamanımızı boşa harcıyoruz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -739,7 +739,7 @@
       "internalName": "vo_10400053_buff_dr_02_play",
       "english": "This should keep me going.",
       "turkish": "Bu sayede yoluma devam edebilirim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -751,7 +751,7 @@
       "internalName": "vo_10400440_sp_ability_10510_01_play",
       "english": "It's time to clobber!",
       "turkish": "Parçalama zamanı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -763,7 +763,7 @@
       "internalName": "vo_10400369_sp_interact_klyntarec_01_10560_c_play",
       "english": "Any mistakes Odin made surely pale in comparison to the horrors Knull will bring.",
       "turkish": "Odin'in yaptığı hatalar, Knull'un getireceği dehşetlerle karşılaştırıldığında kesinlikle önemsiz kalır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -775,7 +775,7 @@
       "internalName": "vo_10400202_quick_confirm_02_play",
       "english": "I suppose so.",
       "turkish": "Mümkündür.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -787,7 +787,7 @@
       "internalName": "vo_10400254_interact_01_10500_d_play",
       "english": "Noted.",
       "turkish": "Bunu aklımda tutarım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -799,7 +799,7 @@
       "internalName": "vo_10400413_interact_01_10610_c_play",
       "english": "Because if that device ended up in the wrong hands, every remaining reality could collapse. And we'd all be out of luck.",
       "turkish": "Çünkü eğer o cihaz yanlış ellere geçerse, geriye kalan tüm gerçeklikler çöker. Ve hepimiz şanssız oluruz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -811,7 +811,7 @@
       "internalName": "vo_10400469_interact_02_10620_a_play",
       "english": "How is that temporal armor we built you holding up, Devil?",
       "turkish": "Senin için yaptığımız o zamansal zırh nasıl dayanıyor, Şeytan?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -823,7 +823,7 @@
       "internalName": "vo_10400103_saw_sniper_03_play",
       "english": "They have tactical advantage. A sniper.",
       "turkish": "Taktiksel avantaj onlarda. Keskin nişancı var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -835,7 +835,7 @@
       "internalName": "vo_10400075_ko_normal_04_play",
       "english": "A predictable outcome.",
       "turkish": "Öngörülebilir bir sonuç.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -847,7 +847,7 @@
       "internalName": "vo_10400308_escorting_payload_newyorkh_01_play",
       "english": "If we can break this curse, the city still has a chance.",
       "turkish": "Bu laneti bozabilirsek bu şehrin hâlâ kurtulma şansı var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -859,7 +859,7 @@
       "internalName": "vo_10400244_interact_02_10170_b_play",
       "english": "Actually, I'm formulating hundreds of potential stratagems at the moment, Johnny.",
       "turkish": "Aslında şu an yüzlerce potansiyel strateji geliştiriyorum Johnny.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -871,7 +871,7 @@
       "internalName": "vo_10400367_sp_interact_newyorke_01_10550_d_play",
       "english": "You… You're right. The time for equations and theories is over. It's time to act.",
       "turkish": "Sen… Haklısın. Denklem ve teorilerin zamanı geçti. Artık harekete geçme zamanı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -883,7 +883,7 @@
       "internalName": "vo_10400188_quick_q_charge_90_under_02_play",
       "english": "I'm not quite ready. Keep stretching.",
       "turkish": "Henüz hazır değilim. Esnemeye devam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -895,7 +895,7 @@
       "internalName": "vo_10400315_escorting_remind_newyorke_02_play",
       "english": "H.E.R.B.I.E. must complete his program. No more delays!",
       "turkish": "H.E.R.B.I.E. programını tamamlamalı. Daha fazla gecikemez!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -907,7 +907,7 @@
       "internalName": "vo_10400289_sp_interact_newyork_01_10460_b_play",
       "english": "Dracula used the Darkhold to bend the laws of nature themselves.",
       "turkish": "Drakula, Karanlık Kitap’ı kullanarak doğrudan doğa kanunlarını değiştirdi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -919,7 +919,7 @@
       "internalName": "vo_10400027_ability_right_03_play",
       "english": "Not so fast, friend.",
       "turkish": "Öyle acele etme dostum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -931,7 +931,7 @@
       "internalName": "vo_10400128_building_destroy_nest_01_play",
       "english": "I've neutralized the spider-bots.",
       "turkish": "Örümcek botları etkisiz hâle getirdim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -943,7 +943,7 @@
       "internalName": "vo_10400227_signal_area_occupied_02_play",
       "english": "We can't risk losing control of this location.",
       "turkish": "Bu konumun kontrolünü kaybetmeyi göze alamayız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -955,7 +955,7 @@
       "internalName": "vo_10400106_building_spotted_ankh_03_play",
       "english": "An ankh. It must belong to Moon Knight.",
       "turkish": "Bir yaşam çarmıhı. Moon Knight’ın olmalı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -967,7 +967,7 @@
       "internalName": "vo_10400161_enemy_advanced_01_play",
       "english": "The numbers aren't in our favor.",
       "turkish": "Rakamlar bizim lehimize değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -979,7 +979,7 @@
       "internalName": "vo_10400200_quick_hp_low_02_play",
       "english": "I'm less than optimal.",
       "turkish": "İdeal durumda sayılmam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -991,7 +991,7 @@
       "internalName": "vo_10400114_building_spotted_nest_02_play",
       "english": "Hmm. An army of artificial arachnids…",
       "turkish": "Hımm. Yapay örümceklerden bir ordu…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1003,7 +1003,7 @@
       "internalName": "vo_10400241_interact_02_10260_a_play",
       "english": "T'Challa. Is the empire everything you ever wanted?",
       "turkish": "T’Challa. İmparatorlukta her şey istediğin gibi mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1015,7 +1015,7 @@
       "internalName": "vo_10400239_interact_01_10180_c_play",
       "english": "You're really going to make me say it out loud aren't you?",
       "turkish": "İlla yüksek sesle söyleteceksin bana, değil mi?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1027,7 +1027,7 @@
       "internalName": "vo_10400168_escorting_payload_tokyoh_01_play",
       "english": "Count on us to clear a safe path, Spider-Zero.",
       "turkish": "Sana güvenli yolu açmamız için bize güvenebilirsin Spider-Zero.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1039,7 +1039,7 @@
       "internalName": "vo_10400332_interact_01_10570_a_play",
       "english": "You look as though you have an important question, Deadpool.",
       "turkish": "Önemli bir sorunuz varmış gibi görünüyorsunuz, Deadpool.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1051,7 +1051,7 @@
       "internalName": "vo_10400275_interact_01_10340_a_play",
       "english": "A Timestream Reintegration Device may be our only hope to mend the damage the Dooms have caused.",
       "turkish": "Zaman Akışını Yeniden Birleştirme Aygıtı, Doomların verdiği hasarı düzeltmek için tek umudumuz olabilir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1063,7 +1063,7 @@
       "internalName": "vo_10400030_ability_right_hit_03_play",
       "english": "Success, squared.",
       "turkish": "Zafer! İcaplarına baktım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1075,7 +1075,7 @@
       "internalName": "vo_10400342_interact_03_10510_a_play",
       "english": "My scanners have picked up on a cosmic being watching us from afar, Ben…",
       "turkish": "Tarayıcılarım, bizi uzaktan izleyen kozmik bir varlık olduğunu algıladı Ben…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1087,7 +1087,7 @@
       "internalName": "vo_10400438_entrance_01_10230_play",
       "english": "It's no stretch to say I'm feeling good about this battle…",
       "turkish": "Bu savaş konusunda kendimi iyi hissettiğimi söylemek hiç de abartı olmaz…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1099,7 +1099,7 @@
       "internalName": "vo_10400171_escorting_payload_wakandah_02_play",
       "english": "This sacred carving of Bast must reach its destination.",
       "turkish": "Bast’ın bu kutsal heykeli, hedefine ulaşmalı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1111,7 +1111,7 @@
       "internalName": "vo_10400273_interact_01_10410_a_play",
       "english": "I'd like to run a few tests on you when this is all over, James.",
       "turkish": "Bu iş bittiğinde üzerinde birkaç deney yapmak isterim James.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1123,7 +1123,7 @@
       "internalName": "vo_10400090_saw_death_01_10500_play",
       "english": "Susan… I don't know if I can go on without you…",
       "turkish": "Susan… Sensiz nasıl yaşarım?..",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1135,7 +1135,7 @@
       "internalName": "vo_10400113_building_spotted_nest_01_play",
       "english": "These spiders… What a fascinating design…",
       "turkish": "Şu örümceklerin tasarımı ne enteresan…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1147,7 +1147,7 @@
       "internalName": "vo_10400221_signal_wheel_backup_01_play",
       "english": "Any assistance would be welcome.",
       "turkish": "Her türlü yardıma minnettar olurum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1159,7 +1159,7 @@
       "internalName": "vo_10400229_signal_vehicle_as_attack_02_play",
       "english": "Let's accelerate this vehicle's progress.",
       "turkish": "Bu taşıtın ilerlemesini hızlandıralım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1171,7 +1171,7 @@
       "internalName": "vo_10400077_ko_sp_01_10500_play",
       "english": "I'll never forgive myself for this, Susan.",
       "turkish": "Bunun için kendimi asla affetmeyeceğim Susan.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1183,7 +1183,7 @@
       "internalName": "vo_10400362_sp_interact_klyntarec_01_10170_b_play",
       "english": "It won't be that easy. Knull doesn’t have the same weaknesses as his creations.",
       "turkish": "Bu o kadar kolay olmayacak. Knull, yaratımlarının sahip olduğu zayıflıklara sahip değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1195,7 +1195,7 @@
       "internalName": "vo_10400031_ability_shift_01_play",
       "english": "A futile attempt.",
       "turkish": "Faydasız bir çaba.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1207,7 +1207,7 @@
       "internalName": "vo_10400177_escorting_remind_tokyoh_02_play",
       "english": "The nexus is close. We mustn't give up now.",
       "turkish": "Bağlantı noktası yakın. Şimdi pes edemeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1219,7 +1219,7 @@
       "internalName": "vo_10400406_escorting_remind_newyorkh02_03_play",
       "english": "Our friends are counting on us to set them free. We can't let them down!",
       "turkish": "Arkadaşlarımızın özgür kalması için bize güveniyorlar. Onları hayal kırıklığına uğratamayız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1231,7 +1231,7 @@
       "internalName": "vo_10400022_switch_03_play_p2",
       "english": "Reed Richards, ready for adventure.",
       "turkish": "Reed Richards maceraya hazır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1243,7 +1243,7 @@
       "internalName": "vo_10400043_buff_heal_critical_02_play",
       "english": "Finally bouncing back.",
       "turkish": "Sonunda toparlandım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1255,7 +1255,7 @@
       "internalName": "vo_10400361_sp_interact_kunlun_01_10520_c_play",
       "english": "Don't worry, son. We'll find a way to set all of this right.",
       "turkish": "Endişelenme, evlat. Tüm bunları düzeltmenin bir yolunu bulacağız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1267,7 +1267,7 @@
       "internalName": "vo_10400013_single_04_play",
       "english": "This may be one problem I can't solve through brainpower alone.",
       "turkish": "Sırf beyin gücüyle çözemeyeceğim bir sorun olabilir bu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1279,7 +1279,7 @@
       "internalName": "vo_10400204_quick_thanks_02_play",
       "english": "Appreciated.",
       "turkish": "Teşekkür ettim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1291,7 +1291,7 @@
       "internalName": "vo_10400175_escorting_remind_tokyoe_02_play",
       "english": "Is this vehicle capable of moving any faster?",
       "turkish": "Bu taşıtın daha hızlı ilerleme kapasitesi yok mu?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1303,7 +1303,7 @@
       "internalName": "vo_10400268_sp_interact_wakanda_01_10260_a_play",
       "english": "An entire galactic empire of your own? I'm impressed, T'Challa.",
       "turkish": "Sana ait koskoca bir galaktik imparatorluk mu var? Etkilendim T'Challa.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1315,7 +1315,7 @@
       "internalName": "vo_10400402_escorting_remind_kunlunh_02_play",
       "english": "Slow and steady, Bi Xi. We can still win this race… I hope…",
       "turkish": "Yavaş ve istikrarlı, Bi Xi. Bu yarışı hâlâ kazanabiliriz… Umarım…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1327,7 +1327,7 @@
       "internalName": "vo_10400370_sp_interact_newyorkh_01_10500_a_play",
       "english": "I can handle this, Sue. You should head back to the Baxter Building at once. It's safer there.",
       "turkish": "Bu işi ben hallederim Sue. Sen en iyisi Baxter Binası’na dön hemen. Orası daha güvenli.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1339,7 +1339,7 @@
       "internalName": "vo_10400363_sp_interact_klyntarec_01_10170_d_play",
       "english": "I know how bright you can burn, Johnny… and I'm afraid even that might not be enough…",
       "turkish": "Johnny, ne kadar parlak bir şekilde parlayabileceğini biliyorum… ve korkarım ki bu bile yeterli olmayabilir…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1351,7 +1351,7 @@
       "internalName": "vo_10400409_sp_ability_10230_03_play",
       "english": "Fantastically elastic!",
       "turkish": "Fantastik bir şekilde esnek!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1363,7 +1363,7 @@
       "internalName": "vo_10400290_sp_interact_newyork_01_10460_d_play",
       "english": "If anyone can mange that, Adam, it's you.",
       "turkish": "Bunu başarabilecek birisi varsa o da sensin Adam.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1375,7 +1375,7 @@
       "internalName": "vo_10400348_interact_01_10530_b_play",
       "english": "I've heard that said before. But you’re welcome to disagree if you wish.",
       "turkish": "Daha önce duyduğum bir şey. Ancak istersen çekinmeden itiraz edebilirsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1387,7 +1387,7 @@
       "internalName": "vo_10400137_ko_normal_06_play",
       "english": "That's one down.",
       "turkish": "Birini aradan çıkardık.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1399,7 +1399,7 @@
       "internalName": "vo_10400197_quick_hp_normal_01_play",
       "english": "I feel fantastic.",
       "turkish": "Fantastiğim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1411,7 +1411,7 @@
       "internalName": "vo_10400155_revenge_01_play",
       "english": "Learn from your failure.",
       "turkish": "Başarısızlığından ders çıkar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1423,7 +1423,7 @@
       "internalName": "vo_10400375_sp_interact_newyorke_01_10420_c_play",
       "english": "Well, we could use a voice like yours while we try to solve this Darkhold dilemma.",
       "turkish": "Hımm, bu Karanlık Kitap açmazını çözmeye çalışırken senin gibi bir ses işimize yarar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1435,7 +1435,7 @@
       "internalName": "vo_10400412_interact_01_10610_a_play",
       "english": "Felicia… You wouldn't happen to know where my blueprints for the Timestream Reintegration Device went, would you?",
       "turkish": "Felicia… Zaman Akışını Yeniden Birleştirme Aygıtı için mavi çizimlerimin nereye gittiğini biliyor olabilir misin?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1447,7 +1447,7 @@
       "internalName": "vo_10400338_interact_02_10180_a_play",
       "english": "I hate to admit it, but science alone might not get us through this one.",
       "turkish": "Bunu kabul etmek hoşuma gitmese de bu sorunu sırf bilimle çözemeyebiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1459,7 +1459,7 @@
       "internalName": "vo_10400225_signal_area_unoccupied_02_play",
       "english": "We need to secure this location.",
       "turkish": "Burayı ele geçirmeliyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1471,7 +1471,7 @@
       "internalName": "vo_10400347_interact_02_10280_c_play",
       "english": "We are on the same team here, aren't we? That data could save billions of lives.",
       "turkish": "Aynı takımdayız sonuçta, değil mi? O verilerle milyarlarca kişinin canı kurtulabilir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1483,7 +1483,7 @@
       "internalName": "vo_10400318_escorting_remind_arakkoe_01_play",
       "english": "If we fail, Ultron and Arakko become one!",
       "turkish": "Eğer başaramazsak Ultron ve Arakko bir olur!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1495,7 +1495,7 @@
       "internalName": "vo_10400387_sp_emote_10470_1047001217_06_play",
       "english": "Dr. Jeff here.",
       "turkish": "Ben Dr. Jeff.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1507,7 +1507,7 @@
       "internalName": "vo_10400120_building_destroy_beacon_02_play",
       "english": "I've shut down Rocket's beacon.",
       "turkish": "Rocket’ın fenerini kapattım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1519,7 +1519,7 @@
       "internalName": "vo_10400243_interact_01_10170_b_play",
       "english": "No argument here.",
       "turkish": "O konuda hemfikiriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1531,7 +1531,7 @@
       "internalName": "vo_10400048_buff_endure_01_play",
       "english": "I'm invulnerable? Fascinating.",
       "turkish": "Dokunulmaz mı oldum? Etkileyici.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1543,7 +1543,7 @@
       "internalName": "vo_10400416_interact_01_10620_a_play",
       "english": "Always good to see you, Devil. Any friend of Moon Girl is a friend of mine.",
       "turkish": "Seni görmek her zaman güzel, Devil. MOON GIRL’ün dostu benim de dostumdur.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1555,7 +1555,7 @@
       "internalName": "vo_10400433_sp_interact_newyorke_01_10610_c_play",
       "english": "My security systems are state of the art, and my wife can see on all spectrums. You might want to stick to the authorized areas.",
       "turkish": "Güvenlik sistemlerim son teknoloji ürünü ve eşim tüm spektrumları görebiliyor. Yetkilendirilmiş alanlarda kalmanız iyi olur.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1567,7 +1567,7 @@
       "internalName": "vo_10400180_easter_egg_hydra_01_play",
       "english": "This isn't science. It's torture.",
       "turkish": "Bu, bilim değil. İşkence.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1579,7 +1579,7 @@
       "internalName": "vo_10400196_quick_group_up_02_play",
       "english": "Band together.",
       "turkish": "Birlik olun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1591,7 +1591,7 @@
       "internalName": "vo_10400385_sp_emote_10470_1047001217_04_play",
       "english": "Hmm. That almost hurt.",
       "turkish": "Hımm. Az kalsın acıtacaktı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1603,7 +1603,7 @@
       "internalName": "vo_10400047_buff_dmg_02_play",
       "english": "I'm as strong as Ben!",
       "turkish": "Ben Grimm kadar güçlüyüm!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1615,7 +1615,7 @@
       "internalName": "vo_10400131_ko_sniper_01_play",
       "english": "Our sniper may think twice before trying that again.",
       "turkish": "Şu keskin nişancı aynısını denemeden önce bir daha düşünecek.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1627,7 +1627,7 @@
       "internalName": "vo_10400133_ko_sniper_03_play",
       "english": "That sniper shouldn't be bothering us again.",
       "turkish": "Şu keskin nişancı artık bizi rahatsız edemez.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1639,7 +1639,7 @@
       "internalName": "vo_10400160_ko_terrain_03_play",
       "english": "I certainly didn't predict that.",
       "turkish": "Bunu kesinlikle öngörmemiştim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1651,7 +1651,7 @@
       "internalName": "vo_10400205_signal_open_spot_01_play",
       "english": "This location is worth observing.",
       "turkish": "Bu konumu gözlemlemeye değer.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1663,7 +1663,7 @@
       "internalName": "vo_10400341_sp_interact_klyntarc_01_10490_c_play",
       "english": "And Celestial armor is forged from a cosmic equivalent of the same metal.",
       "turkish": "Semavi zırhları da aynı metalin kozmik muadilinden dövülerek yapılır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1675,7 +1675,7 @@
       "internalName": "vo_10400364_sp_interact_krakoac_01_10500_a_play",
       "english": "You look disappointed, Sue. Have I done something wrong?",
       "turkish": "Hayal kırıklığına uğramış gibisin Sue. Kabahat mi işledim?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1687,7 +1687,7 @@
       "internalName": "vo_10400291_sp_interact_newyork_01_10260_b_play",
       "english": "I've been working on a cure… but nothing viable yet, I'm afraid.",
       "turkish": "Tedavi üzerinde çalışıyorum… Ancak henüz işe yarar bir şey çıkmadı ne yazık ki.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1699,7 +1699,7 @@
       "internalName": "vo_10400163_enemy_advanced_03_play",
       "english": "There are more of them than I anticipated.",
       "turkish": "Sayıları beklediğimden fazla.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1711,7 +1711,7 @@
       "internalName": "vo_10400134_ko_assist_01_play",
       "english": "Quite the collaboration.",
       "turkish": "İyi bir iş birliği oldu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1723,7 +1723,7 @@
       "internalName": "vo_10400150_ko_five_02_play",
       "english": "I've eliminated five of them.",
       "turkish": "Beşini ortadan kaldırdım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1735,7 +1735,7 @@
       "internalName": "vo_10400474_interact_02_10640_c_play",
       "english": "I would think that being the living embodiment of Famine might not be ideal, Jubilee.",
       "turkish": "Kıtlığın yaşayan vücut bulmuş hâli olmak pek de ideal olmayabilir diye düşünüyorum, JUBILEE.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1747,7 +1747,7 @@
       "internalName": "vo_10400143_ko_ability_right_01_play",
       "english": "You looked stronger than that.",
       "turkish": "Bundan daha güçlü görünüyordun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1759,7 +1759,7 @@
       "internalName": "vo_10400060_occupied_hint_defend_01_play",
       "english": "Losing isn't an acceptable outcome.",
       "turkish": "Kaybetmeyi kabul edemeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1771,7 +1771,7 @@
       "internalName": "vo_10400092_saw_death_01_10510_play",
       "english": "I'll find a way to bring you back, Ben. I promise…",
       "turkish": "Seni geri getirmenin bir yolunu bulacağım Benjamin. Söz veriyorum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1783,7 +1783,7 @@
       "internalName": "vo_10400044_buff_heal_noncritical_01_play",
       "english": "Feeling fantastic!",
       "turkish": "Fantastik hissediyorum!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1795,7 +1795,7 @@
       "internalName": "vo_10400414_interact_01_10600_b_play",
       "english": "I'm flattered, but I'm afraid my hands are just a bit too full at the moment.",
       "turkish": "Bu beni onurlandırır, ama ne yazık ki şu anda ellerim biraz fazla dolu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1807,7 +1807,7 @@
       "internalName": "vo_10400208_signal_broken_02_play",
       "english": "We can cause significant damage here.",
       "turkish": "Buraya ağır hasar verebiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1819,7 +1819,7 @@
       "internalName": "vo_10400319_escorting_remind_arakkoe_02_play",
       "english": "Arakko doesn't have much longer. We need to move!",
       "turkish": "Arakko'nun fazla zamanı kalmadı. İşe koyulmalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1831,7 +1831,7 @@
       "internalName": "vo_10400334_interact_02_10110_a_play",
       "english": "I'm glad you're here, Bruce. We could use someone with your special skills.",
       "turkish": "İyi ki buradasın Bruce. Senin özel yeteneklerine ihtiyacımız var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1843,7 +1843,7 @@
       "internalName": "vo_10400084_ko_sp_01_10260_play",
       "english": "I'm afraid your rule has come to an end, T'Challa.",
       "turkish": "Korkarım hükümdarlığının sonuna geldik T'Challa.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1855,7 +1855,7 @@
       "internalName": "vo_10400135_ko_assist_02_play",
       "english": "The only way we win this is together.",
       "turkish": "Burada sadece birlikte kazanabiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1867,7 +1867,7 @@
       "internalName": "vo_10400356_sp_interact_newyorke_01_10300_a_play",
       "english": "We need to come up with a formula to reverse the vampiric effects on innocent civilians.",
       "turkish": "Masum halkı etkileyen vampirliği tersine çevirmek için bir formül bulmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1879,7 +1879,7 @@
       "internalName": "vo_10400011_single_02_play",
       "english": "A choice between two Dooms isn't much of a choice at all.",
       "turkish": "İki Doom arasında yapılan bir seçim, pek de seçim sayılmaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1891,7 +1891,7 @@
       "internalName": "vo_10400085_saw_ko_01_10500_play",
       "english": "After all these years, you still find ways to impress me, Susan.",
       "turkish": "Bunca yıla rağmen hâlâ beni etkilemenin bir yolunu buluyorsun Susan.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1903,7 +1903,7 @@
       "internalName": "vo_10400002_single_06_play",
       "english": "There's a solution for every problem if you just look hard enough.",
       "turkish": "Yeterince dikkatli aranırsa her sorunun bir çözümü bulunur.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1915,7 +1915,7 @@
       "internalName": "vo_10400209_signal_enemy_01_play",
       "english": "I've located an enemy.",
       "turkish": "Bir düşmanın yerini buldum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1927,7 +1927,7 @@
       "internalName": "vo_10400167_escorting_payload_tokyoe_02_play",
       "english": "We need to reach that nexus point, for the sake of all realities.",
       "turkish": "Tüm gerçekliklerin iyiliği için şu bağlantı noktasına ulaşmamız şart.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1939,7 +1939,7 @@
       "internalName": "vo_10400215_signal_wheel_defend_01_play",
       "english": "This is where we fight back.",
       "turkish": "İşte burada karşı koyacağız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1951,7 +1951,7 @@
       "internalName": "vo_10400156_revenge_02_play",
       "english": "You should have known better.",
       "turkish": "Öyle aptallık etmemeliydin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1963,7 +1963,7 @@
       "internalName": "vo_10400121_building_destroy_beacon_03_play",
       "english": "Rocket's beacon won't be a concern anymore.",
       "turkish": "Rocket’ın feneri artık sıkıntıya yol açmayacak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1975,7 +1975,7 @@
       "internalName": "vo_10400266_sp_interact_tokyo_01_10340_d_play",
       "english": "It's a shopping mall, Tony…",
       "turkish": "Orası bir alışveriş merkezi Tony…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1987,7 +1987,7 @@
       "internalName": "vo_10400355_sp_interact_newyorke_01_10251_d_play",
       "english": "A shame. We're running out of options… and time…",
       "turkish": "Tüh. Seçeneklerimiz azalıyor… Keza zamanımız da…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -1999,7 +1999,7 @@
       "internalName": "vo_10400396_escorting_payload_kunlunh_02_play",
       "english": "If Shou-Lao wants The Book of the Iron Fist, it's up to us to deliver.",
       "turkish": "Eğer Shou-Lao Demir Yumruk Kitabı'nı istiyorsa, onu teslim etmek bize düşer.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2011,7 +2011,7 @@
       "internalName": "vo_10400072_ko_normal_01_play",
       "english": "That was unusually satisfying.",
       "turkish": "Alışılmadık bir biçimde tatmin ediciydi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2023,7 +2023,7 @@
       "internalName": "vo_10400117_building_destroy_ankh_02_play",
       "english": "The supernatural threat has abated.",
       "turkish": "Doğaüstü tehlike geçti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2035,7 +2035,7 @@
       "internalName": "vo_10400023_q_p13_play",
       "english": "Fantastic!",
       "turkish": "Fantastik!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2047,7 +2047,7 @@
       "internalName": "vo_10400411_interact_01_10590_c_play",
       "english": "Giganto. Fin Fang Foom. Gorgilla. And then there's Goom and his son, Googam. Oh and, of course,Mole Man's horde…",
       "turkish": "Giganto. Fin Fang Foom. Gorgilla. Ve sonra Goom ve oğlu Googam var. Ah, tabii ki, bir de Mole Man'in sürüsü…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2059,7 +2059,7 @@
       "internalName": "vo_10400214_signal_wheel_attack_02_play",
       "english": "This is the best place to strike.",
       "turkish": "Saldırmak için en iyi yer burası.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2071,7 +2071,7 @@
       "internalName": "vo_10400076_ko_normal_05_play",
       "english": "No hard feelings.",
       "turkish": "Kusura bakma.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2083,7 +2083,7 @@
       "internalName": "vo_10400195_quick_group_up_01_play",
       "english": "Let's regroup.",
       "turkish": "Yeniden toplanalım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2095,7 +2095,7 @@
       "internalName": "vo_10400235_interact_01_10110_b_play",
       "english": "If Doom can do it, we certainly can too.",
       "turkish": "Doom yapabiliyorsa biz de yapabiliriz elbette.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2107,7 +2107,7 @@
       "internalName": "vo_10400283_interact_02_10510_b_play",
       "english": "Perhaps we can still convince these Victors of the error of their ways…",
       "turkish": "Belki de hâlâ bu Victor’ları hata yaptıklarına ikna edebiliriz…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2119,7 +2119,7 @@
       "internalName": "vo_10400423_interact_01_10640_c_play",
       "english": "Perhaps… but only if you happen to have a trace of Wakandan royal blood running through your veins…",
       "turkish": "Belki… ama ancak damarlarında Wakanda kraliyet kanından bir parça akıyorsa…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2131,7 +2131,7 @@
       "internalName": "vo_10400233_signal_no_02_play",
       "english": "Not this time.",
       "turkish": "Şimdi olmaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2143,7 +2143,7 @@
       "internalName": "vo_10400417_interact_01_10620_c_play",
       "english": "Yes, I'm fully aware that Lunella's intelligence has surpassed my own. There's no need to rub it in.",
       "turkish": "Evet, Lunella’nın zekâsının benimkini aştığının gayet farkındayım. Bunu yüzüme vurmanın âlemi yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2155,7 +2155,7 @@
       "internalName": "vo_10400228_signal_vehicle_as_attack_01_play",
       "english": "We must push forward if we hope to prevail.",
       "turkish": "Başarılı olacaksak ilerlememiz şart.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2167,7 +2167,7 @@
       "internalName": "vo_10400465_interact_02_10600_a_play",
       "english": "I appreciate the dual identities you provided for Susan and myself, Director Han.",
       "turkish": "Susan ve benim için sağladığınız çifte kimlikler için minnettarım, Direktör Han.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2179,7 +2179,7 @@
       "internalName": "vo_10400115_building_spotted_nest_03_play",
       "english": "I've located a nest of synthetic spiders.",
       "turkish": "Sentetik örümceklerin yuvasını buldum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2191,7 +2191,7 @@
       "internalName": "vo_10400211_signal_wheel_enemy_spot_01_play",
       "english": "Our opponents are at this location.",
       "turkish": "Rakiplerimiz bu konumda.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2203,7 +2203,7 @@
       "internalName": "vo_10400206_signal_open_spot_02_play",
       "english": "I would advise using caution here.",
       "turkish": "Burada dikkatli olmanızı tavsiye ederim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2215,7 +2215,7 @@
       "internalName": "vo_10400278_building_spotted_octopus_02_play",
       "english": "Namor's reinforcements, I presume?",
       "turkish": "Namor’un takviye güçleridir muhakkak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2227,7 +2227,7 @@
       "internalName": "vo_10400093_saw_death_01_10340_play",
       "english": "I'll carry on our work, Tony. You have my word.",
       "turkish": "Çalışmalarımızı sürdüreceğim Tony. Sana sözüm olsun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2239,7 +2239,7 @@
       "internalName": "vo_10400388_sp_emote_10470_1047001217_07_play",
       "english": "That was simple.",
       "turkish": "Çok kolay oldu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2251,7 +2251,7 @@
       "internalName": "vo_10400399_escorting_payload_newyorkh02_01_play",
       "english": "Time for us to show Wilson Fisk who really protects this city!",
       "turkish": "Wilson Fisk'e bu şehri gerçekten kimin koruduğunu gösterme zamanı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2263,7 +2263,7 @@
       "internalName": "vo_10400005_single_08_play",
       "english": "My inventions have saved worlds, but the best thing I ever built was my family.",
       "turkish": "İcatlarımla dünyaları kurtarsam da yaptığım en iyi şey, aile kurmaktı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2275,7 +2275,7 @@
       "internalName": "vo_10400410_interact_01_10590_a_play",
       "english": "You know, the Fantastic Four have taken down our fair share of monsters over the years.",
       "turkish": "Biliyorsun, Fantastik Dörtlü yıllar boyunca birçok canavarı alt etti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2287,7 +2287,7 @@
       "internalName": "vo_10400039_debuff_purple_02_play",
       "english": "Can't seem to recover…",
       "turkish": "İyileşemiyorum sanki…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2299,7 +2299,7 @@
       "internalName": "vo_10400140_ko_q_01_play",
       "english": "My friend Ben taught me that one.",
       "turkish": "Bunu bana dostum Ben öğretmişti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2311,7 +2311,7 @@
       "internalName": "vo_10400185_quick_hi_01_play",
       "english": "Greetings.",
       "turkish": "Selamlar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2323,7 +2323,7 @@
       "internalName": "vo_10400389_sp_single_kunlunh_01_play",
       "english": "I've heard legends about this realm. But none of the stories even begin to capture its true beauty!",
       "turkish": "Bu diyar hakkında efsaneler duydum. Ama hiçbir hikaye, onun gerçek güzelliğini anlatmaya yaklaşamaz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2335,7 +2335,7 @@
       "internalName": "vo_10400314_escorting_remind_newyorke_01_play",
       "english": "We need to get H.E.R.B.I.E. to Avengers Tower at once!",
       "turkish": "H.E.R.B.I.E.yi hemen Yenilmezler Kulesi’ne ulaştırmalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2347,7 +2347,7 @@
       "internalName": "vo_10400371_sp_interact_newyorkh_01_10500_c_play",
       "english": "Fair enough. Then we'll face this crisis the same way we always have. Together.",
       "turkish": "Haklısın. O zaman daima olduğu gibi bu krizle de birlikte başa çıkacağız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2359,7 +2359,7 @@
       "internalName": "vo_10400368_sp_interact_klyntarec_01_10560_a_play",
       "english": "A throne should only be claimed by one who is truly worthy to lead.",
       "turkish": "Bir taht, yalnızca gerçekten liderlik etmeye layık olan biri tarafından talep edilmelidir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2371,7 +2371,7 @@
       "internalName": "vo_10400184_quick_fallback_02_play",
       "english": "We need to regroup elsewhere.",
       "turkish": "Başka bir yerde yeniden toplanmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2383,7 +2383,7 @@
       "internalName": "vo_10400041_debuff_weak_02_play",
       "english": "Something isn't right…",
       "turkish": "Bir yanlışlık var…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2395,7 +2395,7 @@
       "internalName": "vo_10400172_escorting_remind_asgarde_01_play",
       "english": "The gods may not be on our side, but we won't let that stop us.",
       "turkish": "Tanrılar bizim tarafımızda değil ama bu bizi durduramaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2407,7 +2407,7 @@
       "internalName": "vo_10400285_interact_02_10500_b_play",
       "english": "Would you still love me if I said \"not yet\"?",
       "turkish": "“Henüz değil” dersem beni hâlâ sever misin?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2419,7 +2419,7 @@
       "internalName": "vo_10400267_sp_interact_asgard_01_10390_b_play",
       "english": "I have some ideas… but as a man of science, I've learned to admit that some forces are beyond my comprehension or control.",
       "turkish": "Bazı fikirlerim var… Ama idrak ya da kontrol edemediğim bazı güçler olduğunu bir bilim insanı olarak kabullendim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2431,7 +2431,7 @@
       "internalName": "vo_10400269_sp_interact_wakanda_01_10260_c_play",
       "english": "I knew Intergalactic Empire Of Wakandan technologically was advanced, but what you've built here is astounding.",
       "turkish": "Galaksiler Arası Wakanda İmparatorluğu’nun teknolojik olarak gelişmiş olduğunun farkındaydım ama burada inşa ettikleriniz hayret verici.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2443,7 +2443,7 @@
       "internalName": "vo_10400360_sp_interact_kunlun_01_10520_a_play",
       "english": "The Timestream Entanglement seems to be having strange effects on mystical realms as well…",
       "turkish": "Zaman Akışı Karışıklığı, mistik alemler üzerinde de garip etkiler yaratıyor gibi görünüyor...",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2455,7 +2455,7 @@
       "internalName": "vo_10400173_escorting_remind_asgarde_02_play",
       "english": "We don't need anyone's blessing to reach the finish line.",
       "turkish": "Bitiş çizgisine ulaşmak için kimsenin kutsamasına ihtiyacımız yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2467,7 +2467,7 @@
       "internalName": "vo_10400020_switch_01_play_p2",
       "english": "Dr. Richards here.",
       "turkish": "Ben Doktor Richards.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2479,7 +2479,7 @@
       "internalName": "vo_10400216_signal_wheel_defend_02_play",
       "english": "Set up your defenses here.",
       "turkish": "Savunmanızı buraya kurun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2491,7 +2491,7 @@
       "internalName": "vo_10400253_interact_01_10500_b_play",
       "english": "No… but when you think about it, what could be more romantic than saving the universe side-by-side?",
       "turkish": "Hayır… Ama düşündüm de, birlikte evreni kurtarmaktan daha romantik ne olabilir ki?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2503,7 +2503,7 @@
       "internalName": "vo_10400294_sp_ability_10500_02_play",
       "english": "Good work, Susan!",
       "turkish": "Aferin Susan!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2515,7 +2515,7 @@
       "internalName": "vo_10400037_debuff_exhaust_02_play",
       "english": "I've become vulnerable.",
       "turkish": "Saldırıya açığım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2527,7 +2527,7 @@
       "internalName": "vo_10400032_ability_shift_02_play",
       "english": "Hmm. That almost hurt.",
       "turkish": "Hımm. Az kalsın acıtacaktı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2539,7 +2539,7 @@
       "internalName": "vo_10400261_interact_01_10280_b_play",
       "english": "I never tried. But another set of axons and dendrites did. You owe your existence to us.",
       "turkish": "Hiç denemedim. Ama başka bir akson ve dendrit seti denedi. Varlığını bize borçlusun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2551,7 +2551,7 @@
       "internalName": "vo_10400259_interact_02_10320_a_play",
       "english": "I've heard that you have a background in computer science. Is that correct?",
       "turkish": "Bilgisayar bilimi okumuşsun diye duydum. Doğru mudur?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2563,7 +2563,7 @@
       "internalName": "vo_10400070_saw_flank_01_play_p2",
       "english": "Directly behind you.",
       "turkish": "Hemen arkanızdalar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2575,7 +2575,7 @@
       "internalName": "vo_10400405_escorting_remind_newyorkh02_02_play",
       "english": "I'm starting to wonder if we should have just let H.E.R.B.I.E. drive again…",
       "turkish": "Sanırım H.E.R.B.I.E.'nin tekrar araba kullanmasına izin vermeliydik diye düşünmeye başlıyorum…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2587,7 +2587,7 @@
       "internalName": "vo_10400256_interact_01_10510_d_play",
       "english": "Not the most eloquent of solutions, Ben. But I'll certainly allow it.",
       "turkish": "Pek zarif bir çözüm değil ama kesinlikle karşı çıkacak değilim Ben.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2599,7 +2599,7 @@
       "internalName": "vo_10400074_ko_normal_03_play",
       "english": "Sorry about that.",
       "turkish": "Bu konuda üzgünüm.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2611,7 +2611,7 @@
       "internalName": "vo_10400151_ko_five_03_play",
       "english": "What I'm doing is clearly working.",
       "turkish": "Belli ki yaptıklarım işe yarıyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2623,7 +2623,7 @@
       "internalName": "vo_10400311_escorting_payload_arakkoe_02_play",
       "english": "This core should remove all traces of Ultron from Arakko.",
       "turkish": "Bu çekirdek Arakko'dan Ultron'un tüm izlerini temizlemeli.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2635,7 +2635,7 @@
       "internalName": "vo_10400358_sp_interact_newyorke_01_10340_a_play",
       "english": "I'm afraid there's still no evident scientific solution to our vampire problem…",
       "turkish": "Ne yazık ki henüz vampir sorunumuza bilimsel bir çözüm bulamadık…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2647,7 +2647,7 @@
       "internalName": "vo_10400145_ko_ability_right_03_play",
       "english": "Not your best effort, I'm afraid.",
       "turkish": "Daha iyisini yapabilirdin. Yazık.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2659,7 +2659,7 @@
       "internalName": "vo_10400316_escorting_remind_newyorkh_01_play",
       "english": "We're this city's only hope. Don't give up now!",
       "turkish": "Bu şehrin tek umudu biziz. Şimdi pes etmeyin!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2671,7 +2671,7 @@
       "internalName": "vo_10400384_sp_emote_10470_1047001217_03_play",
       "english": "A futile attempt.",
       "turkish": "Faydasız bir çaba.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2683,7 +2683,7 @@
       "internalName": "vo_10400062_occupied_hint_attack_01_play",
       "english": "We have what it takes to succeed.",
       "turkish": "Başarmak için gereken her şeye sahibiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2695,7 +2695,7 @@
       "internalName": "vo_10400124_building_destroy_amplifier_03_play",
       "english": "Sorry, Rocket. I couldn't let that amplifier stay on-line.",
       "turkish": "Üzgünüm Rocket. Şu kuvvetlendiricinin açık kalmasına izin veremezdim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2707,7 +2707,7 @@
       "internalName": "vo_10400046_buff_dmg_01_play",
       "english": "An exponential boost.",
       "turkish": "Üstel bir artış.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2719,7 +2719,7 @@
       "internalName": "vo_10400451_ko_sp_01_10640_play",
       "english": "Even the power of Apocalypse couldn't save you.",
       "turkish": "APOCALYPSE’ın gücü bile seni kurtaramadı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2731,7 +2731,7 @@
       "internalName": "vo_10400112_building_spotted_turret_03_play",
       "english": "Some sort of advanced assault cannon…",
       "turkish": "Bir tür gelişmiş taarruz topu…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2743,7 +2743,7 @@
       "internalName": "vo_10400095_healthpack_01_play",
       "english": "Excellent.",
       "turkish": "Muhteşem.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2755,7 +2755,7 @@
       "internalName": "vo_10400179_escorting_remind_wakandah_02_play",
       "english": "If we fail T'Challa, we risk failing everyone.",
       "turkish": "T'Challa’yı yüzüstü bırakırsak herkesi yüzüstü bırakmış oluruz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2767,7 +2767,7 @@
       "internalName": "vo_10400210_signal_enemy_02_play",
       "english": "I've spotted one our adversaries.",
       "turkish": "Düşmanlarımızdan birini tespit ettim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2779,7 +2779,7 @@
       "internalName": "vo_10400359_sp_interact_newyorke_01_10340_c_play",
       "english": "I suppose it's never a bad thing to give some other muscles a stretch.",
       "turkish": "Biraz da başka kaslarımızı esnetelim diyorsun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2791,7 +2791,7 @@
       "internalName": "vo_10400293_sp_ability_10500_01_play",
       "english": "A Force Field!",
       "turkish": "Güç Alanı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2803,7 +2803,7 @@
       "internalName": "vo_10400054_buff_purge_01_play",
       "english": "Like brand new.",
       "turkish": "Gıcır gıcır oldum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2815,7 +2815,7 @@
       "internalName": "vo_10400337_interact_01_10160_c_play",
       "english": "Sorry, but I'll put my faith in science over sorcery any day, Loki.",
       "turkish": "Üzgünüm ama daima büyü yerine bilime inanmayı yeğlerim Loki.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2827,7 +2827,7 @@
       "internalName": "vo_10400297_sp_single_newyorkh_01_play",
       "english": "Time to end this curse and take back our home!",
       "turkish": "Bu lanete son verip şehrimizi geri almanın zamanı geldi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2839,7 +2839,7 @@
       "internalName": "vo_10400252_interact_01_10350_d_play",
       "english": "Ah, now I see why Susan insisted I bring my sonic wave generator.",
       "turkish": "Ah, Susan’ın ses dalgası makinemi getirmemde neden ısrarcı olduğunu artık anladım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2851,7 +2851,7 @@
       "internalName": "vo_10400467_interact_02_10610_a_play",
       "english": "Oh joy. Hello, Miss Hardy…",
       "turkish": "Ne büyük sevinç. Merhaba, Bayan Hardy…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2863,7 +2863,7 @@
       "internalName": "vo_10400207_signal_broken_01_play",
       "english": "This environment is quite destructible.",
       "turkish": "Bu ortam kolayca yıkılabilir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2875,7 +2875,7 @@
       "internalName": "vo_10400333_interact_01_10570_c_play",
       "english": "I'm going to stop you right there.",
       "turkish": "Seni hemen orada durduracağım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2887,7 +2887,7 @@
       "internalName": "vo_10400194_quick_need_heal_02_play",
       "english": "I need help to recover.",
       "turkish": "İyileşmek için yardıma ihtiyacım var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2899,7 +2899,7 @@
       "internalName": "vo_10400071_saw_flank_02_play_p2",
       "english": "They're coming from behind.",
       "turkish": "Arkadan geliyorlar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2911,7 +2911,7 @@
       "internalName": "vo_10400025_ability_right_01_play",
       "english": "I've got you.",
       "turkish": "Tuttum seni.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2923,7 +2923,7 @@
       "internalName": "vo_10400006_single_09_play",
       "english": "Winning isn't always about hitting harder. Sometimes, it's about thinking harder.",
       "turkish": "Kazanmak, illa daha sert vurmakla ilgili değildir. Bazen daha çok kafa yormak gerekir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2935,7 +2935,7 @@
       "internalName": "vo_10400443_sp_ability_10230_01_play",
       "english": "Elastic and Fantastic!",
       "turkish": "Esnek ve Fantastik!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2947,7 +2947,7 @@
       "internalName": "vo_10400058_occupied_hint_engage_01_play",
       "english": "We have quite a battle ahead of us.",
       "turkish": "Zorlu bir savaş bizi bekliyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2959,7 +2959,7 @@
       "internalName": "vo_10400226_signal_area_occupied_01_play",
       "english": "Do not let them claim this site.",
       "turkish": "Burayı almalarına izin vermeyin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2971,7 +2971,7 @@
       "internalName": "vo_10400125_building_destroy_turret_01_play",
       "english": "I prefer less violent solutions, Frank.",
       "turkish": "Daha az şiddet içeren çözümleri tercih ediyorum Frank.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2983,7 +2983,7 @@
       "internalName": "vo_10400157_revenge_03_play",
       "english": "Next time, I won't be so kind.",
       "turkish": "Bir dahaki sefere bu kadar nazik olmayacağım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -2995,7 +2995,7 @@
       "internalName": "vo_10400066_countdown_dt_01_play",
       "english": "We can't stand down yet.",
       "turkish": "Henüz geri adım atamayız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3007,7 +3007,7 @@
       "internalName": "vo_10400008_single_11_play",
       "english": "My ultimate goal is simple. Solve everything. So... let's get started.",
       "turkish": "Nihai amacım basit: Her şeyi çözmek. O hâlde başlayalım artık.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3019,7 +3019,7 @@
       "internalName": "vo_10400442_sp_ability_10510_03_play",
       "english": "Just like Ben!",
       "turkish": "Tıpkı Ben gibi!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3031,7 +3031,7 @@
       "internalName": "vo_10400263_interact_02_10450_c_play",
       "english": "It's good to know our goals are aligned. Namor.",
       "turkish": "Aynı şeyi amaçladığımızı öğrendiğime sevindim Namor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3043,7 +3043,7 @@
       "internalName": "vo_10400094_saw_death_01_10360_play",
       "english": "You deserved far better than that, Peter. I'm sorry.",
       "turkish": "Bundan çok daha iyisini hak ediyordun Peter. Üzgünüm.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3055,7 +3055,7 @@
       "internalName": "vo_10400249_interact_01_10360_c_play",
       "english": "Actually, I was hoping you could offer your opinion on my designs, Peter.",
       "turkish": "Aslında tasarımlarım konusunda görüşünü soracaktım Peter.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3067,7 +3067,7 @@
       "internalName": "vo_10400232_signal_no_01_play",
       "english": "I'm afraid not.",
       "turkish": "Maalesef olmaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3079,7 +3079,7 @@
       "internalName": "vo_10400298_sp_single_krakoac_01_play",
       "english": "I've never been one for high society events… but this could be interesting…",
       "turkish": "Yüksek sosyete etkinlikleri oldum olası ilgimi çekmemiştir… Ama bu seferki ilginç olabilir…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3091,7 +3091,7 @@
       "internalName": "vo_10400123_building_destroy_amplifier_02_play",
       "english": "Rocket's amplifier has been dismantled.",
       "turkish": "Rocket’ın kuvvetlendiricisini söktüm.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3103,7 +3103,7 @@
       "internalName": "vo_10400317_escorting_remind_newyorkh_02_play",
       "english": "Stay strong! This curse must be broken!",
       "turkish": "Dayanın! Bu lanet bozulmalı!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3115,7 +3115,7 @@
       "internalName": "vo_10400237_interact_01_10111_c_play",
       "english": "By the time you decide to give Bruce control again, it may be too late.",
       "turkish": "Kontrolü yeniden Bruce’a vermeye karar verene kadar iş işten geçmiş olabilir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3127,7 +3127,7 @@
       "internalName": "vo_10400439_entrance_02_10230_play",
       "english": "Always nice to have another genius on my side, Rocket!",
       "turkish": "Rocket, yanımda bir dahi daha olması her zaman güzel!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3139,7 +3139,7 @@
       "internalName": "vo_10400119_building_destroy_beacon_01_play",
       "english": "Rocket's beacon has been dealt with.",
       "turkish": "Rocket’ın fenerinin icabına baktım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3151,7 +3151,7 @@
       "internalName": "vo_10400284_interact_02_10510_d_play",
       "english": "We'll just have to win this the way we always do. Together.",
       "turkish": "Her zaman yaptığımız gibi birlikte kazanmamız gerekecek.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3163,7 +3163,7 @@
       "internalName": "vo_10400401_escorting_remind_kunlunh_01_play",
       "english": "Faster! We need to get this tablet to Shou-Lao!",
       "turkish": "Daha hızlı! Bu tableti Shou-Lao'ya ulaştırmamız gerekiyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3175,7 +3175,7 @@
       "internalName": "vo_10400262_interact_02_10450_a_play",
       "english": "If we want to solve this crisis, we'll need to put our differences aside.",
       "turkish": "Bu krizi çözmek istiyorsak farklılıklarımızı bir kenara bırakmamız gerekecek.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3187,7 +3187,7 @@
       "internalName": "vo_10400050_buff_shield_01_play",
       "english": "A shield. Perfect.",
       "turkish": "Bir kalkan. Mükemmel.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3199,7 +3199,7 @@
       "internalName": "vo_10400101_saw_sniper_01_play",
       "english": "A long-range shooter? Smart.",
       "turkish": "Uzun menzilli nişancı mı? Zekice.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3211,7 +3211,7 @@
       "internalName": "vo_10400033_ability_shift_03_play",
       "english": "Let me return the favor.",
       "turkish": "Ben de karşılığını vereyim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3223,7 +3223,7 @@
       "internalName": "vo_10400109_building_spotted_portal_03_play",
       "english": "One of Doctor Strange's portals.",
       "turkish": "Doctor Strange’in portallarından biri.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3235,7 +3235,7 @@
       "internalName": "vo_10400061_occupied_hint_defend_02_play",
       "english": "They can't be allowed to seize control.",
       "turkish": "Kontrolü ele geçirmelerine müsaade edemeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3247,7 +3247,7 @@
       "internalName": "vo_10400292_sp_interact_newyork_01_10260_d_play",
       "english": "I was hoping it wouldn't come to that, T'Challa. But you may be right.",
       "turkish": "İşin oraya gelmemesini umuyordum T'Challa. Ancak belki de haklısındır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3259,7 +3259,7 @@
       "internalName": "vo_10400096_healthpack_02_play",
       "english": "This should come in handy.",
       "turkish": "İşime yarar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3271,7 +3271,7 @@
       "internalName": "vo_10400081_ko_sp_01_10360_play",
       "english": "I assure you, I took no pleasure in that, Peter.",
       "turkish": "Seni temin ederim ki bundan hiç zevk almadım Peter.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3283,7 +3283,7 @@
       "internalName": "vo_10400419_interact_01_10630_d_play",
       "english": "Neither has Ben Grimm. Because when he does, he levels an entire city block. Keep that in mind, Scott. For all our sakes.",
       "turkish": "Ben Grimm de yapmadı. Çünkü yaptığında koskoca bir şehir bloğunu yerle bir ediyor. Aklında tut bunu, Scott. Hepimiz için.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3295,7 +3295,7 @@
       "internalName": "vo_10400453_ko_sp_01_10570_play",
       "english": "Sorry, Deadpool. But my children are listening.",
       "turkish": "Üzgünüm, Deadpool. Ama çocuklarım dinliyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3307,7 +3307,7 @@
       "internalName": "vo_10400097_respawn_01_play",
       "english": "I'm not ready to give up yet.",
       "turkish": "Henüz havlu atmaya hazır değilim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3319,7 +3319,7 @@
       "internalName": "vo_10400078_ko_sp_01_10170_play",
       "english": "Your sister is not going to be happy about this, Johnny.",
       "turkish": "Ablan bunu duyunca çok kızacak Johnny.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3331,7 +3331,7 @@
       "internalName": "vo_10400015_sp_single_hydra_01_play",
       "english": "What Hydra is doing here is unethical by any standard.",
       "turkish": "Hydra’nın burada yaptıkları, hiçbir şekilde etik değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3343,7 +3343,7 @@
       "internalName": "vo_10400277_building_spotted_octopus_01_play",
       "english": "Careful. Cephalopods are quite intelligent.",
       "turkish": "Dikkat. Kafadanbacaklılar son derece zekidir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3355,7 +3355,7 @@
       "internalName": "vo_10400183_quick_fallback_01_play",
       "english": "Time for a tactical retreat.",
       "turkish": "Stratejik geri çekilme zamanı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3367,7 +3367,7 @@
       "internalName": "vo_10400222_signal_wheel_backup_02_play",
       "english": "I would appreciate some help.",
       "turkish": "Biraz yardımcı olsanız çok iyi olur.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3379,7 +3379,7 @@
       "internalName": "vo_10400122_building_destroy_amplifier_01_play",
       "english": "That amplifier won't be of much use to them now.",
       "turkish": "Bu kuvvetlendirici artık pek işlerine yaramaz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3391,7 +3391,7 @@
       "internalName": "vo_10400343_interact_03_10510_c_play",
       "english": "All signs point to a being on par with Galactus… yet not quite the same…",
       "turkish": "Tüm işaretler, Galactus’la aynı kulvarda bir varlık diyor… Ancak tıpatıp değil…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3403,7 +3403,7 @@
       "internalName": "vo_10400004_single_07_play",
       "english": "Even in the face of cosmic cataclysm, every one of us can make a difference.",
       "turkish": "Kozmik bir afet karşısında bile her birimiz fark yaratabiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3415,7 +3415,7 @@
       "internalName": "vo_10400116_building_destroy_ankh_01_play",
       "english": "The ankh's power has been neutralized.",
       "turkish": "Yaşam çarmıhının gücü etkisiz hâle getirildi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3427,7 +3427,7 @@
       "internalName": "vo_10400201_quick_confirm_01_play",
       "english": "Indeed.",
       "turkish": "Kesinlikle.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3439,7 +3439,7 @@
       "internalName": "vo_10400349_interact_01_10530_d_play",
       "english": "Reading a quantum equation and understanding it are two totally different things, Emma.",
       "turkish": "Kuantum denklemlerini okumakla anlamak bambaşka şeylerdir Emma.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3451,7 +3451,7 @@
       "internalName": "vo_10400236_interact_01_10111_a_play",
       "english": "We could really use a mind like Dr. Banner's right about now…",
       "turkish": "Şu an Doktor Banner’ın aklına çok ihtiyacımız var…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3463,7 +3463,7 @@
       "internalName": "vo_10400174_escorting_remind_tokyoe_01_play",
       "english": "Some additional acceleration would be ideal.",
       "turkish": "Biraz daha ivme kazansak ideal olurdu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3475,7 +3475,7 @@
       "internalName": "vo_10400166_escorting_payload_tokyoe_01_play",
       "english": "You can count on us, Spider.",
       "turkish": "Bize güvenebilirsin Örümcek.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3487,7 +3487,7 @@
       "internalName": "vo_10400107_building_spotted_portal_01_play",
       "english": "Stephen is bending the fabric of space.",
       "turkish": "Stephen uzayın dokusunu büküyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3499,7 +3499,7 @@
       "internalName": "vo_10400139_ko_normal_08_play",
       "english": "Your failure was inevitable.",
       "turkish": "Yenilmen kaçınılmazdı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3511,7 +3511,7 @@
       "internalName": "vo_10400055_buff_purge_02_play",
       "english": "Reinvigorated and ready.",
       "turkish": "Yeniden canlandım ve hazırım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3523,7 +3523,7 @@
       "internalName": "vo_10400307_escorting_payload_newyorke_02_play",
       "english": "I have complete faith in your ability to complete this mission, H.E.R.B.I.E.",
       "turkish": "Bu görevi tamamlayabileceğine canıgönülden inanıyorum H.E.R.B.I.E.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3535,7 +3535,7 @@
       "internalName": "vo_10400144_ko_ability_right_02_play",
       "english": "I've impressed myself.",
       "turkish": "Kendi kendimi etkiledim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3547,7 +3547,7 @@
       "internalName": "vo_10400286_interact_02_10500_d_play",
       "english": "As would I, my dear… As would I…",
       "turkish": "Ben de öyle canım… Ben de öyle…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3559,7 +3559,7 @@
       "internalName": "vo_10400260_interact_02_10320_c_play",
       "english": "Have you ever considered using those talents to save the universe instead?",
       "turkish": "Bu yeteneklerini evreni kurtarmak için kullanmayı hiç düşündün mü peki?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3571,7 +3571,7 @@
       "internalName": "vo_10400238_interact_01_10180_a_play",
       "english": "Science alone may not be enough to win us this battle, Stephen.",
       "turkish": "Bilim, tek başına bu savaşı kazanmamıza yetmeyebilir Stephen.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3583,7 +3583,7 @@
       "internalName": "vo_10400381_sp_interact_newyorke_01_10590_c_play",
       "english": "You may change your mind when you're being hunted by a horde of hungry vampires.",
       "turkish": "Aç bir vampir sürüsü tarafından avlanırken fikrini değiştirebilirsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3595,7 +3595,7 @@
       "internalName": "vo_10400436_entrance_01_10510_play",
       "english": "If a big brain isn't enough, a big fist should do the trick!",
       "turkish": "Koca bir beyin yetmiyorsa, koca bir yumruk işi çözer!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3607,7 +3607,7 @@
       "internalName": "vo_10400251_interact_01_10350_b_play",
       "english": "I hope so. But solving a problem this big will push me to my mental limits.",
       "turkish": "Umarım. Ama bu kadar büyük bir sorunu çözmek, beni zihnen zorlayacak.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3619,7 +3619,7 @@
       "internalName": "vo_10400017_sp_single_tokyo_01_play",
       "english": "This future is even more fascinating than I could have imagined.",
       "turkish": "Bu gelecek, hayal edebileceğimden bile daha enteresan.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3631,7 +3631,7 @@
       "internalName": "vo_10400126_building_destroy_turret_02_play",
       "english": "The Punisher's turret is no longer in service.",
       "turkish": "Punisher'ın tareti artık tehdit teşkil etmiyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3643,7 +3643,7 @@
       "internalName": "vo_10400310_escorting_payload_arakkoe_01_play",
       "english": "Ultron can be purged from Arakko, if we act fast.",
       "turkish": "Hızlı davranırsak Ultron'u Arakko'dan temizleyebiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3655,7 +3655,7 @@
       "internalName": "vo_10400052_buff_dr_01_play",
       "english": "Damage resistance increased.",
       "turkish": "Hasar direncim arttı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3667,7 +3667,7 @@
       "internalName": "vo_10400067_countdown_dt_02_play",
       "english": "We have to see this through to the end.",
       "turkish": "Bu işin sonunu getirmeliyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3679,7 +3679,7 @@
       "internalName": "vo_10400422_interact_01_10640_a_play",
       "english": "When the Black Panther became a vampire not long ago, his Heart-Shaped Herb was able to cure his affliction.",
       "turkish": "Kısa süre önce Black Panther bir vampire dönüştüğünde, Kalp Şeklindeki Bitkisi bu musibeti iyileştirebilmişti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3691,7 +3691,7 @@
       "internalName": "vo_10400110_building_spotted_turret_01_play",
       "english": "That turret is unusually large. Even for you, Frank.",
       "turkish": "Bu taret, senin için bile aşırı büyük Frank.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3703,7 +3703,7 @@
       "internalName": "vo_10400382_sp_emote_10470_1047001217_01_play",
       "english": "Fantastic!",
       "turkish": "Fantastik!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3715,7 +3715,7 @@
       "internalName": "vo_10400186_quick_hi_02_play",
       "english": "Hello.",
       "turkish": "Merhaba.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3727,7 +3727,7 @@
       "internalName": "vo_10400258_interact_01_10450_d_play",
       "english": "Speak my wife's name and you'll find our alliance will be over far sooner than you anticipated.",
       "turkish": "Karımın adını ağzına alırsan ittifakımızın beklediğinden çok daha erken biteceğini görürsün.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3739,7 +3739,7 @@
       "internalName": "vo_10400404_escorting_remind_museume_02_play",
       "english": "Push forward! The Collector can’t be allowed to reclaim these specimens!",
       "turkish": "İleri atılın! Koleksiyoncu'nun bu örnekleri geri almasına izin veremeyiz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3751,7 +3751,7 @@
       "internalName": "vo_10400408_sp_ability_10230_02_play",
       "english": "Quite the stretch!",
       "turkish": "Oldukça esnek!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3763,7 +3763,7 @@
       "internalName": "vo_10400073_ko_normal_02_play",
       "english": "The odds weren't in your favor.",
       "turkish": "Kazanma ihtimalin düşüktü.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3775,7 +3775,7 @@
       "internalName": "vo_10400212_signal_wheel_enemy_spot_02_play",
       "english": "You're likely to find our enemies here.",
       "turkish": "Düşmanlarımızı muhtemelen burada bulabilirsiniz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3787,7 +3787,7 @@
       "internalName": "vo_10400470_interact_02_10620_c_play",
       "english": "I'm sure Moon Girl will want to give it some personalized upgrades later, but it should do the trick for now.",
       "turkish": "Moon Girl’ün sonra buna kişiye özel birkaç yükseltme yapmak isteyeceğine eminim, ama şimdilik iş görür.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3799,7 +3799,7 @@
       "internalName": "vo_10400403_escorting_remind_museume_01_play",
       "english": "Keep moving! These poor creatures deserve better than a life in captivity!",
       "turkish": "Hareket etmeye devam edin! Bu zavallı yaratıklar esaretten daha iyisini hak ediyor!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3811,7 +3811,7 @@
       "internalName": "vo_10400373_sp_interact_newyorkh_01_10410_d_play",
       "english": "Next time, you might not be as lucky. Better be careful out there…",
       "turkish": "Bir dahaki sefere o kadar şanslı olmayabilirsin. En iyisi dikkatli ol…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3823,7 +3823,7 @@
       "internalName": "vo_10400130_building_destroy_nest_03_play",
       "english": "A shame to destroy such advanced spider-tech…",
       "turkish": "Bu gelişmiş örümcek teknolojisine yazık oldu…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3835,7 +3835,7 @@
       "internalName": "vo_10400024_q_p2_play_p2",
       "english": "Problem solved!",
       "turkish": "Sorun çözüldü!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3847,7 +3847,7 @@
       "internalName": "vo_10400452_ko_sp_01_10610_play",
       "english": "That's for trying to steal my inventions, Felicia.",
       "turkish": "İcatlarımı çalmaya kalkıştığın için bu, Felicia.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3859,7 +3859,7 @@
       "internalName": "vo_10400415_interact_01_10600_d_play",
       "english": "Of course. I'll see if she has any time for other extracurriculars between homework and ballet lessons…",
       "turkish": "Tabii ki. Ödevler ve bale dersleri arasında başka etkinliklere vakti olup olmadığını kontrol edeceğim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3871,7 +3871,7 @@
       "internalName": "vo_10400021_switch_02_play_p2",
       "english": "Mister Fantastic, standing by.",
       "turkish": "Mister Fantastic beklemede.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3883,7 +3883,7 @@
       "internalName": "vo_10400045_buff_heal_noncritical_02_play",
       "english": "What a relief.",
       "turkish": "İçim rahatladı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3895,7 +3895,7 @@
       "internalName": "vo_10400435_sp_interact_newyorke_01_10620_c_play",
       "english": "Ah Lunella, when we're done, I could use your help. Care to join me in my lab?",
       "turkish": "Ah, Lunella; işimiz bitince yardımına ihtiyacım olabilir. Laboratuvarımda bana katılmak ister misin?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3907,7 +3907,7 @@
       "internalName": "vo_10400335_interact_02_10110_c_play",
       "english": "…",
       "turkish": "…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3919,7 +3919,7 @@
       "internalName": "vo_10400148_ko_three_03_play",
       "english": "A trio of threats removed.",
       "turkish": "Üçlü tehdit ortadan kaldırıldı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3931,7 +3931,7 @@
       "internalName": "vo_10400035_debuff_control_02_play",
       "english": "I've... lost control…",
       "turkish": "Kontrolü… Kaybettim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3943,7 +3943,7 @@
       "internalName": "vo_10400147_ko_three_02_play",
       "english": "Three opponents neutralized.",
       "turkish": "Üç rakibi etkisiz hâle getirdim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3955,7 +3955,7 @@
       "internalName": "vo_10400080_ko_sp_01_10340_play",
       "english": "Your ego got in your way, Tony. As always.",
       "turkish": "Egon sana köstek oldu Tony. Daima olduğu gibi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3967,7 +3967,7 @@
       "internalName": "vo_10400187_quick_q_charge_90_under_01_play",
       "english": "Still need time to stretch…",
       "turkish": "Esnemem için hâlâ zaman gerek…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3979,7 +3979,7 @@
       "internalName": "vo_10400014_single_05_play",
       "english": "In a situation as unpredictable as this, it's important to remain flexible.",
       "turkish": "Böyle öngörülemez durumlarda esnek kalmak çok önemli.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -3991,7 +3991,7 @@
       "internalName": "vo_10400407_sp_ability_10230_01_play",
       "english": "Beyond all limits!",
       "turkish": "Sınırların ötesinde!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4003,7 +4003,7 @@
       "internalName": "vo_10400306_escorting_payload_newyorke_01_play",
       "english": "You know the program, H.E.R.B.I.E. Let's get you to the Tower.",
       "turkish": "Programı biliyorsun H.E.R.B.I.E. Seni Kule’ye ulaştıralım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4015,7 +4015,7 @@
       "internalName": "vo_10400127_building_destroy_turret_03_play",
       "english": "The turret can't harm us any longer.",
       "turkish": "Taret artık bize zarar veremez.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4027,7 +4027,7 @@
       "internalName": "vo_10400336_interact_01_10160_a_play",
       "english": "If I had a quantum converter, I could build us a device capable of --",
       "turkish": "Kuantum dönüştürücüm olsaydı hazırlayabileceğim bir cihazla…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4039,7 +4039,7 @@
       "internalName": "vo_10400376_sp_interact_newyorke_01_10430_b_play",
       "english": "I believe Ben has that covered. But thank you anyway.",
       "turkish": "Sanırım o iş Ben Grimm’de. Yine de sağ ol.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4051,7 +4051,7 @@
       "internalName": "vo_10400088_saw_ko_01_10111_play",
       "english": "I suppose this version of you does have its benefits, Bruce.",
       "turkish": "Sanırım bu versiyonunun da bazı faydaları var Bruce.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4063,7 +4063,7 @@
       "internalName": "vo_10400357_sp_interact_newyorke_01_10300_c_play",
       "english": "That's a far more permanent solution than I'm willing to consider.",
       "turkish": "Göze alamayacağım kadar kalıcı bir çözüm bu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4075,7 +4075,7 @@
       "internalName": "vo_10400230_signal_vehicle_as_defend_01_play",
       "english": "Bring their progress to a halt.",
       "turkish": "İlerlemelerini durdurun.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4087,7 +4087,7 @@
       "internalName": "vo_10400434_sp_interact_newyorke_01_10620_a_play",
       "english": "If you're here, Devil, I assume Lunella is monitoring the battle?",
       "turkish": "Buradaysan, Devil, Lunella’nın savaşı izlediğini varsayıyorum?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4099,7 +4099,7 @@
       "internalName": "vo_10400281_building_destroy_octopus_02_play",
       "english": "Perhaps you should do your own fighting, Namor…",
       "turkish": "Belki de kendi kavganı kendin vermelisin Namor…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4111,7 +4111,7 @@
       "internalName": "vo_10400189_quick_q_charge_90_higher_01_play",
       "english": "Almost ready…",
       "turkish": "Hazır olmama az kaldı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4123,7 +4123,7 @@
       "internalName": "vo_10400473_interact_02_10640_a_play",
       "english": "With some effort, I should be able to reverse the process that made you into one of Apocalypse's Horsemen.",
       "turkish": "Biraz çabayla, sizi Apocalypse’in Atlılarından birine dönüştüren süreci tersine çevirebilirim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4135,7 +4135,7 @@
       "internalName": "vo_10400082_ko_sp_01_10450_play",
       "english": "To be honest, Namor, that was a long time coming.",
       "turkish": "Açıkçası Namor, perşembenin gelişi çarşambadan belliydi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4147,7 +4147,7 @@
       "internalName": "vo_10400193_quick_need_heal_01_play",
       "english": "I could use some aid.",
       "turkish": "Biraz yardıma hayır demem.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4159,7 +4159,7 @@
       "internalName": "vo_10400049_buff_endure_02_play",
       "english": "Not even Ben could hurt me.",
       "turkish": "Ben Grimm bile bana zarar veremez.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4171,7 +4171,7 @@
       "internalName": "vo_10400068_saw_enemy_01_play",
       "english": "Trouble has arrived.",
       "turkish": "Dert göründü.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4183,7 +4183,7 @@
       "internalName": "vo_10400380_sp_interact_newyorke_01_10590_a_play",
       "english": "If you get overwhelmed out there, you're always welcome to take shelter in the Baxter Building.",
       "turkish": "Dışarıda bunalmış hissedersen, her zaman Baxter Binası'nda sığınabilirsin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4195,7 +4195,7 @@
       "internalName": "vo_10400165_escorting_payload_asgarde_02_play",
       "english": "The fate of this realm depends on our success.",
       "turkish": "Bu diyarın kaderi, başarılı olmamıza bağlı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4207,7 +4207,7 @@
       "internalName": "vo_10400100_respawn_04_play",
       "english": "I'm more resilient than you think.",
       "turkish": "Sandığından daha dayanıklıyımdır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4219,7 +4219,7 @@
       "internalName": "vo_10400132_ko_sniper_02_play",
       "english": "The sniper has been removed from play.",
       "turkish": "Keskin nişancı elendi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4231,7 +4231,7 @@
       "internalName": "vo_10400026_ability_right_02_play",
       "english": "Well, hello there.",
       "turkish": "Aa, merhabalar.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4243,7 +4243,7 @@
       "internalName": "vo_10400087_saw_ko_01_10510_play",
       "english": "Glad I wasn't late for clobbering time, Ben.",
       "turkish": "İyi ki dayak zamanını kaçırmamışım Ben.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4255,7 +4255,7 @@
       "internalName": "vo_10400079_ko_sp_01_10510_play",
       "english": "I really didn't want it to end this way, Ben.",
       "turkish": "Bu işin böyle bitmesini asla istememiştim Ben.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4267,7 +4267,7 @@
       "internalName": "vo_10400418_interact_01_10630_b_play",
       "english": "I could make some adjustments to your visor, if you'd like. Add some extra safeguards.",
       "turkish": "İstersen vizöründe bazı ayarlamalar yapabilirim. Birkaç ekstra emniyet önlemi eklerim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4279,7 +4279,7 @@
       "internalName": "vo_10400152_ko_ace_01_play",
       "english": "Ben would be so proud.",
       "turkish": "Ben Grimm görse gurur duyardı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4291,7 +4291,7 @@
       "internalName": "vo_10400111_building_spotted_turret_02_play",
       "english": "The Punisher has assembled quite the weapon.",
       "turkish": "Punisher sağlam bir silah hazırlamış.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4303,7 +4303,7 @@
       "internalName": "vo_10400099_respawn_03_play",
       "english": "I won't rest until this is solved.",
       "turkish": "Bu sorun çözülene dek bana huzur yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4315,7 +4315,7 @@
       "internalName": "vo_10400246_interact_03_10260_a_play",
       "english": "T'Challa. Tony and I are working on something big, but we can't do it alone.",
       "turkish": "T'Challa. Tony ile birlikte büyük bir proje üzerinde çalışıyoruz ama tek başımıza yapamayız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4327,7 +4327,7 @@
       "internalName": "vo_10400245_interact_02_10170_d_play",
       "english": "… I'm not sure you want me to answer that.",
       "turkish": "… Bu soruya yanıt vermemi istediğini sanmıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4339,7 +4339,7 @@
       "internalName": "vo_10400146_ko_three_01_play",
       "english": "That's three.",
       "turkish": "Üç etti.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4351,7 +4351,7 @@
       "internalName": "vo_10400040_debuff_weak_01_play",
       "english": "Stretched… too thin…",
       "turkish": "Esneye esneye… Çok inceldim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4363,7 +4363,7 @@
       "internalName": "vo_10400305_escorting_payload_klyntarh_02_play",
       "english": "Let's deliver this essence beneath the surface and end Knull's reign for good.",
       "turkish": "Bu özü yüzeyin altına götürüp Knull’un hükümdarlığına kalıcı olarak son verelim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4375,7 +4375,7 @@
       "internalName": "vo_10400391_sp_single_museume_01_play",
       "english": "I could spend ages examining every piece of intergalactic ephemera in this place…",
       "turkish": "Bu yerdeki her bir galaksiler arası hatırayı incelemek için sonsuz zaman harcayabilirim…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4387,7 +4387,7 @@
       "internalName": "vo_10400397_escorting_payload_museume_01_play",
       "english": "No sentient being deserves to be locked away in a museum. We must liberate them!",
       "turkish": "Hiçbir duyarlı varlık bir müzede hapsedilmeyi hak etmez. Onları özgür bırakmalıyız!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4399,7 +4399,7 @@
       "internalName": "vo_10400010_single_01_play",
       "english": "This crisis is stretching me to my limits. And that's saying something.",
       "turkish": "Bu kriz yüzünden geril geril gerildim. Bu da az buz bir şey değil.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4411,7 +4411,7 @@
       "internalName": "vo_10400457_saw_ko_01_10590_play",
       "english": "A fantastic shot, Elsa. As expected.",
       "turkish": "Müthiş bir atış, Elsa. Beklendiği gibi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4423,7 +4423,7 @@
       "internalName": "vo_10400354_sp_interact_newyorke_01_10251_b_play",
       "english": "Is there any chance you could absorb this darkness into the Darkforce Dimension?",
       "turkish": "Bu karanlığı Karanlık Güç Boyutu’na emme ihtimalin var mıdır?",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4435,7 +4435,7 @@
       "internalName": "vo_10400153_ko_ace_02_play",
       "english": "Clobbering time, indeed.",
       "turkish": "Gerçekten de dayak zamanıymış.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4447,7 +4447,7 @@
       "internalName": "vo_10400190_quick_q_charge_90_higher_02_play",
       "english": "My power level is nearly sufficient…",
       "turkish": "Güç seviyemin yeterli olmasına az kaldı…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4459,7 +4459,7 @@
       "internalName": "vo_10400372_sp_interact_newyorkh_01_10410_b_play",
       "english": "I haven't. But my elastic skin has prevented any puncture wounds thus far.",
       "turkish": "Kim demiş ısırılmadım diye? Neyse ki elastik cildim, şu ana dek ısırıklardan yaralanmamı engelledi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4471,7 +4471,7 @@
       "internalName": "vo_10400086_saw_ko_01_10170_play",
       "english": "You really turned up the heat, Johnny.",
       "turkish": "Gerçekten de ortamı yakıp kavurdun Johnny!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4483,7 +4483,7 @@
       "internalName": "vo_10400142_ko_q_03_play",
       "english": "A rousing success.",
       "turkish": "Büyük başarı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4495,7 +4495,7 @@
       "internalName": "vo_10400271_sp_interact_hydra_01_10220_b_play",
       "english": "It must be hard to know that Hydra is still a threat, after all you did to stop them during the war.",
       "turkish": "Savaşta onları durdurmak için yaptıklarına rağmen Hydra’nın hâlâ tehdit teşkil ettiğini bilmek zor olmalı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4507,7 +4507,7 @@
       "internalName": "vo_10400083_ko_sp_01_10110_play",
       "english": "Perhaps Hulk could have bested me. But not you, Bruce.",
       "turkish": "Belki Hulk beni yenebilirdi ama sen değil Bruce.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4519,7 +4519,7 @@
       "internalName": "vo_10400441_sp_ability_10510_02_play",
       "english": "Brains and brawn!",
       "turkish": "Zekâ ve güç!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4531,7 +4531,7 @@
       "internalName": "vo_10400255_interact_01_10510_b_play",
       "english": "Victor has always had a way of bringing chaos to our doorstep.",
       "turkish": "Victor daima kaosu ayağımıza getirmenin bir yolunu bulmuştur.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4543,7 +4543,7 @@
       "internalName": "vo_10400461_saw_death_01_10600_play",
       "english": "We'll keep the mission going, Director Han.",
       "turkish": "Göreve devam edeceğiz, Direktör Han.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4555,7 +4555,7 @@
       "internalName": "vo_10400395_escorting_payload_kunlunh_01_play",
       "english": "Not the vessel I would have chosen, but I suppose it will get the job done…",
       "turkish": "Seçtiğim bir gemi olmasa da, sanırım işimizi görecek…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4567,7 +4567,7 @@
       "internalName": "vo_10400138_ko_normal_07_play",
       "english": "That was simple.",
       "turkish": "Çok kolay oldu.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4579,7 +4579,7 @@
       "internalName": "vo_10400181_easter_egg_tokyo_02_play",
       "english": "Let's hope they're still using Tony's name for good after all these years.",
       "turkish": "Umarım bunca yıldan sonra Tony’nin adına leke sürmüyorlardır.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4591,7 +4591,7 @@
       "internalName": "vo_10400176_escorting_remind_tokyoh_01_play",
       "english": "We're moving too slowly. But we won't fail you, Zero.",
       "turkish": "Fazla yavaş ilerliyoruz ama seni yüzüstü bırakmayacağız Zero.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4603,7 +4603,7 @@
       "internalName": "vo_10400191_quick_q_charge_100_01_play",
       "english": "I've reached my full potential.",
       "turkish": "Tam potansiyelime ulaştım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4615,7 +4615,7 @@
       "internalName": "vo_10400029_ability_right_hit_02_play",
       "english": "Double the failure.",
       "turkish": "İki kat başarısızlık.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4627,7 +4627,7 @@
       "internalName": "vo_10400018_sp_single_wakanda_01_play",
       "english": "I thought the Wakanda on Earth was ahead of its time. But this…",
       "turkish": "Ben de Dünya’daki Wakanda, çağının ilerisinde sanırdım. Bu ise…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4639,7 +4639,7 @@
       "internalName": "vo_10400231_signal_vehicle_as_defend_02_play",
       "english": "We need to reduce their momentum.",
       "turkish": "İvmelerini azaltmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4651,7 +4651,7 @@
       "internalName": "vo_10400282_building_destroy_octopus_03_play",
       "english": "A waste of innocent sea life…",
       "turkish": "Masum bir deniz canlısına yazık oldu…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4663,7 +4663,7 @@
       "internalName": "vo_10400136_ko_assist_03_play",
       "english": "We've got to look out for one another.",
       "turkish": "Birbirimize göz kulak olmalıyız.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4675,7 +4675,7 @@
       "internalName": "vo_10400129_building_destroy_nest_02_play",
       "english": "The spider-bots have been exterminated.",
       "turkish": "Örümcek botlar imha edildi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4687,7 +4687,7 @@
       "internalName": "vo_10400437_entrance_02_10510_play",
       "english": "Be sure to save some of the heavy hitting for me, Ben!",
       "turkish": "Ben, en ağır darbelerin birkaçını bana da saklamayı unutma!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4699,7 +4699,7 @@
       "internalName": "vo_10400063_occupied_hint_attack_02_play",
       "english": "Together, we can accomplish anything.",
       "turkish": "Birlikte her şeyi başarabiliriz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4711,7 +4711,7 @@
       "internalName": "vo_10400432_sp_interact_newyorke_01_10610_a_play",
       "english": "Our fellow heroes have been using the Baxter Building as a safehouse between missions. You're welcome to do the same.",
       "turkish": "Diğer kahramanlarımız, Görevler arasında Baxter Binası'nı bir sığınak olarak kullanıyor. Siz de aynısını yapabilirsiniz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4723,7 +4723,7 @@
       "internalName": "vo_10400272_sp_interact_hydra_01_10220_d_play",
       "english": "Let's just hope two more don't grow back in their place.",
       "turkish": "Umalım da yerine iki dokunaç daha çıkmasın.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4735,7 +4735,7 @@
       "internalName": "vo_10400064_countdown_at_01_play",
       "english": "Time isn't working in our favor.",
       "turkish": "Zaman lehimize işlemiyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4747,7 +4747,7 @@
       "internalName": "vo_10400098_respawn_02_play",
       "english": "There's still more work to be done.",
       "turkish": "Daha yapacak çok iş var.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4759,7 +4759,7 @@
       "internalName": "vo_10400378_sp_interact_newyorke_01_10230_a_play",
       "english": "Rocket. I've been looking for you. I could use your unique skills when we're done here.",
       "turkish": "Rocket. Seni arıyordum. Buradaki işimiz bittiğinde, senin benzersiz yeteneklerine ihtiyacım olabilir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4771,7 +4771,7 @@
       "internalName": "vo_10400366_sp_interact_newyorke_01_10550_b_play",
       "english": "I know. I've been in my lab working around the clock to find a solution to this crisis.",
       "turkish": "Biliyorum. Bu krize bir çözüm bulmak için laboratuvarımda gece gündüz çalışıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4783,7 +4783,7 @@
       "internalName": "vo_10400170_escorting_payload_wakandah_01_play",
       "english": "T'Challa has put his faith in us.",
       "turkish": "T'Challa bize güveniyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4795,7 +4795,7 @@
       "internalName": "vo_10400313_escorting_remind_klyntarh_02_play",
       "english": "Knull's return is imminent… unless we act now!",
       "turkish": "Knull’un dönüşü an meselesi… Hemen harekete geçmeliyiz!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4807,7 +4807,7 @@
       "internalName": "vo_10400009_single_12_play",
       "english": "When scientific resolutions prove insufficient, giant fists do come in handy.",
       "turkish": "Bilimsel çözümler yetersiz kaldığında devasa yumruklar da işe yarıyor.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4819,7 +4819,7 @@
       "internalName": "vo_10400007_single_10_play",
       "english": "Everything eventually ends. I'm here to make sure this is not the day that it does.",
       "turkish": "Nihayetinde her şeyin sonu gelir. Sadece o gün bugün olmasın diye buradayım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4831,7 +4831,7 @@
       "internalName": "vo_10400458_saw_ko_01_10620_play",
       "english": "That armor worked like a charm, Devil.",
       "turkish": "O zırh tam bir mucize gibi işe yaradı, Şeytan.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4843,7 +4843,7 @@
       "internalName": "vo_10400346_interact_02_10280_a_play",
       "english": "I would be curious to see the data you've gathered on the Timestream Entanglement.",
       "turkish": "Zaman Akışı Karışıklığı hakkında topladığın verileri görmeyi çok isterim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4855,7 +4855,7 @@
       "internalName": "vo_10400460_saw_death_01_10630_play",
       "english": "Charles would have been proud, Scott.",
       "turkish": "Charles seninle gurur duyardı, Scott.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4867,7 +4867,7 @@
       "internalName": "vo_10400303_sp_single_museume_01_play",
       "english": "I wonder if the Collector has captured any of my interdimensional counterparts here…",
       "turkish": "Acaba Koleksiyoncu burada benim boyutlar arası benzerlerimden herhangi birini yakalamış mı...",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4879,7 +4879,7 @@
       "internalName": "vo_10400383_sp_emote_10470_1047001217_02_play",
       "english": "Problem solved!",
       "turkish": "Sorun çözüldü!",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4891,7 +4891,7 @@
       "internalName": "vo_10400164_escorting_payload_asgarde_01_play",
       "english": "Onward, to the World Tree.",
       "turkish": "Dünya Ağacı’na ilerleyelim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4903,7 +4903,7 @@
       "internalName": "vo_10400056_occupied_celebrate_01_play",
       "english": "We earned this.",
       "turkish": "Bunu hak ettik.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4915,7 +4915,7 @@
       "internalName": "vo_10400270_sp_interact_tokyo_01_10360_b_play",
       "english": "Not just Spider-Men. Each parallel universe contains its own variation on every single one of us. In fact, I've met hundreds of versions of myself.",
       "turkish": "Sadece Örümcek Adamlar değil. Her paralel evrende her birimizin kendi varyasyonu vardır. Hatta kendimden yüzlercesiyle tanıştım.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4927,7 +4927,7 @@
       "internalName": "vo_10400169_escorting_payload_tokyoh_02_play",
       "english": "I've done the math, Zero. There's no room for failure.",
       "turkish": "Hesaplamaları yaptım Zero. Başarısızlığa yer yok.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4939,7 +4939,7 @@
       "internalName": "vo_10400159_ko_terrain_02_play",
       "english": "Well, that changes things.",
       "turkish": "O hâlde işler değişir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4951,7 +4951,7 @@
       "internalName": "vo_10400386_sp_emote_10470_1047001217_05_play",
       "english": "Your failure was inevitable.",
       "turkish": "Yenilmen kaçınılmazdı.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4963,7 +4963,7 @@
       "internalName": "vo_10400374_sp_interact_newyorke_01_10420_a_play",
       "english": "That's quite the complex suit for such a young girl to operate. I'm impressed.",
       "turkish": "Bu kadar genç bir kızın bu kadar kompleks bir zırh kullanması beni etkiledi.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4975,7 +4975,7 @@
       "internalName": "vo_10400340_sp_interact_klyntarc_01_10490_a_play",
       "english": "If Knull has the means to slay a Celestial, we don't stand much of a chance.",
       "turkish": "Knull’un bir Semavi’yi katletmeye gücü varsa pek şansımız yok demektir.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4987,7 +4987,7 @@
       "internalName": "vo_10400141_ko_q_02_play",
       "english": "My hypothesis was correct. You failed.",
       "turkish": "Hipotezim doğruymuş. Başaramadın.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -4999,7 +4999,7 @@
       "internalName": "vo_10400198_quick_hp_normal_02_play",
       "english": "No need to worry about me.",
       "turkish": "Benim için endişe etmeyin.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5011,7 +5011,7 @@
       "internalName": "vo_10400301_sp_single_klyntarec_01_play",
       "english": "Knull could very well bring about the end of all that is. We can't allow that.",
       "turkish": "Knull, her şeyin sonunu getirebilir. Buna izin veremeyiz.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5023,7 +5023,7 @@
       "internalName": "vo_10400276_interact_01_10340_c_play",
       "english": "By my estimates, five to ten years.",
       "turkish": "Tahminlerimce beş ila on yıl.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5035,7 +5035,7 @@
       "internalName": "vo_10400016_sp_single_asgard_01_play",
       "english": "Even I have trouble fully grasping the majesty of this place.",
       "turkish": "Ben bile burasının görkemini tamamen kavramakta zorlanıyorum.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5047,7 +5047,7 @@
       "internalName": "vo_10400377_sp_interact_newyorke_01_10430_d_play",
       "english": "Indeed. Which is exactly why I think your… skills… are of better use to us elsewhere.",
       "turkish": "Kesinlikle. İşte bu yüzden de… Yeteneklerini… Başka işlerde değerlendirmeyi tercih ederim.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5059,7 +5059,7 @@
       "internalName": "vo_10400224_signal_area_unoccupied_01_play",
       "english": "This site is essential to our efforts.",
       "turkish": "Burası çalışmalarımız için çok önemli.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5071,7 +5071,7 @@
       "internalName": "vo_10400105_building_spotted_ankh_02_play",
       "english": "An ancient Egyptian artifact… Interesting…",
       "turkish": "Bir antik Mısır yadigârı… İlginç…",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
@@ -5083,12 +5083,12 @@
       "internalName": "vo_10400264_interact_01_10460_b_play",
       "english": "The same as always, Adam. A universal truth that can unite us all and bring an end to this madness.",
       "turkish": "Her zaman aradığım şey Adam. Hepimizi bir araya getirip bu çılgınlığa son verebilecek evrensel bir gerçek.",
-      "status": "Kayit Alindi",
+      "status": "Oyuna Eklendi",
       "voiceActor": "Ertuğrul Fırat",
       "date": null,
       "note": null
     }
   ],
-  "dataRevision": "79b6bc1bbebc61d4",
-  "generatedAt": "2026-09-16T03:05:29.940953Z"
+  "dataRevision": "243e68b56b277884",
+  "generatedAt": "2026-09-17T08:14:44.774306Z"
 }
