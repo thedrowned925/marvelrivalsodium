@@ -111,7 +111,7 @@ The homepage announcement panel reads `data/rivals-update.json` and refreshes it
 
 A newly observed build is published as `checking` immediately. Compatibility is never guessed automatically: add the build ID to `data/rivals-compatibility.json` after testing. Use `compatible` when the mod is confirmed safe. Use `affected` with an `action` such as **"Modu yedekleyin ve oyunu orijinal haline çevirin."** when the game update breaks or risks the mod. Pushing that compatibility file triggers an immediate refresh in addition to the scheduled watcher.
 
-Current seed: patch **20260924**, public build **25472560**, marked `compatible` because this update is confirmed not to affect the mod.
+Current seed: patch **20260924**, public build **25501035**, marked `compatible` because this update is confirmed not to affect the mod.
 
 ## Runtime release integrity
 
