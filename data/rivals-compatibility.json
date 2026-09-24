@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "builds": {
+    "25472560": {
+      "status": "compatible",
+      "patchVersion": "20260924",
+      "patchDate": "2026-09-24",
+      "title": "24 Eylül güncellemesi algılandı",
+      "message": "Bugünkü Marvel Rivals güncellemesi modu etkilemiyor. Oynamaya devam edebilirsiniz.",
+      "compatibilityNote": "Test edildi · Sorun yok",
+      "checkedAt": "2026-09-24T13:17:00Z",
+      "action": null
+    },
+    "25501035": {
+      "status": "compatible",
+      "patchVersion": "20260924",
+      "patchDate": "2026-09-24",
+      "title": "24 Eylül güncellemesi algılandı",
+      "message": "Bugünkü Marvel Rivals güncellemesi modu etkilemiyor. Oynamaya devam edebilirsiniz.",
+      "compatibilityNote": "Test edildi · Sorun yok",
+      "checkedAt": "2026-09-24T13:29:00Z",
+      "action": null
+    }
+  }
+}

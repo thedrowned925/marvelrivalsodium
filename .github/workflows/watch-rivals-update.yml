@@ -1,0 +1,58 @@
+name: Watch Marvel Rivals Steam build
+
+on:
+  schedule:
+    # GitHub Actions' shortest supported scheduled interval is 5 minutes.
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [steam-build-updated]
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/check_rivals_update.py'
+      - 'data/rivals-compatibility.json'
+      - '.github/workflows/watch-rivals-update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: odium-rivals-steam-watch
+  cancel-in-progress: true
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Check Marvel Rivals public build
+        run: python scripts/check_rivals_update.py
+
+      - name: Publish announcement when state changes
+        run: |
+          if git diff --quiet -- data/rivals-update.json; then
+            echo 'Rivals build/compatibility state is already current.'
+            exit 0
+          fi
+
+          git config user.name 'odium-rivals-watch'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/rivals-update.json
+          git commit -m 'status: update Marvel Rivals build alert [skip ci]'
+
+          # main may advance while this scheduled job is running.
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main

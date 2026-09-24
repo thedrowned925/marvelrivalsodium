@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "appId": 2767030,
+  "appName": "Marvel Rivals",
+  "branch": "public",
+  "buildId": "25501035",
+  "buildUpdatedAt": "2026-09-24T08:59:02Z",
+  "detectedAt": "2026-09-24T13:28:47Z",
+  "patchVersion": "20260924",
+  "patchDate": "2026-09-24",
+  "status": "compatible",
+  "title": "24 Eylül güncellemesi algılandı",
+  "message": "Bugünkü Marvel Rivals güncellemesi modu etkilemiyor. Oynamaya devam edebilirsiniz.",
+  "compatibilityNote": "Test edildi · Sorun yok",
+  "checkedAt": "2026-09-24T13:29:00Z",
+  "action": null,
+  "source": {
+    "label": "SteamDB",
+    "url": "https://steamdb.info/app/2767030/depots/"
+  }
+}

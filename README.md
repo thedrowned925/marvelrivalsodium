@@ -105,6 +105,14 @@ job remains a recovery fallback. See `scripts/LIVE_DATA.md` for the concrete
 integration hook and latency limits. The tour does not claim zero-delay Excel
 updates. Only one scheduled data workflow remains.
 
+## Marvel Rivals update watch
+
+The homepage announcement panel reads `data/rivals-update.json` and refreshes it every 30 seconds while the tab is visible. `.github/workflows/watch-rivals-update.yml` checks Marvel Rivals app **2767030** every five minutes and compares the Steam public branch build ID. SteamDB has no public API, so the workflow reads the same Steam app-info data through the public SteamCMD API and links the panel back to SteamDB for human verification.
+
+A newly observed build is published as `checking` immediately. Compatibility is never guessed automatically: add the build ID to `data/rivals-compatibility.json` after testing. Use `compatible` when the mod is confirmed safe. Use `affected` with an `action` such as **"Modu yedekleyin ve oyunu orijinal haline çevirin."** when the game update breaks or risks the mod. Pushing that compatibility file triggers an immediate refresh in addition to the scheduled watcher.
+
+Current seed: patch **20260924**, public build **25501035**, marked `compatible` because this update is confirmed not to affect the mod.
+
 ## Runtime release integrity
 
 Run `python scripts/version_runtime.py` after changing any page script or style,

@@ -1,0 +1,212 @@
+{
+  "characters": {
+    "black-panther": {
+      "path": "assets/video/managed/black-panther/fbce3738-931e-4f9c-b019-fe6c6bf733b2.mp4",
+      "duration": 7.76533333333333
+    },
+    "blade": {
+      "path": "assets/video/managed/blade/7de71ac2-14d3-46f1-8ce5-2c73560c2017.mp4",
+      "duration": 7.872
+    },
+    "emma-frost": {
+      "path": "assets/video/managed/emma-frost/166fc438-f7fa-4f59-becd-3e56a048f623.mp4",
+      "duration": 11.0933333333333
+    },
+    "groot": {
+      "path": "assets/video/managed/groot/2bd58575-9955-4d94-9070-19e917cbbe44.mp4",
+      "duration": 7.78666666666667
+    },
+    "iron-fist": {
+      "path": "assets/video/managed/iron-fist/944d8854-9d41-469e-b1a7-485928e9e357.mp4",
+      "duration": 9.024
+    },
+    "luna-snow": {
+      "path": "assets/video/managed/luna-snow/bf3da132-aafc-4fa7-b60f-43a5a6dd774d.mp4",
+      "duration": 49.227
+    },
+    "peni-parker": {
+      "path": "assets/video/managed/peni-parker/f19ae235-488a-4db9-9794-09c96181f294.mp4",
+      "duration": 7.91466666666667
+    },
+    "phoenix": {
+      "path": "assets/video/managed/phoenix/108370b7-5ad6-41c3-8215-5b8b8e67b83c.mp4",
+      "duration": 10.688
+    },
+    "rocket-raccoon": {
+      "path": "assets/video/managed/rocket-raccoon/5f53f4af-a777-4220-b4e8-3d4c54af6fe6.mp4",
+      "duration": 8.85333333333333
+    },
+    "spider-man": {
+      "path": "assets/video/managed/spider-man/2b5d7d7f-78db-4857-9364-f839ff777b30.mp4",
+      "duration": 8.10666666666667
+    },
+    "the-punisher": {
+      "path": "assets/video/managed/the-punisher/81bc33e1-9a51-4e3c-9fa7-5dca17d22ebf.mp4",
+      "duration": 8.23466666666667
+    },
+    "thor": {
+      "path": "assets/video/managed/thor/8be06762-e2ec-44de-88ac-192927ddb3c1.mp4",
+      "duration": 8.21333333333333
+    },
+    "human-torch": {
+      "path": "assets/video/managed/human-torch/b32c7153-e8ec-40ee-8896-550332d608bc.mp4",
+      "duration": 8.10666666666667
+    },
+    "the-thing": {
+      "path": "assets/video/managed/the-thing/6612b8ff-288e-4172-9fe8-9665ae2e0057.mp4",
+      "duration": 8.896
+    },
+    "magneto": {
+      "path": "assets/video/managed/magneto/3de3e87c-dec2-44f3-8036-ab3da8df2dd5.mp4",
+      "duration": 7.616
+    },
+    "cyclops": {
+      "path": "assets/video/managed/cyclops/343b1f68-9ae5-46ef-b261-af5c673c40f5.mp4",
+      "duration": 8.91733333333333
+    },
+    "adam-warlock": {
+      "path": "assets/video/managed/adam-warlock/92eae5c7-02c6-472a-89a7-deb13f9032c5.mp4",
+      "duration": 7.552
+    },
+    "venom": {
+      "path": "assets/video/managed/venom/bc1f313a-522a-4819-bf9f-488e33be0177.mp4",
+      "duration": 7.72266666666667
+    },
+    "angela": {
+      "path": "assets/video/managed/angela/89089daf-b4ae-4f62-890a-80514c77988c.mp4",
+      "duration": 10.5813333333333
+    },
+    "black-cat": {
+      "path": "assets/video/managed/black-cat/601485f2-4437-41ad-9371-c0bcc7e5fc58.mp4",
+      "duration": 8.53333333333333
+    },
+    "black-widow": {
+      "path": "assets/video/managed/black-widow/4502f358-9bf1-4fe0-bda9-b170b439ad4a.mp4",
+      "duration": 8.53333333333333
+    },
+    "hulk": {
+      "path": "assets/video/managed/hulk/ae864a4c-5d19-4600-beef-b24b9dc374f1.mp4",
+      "duration": 8.384
+    },
+    "capt-america": {
+      "path": "assets/video/managed/capt-america/59d657fc-657d-4bdb-abc9-305e20917d5b.mp4",
+      "duration": 7.53066666666667
+    },
+    "cloak": {
+      "path": "assets/video/managed/cloak/7fa9127e-5ddf-4541-a2b4-1f53fede1fb1.mp4",
+      "duration": 8.21333333333333
+    },
+    "dagger": {
+      "path": "assets/video/managed/dagger/605a3318-5c51-4577-857d-cff0d641b822.mp4",
+      "duration": 8.21333333333333
+    },
+    "deadpool": {
+      "path": "assets/video/managed/deadpool/7b96a356-c0f6-4ca0-8ec1-16e97139eb2f.mp4",
+      "duration": 10.688
+    },
+    "devil-dinosaur": {
+      "path": "assets/video/managed/devil-dinosaur/8bfbc63f-9811-4caf-9186-48bcf937672f.mp4",
+      "duration": 11.2213333333333
+    },
+    "dr-strange": {
+      "path": "assets/video/managed/dr-strange/a44bd69b-79ee-4136-97d8-9ac43fd14608.mp4",
+      "duration": 7.68
+    },
+    "elsa-bloodstone": {
+      "path": "assets/video/managed/elsa-bloodstone/f1bcf1fa-86a7-40f2-810d-fe6cf72c6acf.mp4",
+      "duration": 9.64266666666667
+    },
+    "gambit": {
+      "path": "assets/video/managed/gambit/4fd404fc-42a6-477f-ac1f-bbce08528560.mp4",
+      "duration": 10.5386666666667
+    },
+    "hawkeye": {
+      "path": "assets/video/managed/hawkeye/dce7d7dd-5486-4f45-9885-7e1716472f99.mp4",
+      "duration": 7.424
+    },
+    "hela": {
+      "path": "assets/video/managed/hela/96f722c1-65fc-462b-bb09-6a78831e34c1.mp4",
+      "duration": 7.872
+    },
+    "invisible-woman": {
+      "path": "assets/video/managed/invisible-woman/597d7478-5de7-45f5-a977-ab3d7694bd12.mp4",
+      "duration": 9.19466666666667
+    },
+    "iron-man": {
+      "path": "assets/video/managed/iron-man/acf73c65-9e0a-4380-9eda-d7bed18f1e02.mp4",
+      "duration": 8.10666666666667
+    },
+    "jeff": {
+      "path": "assets/video/managed/jeff/d9191a70-ab02-4014-99c6-3d2d6ff100c8.mp4",
+      "duration": 8.512
+    },
+    "jubilee": {
+      "path": "assets/video/managed/jubilee/9aa81a97-51c3-4265-a760-7eabf3e27572.mp4",
+      "duration": 9.216
+    },
+    "loki": {
+      "path": "assets/video/managed/loki/cfcf4733-2f6f-44ed-9e32-a5f1c67a63cd.mp4",
+      "duration": 8.40533333333333
+    },
+    "magik": {
+      "path": "assets/video/managed/magik/d87a233b-011e-4f80-8d84-277be3198c30.mp4",
+      "duration": 10.0053333333333
+    },
+    "mantis": {
+      "path": "assets/video/managed/mantis/3f6c03ed-77f6-44e8-a0d4-2686f9c3d789.mp4",
+      "duration": 7.12533333333333
+    },
+    "mr-fantastic": {
+      "path": "assets/video/managed/mr-fantastic/c2f3755b-9a62-4b96-bc16-8feb31bdb7a9.mp4",
+      "duration": 8.128
+    },
+    "moon-knight": {
+      "path": "assets/video/managed/moon-knight/48593d40-48e1-4cc1-856a-b83e39ee1464.mp4",
+      "duration": 7.72266666666667
+    },
+    "namor": {
+      "path": "assets/video/managed/namor/ff8ce86c-8b70-4c7e-b966-3338206e06fa.mp4",
+      "duration": 8.384
+    },
+    "psylocke": {
+      "path": "assets/video/managed/psylocke/52320972-42e9-4a3f-b5b5-ee8b4305e9f9.mp4",
+      "duration": 8.448
+    },
+    "rogue": {
+      "path": "assets/video/managed/rogue/45112adc-d881-4dc0-908f-de2b95c9c569.mp4",
+      "duration": 10.048
+    },
+    "scarlet-witch": {
+      "path": "assets/video/managed/scarlet-witch/75215b80-94c4-4226-9a31-f4a072b56af2.mp4",
+      "duration": 9.25866666666667
+    },
+    "squirrel-girl": {
+      "path": "assets/video/managed/squirrel-girl/7529c307-843c-4414-8532-56e805e51bfb.mp4",
+      "duration": 8.27733333333333
+    },
+    "star-lord": {
+      "path": "assets/video/managed/star-lord/0c017e79-15df-4abe-8dbd-eb66da20ae86.mp4",
+      "duration": 8.34133333333333
+    },
+    "storm": {
+      "path": "assets/video/managed/storm/6da92996-8565-4470-8536-2a219c32c3c0.mp4",
+      "duration": 8.192
+    },
+    "ultron": {
+      "path": "assets/video/managed/ultron/1e7ae82b-9aeb-41cf-9585-31677cb974e1.mp4",
+      "duration": 8.064
+    },
+    "white-fox": {
+      "path": "assets/video/managed/white-fox/fc89d4b7-ef88-4ca7-a9ae-01c335b4d9c2.mp4",
+      "duration": 10.304
+    },
+    "wolverine": {
+      "path": "assets/video/managed/wolverine/df0b8b74-d02b-41f6-ac40-778ba8537f3a.mp4",
+      "duration": 10.2613333333333
+    },
+    "galacta": {
+      "path": "assets/video/managed/galacta/c2e07e4c-e9d0-482f-9ab5-b62213b597a3.mp4",
+      "duration": 34.51733333333333
+    }
+  }
+}
