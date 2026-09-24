@@ -1,0 +1,24 @@
+.rivals-update-shell{padding:34px 0 8px}
+.rivals-update-card{position:relative;overflow:hidden;border-radius:22px;padding:22px 24px 20px;display:grid;grid-template-columns:1fr auto;gap:18px 28px;border-color:rgba(82,232,255,.22);background:linear-gradient(135deg,rgba(15,24,34,.9),rgba(28,16,38,.78))}
+.rivals-update-card:before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--cyan);box-shadow:0 0 28px var(--cyan)}
+.rivals-update-card:after{content:"";position:absolute;width:280px;height:280px;border-radius:50%;right:-110px;top:-150px;background:var(--cyan);filter:blur(90px);opacity:.08;pointer-events:none}
+.rivals-update-card[data-status="checking"]{border-color:rgba(255,138,61,.3)}.rivals-update-card[data-status="checking"]:before{background:var(--orange);box-shadow:0 0 28px var(--orange)}.rivals-update-card[data-status="checking"]:after{background:var(--orange)}
+.rivals-update-card[data-status="affected"]{border-color:rgba(255,61,99,.38);background:linear-gradient(135deg,rgba(40,13,24,.94),rgba(28,11,22,.84))}.rivals-update-card[data-status="affected"]:before{background:#ff3d63;box-shadow:0 0 32px rgba(255,61,99,.9)}.rivals-update-card[data-status="affected"]:after{background:#ff3d63;opacity:.12}
+.rivals-update-statusline{grid-column:1/-1;display:flex;align-items:center;gap:10px;min-width:0}
+.rivals-update-badge{display:inline-flex;align-items:center;gap:8px;min-height:28px;padding:0 10px;border-radius:999px;background:rgba(82,232,255,.08);border:1px solid rgba(82,232,255,.24);font:700 9px Oswald;letter-spacing:.15em;color:#dffcff;white-space:nowrap}
+.rivals-update-badge i{width:7px;height:7px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px var(--cyan)}
+[data-status="checking"] .rivals-update-badge{background:rgba(255,138,61,.08);border-color:rgba(255,138,61,.26);color:#ffe4d2}[data-status="checking"] .rivals-update-badge i{background:var(--orange);box-shadow:0 0 12px var(--orange)}
+[data-status="affected"] .rivals-update-badge{background:rgba(255,61,99,.1);border-color:rgba(255,61,99,.35);color:#ffe1e9}[data-status="affected"] .rivals-update-badge i{background:#ff3d63;box-shadow:0 0 12px #ff3d63;animation:livePulse 1s infinite}
+.rivals-update-build{font:600 9px Oswald;letter-spacing:.12em;color:#7d8997;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rivals-update-copy{max-width:780px;position:relative;z-index:1}.rivals-update-copy .kicker{display:block;margin-bottom:7px}.rivals-update-copy h2{font-size:clamp(29px,4vw,48px);margin:0;line-height:.95}.rivals-update-copy h2 em{font-style:normal;color:var(--cyan);-webkit-text-stroke:0}
+[data-status="checking"] .rivals-update-copy h2 em{color:var(--orange)}[data-status="affected"] .rivals-update-copy h2 em{color:#ff6a85}
+.rivals-update-copy p{max-width:760px;margin:12px 0 0;color:#b8b0c3;font-size:12px;line-height:1.7}
+.rivals-update-meta{position:relative;z-index:1;display:grid;grid-template-columns:repeat(2,minmax(130px,1fr));gap:10px;align-self:end;min-width:330px}
+.rivals-update-meta>div,.rivals-update-link{border:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.03);border-radius:13px;padding:11px 12px}
+.rivals-update-meta small{display:block;font:500 8px Oswald;letter-spacing:.14em;color:#746f7e;margin-bottom:5px}.rivals-update-meta strong{display:block;font:600 10px Inter;color:#e8e4ed}
+.rivals-update-link{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;font:700 10px Oswald;letter-spacing:.12em;color:#baf7ff;transition:border-color .2s,transform .2s}.rivals-update-link:hover{border-color:rgba(82,232,255,.32);transform:translateY(-1px)}
+.rivals-update-action{grid-column:1/-1;margin-top:-3px;padding:12px 14px;border-radius:13px;border:1px solid rgba(255,61,99,.38);background:rgba(255,61,99,.1);font:700 11px/1.55 Inter;color:#ffe8ee}
+.rivals-update-action[hidden]{display:none}
+.rivals-update-action b{color:#ff8aa0}
+@media(max-width:820px){.rivals-update-shell{padding-top:24px}.rivals-update-card{grid-template-columns:1fr;padding:18px;gap:15px}.rivals-update-meta{min-width:0;grid-template-columns:1fr 1fr}.rivals-update-copy h2{font-size:34px}}
+@media(max-width:520px){.rivals-update-statusline{align-items:flex-start;flex-wrap:wrap}.rivals-update-meta{grid-template-columns:1fr}.rivals-update-link{grid-column:auto}.rivals-update-copy h2{font-size:30px}.rivals-update-copy p{font-size:11px}}
