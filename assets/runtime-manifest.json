@@ -230,5 +230,25 @@
         "url": "admin.a20e04d2412a.js"
       }
     ]
+  },
+  "rivals-update.css": {
+    "url": "rivals-update.6671b71c6bdf.css",
+    "sha256": "6671b71c6bdf4d862d81d32b55116ad4a2b67ae8869d8e31278d993b47c36392",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "rivals-update.6671b71c6bdf.css"
+      }
+    ]
+  },
+  "rivals-update.js": {
+    "url": "rivals-update.f2b39d748715.js",
+    "sha256": "f2b39d748715e10ad5e47b7f7f800a6772cd78ed68c32f011b49fe1465d0b726",
+    "references": [
+      {
+        "page": "index.html",
+        "url": "rivals-update.f2b39d748715.js"
+      }
+    ]
   }
 }
