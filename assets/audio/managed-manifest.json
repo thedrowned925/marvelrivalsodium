@@ -8,10 +8,6 @@
       "hover": "assets/audio/managed/rocket-raccoon/hover-4501e43271cf110fe488d103f31ded44cb56b5dd5197bea32933f48cca5628f3.wav",
       "detail": "assets/audio/managed/rocket-raccoon/detail-9d18bd5b00bd510d577f95f02644a05e8c75949be5162b895485763748d5520e.wav"
     },
-    "the-punisher": {
-      "hover": "assets/audio/managed/the-punisher/hover-62ae4e423f01f4b5ab09be8175b34f419ceb1f50b0dc086cc90999ec365713d8.wav",
-      "detail": null
-    },
     "emma-frost": {
       "hover": "assets/audio/managed/emma-frost/hover-1d620c8e503d75b7ac8f31dae2937597e431854b4f79728bdbd1676a87cb942d.wav",
       "detail": "assets/audio/managed/emma-frost/detail-be6ce27e574148f91772d61f222eb043039dd6090976683a1713e67f634a31cc.wav"
@@ -31,6 +27,14 @@
     "white-fox": {
       "hover": "assets/audio/managed/white-fox/hover-8e4a99fc93b9053c8e7a506dbdcf879090288772e47b08ac752b3b4cc117a333.wav",
       "detail": "assets/audio/managed/white-fox/detail-2366e1c831663b7812ce165f518f4339be05e5181badfd066ee6275b48ba4c5b.wav"
+    },
+    "the-punisher": {
+      "hover": "assets/audio/managed/the-punisher/hover-62ae4e423f01f4b5ab09be8175b34f419ceb1f50b0dc086cc90999ec365713d8.wav",
+      "detail": null
+    },
+    "mr-fantastic": {
+      "hover": "assets/audio/managed/mr-fantastic/hover-8429668d3fda5561dda297f92d9ade3fad32313272584dca4a509c404c87b437.wav",
+      "detail": "assets/audio/managed/mr-fantastic/detail-ed338759ebdfc48421deca336b036d29dde778d2ad872b59c45279cfab5eac6c.wav"
     }
   }
 }
